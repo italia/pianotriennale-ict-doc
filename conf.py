@@ -3,7 +3,7 @@
 
 # -- PROJECT Variables ----------------------------------------------------
 settings_project_name = 'Piano triennale per l\'informatica nella PA<br />2017 - 2019'
-settings_copyright_copyleft = 'CC-BY 3.0 - Agenzia per l’Italia Digitale'
+settings_copyright_copyleft = 'CC-BY 3.0 - Agenzia per l\'Italia Digitale'
 settings_editor_name = 'AgID - Agenzia per l\'Italia Digitale'
 settings_doc_version = '1'
 settings_doc_release = '1.0'
@@ -84,7 +84,7 @@ if not on_rtd:  # only import and set the theme if we're building docs locally
     html_theme = 'sphinx_italia_theme'
     html_theme_path = ["_themes", ]
     html_context = {
-        'reference_project': 'Piano Triennale per l\'Informatica nella Pubblica Amministrazione',
+        'reference_project': 'Piano Triennale ICT 2017 - 2019',
         'reference_project_url': 'https://pianotriennale-ict.italia.it/',
     }
 else:
@@ -93,7 +93,7 @@ else:
         'css_files': [
             '_static/css/theme.css',
         ],
-        'reference_project': 'Piano Triennale per l\'Informatica nella Pubblica Amministrazione',
+        'reference_project': 'Piano Triennale ICT 2017 - 2019',
         'reference_project_url': 'https://pianotriennale-ict.italia.it/',
     }
 
