@@ -113,7 +113,9 @@ Pubbliche amministrazioni locali e centrali, anche attraverso un
 processo di rilevazione di dati ed informazioni sia per la condivisione
 dell’impostazione scelta e dei principali contenuti del Modello
 strategico sia per effettuare una prima ricognizione sul campo delle
-iniziative e dei costi ICT. Sono state coinvolte:
+iniziative e dei costi ICT.
+
+Sono state coinvolte:
 
 -  le Pubbliche amministrazioni centrali, in particolare i ministeri
    comprensivi di tutti gli enti vigilati;
@@ -128,8 +130,8 @@ iniziative e dei costi ICT. Sono state coinvolte:
 
 -  l’ANCI.
 
-   Sono inoltre stati resi partecipi del processo altri stakeholder
-   chiave, quali:
+Sono inoltre stati resi partecipi del processo altri stakeholder 
+chiave, quali:
 
 -  il Commissario alla spending review;
 
@@ -323,7 +325,6 @@ Il resto del documento è strutturato come segue:
       tecnologie digitali.
 
 -  Parte seconda - Componenti del Modello strategico di evoluzione
-
    del sistema informativo della PA:
 
    -  i capitoli dal 3 al 10 presentano le componenti del Modello
