@@ -4470,10 +4470,13 @@ input[type="radio"][disabled], input[type="checkbox"][disabled] {
 
 /* RESPONSIVE TABLES */
 .wy-table-responsive {
-  margin-bottom: 24px;
   max-width: 100%;
   overflow: auto;
 }
+.wy-table-responsive:last-child {
+  margin-bottom: 24px;
+}
+
 .wy-table-responsive table {
   margin-bottom: 0 !important;
 }
