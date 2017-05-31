@@ -150,7 +150,7 @@ interesse nazionale (cfr. Glossario):
    (BDNCP) - Titolare: ANAC;
 
 -  il `Casellario
-   giudiziale <https://certificaticasellario.giustizia.it/sac/>`__\  [31]_-
+   giudiziale <https://certificaticasellario.giustizia.it/sac/>`__\  [31]_ -
    Titolare: Ministero della Giustizia;
 
 -  il `Registro delle
@@ -181,7 +181,7 @@ contesto normativo del CAD e dal decreto legge 18 ottobre 2012, n.
 
 -  l’\ `Indice nazionale degli indirizzi di posta elettronica
    certificata di professionisti e
-   imprese <https://www.inipec.gov.it>`__\  [35]_(INI-PEC) - Titolare:
+   imprese <https://www.inipec.gov.it>`__\  [35]_ (INI-PEC) - Titolare:
    Ministero dello Sviluppo Economico.
 
 L’art. 60 del CAD assegna all’AgID la possibilità di ampliare il
@@ -245,7 +245,7 @@ Obiettivi strategici
    con interfacce self service per i cittadini.
 
 -  Procedere al popolamento dei dati su
-   `IPA <http://www.indicepa.gov.it>`__\  [41]_e
+   `IPA <http://www.indicepa.gov.it>`__\  [41]_ e
    `INI-PEC <http://www.inipec.gov.it>`__\  [42]_, come documentato
    sui relativi siti.
 
