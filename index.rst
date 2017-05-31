@@ -1,4 +1,4 @@
-PIANO TRIENNALE PER L’INFORMATICA NELLA PUBBLICA AMMINISTRAZIONE 2017 - 2019
+PIANO TRIENNALE PER L'INFORMATICA NELLA PUBBLICA AMMINISTRAZIONE 2017 - 2019
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 .. toctree::
