@@ -86,7 +86,7 @@ membri sono vincolati a realizzare.
 
 Di seguito si riepilogano i principali documenti di indirizzo dell’UE:
 
--  **Comunicazione “\ *Europe 2020*\ ”, COM (2010) 2020, 3.3.2010**
+-  **Comunicazione “\ Europe 2020\ ”, COM (2010) 2020, 3.3.2010**
 
    Europa 2020 è la strategia decennale dell'Unione europea per la crescita
    e l’occupazione. Varata nel 2010 per creare le condizioni favorevoli a
@@ -95,21 +95,21 @@ Di seguito si riepilogano i principali documenti di indirizzo dell’UE:
    annuale di coordinamento delle politiche economiche e di bilancio dei
    paesi dell'UE.
 
--  **Comunicazione “\ *A Digital Agenda for Europe*\ ”, COM (2010) 0245, 19.5.2010**
+-  **Comunicazione “\ A Digital Agenda for Europe\ ”, COM (2010) 0245, 19.5.2010**
 
    L’Agenda digitale, presentata nel 2010 dalla Commissione europea, è una
    delle sette iniziative faro della strategia Europa 2020. L’Agenda si
    propone di sfruttare al meglio il potenziale delle tecnologie ICT per
    favorire l’innovazione, la crescita economica e il progresso.
 
--  **Comunicazione “\ *A Digital Single Market Strategy for Europe*\ ”,
+-  **Comunicazione “\ A Digital Single Market Strategy for Europe\ ”,
    COM (2015) 192, 6.5.2015**
 
    Attraverso tale Comunicazione, la Commissione europea si propone di
    rimuovere tutte le barriere che impediscono la realizzazione di un
    mercato unico di beni e servizi digitali [4]_.
 
--  **Comunicazione “\ *EU eGovernment Action Plan 2016-2020*\ ”, COM
+-  **Comunicazione “\ EU eGovernment Action Plan 2016-2020\ ”, COM
    (2016) 179, 19.4.2016**
 
    Il nuovo Piano di azione per l’eGovernment 2016-2020 ha rilevanza sotto
@@ -117,10 +117,10 @@ Di seguito si riepilogano i principali documenti di indirizzo dell’UE:
    che tutte le amministrazioni di tutti gli Stati membri devono porre a
    fondamento delle proprie politiche interne:
 
--  **digitale per definizione (*digital by default*)**: le Pubbliche
+-  **digitale per definizione (digital by default)**: le Pubbliche
    amministrazioni devono fornire servizi digitali come opzione predefinita;
 
--  **principio "una tantum" (*once only principle*)**: le Pubbliche
+-  **principio "una tantum" (once only principle)**: le Pubbliche
    amministrazioni devono evitare di chiedere ai cittadini e alle
    imprese informazioni già fornite;
 
@@ -153,16 +153,16 @@ Di seguito si riepilogano i principali documenti di indirizzo dell’UE:
    base e rendere le qualifiche più comprensibili, favorire un più facile
    spostamento dei lavoratori a all'interno dell'UE.
 
--  **Regolamento 2016/679/UE “\ *General Data Protection*\ ” (*on the
+-  **Regolamento 2016/679/UE “\ General Data Protection\ ” (on the
    protection of natural persons with regard to the processing of
-   personal data and on the free movement of such data*), 27.4.2016**
+   personal data and on the free movement of such data), 27.4.2016**
 
    Il Regolamento europeo sulla Protezione dei dati personali stabilisce
    norme relative alla protezione delle persone fisiche con riguardo al
    trattamento dei dati personali e alla circolazione di tali dati nel
    rispetto dei diritti e delle libertà fondamentali.
 
--  **Comunicazione “\ *Towards a thriving data-driven economy*\ ”, COM
+-  **Comunicazione “\ Towards a thriving data-driven economy\ ”, COM
    (2014) 442, 2.7.2014**
 
    Nella Comunicazione “Verso una florida economia basata sui dati” la
@@ -176,7 +176,7 @@ Di seguito si riepilogano i principali documenti di indirizzo dell’UE:
    fine di sviluppare beni e servizi migliori per individui e
    organizzazioni, incluse le PMI.
 
--  **Comunicazione “\ *Open Data*\ ”, COM (2011) 882, 12.12.2011**
+-  **Comunicazione “\ Open Data\ ”, COM (2011) 882, 12.12.2011**
 
    Nella Comunicazione sui dati aperti, ossia quei dati resi liberamente
    accessibili a tutti per il riutilizzo a fini commerciali e non, la
