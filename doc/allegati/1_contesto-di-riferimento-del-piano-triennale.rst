@@ -86,138 +86,136 @@ membri sono vincolati a realizzare.
 
 Di seguito si riepilogano i principali documenti di indirizzo dell’UE:
 
--  Comunicazione “\ *Europe 2020*\ ”, COM (2010) 2020, 3.3.2010
+-  **Comunicazione “\ Europe 2020\ ”, COM (2010) 2020, 3.3.2010**
 
-Europa 2020 è la strategia decennale dell'Unione europea per la crescita
-e l’occupazione. Varata nel 2010 per creare le condizioni favorevoli a
-una crescita intelligente, sostenibile e inclusiva, la strategia viene
-attuata e controllata nell'ambito del semestre europeo e del ciclo
-annuale di coordinamento delle politiche economiche e di bilancio dei
-paesi dell'UE.
+   Europa 2020 è la strategia decennale dell'Unione europea per la crescita
+   e l’occupazione. Varata nel 2010 per creare le condizioni favorevoli a
+   una crescita intelligente, sostenibile e inclusiva, la strategia viene
+   attuata e controllata nell'ambito del semestre europeo e del ciclo
+   annuale di coordinamento delle politiche economiche e di bilancio dei
+   paesi dell'UE.
 
--  Comunicazione “\ *A Digital Agenda for Europe*\ ”, COM (2010) 0245,
-   19.5.2010
+-  **Comunicazione “\ A Digital Agenda for Europe\ ”, COM (2010) 0245, 19.5.2010**
 
-L’Agenda digitale, presentata nel 2010 dalla Commissione europea, è una
-delle sette iniziative faro della strategia Europa 2020. L’Agenda si
-propone di sfruttare al meglio il potenziale delle tecnologie ICT per
-favorire l’innovazione, la crescita economica e il progresso.
+   L’Agenda digitale, presentata nel 2010 dalla Commissione europea, è una
+   delle sette iniziative faro della strategia Europa 2020. L’Agenda si
+   propone di sfruttare al meglio il potenziale delle tecnologie ICT per
+   favorire l’innovazione, la crescita economica e il progresso.
 
--  Comunicazione “\ *A Digital Single Market Strategy for Europe*\ ”,
-   COM (2015) 192, 6.5.2015
+-  **Comunicazione “\ A Digital Single Market Strategy for Europe\ ”,
+   COM (2015) 192, 6.5.2015**
 
-Attraverso tale Comunicazione, la Commissione europea si propone di
-rimuovere tutte le barriere che impediscono la realizzazione di un
-mercato unico di beni e servizi digitali [4]_.
+   Attraverso tale Comunicazione, la Commissione europea si propone di
+   rimuovere tutte le barriere che impediscono la realizzazione di un
+   mercato unico di beni e servizi digitali [4]_.
 
--  Comunicazione “\ *EU eGovernment Action Plan 2016-2020*\ ”, COM
-   (2016) 179, 19.4.2016
+-  **Comunicazione “\ EU eGovernment Action Plan 2016-2020\ ”, COM
+   (2016) 179, 19.4.2016**
 
-Il nuovo Piano di azione per l’eGovernment 2016-2020 ha rilevanza sotto
-il profilo politico-strategico, in quanto enuncia alcuni principi base
-che tutte le amministrazioni di tutti gli Stati membri devono porre a
-fondamento delle proprie politiche interne:
+   Il nuovo Piano di azione per l’eGovernment 2016-2020 ha rilevanza sotto
+   il profilo politico-strategico, in quanto enuncia alcuni principi base
+   che tutte le amministrazioni di tutti gli Stati membri devono porre a
+   fondamento delle proprie politiche interne:
 
--  digitale per definizione (*digital by default*): le Pubbliche
-       amministrazioni devono fornire servizi digitali come opzione
-       predefinita;
+-  **digitale per definizione (digital by default)**: le Pubbliche
+   amministrazioni devono fornire servizi digitali come opzione predefinita;
 
--  principio "una tantum" (*once only principle*): le Pubbliche
-       amministrazioni devono evitare di chiedere ai cittadini e alle
-       imprese informazioni già fornite;
+-  **principio "una tantum" (once only principle)**: le Pubbliche
+   amministrazioni devono evitare di chiedere ai cittadini e alle
+   imprese informazioni già fornite;
 
--  inclusività e accessibilità: le Pubbliche amministrazioni devono
-       progettare servizi pubblici digitali che siano per definizione
-       inclusivi e che vengano incontro alle diverse esigenze delle
-       persone, ad esempio degli anziani e delle persone con disabilità;
+-  **inclusività e accessibilità**: le Pubbliche amministrazioni devono
+   progettare servizi pubblici digitali che siano per definizione
+   inclusivi e che vengano incontro alle diverse esigenze delle
+   persone, ad esempio degli anziani e delle persone con disabilità;
 
--  apertura e trasparenza dei dati e dei processi amministrativi;
+-  **apertura e trasparenza dei dati e dei processi amministrativi**;
 
--  transfrontaliero per definizione: le pubbliche amministrazioni devono
-       rendere disponibili i servizi pubblici digitali rilevanti a
-       livello transfrontaliero;
+-  **transfrontaliero per definizione**: le pubbliche amministrazioni devono
+   rendere disponibili i servizi pubblici digitali rilevanti a
+   livello transfrontaliero;
 
--  interoperabile per definizione: i servizi pubblici devono essere
-       progettati in modo da funzionare in modalità integrata e senza
-       interruzioni in tutto il mercato unico;
+-  **interoperabile per definizione**: i servizi pubblici devono essere
+   progettati in modo da funzionare in modalità integrata e senza
+   interruzioni in tutto il mercato unico;
 
--  fiducia e sicurezza: sin dalla fase di progettazione devono essere
-       integrati i profili relativi alla protezione dei dati personali,
-       tutela della vita privata e sicurezza informatica.
+-  **fiducia e sicurezza**: sin dalla fase di progettazione devono essere
+   integrati i profili relativi alla protezione dei dati personali,
+   tutela della vita privata e sicurezza informatica.
 
--  Comunicazione “A New Skills Agenda for Europe”, COM (2016) 381,
-   10.6.2016
+-  **Comunicazione “A New Skills Agenda for Europe”, COM (2016) 381,
+   10.6.2016**
 
-La Nuova agenda europea per le competenze ha il principale obiettivo di
-migliorare la qualità e la pertinenza della formazione di competenze, al
-fine di stare al passo con la rapida evoluzione dei fabbisogni del
-mercato del lavoro, dotare tutti di un insieme minimo di competenze di
-base e rendere le qualifiche più comprensibili, favorire un più facile
-spostamento dei lavoratori a all'interno dell'UE.
+   La Nuova agenda europea per le competenze ha il principale obiettivo di
+   migliorare la qualità e la pertinenza della formazione di competenze, al
+   fine di stare al passo con la rapida evoluzione dei fabbisogni del
+   mercato del lavoro, dotare tutti di un insieme minimo di competenze di
+   base e rendere le qualifiche più comprensibili, favorire un più facile
+   spostamento dei lavoratori a all'interno dell'UE.
 
--  Regolamento 2016/679/UE “\ *General Data Protection*\ ” (*on the
+-  **Regolamento 2016/679/UE “\ General Data Protection\ ” (on the
    protection of natural persons with regard to the processing of
-   personal data and on the free movement of such data*), 27.4.2016
+   personal data and on the free movement of such data), 27.4.2016**
 
-Il Regolamento europeo sulla Protezione dei dati personali stabilisce
-norme relative alla protezione delle persone fisiche con riguardo al
-trattamento dei dati personali e alla circolazione di tali dati nel
-rispetto dei diritti e delle libertà fondamentali.
+   Il Regolamento europeo sulla Protezione dei dati personali stabilisce
+   norme relative alla protezione delle persone fisiche con riguardo al
+   trattamento dei dati personali e alla circolazione di tali dati nel
+   rispetto dei diritti e delle libertà fondamentali.
 
--  Comunicazione “\ *Towards a thriving data-driven economy*\ ”, COM
-   (2014) 442, 2.7.2014
+-  **Comunicazione “\ Towards a thriving data-driven economy\ ”, COM
+   (2014) 442, 2.7.2014**
 
-Nella Comunicazione “Verso una florida economia basata sui dati” la
-Commissione europea si prefigge l’obiettivo di creare un adeguato quadro
-generale per il mercato unico dei big data (le grandi quantità di dati
-prodotti a grande velocità da numerosi tipi di fonti) e del *cloud
-computing*. La Commissione spinge verso la realizzazione di una
-“economia dell’innovazione guidata dai dati", facendo riferimento alla
-capacità delle imprese e degli organismi pubblici di utilizzare le
-informazioni derivanti da una migliore analisi dei dati raccolti, al
-fine di sviluppare beni e servizi migliori per individui e
-organizzazioni, incluse le PMI.
+   Nella Comunicazione “Verso una florida economia basata sui dati” la
+   Commissione europea si prefigge l’obiettivo di creare un adeguato quadro
+   generale per il mercato unico dei big data (le grandi quantità di dati
+   prodotti a grande velocità da numerosi tipi di fonti) e del *cloud
+   computing*. La Commissione spinge verso la realizzazione di una
+   “economia dell’innovazione guidata dai dati", facendo riferimento alla
+   capacità delle imprese e degli organismi pubblici di utilizzare le
+   informazioni derivanti da una migliore analisi dei dati raccolti, al
+   fine di sviluppare beni e servizi migliori per individui e
+   organizzazioni, incluse le PMI.
 
--  Comunicazione “\ *Open Data*\ ”, COM (2011) 882, 12.12.2011
+-  **Comunicazione “\ Open Data\ ”, COM (2011) 882, 12.12.2011**
 
-Nella Comunicazione sui dati aperti, ossia quei dati resi liberamente
-accessibili a tutti per il riutilizzo a fini commerciali e non, la
-Commissione europea presenta un pacchetto di tre tipologie d’intervento,
-finalizzate a superare gli ostacoli e la frammentazione che ancora
-esistono nell’Unione europea attraverso:
+   Nella Comunicazione sui dati aperti, ossia quei dati resi liberamente
+   accessibili a tutti per il riutilizzo a fini commerciali e non, la
+   Commissione europea presenta un pacchetto di tre tipologie d’intervento,
+   finalizzate a superare gli ostacoli e la frammentazione che ancora
+   esistono nell’Unione europea attraverso:
 
--  l’adeguamento del quadro normativo per il riutilizzo dei dati;
+-  **l’adeguamento del quadro normativo per il riutilizzo dei dati;**
 
--  la mobilitazione degli strumenti finanziari a sostegno dei “dati
-       aperti” e l’attuazione di azioni volte alla creazione di portali
-       di dati europei;
+-  **la mobilitazione degli strumenti finanziari a sostegno dei “dati
+   aperti” e l’attuazione di azioni volte alla creazione di portali
+   di dati europei**;
 
--  il coordinamento e la condivisione di esperienze tra gli Stati
-       membri.
+-  **il coordinamento e la condivisione di esperienze tra gli Stati
+   membri.**
 
--  Direttiva 2013/37/UE del Parlamento europeo e del Consiglio del 26
+-  **Direttiva 2013/37/UE del Parlamento europeo e del Consiglio del 26
    giugno 2013 recante modifiche alla Direttiva 2003/98/EC sul riuso
-   delle informazioni nel settore pubblico.
+   delle informazioni nel settore pubblico.**
 
-La direttiva 2013/37/UE interviene in materia di riutilizzo
-dell’informazione nel settore pubblico, attraverso la modifica della
-direttiva 2003/98/CE, la c.d. direttiva PSI (Public Sector Information),
-ed è finalizzata a favorire il riutilizzo dei dati delle pubbliche
-amministrazioni dell'Unione europea.
-
-Vi si rende obbligatorio per gli enti pubblici di rendere riutilizzabili
-tutte le informazioni in loro possesso, per scopi commerciali e non
-commerciali, a condizione che le informazioni non siano escluse dal
-diritto di accesso ai sensi del diritto nazionale e in conformità alla
-normativa sulla protezione dei dati.
-
-Il riutilizzo delle informazioni del settore pubblico costituisce da
-tempo una delle priorità delle politiche dell’Unione europea che si
-propone di dare un forte impulso alla già significativa crescita del
-settore che si occupa della trasformazione dei dati grezzi che sono alla
-base dello sviluppo di molte applicazioni quali mappe, informazioni in
-tempo reale sul traffico e le condizioni meteo, strumenti di
-comparazione dei prezzi, ecc. [5]_.
+   La direttiva 2013/37/UE interviene in materia di riutilizzo
+   dell’informazione nel settore pubblico, attraverso la modifica della
+   direttiva 2003/98/CE, la c.d. direttiva PSI (Public Sector Information),
+   ed è finalizzata a favorire il riutilizzo dei dati delle pubbliche
+   amministrazioni dell'Unione europea.
+   
+   Vi si rende obbligatorio per gli enti pubblici di rendere riutilizzabili
+   tutte le informazioni in loro possesso, per scopi commerciali e non
+   commerciali, a condizione che le informazioni non siano escluse dal
+   diritto di accesso ai sensi del diritto nazionale e in conformità alla
+   normativa sulla protezione dei dati.
+   
+   Il riutilizzo delle informazioni del settore pubblico costituisce da
+   tempo una delle priorità delle politiche dell’Unione europea che si
+   propone di dare un forte impulso alla già significativa crescita del
+   settore che si occupa della trasformazione dei dati grezzi che sono alla
+   base dello sviluppo di molte applicazioni quali mappe, informazioni in
+   tempo reale sul traffico e le condizioni meteo, strumenti di
+   comparazione dei prezzi, ecc. [5]_.
 
 3. Lo scenario macroeconomico europeo 
 -------------------------------------
