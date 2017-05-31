@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = 'Piano triennale per l\'informatica nella PA 2017 - 2019'
+settings_project_name = 'Piano triennale per l\'informatica nella PA<br />2017 - 2019'
 settings_copyright_year = '2017'
 settings_copyright_name = 'AgID - Agenzia per l\'Italia Digitale'
 settings_doc_version = '1'
@@ -100,7 +100,7 @@ else:
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
-#html_title = None
+html_title = "Piano Triennale 2017 - 2019"
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #html_short_title = None
