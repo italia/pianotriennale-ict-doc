@@ -3,8 +3,8 @@
 
 # -- PROJECT Variables ----------------------------------------------------
 settings_project_name = 'Piano triennale per l\'informatica nella PA<br />2017 - 2019'
-settings_copyright_year = '2017'
-settings_copyright_name = 'AgID - Agenzia per l\'Italia Digitale'
+settings_copyright_copyleft = 'CC-BY 3.0 - Agenzia per l’Italia Digitale'
+settings_editor_name = 'AgID - Agenzia per l\'Italia Digitale'
 settings_doc_version = '1'
 settings_doc_release = '1.0'
 settings_basename = 'PianoTriennale'
@@ -41,7 +41,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = settings_project_name
-copyright = settings_copyright_year + ', ' + settings_copyright_name
+copyright = settings_copyright_copyleft
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -84,8 +84,8 @@ if not on_rtd:  # only import and set the theme if we're building docs locally
     html_theme = 'sphinx_italia_theme'
     html_theme_path = ["_themes", ]
     html_context = {
-        'reference_project': 'Trasformazione digitale',
-        'reference_project_url': 'https://trasformazionedigitale.italia.it/',
+        'reference_project': 'Piano Triennale per l\'Informatica nella Pubblica Amministrazione',
+        'reference_project_url': 'https://pianotriennale-ict.italia.it/',
     }
 else:
     # Override default css to get a larger width for ReadTheDoc build
@@ -93,14 +93,14 @@ else:
         'css_files': [
             '_static/css/theme.css',
         ],
-        'reference_project': 'Trasformazione digitale',
-        'reference_project_url': 'https://trasformazionedigitale.italia.it/',
+        'reference_project': 'Piano Triennale per l\'Informatica nella Pubblica Amministrazione',
+        'reference_project_url': 'https://pianotriennale-ict.italia.it/',
     }
 
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
-html_title = "Piano Triennale 2017 - 2019"
+html_title = "Piano Triennale ICT 2017 - 2019"
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #html_short_title = None
@@ -187,7 +187,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
   ('index', settings_file_name + '.tex', settings_project_name,
-   settings_copyright_year + ', ' + settings_copyright_name, 'manual'),
+   settings_copyright_copyleft, 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -217,7 +217,7 @@ latex_documents = [
 # (source start file, name, description, authors, manual section).
 man_pages = [
     ('index', settings_file_name, settings_project_name,
-     [settings_copyright_name], 1)
+     [settings_editor_name], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -231,6 +231,6 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
   ('index', settings_file_name, settings_project_name,
-   settings_copyright_year + ', ' + settings_copyright_name, settings_project_name, settings_project_name,
+   settings_copyright_copyleft, settings_project_name, settings_project_name,
    'Miscellaneous'),
 ]
