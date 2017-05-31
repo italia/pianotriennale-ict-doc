@@ -254,6 +254,7 @@ i seguenti servizi in Appalto Specifico:
    Centro Servizi del Fornitore.
 
 Procedura di accesso all’Accordo Quadro
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Le Amministrazioni, registrate sulla piattaforma “Acquisti in Rete della
 PA” come punti ordinanti dotati di firma digitale, potranno accedere
@@ -275,6 +276,7 @@ Nella sezione di Acquisti in Rete dedicata all’Accordo Quadro in
    gara <https://www.acquistinretepa.it/opencms/opencms/main/pa/strumenti/dettaglio.jsp?idT=425658&tipoVis=doc&vetrina=PA&idL=&nome=Servizi+di+System+Management&orderBy=attivazione&__pagina=1&__element=&frompage=accordiQuadro.jsp&categoria=1&altribsemp=&nomebsemp=&user_id=9d621efd-c454-39a9-a475-bd1f828bb103&adfgen_menuId=0&id_cat=&numPagina=1&maxPagina=0&maxPaginaBS=0>`__.
 
 Servizi Applicativi
+~~~~~~~~~~~~~~~~~~~
 
 Accordo quadro, suddiviso in 3 lotti geografici Nord, Centro e Sud +
 Isole, adatto alla realizzazione di Infrastrutture immateriali – Dati
@@ -312,6 +314,7 @@ Amministrazioni:
    delle esigenze dell’Amministrazione (es. formazione).
 
 Procedura di accesso all’Accordo Quadro
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Le Amministrazioni, registrate sulla piattaforma Acquisti in Rete della
 PA come punti ordinanti dotati di firma digitale, potranno accedere

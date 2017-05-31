@@ -1,8 +1,8 @@
 Allegato 5: Paniere dataset open data
 =====================================
 
-1 Premessa
-----------
+1. Premessa
+-----------
 
 L’allegato rappresenta i risultati dell'attività di monitoraggio dell'indicatore
 “Disponibilità di banche dati pubbliche in formato aperto”, inserito nell’Accordo
@@ -28,8 +28,8 @@ La componente regionale del paniere è composta da una lista di 48 dataset anch�
 tematiche come definite nel profilo nazionale di metadatazione DCAT-AP_IT e per i quali si è monitorato,
 anche in questo caso, il livello di apertura come prima descritto (attribuendo valori che vanno da 1 a 5).
 
-2 Paniere dinamico di dataset su base nazionale e regionale
------------------------------------------------------------
+2. Paniere dinamico di dataset su base nazionale e regionale
+------------------------------------------------------------
 
 Il dataset è disponibile per il download all'indirizzo `http://www.dati.gov.it/sites/default/files/PANIERE-dataset_20170207.ods
 <http://www.dati.gov.it/sites/default/files/PANIERE-dataset_20170207.ods>`__.
