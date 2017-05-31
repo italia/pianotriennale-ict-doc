@@ -230,7 +230,7 @@ realizzati da terze parti o sistemi preesistenti, si consiglia di:
    funzionale con gli utenti del sistema e software di terze parti in
    ambienti di testing, il rilascio in produzione.
 
-1. **Mettere a disposizione librerie e kit di sviluppo**, ovvero esempi
+3. **Mettere a disposizione librerie e kit di sviluppo**, ovvero esempi
    di codice e componenti software pronti per essere utilizzati da terze
    parti nei loro prodotti per integrarsi con i vostri sistemi. Questo
    facilita il riuso, migliora la qualità del codice, diminuisce i costi
@@ -324,12 +324,9 @@ riportate nel Piano, nei limiti imposti dai costi di adeguamento e dalla
 riduzione dei costi di gestione.
 
 .. rubric:: Note
-
 .. [102]
    http://design.italia.it/linee-guida/service-design/
-
 .. [103]
    Cfr. art. 101 del Codice degli appalti D.Lgs. 18 aprile 2016 n. 50.
-
 .. [104]
    Cfr. capitolo 9 “Data & Analytics Framework”.
