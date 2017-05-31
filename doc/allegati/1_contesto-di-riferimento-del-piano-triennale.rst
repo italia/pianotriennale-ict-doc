@@ -119,31 +119,30 @@ che tutte le amministrazioni di tutti gli Stati membri devono porre a
 fondamento delle proprie politiche interne:
 
 -  digitale per definizione (*digital by default*): le Pubbliche
-       amministrazioni devono fornire servizi digitali come opzione
-       predefinita;
+   amministrazioni devono fornire servizi digitali come opzione predefinita;
 
 -  principio "una tantum" (*once only principle*): le Pubbliche
-       amministrazioni devono evitare di chiedere ai cittadini e alle
-       imprese informazioni già fornite;
+   amministrazioni devono evitare di chiedere ai cittadini e alle
+   imprese informazioni già fornite;
 
 -  inclusività e accessibilità: le Pubbliche amministrazioni devono
-       progettare servizi pubblici digitali che siano per definizione
-       inclusivi e che vengano incontro alle diverse esigenze delle
-       persone, ad esempio degli anziani e delle persone con disabilità;
+   progettare servizi pubblici digitali che siano per definizione
+   inclusivi e che vengano incontro alle diverse esigenze delle
+   persone, ad esempio degli anziani e delle persone con disabilità;
 
 -  apertura e trasparenza dei dati e dei processi amministrativi;
 
 -  transfrontaliero per definizione: le pubbliche amministrazioni devono
-       rendere disponibili i servizi pubblici digitali rilevanti a
-       livello transfrontaliero;
+   rendere disponibili i servizi pubblici digitali rilevanti a
+   livello transfrontaliero;
 
 -  interoperabile per definizione: i servizi pubblici devono essere
-       progettati in modo da funzionare in modalità integrata e senza
-       interruzioni in tutto il mercato unico;
+   progettati in modo da funzionare in modalità integrata e senza
+   interruzioni in tutto il mercato unico;
 
 -  fiducia e sicurezza: sin dalla fase di progettazione devono essere
-       integrati i profili relativi alla protezione dei dati personali,
-       tutela della vita privata e sicurezza informatica.
+   integrati i profili relativi alla protezione dei dati personali,
+   tutela della vita privata e sicurezza informatica.
 
 -  Comunicazione “A New Skills Agenda for Europe”, COM (2016) 381,
    10.6.2016
@@ -189,11 +188,11 @@ esistono nell’Unione europea attraverso:
 -  l’adeguamento del quadro normativo per il riutilizzo dei dati;
 
 -  la mobilitazione degli strumenti finanziari a sostegno dei “dati
-       aperti” e l’attuazione di azioni volte alla creazione di portali
-       di dati europei;
+   aperti” e l’attuazione di azioni volte alla creazione di portali
+   di dati europei;
 
 -  il coordinamento e la condivisione di esperienze tra gli Stati
-       membri.
+   membri.
 
 -  Direttiva 2013/37/UE del Parlamento europeo e del Consiglio del 26
    giugno 2013 recante modifiche alla Direttiva 2003/98/EC sul riuso
