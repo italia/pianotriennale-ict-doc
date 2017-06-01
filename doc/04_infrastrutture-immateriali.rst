@@ -250,9 +250,11 @@ Obiettivi strategici
    sui relativi siti.
 
 -  Assicurare il rispetto dei requisiti di qualità delle basi dati di
-   interesse nazionale come definiti dallo standard sulla qualità dei
+   interesse nazionale come definiti dagli standard sulla qualità dei
    dati `ISO/IEC 25012 Data quality
-   model <https://www.iso.org/obp/ui/#iso:std:iso-iec:25012:ed-1:v1:en>`__\  [43]_,
+   model <https://www.iso.org/obp/ui/#iso:std:iso-iec:25012:ed-1:v1:en>`__\  [43]_ e
+   `ISO/IEC 25024 Measurement of data quality
+   <https://www.iso.org/obp/ui/#iso:std:iso-iec:25024:ed-1:v1:en>`__\  [66]_,
    applicando le regole tecniche definite da AgID con la
    `Determinazione n.
    68/2013 <http://www.agid.gov.it/sites/default/files/circolari/dt_cs_n.68_-_2013dig_-regole_tecniche_basi_dati_critiche_art_2bis_dl_179-2012_sito.pdf>`__\  [44]_
@@ -1239,7 +1241,7 @@ interfacce nel rispetto del Modello di interoperabilità della PA.
 
 .. [43]
    `https://www.iso.org/obp/ui/#iso:std:iso-iec:25012:ed-1:v1:en <https://www.iso.org/obp/ui/#iso:std:iso-iec:25012:ed-1:v1:en>`__
-
+   
 .. [44]
    `http://www.agid.gov.it/sites/default/files/circolari/dt\_cs\_n.68\_-\_2013dig\_-regole\_tecniche\_basi\_dati\_critiche\_art\_2bis\_dl\_179-2012\_sito.pdf <http://www.agid.gov.it/sites/default/files/circolari/dt_cs_n.68_-_2013dig_-regole_tecniche_basi_dati_critiche_art_2bis_dl_179-2012_sito.pdf>`__
 
@@ -1308,3 +1310,7 @@ interfacce nel rispetto del Modello di interoperabilità della PA.
 
 .. [65]
    Cfr. capitolo 6 “Ecosistemi”
+
+.. [66]`https://www.iso.org/obp/ui/#iso:std:iso-iec:25024:ed-1:v1:en`
+   <https://www.iso.org/obp/ui/#iso:std:iso-iec:25024:ed-1:v1:en>
+

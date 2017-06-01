@@ -120,7 +120,7 @@ Obiettivi strategici
    lo strumento operativo che consente di implementare in maniera
    coordinata gli sforzi descritti nel paragrafo 4.1 “Dati della PA”,
    ponendo attenzione sui processi di generazione, gestione,
-   aggiornamento e diffusione dei dati.
+   aggiornamento, assicurazione di qualità e diffusione dei dati.
 
 -  Agevolare lo sviluppo e la diffusione degli open data e della *API
    economy*, attraverso i quali la società civile può riutilizzare, nel
