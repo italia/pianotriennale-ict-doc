@@ -858,7 +858,7 @@ Tra le Piattaforme abilitanti in fase di progettazione si elencano:
 -  **Poli di conservazione:** sistema realizzato delle PA per
    l’erogazione di servizi di conservazione documentale, con il
    coinvolgimento dell’Archivio centrale dello Stato che permette la
-   conservazione perenne degli archivi digitali della PA.
+   conservazione a lungo termine degli archivi digitali della PA.
 
 Obiettivi strategici
 ~~~~~~~~~~~~~~~~~~~~
