@@ -78,8 +78,8 @@ stile di management agile ed evolutivo, e basato su una chiara
 *governance* dei diversi livelli della Pubblica amministrazione. La
 sinergia e l’equilibrio tra le tre direttrici (tecnologie innovative,
 stile di management agile e modello di *governance* chiaro ed efficace)
-garantisce al sistema Paese un più efficace sfruttamento dei benefici
-delle nuove tecnologie e assicura ai cittadini un vantaggio in termini
+garantiscono al sistema Paese un più efficace sfruttamento dei benefici
+delle nuove tecnologie e assicurano ai cittadini un vantaggio in termini
 di semplicità di accesso e miglioramento dei servizi digitali esistenti.
 
 Il Piano deve indirizzare una realtà complessa con livelli di delega di
@@ -117,7 +117,7 @@ iniziative e dei costi ICT.
 
 Sono state coinvolte:
 
--  le Pubbliche amministrazioni centrali, in particolare i ministeri
+-  le Pubbliche amministrazioni centrali, in particolare i Ministeri
    comprensivi di tutti gli enti vigilati;
 
 -  le Agenzie fiscali;
@@ -187,7 +187,7 @@ Le informazioni raccolte sono quindi state utili per:
    pianificate che sono da considerare strategiche per l’intera Pubblica
    amministrazione;
 
--  verificare con i ministeri che il Modello sia condiviso e coerente.
+-  verificare con i Ministeri che il Modello sia condiviso e coerente.
 
 Lo stesso tipo di percorso è stato avviato anche con le Amministrazioni
 regionali e le Città metropolitane. Tuttavia, in questa fase,
@@ -236,7 +236,7 @@ Gli attori del processo di trasformazione digitale della PA sono:
    strumenti normativi, ne facilita l’adozione;
 
 -  il Dipartimento della Funzione Pubblica, che è l’organo politico che
-   vigila, anche sull’operatività di AgID;
+   vigila anche sull’operatività di AgID;
 
 -  il Ministero dell’Economia e delle Finanze (MEF), che è l’organo di
    controllo della spesa e del rispetto degli obiettivi di risparmio;
