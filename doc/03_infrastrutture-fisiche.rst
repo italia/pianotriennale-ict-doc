@@ -12,7 +12,7 @@ direttrici:
    amministrazione attraverso un’opera di razionalizzazione utile, sia a
    ridurre i costi di gestione, sia a uniformare e aumentare la qualità
    dei servizi offerti alle Pubbliche amministrazioni, anche in termini
-   di business continuity, *disaster recovery* ed efficienza energetica;
+   di *business continuity*, *disaster recovery* ed efficienza energetica;
 
 -  la realizzazione del *cloud* della PA, grazie al quale sarà possibile
    virtualizzare il parco macchine di tutte le Pubbliche
@@ -96,22 +96,22 @@ Tale percorso prevede due attività:
 -  razionalizzazione dei *data center* della PA e consolidamento dei
    *data center* meno efficienti in centri selezionati;
 
--  studio e definizione del modello strategico evolutivo di *cloud della
-   PA* da implementare a seguito della razionalizzazione descritta al
+-  studio e definizione del modello strategico evolutivo di *cloud* della
+   PA da implementare a seguito della razionalizzazione descritta al
    punto precedente.
 
 Obiettivi strategici
 ~~~~~~~~~~~~~~~~~~~~
 
 -  Aumento della qualità dei servizi offerti in termini di sicurezza,
-   resilienza, efficienza energetica e business continuity.
+   resilienza, efficienza energetica e *business continuity*.
 
 -  Realizzazione di un ambiente *cloud* della PA, omogeneo dal punto di
    vista contrattuale e tecnologico, riqualificando le risorse interne
    alla PA già esistenti o facendo ricorso a risorse di soggetti esterni
    qualificati.
 
--  Risparmio di spesa derivante dal consolidamento dei data center e
+-  Risparmio di spesa derivante dal consolidamento dei *data center* e
    migrazione dei servizi verso il *cloud*.
 
 Linee di azione
@@ -155,7 +155,7 @@ salvaguardando gli investimenti pregressi effettuati dalle PA:
    considerate minori. Come indicato in seguito, queste strutture
    potranno continuare ad operare ma non potranno essere effettuati
    investimenti per l’ampliamento o l’evoluzione. Dovranno comunque
-   garantire continuità dei servizi e disaster recovery, fino alla
+   garantire continuità dei servizi e *disaster recovery*, fino alla
    completa migrazione, avvalendosi dei servizi disponibili con il
    Contratto quadro SPC *Cloud* lotto 1 o messi a disposizione dai *Poli
    strategici nazionali*.
@@ -178,11 +178,11 @@ AgID definirà un piano operativo che conterrà raccomandazioni su:
 -  individuazione dei poli da eleggere a nazionali;
 
 -  intervento normativo per definire meccanismi di adesione,
-   funzionamento, e ripartizione dei costi dei Poli strategici nazionali
+   funzionamento e ripartizione dei costi dei Poli strategici nazionali
    su tutto il territorio nazionale;
 
 -  definizione di un piano per la migrazione verso il *cloud* della PA
-   ed il consolidamento dei data center;
+   ed il consolidamento dei *data center*;
 
 -  inserimento dei Poli strategici nazionali tra le "`infrastrutture
    critiche <https://www.sicurezzanazionale.gov.it/sisr.nsf/sicurezza-in-formazione/tenace-e-la-protezione-delle-infrastrutture-critiche.html>`__"
@@ -206,10 +206,10 @@ fine di:
 
 -  evitare problemi di interruzione di pubblico servizio;
 
--  anticipare processi di dismissione dei propri data center per migrare
+-  anticipare processi di dismissione dei propri *data center* per migrare
    al *cloud* della PA;
 
--  consolidare i propri servizi su data center di altre PA al fine di
+-  consolidare i propri servizi su *data center* di altre PA al fine di
    ottenere economie di spesa.
 
 Inoltre, a supporto del raggiungimento degli obiettivi indicati nelle
@@ -243,7 +243,7 @@ indipendentemente dal fornitore (PSN o *Cloud* Provider di mercato).
 +---------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Descrizione   | Durante il periodo di esecuzione del Piano, le PA non potranno effettuare spese o investimenti in materia di data center, secondo le indicazioni e le eccezioni indicate nella circolare 2 del 24 giugno 2016 dell’AgID.                                                                |
 |               |                                                                                                                                                                                                                                                                                         |
-|               | Le PA, che non vi abbiano già provveduto, realizzano i progetti di consolidamento e virtualizzazione dei propri data center o di migrazione verso SPC *Cloud.* In caso di mancato utilizzo della gara SPC - *Cloud* lotto 1 predisposta da Consip, forniscono le motivazioni ad AgID.   |
+|               | Le PA che non vi abbiano già provveduto, realizzano i progetti di consolidamento e virtualizzazione dei propri data center o di migrazione verso SPC *Cloud.* In caso di mancato utilizzo della gara SPC - *Cloud* lotto 1 predisposta da Consip, forniscono le motivazioni ad AgID.   |
 +---------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Risultato     | ---                                                                                                                                                                                                                                                                                     |
 +---------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -255,7 +255,7 @@ indipendentemente dal fornitore (PSN o *Cloud* Provider di mercato).
 +---------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Attori        | AgID, PA                                                                                                                                                                                                                                                     |
 +---------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Descrizione   | Censimento del patrimonio ICT in esercizio presso la Pubblica amministrazione, anche per individuare le Pubbliche amministrazioni che sono in possesso di infrastrutture fisiche che possono candidarsi a ricoprire il ruolo di Polo strategici nazionali.   |
+| Descrizione   | Censimento del patrimonio ICT in esercizio presso la Pubblica amministrazione, anche per individuare le Pubbliche amministrazioni che sono in possesso di infrastrutture fisiche che possono candidarsi a ricoprire il ruolo di Poli strategici nazionali.   |
 +---------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Risultato     | Rapporto del censimento (*data di rilascio prima release: dicembre 2017 - ulteriori rilasci ogni 6 mesi*).                                                                                                                                                   |
 +---------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -286,7 +286,7 @@ indipendentemente dal fornitore (PSN o *Cloud* Provider di mercato).
 +---------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Tempi         | Entro dicembre 2017                                                                                                                                                                                                                                                                                                   |
 +---------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Attori        | AgID , Consip                                                                                                                                                                                                                                                                                                         |
+| Attori        | AgID, Consip                                                                                                                                                                                                                                                                                                         |
 +---------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Descrizione   | AgID definirà le regole e procedure di qualificazione dei *Cloud Provider* pubblici per consentire a Consip l'abilitazione dei nuovi CSP. I CSP già presenti sul MEPA o convenzioni o accordi quadro presentano la domanda di qualificazione entro 3 mesi dalla data di pubblicazione dei criteri di qualificazione.  |
 +---------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -422,28 +422,28 @@ IPv6.
 La connettività Internet della PA deve essere finalizzata a:
 
 -  garantire accesso alla rete Internet a **tutti i dipendenti della
-   PA,** indipendentemente dal ruolo o dai compiti assegnati, e senza
+   PA**, indipendentemente dal ruolo o dai compiti assegnati e senza
    limiti di tempo o orari. Internet oggi deve essere considerato a
    tutti gli effetti uno strumento di lavoro indispensabile ed efficace
    per svolgere ogni tipo di attività: dal trovare numeri di telefono,
    all’identificare persone e relazioni tra queste persone, riferimenti
    di un concorso o normativi, documentazione tecnica, strumenti di
    produttività (traduzioni, orari nel mondo, ecc.), servizi di
-   emergenza, o notizie di ogni tipo.
+   emergenza o notizie di ogni tipo.
 
 -  garantire accesso non solo agli strumenti ed alle applicazioni
-   utilizzati dalla PA, ma -previa analisi delle necessità organizzative
-   in relazione agli obiettivi da raggiungere- a **tutti i contenuti e
+   utilizzati dalla PA, ma - previa analisi delle necessità organizzative
+   in relazione agli obiettivi da raggiungere - a **tutti i contenuti e
    gli strumenti che Internet mette a disposizione**, inclusi strumenti
    per la condivisione di file e contenuti, social network, nonché siti
    come forum, chat o altri strumenti di comunicazione.
 
 PA che fanno uso di firewall o altre tipologie di filtri applicativi
-devono quindi configurarli per consentire accesso ad internet a tutti i
-dipendenti, e limitare il filtraggio esclusivamente a siti e contenuti
-direttamente pericolosi (malware, virus, *phishing*), illegali, o
+devono quindi configurarli per consentire accesso ad Internet a tutti i
+dipendenti e limitare il filtraggio esclusivamente a siti e contenuti
+direttamente pericolosi (malware, virus, *phishing*), illegali o
 chiaramente non appropriati per un ambito lavorativo. Siti di
-condivisione file, social network, chat o altro, non dovrebbero quindi
+condivisione file, social network, chat o altro non dovrebbero quindi
 essere filtrati di principio, per quello che sono, ma solo ed
 esclusivamente in funzione della tipologia di contenuti normalmente
 scambiati.
@@ -451,7 +451,7 @@ scambiati.
 Nel caso la PA abbia chiare e documentate esigenze di sicurezza
 superiori alla norma (materiale riservato, servizi critici e sicurezza
 nazionale) è raccomandato l’utilizzo di filtri stringenti che blocchino
-l’utilizzo di strumenti di comune utilizzo **solo ed esclusivamente** a
+l’uso di strumenti comuni **solo ed esclusivamente** a
 quei dipendenti e quei sistemi che hanno accesso a questo tipo di
 informazioni, ed a fronte di forti politiche di sicurezza che
 istruiscano i dipendenti su come individuare e trattare informazioni
@@ -467,7 +467,7 @@ Scenario attuale
 
 La disponibilità di connettività nelle Pubbliche amministrazioni è molto
 diversificata. In genere le Pubbliche amministrazioni – specie quelle
-locali – hanno una situazione mediamente sottodimensionata, che non
+locali – hanno una situazione mediamente sottodimensionata che non
 risponde ai criteri definiti dal Sistema pubblico di connettività (SPC).
 
 Obiettivi strategici
@@ -564,7 +564,7 @@ privilegiare le forniture in cui il servizio di trasporto sia basato su
    `http://www.agid.gov.it/agenda-digitale/infrastrutture-architetture/razionalizzazione-del-patrimonio-ict-pa/censimento-data <http://www.agid.gov.it/agenda-digitale/infrastrutture-architetture/razionalizzazione-del-patrimonio-ict-pa/censimento-data>`__
 
 .. [11]
-   Il 20% delle infrastrutture considerate non avevano meccanismi di
+   Il 20% delle infrastrutture considerate non aveva meccanismi di
    *disaster recovery* o *business continuity*, il 12% delle
    infrastrutture delle PAC e il 50% delle infrastrutture delle PAL
    considerate avevano controlli degli accessi considerati non
