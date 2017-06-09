@@ -54,7 +54,7 @@ Obiettivi strategici
    *switch-off*.
 
 -  Accompagnare le PA selezionate per svolgere il ruolo di aggregatore
-   -come meglio precisato di seguito- nella realizzazione delle attività
+   - come meglio precisato di seguito - nella realizzazione delle attività
    organizzative e strumentali.
 
 -  Promuovere l’adempimento da parte delle amministrazioni dell’obbligo
@@ -99,7 +99,7 @@ modalità di intervento e le azioni da compiere ed enfatizza la
 complementarietà tra il livello nazionale e quello regionale, nonché
 l’integrazione tra le stesse iniziative regionali.
 
-La Figura 8, rappresenta graficamente come le soluzioni realizzate da
+La Figura 8 rappresenta graficamente come le soluzioni realizzate da
 singole amministrazioni possano contribuire alla realizzazione di
 servizi digitali attraverso logiche di collaborazione che ne amplificano
 il valore. Ad esempio, le basi di dati di interesse nazionale,
@@ -167,7 +167,7 @@ amministrazioni su due macro ambiti:
    verificarne l’andamento ai fini della razionalizzazione e reindirizzo
    verso la parte destinata agli investimenti.
 
-Si precisa inoltre, che le azioni del Piano sono state costruite
+Si precisa inoltre che le azioni del Piano sono state costruite
 prendendo come riferimento gli indicatori per il monitoraggio così come
 declinati nella Strategia per la crescita digitale, in particolare: i)
 KPI di realizzazione, utilizzati per monitorare lo stato di avanzamento
