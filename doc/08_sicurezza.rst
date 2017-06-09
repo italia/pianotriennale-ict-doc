@@ -55,7 +55,7 @@ Le attività gestite da AgID sono raggruppate nelle seguenti aree:
 Scenario attuale
 ----------------
 
-Presso AgID è già operativo il CERT-PA, che offre alle Pubbliche
+Presso AgID è già operativo il CERT-PA che offre alle Pubbliche
 amministrazioni:
 
 -  servizi di analisi e di indirizzo, finalizzati a supportare la
@@ -66,7 +66,7 @@ amministrazioni:
 -  servizi proattivi, aventi come scopo la raccolta e l’elaborazione di
    dati significativi ai fini della sicurezza cibernetica, l'emissione
    di bollettini e segnalazioni di sicurezza, l’implementazione e la
-   gestione di basi dati informative;
+   gestione di basi di dati informative;
 
 -  servizi reattivi, aventi come scopo la gestione degli allarmi di
    sicurezza, il supporto ai processi di gestione e la risoluzione degli
@@ -119,7 +119,7 @@ Obiettivi strategici
 --------------------
 
 -  Definire i profili di sicurezza delle componenti ICT della Pubblica
-   amministrazione, anche istanziando il *Framework Nazionale per la
+   amministrazione anche istanziando il *Framework Nazionale per la
    Cyber Security (FNCS)* in tutte le componenti del Modello strategico
    e, a valle di una specifica analisi del rischio, fornire i
    riferimenti tecnici e normativi che le Pubbliche amministrazioni
@@ -162,20 +162,20 @@ entro la fine del 2017 a:
 
 -  fornire supporto alle amministrazioni e approfondire la funzione di
    monitoraggio dello spazio cibernetico delle Pubbliche
-   amministrazioni, anche attivando specifiche collaborazioni con le
+   amministrazioni anche attivando specifiche collaborazioni con le
    comunità di riferimento nazionali ed internazionali;
 
 -  fornire supporto alle amministrazioni nella gestione degli incidenti
    e nel successivo ripristino.
 
 A tal fine è in corso un progressivo incremento della capacità operativa
-del CERT-PA, completando l’infrastruttura ICT di erogazione dei servizi
+del CERT-PA completando l’infrastruttura ICT di erogazione dei servizi
 di base e realizzando il primo embrione di sistema informativo sulle
 minacce cibernetiche, sul modello di quello del MITRE [81]_
 statunitense.
 
 Un altro passaggio importante sarà l’emanazione delle Regole tecniche
-per la sicurezza ICT delle Pubbliche amministrazioni che forniranno a
+per la sicurezza ICT delle Pubbliche amministrazioni che forniranno 
 indicazioni sulle misure da adottare in ciascuna componente della Mappa
 del Modello strategico.
 
@@ -191,7 +191,7 @@ fisiche:
    la propria infrastruttura e, tenendo anche conto degli aggiornamenti
    sulle minacce provenienti dal CERT-PA, adottare le misure opportune.
 
-Per dare seguito alle attività dell’area *Assessment e test,* si
+Per dare seguito alle attività dell’area *Assessment e test*, si
 individuano le azioni di seguito descritte, la cui realizzazione risulta
 di pertinenza delle singole amministrazioni.
 
@@ -266,7 +266,7 @@ Sotto le ipotesi indicate, *l’assessment* e l’esecuzione delle verifiche
 +---------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Tempi         | Entro settembre 2017                                                                                                                                                  |
 +---------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Attori        | AgID , PA                                                                                                                                                             |
+| Attori        | AgID, PA                                                                                                                                                             |
 +---------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Descrizione   | Definizione dei principi e delle linee guida del modello architetturale di gestione dei servizi critici e contestualizzazione rispetto al cluster dei dati gestiti.   |
 |               |                                                                                                                                                                       |
@@ -283,7 +283,7 @@ Sotto le ipotesi indicate, *l’assessment* e l’esecuzione delle verifiche
 +---------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Attori        | PA                                                                                                                                                                                                                                                                                                                                                                                                                    |
 +---------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Descrizione   | Per assicurare il *continuous monitoring,* raccomandato dalle best practices di sicurezza (es. ISO 27001, documentazione NIST), le Pubbliche amministrazioni provvederanno alla verifica dello stato di aggiornamento dei software impiegati in ogni singola amministrazione rispetto a vulnerabilità note pubblicate da uno o più soggetti di riferimento (ad es. CERT nazionali o basi di dati di vulnerabilità).   |
+| Descrizione   | Per assicurare il *continuous monitoring*, raccomandato dalle best practice di sicurezza (es. ISO 27001, documentazione NIST), le Pubbliche amministrazioni provvederanno alla verifica dello stato di aggiornamento dei software impiegati in ogni singola amministrazione rispetto a vulnerabilità note pubblicate da uno o più soggetti di riferimento (ad es. CERT nazionali o basi di dati di vulnerabilità).   |
 |               |                                                                                                                                                                                                                                                                                                                                                                                                                       |
 |               | Per dare seguito alla presente azione si provvederà alla scansione dei software mediante strumenti automatici e alla successiva analisi dei risultati (e del possibile impatto di una vulnerabilità nota eventualmente non corretta) demandata ad un soggetto competente. AgID si riserva la possibilità di eseguire *penetration test* a campione.                                                                   |
 +---------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
