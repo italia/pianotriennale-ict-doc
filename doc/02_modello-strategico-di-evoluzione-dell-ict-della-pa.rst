@@ -69,7 +69,7 @@ che:
 
 -  non disperda le esperienze maturate nei precedenti progetti di
    digitalizzazione del Paese con l’obiettivo di prendere a modello i
-   casi di successo (*best practice*) e non ripetere errori commessi nel
+   casi di successo (*success stories*) e non ripetere errori commessi nel
    passato;
 
 -  migliori la sicurezza grazie ad un’architettura a più livelli che
