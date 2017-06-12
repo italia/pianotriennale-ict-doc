@@ -20,9 +20,9 @@ principali:
    di avere più prospettive di analisi su un dato fenomeno, in maniera
    tempestiva;
 
--  favorire e ottimizzare lo scambio dei dati tra PA, minimizzandone i
+-  favorire e ottimizzare lo scambio dei dati tra PA minimizzandone i
    costi transattivi per l'accesso e l'utilizzo. Sarà infatti possibile
-   superare lo schema delle convenzioni uno a uno, che portano a
+   superare lo schema delle convenzioni uno a uno che portano a
    molteplici copie degli stessi dati e consentire un accesso
    standardizzato ad un dato sempre aggiornato;
 
@@ -49,7 +49,7 @@ coerenza con le esigenze relative alle funzioni di monitoraggio del
 Piano.
 
 Il DAF si basa su una **Piattaforma big data**, composta da: un *data
-lake,* un insieme di *data engine* e strumenti per la comunicazione dei
+lake*, un insieme di *data engine* e strumenti per la comunicazione dei
 dati.
 
 Nel *data lake* vengono memorizzati, nel rispetto delle normative in
@@ -61,9 +61,9 @@ che non rientrano nella definizione precedente; (iii) i dati autorizzati
 provenienti dal web e dai social network di potenziale interesse della
 Pubblica amministrazione.
 
-I *Big Data Engines* sono utili ad armonizzare ed elaborare, sia in
+I *Big Data Engine* sono utili ad armonizzare ed elaborare, sia in
 modalità *batch* che *real-time*, i dati grezzi memorizzati nel *data
-lake,* e a implementare modelli di *machine learning*.
+lake* e a implementare modelli di *machine learning*.
 
 Infine gli strumenti per la comunicazione dei dati sono utili a favorire
 la fruizione dei dati elaborati da parte dei soggetti interessati, anche
@@ -71,7 +71,7 @@ attraverso API che espongono dati e funzionalità ad applicazioni terze.
 
 La realizzazione e la successiva gestione del DAF è affidata al
 **BDT-PA**, ovvero *Big Data Team della PA*, un team composto da *data
-scientist*, *big data* *architect* ed esperti di dominio che provvedono
+scientist*, *big data architect* ed esperti di dominio che provvedono
 al disegno e all’evoluzione concettuale della Piattaforma *big data*,
 alla costruzione di modelli di interconnessione delle diverse sorgenti
 dati, all’analisi dei dati, allo sviluppo di modelli di *machine
@@ -89,15 +89,15 @@ favorisca, al contempo, la definizione e il monitoraggio di politiche
 di utilizzare tale tipologia di strumenti nello specifico dominio della
 Pubblica amministrazione per mezzo di numerose iniziative sperimentali
 condotte in collaborazione con enti di ricerca nazionali e con varie
-università italiane, nell’ambito del progetto *Italia.gov.it,* il motore
+università italiane, nell’ambito del progetto *Italia.gov.it*, il motore
 dell’amministrazione digitale.
 
-Negli ultimi anni, le tecnologie big data sono maturate a tal punto da
+Negli ultimi anni, le tecnologie *big data* sono maturate a tal punto da
 essere utilizzate non solo negli ambienti di produzione delle maggiori
 aziende IT (ad es. Google, Facebook, Twitter, Linked-In), ma anche in
 quelli di banche, società di assicurazione, operatori di lotterie e
 scommesse, società di trading. Conseguentemente sono emersi nuovi
-profili professionali, come il *data scientist* e il *big data
+profili professionali come il *data scientist* e il *big data
 architect*, le cui competenze sono da considerarsi necessarie per il
 governo e l’uso delle piattaforme di *big data*.
 
@@ -153,8 +153,8 @@ Obiettivi strategici
 Linee di azione
 ---------------
 
-Il *DAF,* come detto, si basa sullo sviluppo di una Piattaforma *big
-data* e sulla costituzione di un team di *data scientist, big data
+Il *DAF*, come detto, si basa sullo sviluppo di una Piattaforma *big
+data* e sulla costituzione di un team di *data scientist*, *big data
 architect* e *data engineer*. Il *Big Data Team* della PA, istituito
 all'interno del Team digitale, ha il compito di gestire attivamente la
 fase di sviluppo concettuale e implementativo dell'infrastruttura,
@@ -183,7 +183,7 @@ Piattaforma *big data* della PA attraverso:
    di *data driven policy* e alla realizzazione dei relativi strumenti
    analitici;
 
--  l’uso di *cloud* pubblico e privato per *storage* e computing;
+-  l’uso di *cloud* pubblico e privato per *storage* e *computing*;
 
 -  il coinvolgimento della comunità scientifica per la promozione di
    iniziative atte a favorire la conduzione di attività ricerca su
@@ -195,7 +195,7 @@ Nei prossimi mesi, il BDT-PA rilascerà il Piano di sviluppo del DAF.
 Esso prevedrà un *roll-out* incrementale in base agli accordi con le PA
 che il Team digitale sta implementando. In particolare sarà prevista una
 fase di sperimentazione che interesserà un gruppo di PA centrali e
-locali selezionate, e avrà l'obiettivo di realizzare modelli di scambio
+locali selezionate e avrà l'obiettivo di realizzare modelli di scambio
 dati e casi di utilizzo con servizi per le PA, cittadini e imprese.
 
 I dati presenti nel DAF saranno utilizzati anche per sintetizzare

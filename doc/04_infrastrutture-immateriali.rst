@@ -107,7 +107,7 @@ interesse nazionale:
 
 -  sono autoritative nel dominio di riferimento.
 
-Nel contesto europeo, le basi di dati di interesse nazionale
+Nel contesto europeo le basi di dati di interesse nazionale
 corrispondono ai cosiddetti `Base
 Register <https://ec.europa.eu/isa2/sites/isa/files/presentations/peter-burian.pdf>`__\  [26]_,
 ovvero componenti fondamentali per supportare le interazioni tra
@@ -210,7 +210,7 @@ statistiche relativi ai crimini, raccolti dal Ministero dell’Interno; i
 dati sulla mobilità (già oggetto del Terzo piano di azione nazionale
 dell’\ `Open Government
 Partnership <http://open.gov.it/terzo-piano-dazione-nazionale/>`__
-(OGP) [37]_) per il cui rilascio e riutilizzo, il Ministero delle
+(OGP) [37]_) per il cui rilascio e riutilizzo il Ministero delle
 Infrastrutture e dei Trasporti ha individuato precise azioni da
 compiere; i dati delle scuole e dei centri di formazione professionale
 regionale sul territorio nazionale presenti nel progetto `Scuola in
@@ -226,7 +226,7 @@ Obiettivi strategici
 ^^^^^^^^^^^^^^^^^^^^
 
 -  Realizzare o adeguare le basi di dati delle Pubbliche
-   amministrazioni, con l’obiettivo di ridurre le ridondanze causate da
+   amministrazioni con l’obiettivo di ridurre le ridondanze causate da
    copie asincrone e interventi manuali, favorendo la coerenza e la
    certezza delle informazioni.
 
@@ -310,7 +310,7 @@ registri già operativi e specificati sul sito dell’AgID.
 +---------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Tempi         | Entro luglio 2017                                                                                                                                                                                                                                                 |
 +---------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Attori        | AgID , PA                                                                                                                                                                                                                                                         |
+| Attori        | AgID, PA                                                                                                                                                                                                                                                         |
 +---------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Descrizione   | AgID renderà disponibile sul proprio sito istituzionale e sul portale dati.gov.it, l’elenco delle basi di dati di interesse nazionale e le relative schede informative raccolte.                                                                                  |
 |               |                                                                                                                                                                                                                                                                   |
@@ -398,7 +398,7 @@ registri già operativi e specificati sul sito dell’AgID.
 +---------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Attori        | PA, DAF                                                                                                                                                                                                                                                                                                                                                                         |
 +---------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Descrizione   | Le PA interessante titolari delle basi di dati descritte nel presente capitolo provvedono a implementare dei canali di comunicazione con il *Data & Analytics Framework*, in modo da garantire l'aggiornamento dei dati nel DAF al momento della loro generazione. Le modalità di comunicazione saranno definite dall'\ *owner* del DAF e descritte in opportune linee guida.   |
+| Descrizione   | Le PA interessate titolari delle basi di dati descritte nel presente capitolo provvedono a implementare dei canali di comunicazione con il *Data & Analytics Framework*, in modo da garantire l'aggiornamento dei dati nel DAF al momento della loro generazione. Le modalità di comunicazione saranno definite dall'\ *owner* del DAF e descritte in opportune linee guida.   |
 +---------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Risultato     | Linee guida per l'integrazione con il DAF *(data di rilascio: da definire)*                                                                                                                                                                                                                                                                                                     |
 |               | Implementazione dei meccanismi di popolamento e messa in produzione dalle PA titolari dei dati *(data di rilascio: da definire)*                                                                                                                                                                                                                                                |
@@ -454,9 +454,9 @@ Scenario attuale
 La maggior parte delle PA continua nelle attività volte a rendere aperti
 e gratuiti per il riutilizzo alcuni dati pubblici da esse gestiti.
 Esistono tuttavia situazioni in cui non si registrano particolari
-evoluzioni negli anni. In tale contesto, si evidenzia che la qualità dei
+evoluzioni negli anni. In tale contesto si evidenzia che la qualità dei
 dati esposti non è ancora a un buon livello, se non in pochi casi
-virtuosi. In particolare, i dati non sono sempre aggiornati e alcune
+virtuosi. In particolare i dati non sono sempre aggiornati e alcune
 iniziative risultano apparentemente abbandonate. Anche da un punto di
 vista di documentazione e metadatazione la situazione è insufficiente.
 La frequente mancanza di automazione e la conseguente modalità di
@@ -520,7 +520,7 @@ La strategia prevede inoltre:
    disponibilità di API per l’interrogazione diretta dei dati;
 
 -  la messa a disposizione a tutte le PA di strumenti e piattaforme
-   aperti, che favoriscano il riuso di software già disponibile e
+   aperti che favoriscano il riuso di software già disponibile e
    l'adozione di best practice.
 
 +---------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -528,7 +528,7 @@ La strategia prevede inoltre:
 +---------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Tempi         | Entro dicembre 2017                                                                                                                                                                                                                                  |
 +---------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Attori        | AgID , Team digitale                                                                                                                                                                                                                                 |
+| Attori        | AgID, Team digitale                                                                                                                                                                                                                                 |
 +---------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Descrizione   | Aggiornamento delle linee guida per la valorizzazione del patrimonio informativo pubblico per la descrizione dei processi di gestione e condivisione dei *dataset* che rientrano all'interno del catalogo nazionale dei dati.                        |
 |               |                                                                                                                                                                                                                                                      |
@@ -571,7 +571,7 @@ La strategia prevede inoltre:
 |               |                                                                                                                                                                                      |
 |               | - condividere modelli di dati comuni;                                                                                                                                                |
 |               |                                                                                                                                                                                      |
-|               | - condividere principi e *best practice* relative al dato e alla sua gestione.                                                                                                       |
+|               | - condividere principi e *best practice* relativi al dato e alla sua gestione.                                                                                                       |
 |               |                                                                                                                                                                                      |
 |               | Il catalogo inoltre rappresenterà l’unico punto di accesso nazionale per l’interazione con analoghe iniziative europee in materia di dati.                                           |
 |               |                                                                                                                                                                                      |
@@ -611,7 +611,7 @@ La strategia prevede inoltre:
 +---------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Tempi         | In corso                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 +---------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Attori        | AgID e Team digitale , tutte le PA                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Attori        | AgID e Team digitale, tutte le PA                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 +---------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Descrizione   | AgID e il Team digitale raccolgono in un unico documento, aggiornabile di anno in anno:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 |               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
@@ -635,7 +635,7 @@ La strategia prevede inoltre:
 +---------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Tempi         | In corso                                                                                                                                                                                                                                                                                        |
 +---------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Attori        | AgID e Dipartimento della Funzione Pubblica , tutte le PA                                                                                                                                                                                                                                       |
+| Attori        | AgID e Dipartimento della Funzione Pubblica, tutte le PA                                                                                                                                                                                                                                       |
 +---------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Descrizione   | AgID utilizza il Paniere dinamico come base di riferimento per l’espletamento di azioni di monitoraggio previste nel contesto dell’Accordo di Partenariato Italia 2014-2020 [53]_, dell’art. 52 del CAD e dell'implementazione della direttiva europea PSI 2.0 (*Public Sector Information*).   |
 |               |                                                                                                                                                                                                                                                                                                 |
@@ -745,7 +745,7 @@ e delle ontologie.
 +---------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Attori        | PA                                                                                                                                                                                                                                  |
 +---------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Descrizione   | Le PA titolari delle banche dati di interesse nazionale, così come definite all’art. 60 del CAD, sono tenute a normalizzare i dati sulla base delle risorse contenute Registro dei vocabolari controllati e dei modelli dei dati.   |
+| Descrizione   | Le PA titolari delle banche dati di interesse nazionale, così come definite all’art. 60 del CAD, sono tenute a normalizzare i dati sulla base delle risorse contenute nel Registro dei vocabolari controllati e dei modelli dei dati.   |
 |               | Le altre PA avviano un processo di normalizzazione dei propri dati sulla base delle risorse contenute nei vocabolari controllati e dei modelli dei dati.                                                                            |
 +---------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Risultato     | ---                                                                                                                                                                                                                                 |
@@ -858,7 +858,7 @@ Tra le Piattaforme abilitanti in fase di progettazione si elencano:
 -  **Poli di conservazione:** sistema realizzato delle PA per
    l’erogazione di servizi di conservazione documentale, con il
    coinvolgimento dell’Archivio centrale dello Stato che permette la
-   conservazione perenne degli archivi digitali della PA.
+   conservazione a lungo termine degli archivi digitali della PA.
 
 Obiettivi strategici
 ~~~~~~~~~~~~~~~~~~~~
@@ -999,7 +999,7 @@ interfacce nel rispetto del Modello di interoperabilità della PA.
 +---------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Tempi         | Entro novembre 2018                                                                                                                                                                                                                                                                                                                |
 +---------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Attori        | MEF e Agenzia delle Entrate , AgID, Regioni e ANCI                                                                                                                                                                                                                                                                                 |
+| Attori        | MEF e Agenzia delle Entrate, AgID, Regioni e ANCI                                                                                                                                                                                                                                                                                 |
 +---------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Descrizione   | Le amministrazioni e in generale tutti i soggetti IVA adottano la fatturazione elettronica mediante l’integrazione con il Sistema di interscambio (SDI) [63]_ in conformità con la normativa vigente.                                                                                                                              |
 |               |                                                                                                                                                                                                                                                                                                                                    |
@@ -1046,7 +1046,7 @@ interfacce nel rispetto del Modello di interoperabilità della PA.
 +---------------+-------------------------------------------------------------------------------------------------------------------------------------------------+
 | Tempi         | Entro marzo 2018                                                                                                                                |
 +---------------+-------------------------------------------------------------------------------------------------------------------------------------------------+
-| Attori        | AgID , PA                                                                                                                                       |
+| Attori        | AgID, PA                                                                                                                                       |
 +---------------+-------------------------------------------------------------------------------------------------------------------------------------------------+
 | Descrizione   | AgID provvederà a stilare un piano di implementazione di SPID con le PA che non hanno ancora provveduto a farlo e ne monitorerà l’esecuzione.   |
 +---------------+-------------------------------------------------------------------------------------------------------------------------------------------------+

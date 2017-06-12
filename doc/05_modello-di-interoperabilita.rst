@@ -6,7 +6,7 @@ al funzionamento dell’intero Sistema informativo della Pubblica
 amministrazione.
 
 Questo Modello rende possibile la collaborazione tra Pubbliche
-amministrazioni e tra queste e soggetti terzi, per mezzo di soluzioni
+amministrazioni e tra queste e soggetti terzi per mezzo di soluzioni
 tecnologiche che assicurano l’interazione e lo scambio di informazioni
 senza vincoli sulle implementazioni, evitando integrazioni ad hoc.
 
@@ -41,7 +41,7 @@ Il Modello di interoperabilità:
 Scenario Attuale
 ----------------
 
-Nell’ottobre 2005, il CNIPA (oggi AgID) ha pubblicato un insieme di
+Nell’ottobre 2005 il CNIPA (oggi AgID) ha pubblicato un insieme di
 documenti che costituiscono il riferimento tecnico per
 l’interoperabilità fra le Pubbliche amministrazioni. Tali documenti
 delineano il quadro tecnico-implementativo del Sistema pubblico di
@@ -104,7 +104,7 @@ consente di definire ed esporre *Application Programming Interface*
 (API) conformi.
 
 Le API dovranno rifarsi alle migliori pratiche di gestione (API
-management), prevedendo in particolare:
+management) prevedendo in particolare:
 
 -  tracciabilità delle diverse versioni delle API, allo scopo di
    consentire evoluzioni non distruttive (*versioning*);
@@ -148,7 +148,7 @@ invece che AgID, direttamente o indirettamente:
    al catalogo;
 
 -  coadiuvi la risoluzione di problematiche con appositi strumenti di
-   cooperazione (ad es.help desk, forum, mailing list e newsletter);
+   cooperazione (ad es. help desk, forum, mailing list e newsletter);
 
 -  stabilisca, pubblichi e controlli le metriche di utilizzo;
 
@@ -208,7 +208,7 @@ Al fine di favorire e coordinare tutte le attività, AgID:
 +---------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Attori        | AgID                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 +---------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Descrizione   | AgID realizzerà un apposito Catalogo delle API, che consentirà la condivisione delle API realizzate dalla PA. Attraverso le informazioni registrate nel Catalogo si realizza un punto di esposizione nel quale saranno censite e documentate le API condivise dagli utenti e utili agli sviluppatori e agli altri soggetti coinvolti negli Ecosistemi. Nondimeno, nel rispetto del diritto alla privacy in merito ai dati trattati, le API potranno essere utilizzate anche da soggetti esterni alla PA.   |
+| Descrizione   | AgID realizzerà un apposito Catalogo delle API che consentirà la condivisione delle API realizzate dalla PA. Attraverso le informazioni registrate nel Catalogo si realizza un punto di esposizione nel quale saranno censite e documentate le API condivise dagli utenti e utili agli sviluppatori e agli altri soggetti coinvolti negli Ecosistemi. Nondimeno, nel rispetto del diritto alla privacy in merito ai dati trattati, le API potranno essere utilizzate anche da soggetti esterni alla PA.   |
 |               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 |               | AgID definirà un apposito set di regole di utilizzo e un modello di governance per la gestione.                                                                                                                                                                                                                                                                                                                                                                                                            |
 +---------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+

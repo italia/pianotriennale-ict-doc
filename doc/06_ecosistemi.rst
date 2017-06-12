@@ -3,7 +3,7 @@ Ecosistemi
 
 Gli ecosistemi sono i settori o aree di intervento in cui si svolge
 l’azione delle Pubbliche amministrazioni, dalla sanità all’agricoltura,
-dalla scuola ai beni culturali. Il Piano ne individua tredici, che sono
+dalla scuola ai beni culturali. Il Piano ne individua tredici che sono
 elencati Figura 7 e descritti Tabella 1 nella pagina successiva.
 
 Ciascun ecosistema individua un settore tematico con caratteristiche di
@@ -69,7 +69,7 @@ principali amministrazioni coinvolte:
 +-------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Difesa, sicurezza e soccorso - Legalità   | L'ecosistema Difesa, sicurezza e soccorso comprende principalmente le Missioni "Difesa e sicurezza del territorio", "Ordine pubblico e sicurezza", "Soccorso civile" e "Immigrazione, accoglienza e garanzia dei diritti".                                                                                      | Ministero della Difesa, Ministero dell'Interno, MEF, MIT, MIPAAF                                                                                            |
 +-------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Giustizia                                 | L'ecosistema Giustizia è stato definito in accordo alla Missione "Giustizia" e al documento Strategia per la Crescita Digitale 2014-2020 in cui è identificata l'azione "Giustizia digitale".                                                                                                                   | Ministero della Giustizia, MEF, INAIL Avvocatura dello Stato, TAR, Commissioni Tributarie, Corte dei Conti, Consiglio di Stato, Corte di Cassazione, CSM.   |
+| Giustizia                                 | L'ecosistema Giustizia è stato definito in accordo alla Missione "Giustizia" e al documento Strategia per la Crescita Digitale 2014-2020 in cui è identificata l'azione "Giustizia digitale".                                                                                                                   | Ministero della Giustizia, MEF, INAIL, Avvocatura dello Stato, TAR, Commissioni Tributarie, Corte dei Conti, Consiglio di Stato, Corte di Cassazione, CSM.   |
 +-------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Infrastruttura e logistica - Mobilità     | L'ecosistema Infrastruttura e logistica comprende principalmente le Missioni "Diritto alla mobilità e sviluppo dei sistemi di trasporto", "Infrastrutture pubbliche e logistica" e "Casa e assetto urbanistico".                                                                                                | MIT, MEF, Regioni, Province e altre aggregazioni di enti territoriali, Comuni, ANCI, ACI, ANSF.                                                             |
 +-------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -148,7 +148,7 @@ seguenti quattro ecosistemi:
    esterni all’Ecosistema Giustizia i servizi di connessione al portale
    dei servizi telematici.
 
--  **Ecosistema Sviluppo e Sostenibilità:** È in via di sottoscrizione
+-  **Ecosistema Sviluppo e Sostenibilità:** è in via di sottoscrizione
    un accordo di collaborazione tra l’Agenzia e il Ministero
    dell’Ambiente e della tutela del territorio e del mare (MATTM) per lo
    sviluppo del sistema Ambiente con interventi volti alla
@@ -160,7 +160,7 @@ seguenti quattro ecosistemi:
    rifiuti speciali a livello nazionale e dei rifiuti urbani per la
    Regione Campania.
 
--  **Ecosistema Beni culturali e turismo:** È in via di sottoscrizione
+-  **Ecosistema Beni culturali e turismo:** è in via di sottoscrizione
    un accordo di collaborazione tra l’Agenzia e il MiBACT per la
    realizzazione di “Interventi per la valorizzazione e promozione del
    settore turistico attraverso la definizione di strategie digitali”.
@@ -173,7 +173,7 @@ seguenti quattro ecosistemi:
 Nel confermare che quanto esemplificato in precedenza non rappresenta un
 quadro esaustivo delle evidenze scaturite dalla ricognizione effettuata
 da AgID (cfr. paragrafo 1.3), si rimanda al citato Allegato 4 per
-l’elenco esaustivo delle iniziative censite, che nel loro insieme
+l’elenco esaustivo delle iniziative censite che, nel loro insieme,
 andranno a costituire il primo nucleo di progetti per avviare gli
 ecosistemi.
 
@@ -181,7 +181,7 @@ Obiettivi strategici
 --------------------
 
 -  Sostenere una visione orientata al cittadino e alle imprese per ogni
-   ecosistema, che conduca alla realizzazione di servizi che
+   ecosistema che conduca alla realizzazione di servizi che
    semplifichino l’interazione con le Pubbliche amministrazioni,
    offrendo singoli punti di accesso per l’utente.
 
@@ -246,7 +246,7 @@ realizzazione delle azioni necessarie a:
    per specifiche API di settore, glossari specifici, profili di
    interoperabilità e *best practice*;
 
--  individuare o definire il modello dei dati, in coerenza con quanto
+-  individuare o definire il modello dei dati in coerenza con quanto
    già presente nel paragrafo 4.1 “Dati della Pubblica amministrazione”;
 
 -  stimolare e monitorare l’utilizzo delle Piattaforme abilitanti.
@@ -275,7 +275,7 @@ Sanitario Elettronico è sintetizzata nella seguente linea d’azione.
 +---------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Tempi         | In corso                                                                                                                                                                                                                                   |
 +---------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Attori        | Ministero della Salute , MEF, AgID, Regioni e Asl                                                                                                                                                                                          |
+| Attori        | Ministero della Salute, MEF, AgID, Regioni e Asl                                                                                                                                                                                          |
 +---------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Descrizione   | Il Ministero della Salute, di concerto con il MEF e l’AgID, ha messo a punto il progetto di adeguamento delle infrastrutture alle disposizioni del D.P.C.M. 178/2015.                                                                      |
 |               |                                                                                                                                                                                                                                            |

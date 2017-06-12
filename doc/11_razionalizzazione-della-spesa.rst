@@ -80,7 +80,7 @@ della spending review è pari a circa € 1,7 Mld.
 
 Sulla base di questi elementi, il punto di partenza per la
 definizione dell’obiettivo di risparmio da conseguire alla fine del
-triennio 2016-2018 è quindi quello rappresentato Figura 9, ed è
+triennio 2016-2018 è quindi quello rappresentato in Figura 9, ed è
 quantificabile in circa € 0,8 Mld, corrispondente al 50% della spesa
 corrente. Tale obiettivo deve intendersi come obiettivo complessivo e
 non riferito a ciascuna amministrazione (o relative società strumentali
@@ -163,7 +163,7 @@ A. per quanto riguarda la spesa corrente:
 B. per quanto riguarda le modalità di acquisto tramite Consip e altri
 soggetti aggregatori:
 
--  **licenze software,** sulla base dei dati finora raccolti da AgID,
+-  **licenze software**, sulla base dei dati finora raccolti da AgID,
    emerge l’evidenza di possibili risparmi in questo ambito, attraverso,
    in prima istanza, interventi di IT *asset management*\  [89]_ per
    l’ottimizzazione dei processi di acquisto e di gestione, quali ad
@@ -173,7 +173,7 @@ soggetti aggregatori:
 
 -  razionalizzazione e standardizzazione delle applicazioni;
 
--  uso di software open source.
+-  uso di software open source;
 
 -  utilizzo estensivo degli strumenti esistenti di Consip e degli altri
    soggetti aggregatori, secondo quanto riportato nell’Allegato 2
