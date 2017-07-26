@@ -216,7 +216,7 @@ dell’attuazione del Piano” del citato capitolo 10.
 |               |                                                                                                                                                                                                                                                                                                                                                                        |
 |               | Realizzazione dell’infrastruttura tecnologica, coerentemente con il piano di sviluppo della fase di sperimentazione del DAF, che implementa tutte le componenti necessarie per il funzionamento della Piattaforma.                                                                                                                                                     |
 +---------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Risultato     | `Piano di sviluppo del DAF <http://daf-piano-di-sviluppo.readthedocs.io>`_  (*data di rilascio: giugno 2017*).                                                                                                                                                                                                                                                                      |
+| Risultato     | `Piano di sviluppo del DAF <http://daf-piano-di-sviluppo.readthedocs.io>`_  (*data di rilascio: giugno 2017*).                                                                                                                                                                                                                                                         |
 |               |                                                                                                                                                                                                                                                                                                                                                                        |
 |               | Cluster big data e Test delle componenti e dei casi d'uso (*data di rilascio: dicembre 2017*).                                                                                                                                                                                                                                                                         |
 +---------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -264,11 +264,3 @@ dell’attuazione del Piano” del citato capitolo 10.
 +---------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Risultato     | Strumenti di supporto al monitoraggio del Piano *(da gennaio 2018)*                                                                                                                                                              |
 +---------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-
-
-Deliverables
-------------
-.. toctree::
-   :maxdepth: 1
-
-   deliverables/09_daf/piano-sviluppo.rst
