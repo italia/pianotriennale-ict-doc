@@ -6607,4 +6607,8 @@ body.pushy-open-left {
   margin: -54px 0 0;
 }
 
+div.rst-pro {
+  display: none !important;
+}
+
 /*# sourceMappingURL=theme.css.map */
