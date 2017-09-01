@@ -65,7 +65,7 @@ language = 'it'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
-exclude_patterns = ['.DS_Store', ]
+exclude_patterns = ['.DS_Store', '.env']
 
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'
@@ -130,7 +130,7 @@ html_last_updated_fmt = '%d/%m/%Y'
 
 # If true, SmartyPants will be used to convert quotes and dashes to
 # typographically correct entities.
-html_use_smartypants = True
+#html_use_smartypants = True
 
 # Custom sidebar templates, maps document names to template names.
 #html_sidebars = {}
