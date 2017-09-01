@@ -316,8 +316,8 @@ registri già operativi e specificati sul sito dell’AgID.
 |               |                                                                                                                                                                                                                                                                   |
 |               | Le Pubbliche amministrazioni titolari di basi di dati di interesse nazionale provvedono a descrivere le stesse mediante una specifica scheda informativa che illustra le modalità di fruizione e i principali riferimenti tecnico-normativi delle basi di dati.   |
 +---------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Risultato     | Schede informative (*data di rilascio: giugno 2017*)                                                                                                                                                                                                              |
-|               | Pagina web con elenco basi di dati di interesse nazionale *(data di rilascio: luglio 2017)*                                                                                                                                                                       |
+| Risultato     | `Schede informative`_ (*data di rilascio: giugno 2017*)                                                                                                                                                                                                           |
+|               | `Pagina web con elenco basi di dati di interesse nazionale`_ *(data di rilascio: luglio 2017)*                                                                                                                                                                    |
 +---------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 +---------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -534,7 +534,7 @@ La strategia prevede inoltre:
 |               |                                                                                                                                                                                                                                                      |
 |               | Introduzione delle specifiche relative al rilascio di una piattaforma *open source* per la gestione del ciclo di vita degli open data delle PA (ad es. catalogazione, procedure di inserimento e aggiornamento dei dati, modalità di esposizione).   |
 +---------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Risultato     | Linee guida (*data di rilascio: luglio 2017*)                                                                                                                                                                                                        |
+| Risultato     | `Linee guida`_ (*data di rilascio: luglio 2017*)                                                                                                                                                                                                     |
 |               | Prototipo piattaforma *open source* su *repository* pubblico (*data di rilascio: dicembre 2017*)                                                                                                                                                     |
 +---------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
@@ -547,7 +547,7 @@ La strategia prevede inoltre:
 +---------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Descrizione   | Individuazione di basi di dati chiave di particolare interesse per la collettività, da rendere disponibili come *open data* a livello nazionale, interrogabili secondo i principi descritti nel capitolo 5 “Modello di interoperabilità” e che usino Modelli di dati condivisi (sezione 4.1.4)   |
 +---------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Risultato     | Elenco delle basi di dati chiave (*data di rilascio: giugno 2017*)                                                                                                                                                                                                                               |
+| Risultato     | `Elenco delle basi di dati chiave`_ (*data di rilascio: giugno 2017*)                                                                                                                                                                                                                            |
 +---------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 +---------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -1174,6 +1174,19 @@ interfacce nel rispetto del Modello di interoperabilità della PA.
 +---------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Risultato     | Utilizzo da parte dei Comuni di ANPR *(data di rilascio: entro 2018)*                                                                                    |
 +---------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+
+.. _`Pagina web con elenco basi di dati di interesse nazionale`:
+   http://pianotri-schede-bdin.readthedocs.io/
+
+.. _`Schede informative`: 
+   http://www.dati.gov.it/content/piano-triennale-disponibili-schede-descrittive-basi-dati-interesse-nazionale
+
+.. _`Linee guida`:
+   http://www.dati.gov.it/content/pubblicata-nuova-versione-delle-linee-guida-valorizzazione-patrimonio-informativo-pubblico
+
+.. _`Elenco delle basi di dati chiave`:
+   http://elenco-basi-di-dati-chiave.readthedocs.io/
 
 .. rubric:: Note
 
