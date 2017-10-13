@@ -47,7 +47,7 @@ Scenario attuale
 Al fine di assicurare l’attuazione della Strategia per la crescita
 digitale 2014-2020, AgID ha provveduto a una prima definizione degli
 ecosistemi sulla base della classificazione `Missioni e
-Programmi <http://www.rgs.mef.gov.it/_Documenti/VERSIONE-I/e-GOVERNME1/Contabilit/Pubblicazioni/MissionieProgrammi/%20MissioniProgrammi-2015_10.pdf>`__\  [68]_
+Programmi <http://www.rgs.mef.gov.it/_Documenti/VERSIONE-I/e-GOVERNME1/Contabilit/Pubblicazioni/MissionieProgrammi/MissioniProgrammi-2015_10.pdf>`__\  [68]_
 indicati nella legge 28 dicembre 2015, n. 209 (Legge di Bilancio 2016).
 
 Sulla base dei criteri sopra indicati sono stati individuati gli
