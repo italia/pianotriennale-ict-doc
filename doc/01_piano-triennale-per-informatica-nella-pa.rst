@@ -387,7 +387,7 @@ Il documento contiene infine i seguenti allegati:
    Cfr.Statuto AgID, Decreto del Presidente del Consiglio dei Ministri 8 gennaio 2014 -
    `http://www.agid.gov.it/notizie/2014/02/14/pubblicato-gazzetta-ufficiale-lo-statuto-dellagid <http://www.agid.gov.it/notizie/2014/02/14/pubblicato-gazzetta-ufficiale-lo-statuto-dellagid>`__
    
-   La legge n.208 del 28 dicembre 2016 (Legge di stabilità 2016) prevede
+   La legge n.208 del 28 dicembre 2015 (Legge di stabilità 2016) prevede
    inoltre che l'Agenzia per l'Italia Digitale (AgID) predisponga - per
    conto della Presidenza del Consiglio dei Ministri – il Piano
    triennale (di seguito Piano) che guidi la trasformazione digitale
