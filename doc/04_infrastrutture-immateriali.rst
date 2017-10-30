@@ -943,7 +943,7 @@ interfacce nel rispetto del Modello di interoperabilità della PA.
 +---------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Attori        | AgID, PA                                                                                                                                                                                                                                                                                                                                       |
 +---------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Descrizione   | Le Pubbliche amministrazioni devono inviare ad AgID, attraverso il `portale di adesione <http://portal.pagopa.gov.it>`__\  [62]_, i piani di attivazione e integrazione della piattaforma abilitante PagoPA nelle loro soluzioni applicative.                                                                                                  |
+| Descrizione   | Le Pubbliche amministrazioni devono inviare ad AgID, attraverso il `portale di adesione <https://portal.pagopa.gov.it/pda-fa-portal/>`__\  [62]_, i piani di attivazione e integrazione della piattaforma abilitante PagoPA nelle loro soluzioni applicative.                                                                                                  |
 |               |                                                                                                                                                                                                                                                                                                                                                |
 |               | Le amministrazioni che entro giugno 2017 non hanno ancora completato l’adesione, dovranno adottare, in logica di sussidiarietà, le soluzioni già disponibili attuate dalle altre amministrazioni quali, ad esempio, piattaforme di regioni o di altre amministrazioni, che si propongono con il ruolo di intermediario previsto dal sistema.   |
 +---------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -1310,7 +1310,7 @@ interfacce nel rispetto del Modello di interoperabilità della PA.
    `www.spid.gov.it <https://www.spid.gov.it/>`__.
 
 .. [62]
-   `http://portal.pagopa.gov.it <http://portal.pagopa.gov.it>`__
+   `https://portal.pagopa.gov.it/pda-fa-portal/ <https://portal.pagopa.gov.it/pda-fa-portal/>`__
 
 .. [63]
    `http://www.fatturapa.gov.it/export/fatturazione/it/sdi.htm <http://www.fatturapa.gov.it/export/fatturazione/it/sdi.htm>`__
