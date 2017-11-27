@@ -5,8 +5,8 @@ Premessa
 --------
 
 Lo sviluppo e il rilancio di un’economia intelligente, sostenibile e
-solidale dell’Europa, finalizzato a conseguire elevati livelli di
-occupazione, produttività e coesione sociale, è strettamente legato alla
+solidale dell’Europa, finalizzati a conseguire elevati livelli di
+occupazione, produttività e coesione sociale, sono strettamente legati alla
 sua crescita digitale. Già dal 2010 la Strategia Europa 2020 si pone
 ambiziosi obiettivi in materia di occupazione, innovazione, istruzione,
 integrazione sociale e clima/energia ed individua, all’interno di “un
