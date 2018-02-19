@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = 'Piano triennale per l\'informatica nella PA<br />2017 - 2019'
+settings_project_name = 'Piano triennale per l\'informatica nella PA 2017 - 2019'
 settings_copyright_copyleft = 'CC-BY 3.0 - Agenzia per l\'Italia Digitale'
 settings_editor_name = 'AgID - Agenzia per l\'Italia Digitale'
 settings_doc_version = '1'
@@ -13,6 +13,7 @@ settings_file_name = 'Piano-Triennale'
 
 import sys
 import os
+docs_italia_theme = __import__("docs-italia-theme")
 
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
@@ -24,6 +25,7 @@ extensions = [
     'sphinx.ext.todo',
     'sphinx.ext.coverage',
     'sphinx.ext.ifconfig',
+    'docs-italia-theme'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -71,18 +73,21 @@ exclude_patterns = ['.DS_Store', '.env']
 pygments_style = 'sphinx'
 
 # -- Options for HTML output ----------------------------------------------
-html_theme = 'sphinx_italia_theme'
+html_theme = 'docs-italia-theme'
 
-html_theme_path = ["_themes", ]
+html_theme_path = [docs_italia_theme.get_html_theme_path()]
 
+html_theme_options = {
+    'collapse_navigation': True
+}
 # -- ReadTheDoc requirements and local template generation---------------------
 
 # on_rtd is whether we are on readthedocs.org, this line of code grabbed from docs.readthedocs.org
 on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
 
 if not on_rtd:  # only import and set the theme if we're building docs locally
-    html_theme = 'sphinx_italia_theme'
-    html_theme_path = ["_themes", ]
+    html_theme = 'docs-italia-theme'
+    html_theme_path = [docs_italia_theme.get_html_theme_path()]
     html_context = {
         'reference_project': 'Piano Triennale ICT 2017 - 2019',
         'reference_project_url': 'https://pianotriennale-ict.italia.it/',
@@ -96,7 +101,6 @@ else:
         'reference_project': 'Piano Triennale ICT 2017 - 2019',
         'reference_project_url': 'https://pianotriennale-ict.italia.it/',
     }
-
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
