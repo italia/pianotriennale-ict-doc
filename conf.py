@@ -77,6 +77,10 @@ html_theme = 'docs-italia-theme'
 
 html_theme_path = [docs_italia_theme.get_html_theme_path()]
 
+html_theme_options = {
+    'collapse_navigation': True
+}
+
 # -- ReadTheDoc requirements and local template generation---------------------
 
 # on_rtd is whether we are on readthedocs.org, this line of code grabbed from docs.readthedocs.org
