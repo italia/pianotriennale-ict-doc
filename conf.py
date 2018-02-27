@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = 'Piano triennale per l\'informatica nella PA 2017 - 2019'
-settings_copyright_copyleft = 'CC-BY 3.0 - Agenzia per l\'Italia Digitale'
-settings_editor_name = 'AgID - Agenzia per l\'Italia Digitale'
+settings_project_name = "Piano triennale per l'informatica nella PA 2017 - 2019"
+settings_copyright_copyleft = "CC-BY 3.0 - Agenzia per l'Italia Digitale"
+settings_editor_name = "AgID - Agenzia per l'Italia Digitale"
 settings_doc_version = '1'
 settings_doc_release = '1.0'
 settings_basename = 'PianoTriennale'
@@ -29,7 +29,7 @@ extensions = [
 ]
 
 # Add any paths that contain templates here, relative to this directory.
-templates_path = ['_templates']
+#templates_path = ['_templates']
 
 # The suffix of source filenames.
 source_suffix = '.rst'
@@ -86,26 +86,9 @@ html_theme_options = {
 # on_rtd is whether we are on readthedocs.org, this line of code grabbed from docs.readthedocs.org
 on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
 
-if not on_rtd:  # only import and set the theme if we're building docs locally
-    html_theme = 'docs-italia-theme'
-    html_theme_path = [docs_italia_theme.get_html_theme_path()]
-    html_context = {
-        'reference_project': 'Piano Triennale ICT 2017 - 2019',
-        'reference_project_url': 'https://pianotriennale-ict.italia.it/',
-    }
-else:
-    # Override default css to get a larger width for ReadTheDoc build
-    html_context = {
-        'css_files': [
-            '_static/css/theme.css',
-        ],
-        'reference_project': 'Piano Triennale ICT 2017 - 2019',
-        'reference_project_url': 'https://pianotriennale-ict.italia.it/',
-    }
-
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
-html_title = "Piano Triennale ICT 2017 - 2019"
+html_title = settings_project_name
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #html_short_title = None
