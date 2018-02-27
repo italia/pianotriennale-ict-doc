@@ -72,6 +72,20 @@ exclude_patterns = ['.DS_Store', '.env']
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'
 
+# -- ReadTheDoc requirements and local template generation-----------------
+
+# on_rtd is whether we are on readthedocs.org, this line of code grabbed from docs.readthedocs.org
+on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
+
+# override css_files to prevent injection of css files on rtd
+if on_rtd:
+    html_context = {
+        'css_files': [
+            '_static/css/theme.css',
+            '_static/css/badge_only.css',
+        ],
+    }
+
 # -- Options for HTML output ----------------------------------------------
 html_theme = 'docs-italia-theme'
 
@@ -80,11 +94,6 @@ html_theme_path = [docs_italia_theme.get_html_theme_path()]
 html_theme_options = {
     'collapse_navigation': True
 }
-
-# -- ReadTheDoc requirements and local template generation---------------------
-
-# on_rtd is whether we are on readthedocs.org, this line of code grabbed from docs.readthedocs.org
-on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
