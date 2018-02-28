@@ -7,7 +7,6 @@ settings_copyright_copyleft = "CC-BY 3.0 - Agenzia per l'Italia Digitale"
 settings_editor_name = "AgID - Agenzia per l'Italia Digitale"
 settings_doc_version = '1'
 settings_doc_release = '1.0'
-settings_basename = 'PianoTriennale'
 settings_file_name = 'Piano-Triennale'
 
 
@@ -163,7 +162,7 @@ html_last_updated_fmt = '%d/%m/%Y'
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = settings_basename + 'doc'
+htmlhelp_basename = settings_file_name + 'doc'
 
 
 # -- Options for LaTeX output ---------------------------------------------
