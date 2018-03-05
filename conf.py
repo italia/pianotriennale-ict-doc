@@ -83,6 +83,11 @@ if on_rtd:
             '_static/css/theme.css',
             '_static/css/badge_only.css',
         ],
+        # The translations available for this project
+        'translations': {
+            'it': 'ITA',
+            'en': 'ENG'
+        }
     }
 
 # -- Options for HTML output ----------------------------------------------
