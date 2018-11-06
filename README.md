@@ -8,4 +8,4 @@ Questo repository contiene il testo del *Piano Triennale per l'informatica nella
 [https://forum.italia.it/c/piano-triennale](https://forum.italia.it/c/piano-triennale)
 
 ## Testo integrale del Piano Triennale
-[https://pianotriennale-ict.readthedocs.io/](https://pianotriennale-ict.readthedocs.io/)
+[https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/](https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/)
