@@ -31,5 +31,9 @@ anche in questo caso, il livello di apertura come prima descritto (attribuendo v
 2. Paniere dinamico di dataset su base nazionale e regionale
 ------------------------------------------------------------
 
-Il dataset è disponibile per il download all'indirizzo `http://www.dati.gov.it/sites/default/files/PANIERE-dataset_20170207.ods
+Il dataset è disponibile per il download all'indirizzo:
+
+1. paniere al 31/12/2016 `http://www.dati.gov.it/sites/default/files/PANIERE-dataset_20170207.ods
 <http://www.dati.gov.it/sites/default/files/PANIERE-dataset_20170207.ods>`__.
+2. paniere al 31/12/2017 (ultima versione) `https://www.dati.gov.it/content/rapporto-annuale-disponibilit-banche-dati-pubbliche-formato-aperto-paniere-dinamico-dataset
+<https://www.dati.gov.it/content/rapporto-annuale-disponibilit-banche-dati-pubbliche-formato-aperto-paniere-dinamico-dataset>`__.
