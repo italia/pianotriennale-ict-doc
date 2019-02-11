@@ -36,4 +36,4 @@ La versione del dataset al 31/12/2016 è disponibile per il download all'indiriz
 
 La versione del dataset al 31/12/2017 (ultima versione) è disponibile per il download all'indirizzo `https://www.dati.gov.it/sites/default/files/PANIERE-dataset_2017-finale.ods <https://www.dati.gov.it/sites/default/files/PANIERE-dataset_2017-finale.ods>`__.
 
-In ogni caso, l'utente si può riferire alla `pagina relativa <https://www.dati.gov.it/content/rapporto-annuale-disponibilit-banche-dati-pubbliche-formato-aperto-paniere-dinamico-dataset>`__disponibile sul sito dati.gov.it.
+In ogni caso, l'utente si può riferire alla `pagina relativa <https://www.dati.gov.it/content/rapporto-annuale-disponibilit-banche-dati-pubbliche-formato-aperto-paniere-dinamico-dataset>`__ disponibile sul sito dati.gov.it.
