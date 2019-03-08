@@ -1,3 +1,11 @@
+.. attention::
+   **Questa non è l'ultima versione del Piano Triennale per l’informatica nella
+   Pubblica Amministrazione.**
+
+   Per navigare tra le versioni, usa il menu a tendina nella barra in alto
+   oppure vai direttamente alla `versione più recente
+   <https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/>`__.
+
 Sicurezza
 =========
 
