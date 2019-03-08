@@ -1,0 +1,134 @@
+Ringraziamenti
+==============
+
+Si ringrazia per la collaborazione alla stesura del Piano Triennale per
+l’Informatica nella Pubblica Amministrazione 2019 - 2021:
+
+- A.Li.Sa. - Azienda Ligure Sanitaria della Regione Liguria
+- Aci informatica
+- Agenzia del Demanio
+- Agenzia delle Dogane e dei Monopoli
+- Agenzia delle Entrate
+- Agenzia delle Entrate - Riscossione
+- Agenzia per i procedimenti e la vigilanza in materia di contratti pubblici di
+  lavori, servizi e forniture - Provincia autonoma di Bolzano
+- Agenzia per la Coesione territoriale
+- Agenzia provinciale per gli appalti e contratti - Trento
+- Agenzia Regionale Intercent-Emilia Romagna
+- Ales inhouse
+- ANCI
+- Assinform
+- Assintel
+- Assinter
+- Automobile Club d’Italia
+- Azienda Regionale Centrale Acquisti - ARCA S.p.a.
+- CISIS
+- Città metropolitana di Bari
+- Città metropolitana di Bologna
+- Città metropolitana di Cagliari
+- Città metropolitana di Catania
+- Città metropolitana di Firenze
+- Città metropolitana di Genova
+- Città metropolitana di Messina
+- Città metropolitana di Milano
+- Città metropolitana di Napoli
+- Città metropolitana di Palermo
+- Città metropolitana di Reggio Calabria
+- Città metropolitana di Roma
+- Città metropolitana di Torino
+- Città metropolitana di Venezia
+- Comitato di indirizzo di AGID
+- Commissione speciale Agenda Digitale della Conferenza delle Regioni e Province
+  Autonome
+- Comune di Bari
+- Comune di Bologna
+- Comune di Cagliari
+- Comune di Catania
+- Comune di Firenze
+- Comune di Genova
+- Comune di Messina
+- Comune di Milano
+- Comune di Napoli
+- Comune di Palermo
+- Comune di Reggio Calabria
+- Comune di Roma
+- Comune di Torino
+- Comune di Venezia
+- Conferenza delle Regioni e Province Autonome
+- Confetra
+- Confindustria digitale
+- Consip
+- CRAS – Centrale Regionale per gli Acquisti in Sanità
+- CSI - Piemonte
+- CUP2000 - Emilia Romagna
+- Deloitte
+- Dipartimento Funzione pubblica
+- Ente di supporto tecnico-amministrativo regionale - ESTAR - Regione Toscana
+- Ernst Young
+- Formez
+- IN.VA. S.p.a.
+- INAIL
+- Infocamere
+- INPS
+- LAZIOCrea S.p.a.
+- Lepida - Emilia Romagna
+- Liguria digitale
+- Ministero degli Affari Esteri e della Cooperazione Internazionale
+- Ministero dei Beni e delle Attività Culturali e del Turismo
+- Ministero del Lavoro e delle Politiche Sociali
+- Ministero della Difesa
+- Ministero della Giustizia
+- Ministero della Salute
+- Ministero dell’Interno
+- Ministero dell’Istruzione, dell’Università e della Ricerca
+- Ministero Economia e Finanze - DAG
+- Ministero Economia e Finanze - Dipartimento Finanze
+- Ministero Economia e Finanze - Dipartimento RGS
+- Ministero Economia e Finanze - Dipartimento RGS Sanità
+- Ministero Economia e Finanze - Dipartimento Tesoro
+- Ministero Infrastrutture e Trasporti
+- Ministero Politiche Agricole, Alimentari e Forestali
+- Ministero Sviluppo Economico
+- Molise Dati S.p.a.
+- NetconsultingCube
+- Politecnico di Milano
+- Provincia Autonoma di Bolzano
+- Provincia Autonoma di Trento
+- Provincia di Brescia - Stazione unica appaltante
+- Provincia di Vicenza
+- Regione Abruzzo
+- Regione Autonoma Friuli Venezia Giulia - Servizio Centrale unica di
+  committenza - Direzione centrale funzione pubblica
+- Regione Basilicata
+- Regione Calabria
+- Regione Campania
+- Regione Emilia-Romagna
+- Regione Friuli Venezia Giulia
+- Regione Lazio
+- Regione Liguria
+- Regione Lombardia
+- Regione Marche
+- Regione Molise
+- Regione Piemonte
+- Regione Puglia
+- Regione Sardegna
+- Regione Sicilia
+- Regione Sicilia - Centrale Unica di Committenza regionale
+- Regione Toscana
+- Regione Umbria
+- Regione Valle d’Aosta
+- Regione Veneto
+- Scuola Nazionale dell’Amministrazione
+- Servizio della Centrale regionale di committenza della Regione Sardegna
+- Servizio regionale Centrale Unica di Committenza del Molise
+- Sicilia Digitale S.p.a.
+- So.Re.Sa. S.p.a.
+- Società di Committenza della Regione Piemonte S.p.a. - SCR
+- Sogei
+- Stazione Unica Appaltante Abruzzo
+- Stazione Unica Appaltante Basilicata
+- Stazione Unica Appaltante Calabria
+- Stazione Unica Appaltante Liguria
+- Stazione Unica Appaltante Marche - SUAM
+- Unioncamere
+- UOC - CRAV di Azienda Zero

@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Livello_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1024 1112" style="enable-background:new 0 0 1024 1112;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#DBDBDB;}
+	.st1{fill:#050066;}
+	.st2{font-family:'TitilliumWeb-Regular';}
+	.st3{font-size:12px;}
+	.st4{fill:#999CFF;}
+	.st5{fill:#3399FF;}
+	.st6{fill:#00A86D;}
+	.st7{fill:#00FFFF;}
+	.st8{fill:#FF9700;}
+	.st9{fill:#042748;}
+	.st10{font-family:'TitilliumWeb-SemiBold';}
+	.st11{fill:none;stroke:#868988;stroke-miterlimit:10;}
+	.st12{fill:none;stroke:#868988;stroke-miterlimit:10;stroke-dasharray:5.6667,5.6667;}
+	.st13{fill:none;stroke:#868988;stroke-miterlimit:10;stroke-dasharray:5.3333,5.3333;}
+	.st14{fill:none;stroke:#FFFFFF;stroke-width:2.5;stroke-miterlimit:10;}
+	.st15{fill:none;stroke:#AAAAAA;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:3.9332,3.9332,3.9332,3.9332,3.9332,3.9332;}
+	.st16{fill:#FFFFFF;}
+	.st17{fill:none;}
+	.st18{font-size:15.6253px;}
+	.st19{fill:#01B0F0;}
+	.st20{fill:#1F3765;}
+	.st21{font-size:14.3752px;}
+	.st22{fill:#305497;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st23{font-size:18px;}
+	.st24{font-family:'TitilliumWeb-Bold';}
+	.st25{font-size:21.4438px;}
+	.st26{enable-background:new    ;}
+	.st27{font-size:16px;}
+	.st28{font-size:28px;}
+	.st29{font-size:30.9045px;}
+	.st30{fill:#FFC000;}
+</style>
+<g id="Sfondo_1_">
+	<rect id="Sfondo" class="st0" width="1024" height="1112"/>
+	<g id="Legenda">
+		<g>
+			<rect x="49.5" y="1037.5" class="st1" width="16" height="16"/>
+			<text transform="matrix(1 0 0 1 72.322 1049.8453)" class="st2 st3">Strategico</text>
+		</g>
+		<g>
+			
+				<rect x="49.5" y="1062.4" transform="matrix(2.459622e-03 -1 1 2.459622e-03 -1012.9977 1125.2705)" class="st4" width="16" height="16"/>
+			<text transform="matrix(1 2.460000e-03 -2.460000e-03 1 72.3521 1074.8063)" class="st2 st3">Coordinamento</text>
+		</g>
+		<g>
+			<rect x="174.5" y="1037.5" class="st5" width="16" height="16"/>
+			<text transform="matrix(1 0 0 1 197.3416 1049.8453)" class="st2 st3">Implementazione</text>
+		</g>
+		<g>
+			<rect x="174.5" y="1062.4" class="st6" width="16" height="16"/>
+			<text transform="matrix(1 0 0 1 197.3416 1074.7799)" class="st2 st3">Monitoraggio</text>
+		</g>
+		<g>
+			<rect x="295.5" y="1037.5" class="st7" width="16" height="16"/>
+			<text transform="matrix(1 0 0 1 318.3416 1049.8453)" class="st2 st3">Utilizzatore</text>
+		</g>
+		<g>
+			<rect x="295.5" y="1062.4" class="st8" width="16" height="16"/>
+			<text transform="matrix(1 0 0 1 318.3416 1074.7799)" class="st2 st3">Centrale acquisti PA</text>
+		</g>
+		<text transform="matrix(1 0 0 1 49.3416 1020.2858)" class="st9 st10 st3">RUOLO</text>
+	</g>
+</g>
+<g id="Collegamenti">
+	<line class="st11" x1="512.9" y1="123.5" x2="512.9" y2="642.5"/>
+	<line class="st11" x1="423" y1="730.7" x2="325" y2="730.7"/>
+	<g>
+		<g>
+			<line class="st11" x1="624" y1="572" x2="621" y2="572"/>
+			<line class="st12" x1="615.3" y1="572" x2="606.8" y2="572"/>
+			<line class="st11" x1="604" y1="572" x2="601" y2="572"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st11" x1="425" y1="572" x2="422" y2="572"/>
+			<line class="st13" x1="416.7" y1="572" x2="408.7" y2="572"/>
+			<line class="st11" x1="406" y1="572" x2="403" y2="572"/>
+		</g>
+	</g>
+	<line class="st11" x1="583" y1="301.2" x2="512.5" y2="301.2"/>
+	<line class="st11" x1="513" y1="216.2" x2="453" y2="216.2"/>
+	<line class="st11" x1="325.5" y1="719" x2="325.5" y2="743"/>
+	<line class="st11" x1="512.9" y1="820" x2="512.9" y2="866"/>
+	<line class="st14" x1="787" y1="78.5" x2="627" y2="78.5"/>
+	<line class="st14" x1="425" y1="492" x2="375" y2="492"/>
+	<line class="st14" x1="269.5" y1="371.2" x2="236.5" y2="371.2"/>
+	<line class="st14" x1="257.5" y1="216.2" x2="229.5" y2="216.2"/>
+	<line class="st14" x1="239" y1="589.2" x2="216" y2="589.2"/>
+	<line class="st14" x1="787" y1="163.2" x2="768" y2="163.2"/>
+	<line class="st14" x1="787" y1="301.2" x2="756" y2="301.2"/>
+	<line class="st14" x1="787" y1="460.9" x2="746" y2="460.9"/>
+	<line class="st14" x1="787" y1="572.5" x2="755" y2="572.5"/>
+	<line class="st14" x1="787" y1="730.7" x2="600" y2="730.7"/>
+	<line class="st14" x1="783" y1="918" x2="644" y2="918"/>
+	<g>
+		<path class="st15" d="M587,819H435c-6.6,0-12-5.4-12-12V654.5c0-6.6,5.4-12,12-12h152c6.6,0,12,5.4,12,12V807
+			C599,813.6,593.6,819,587,819z"/>
+	</g>
+	<line class="st14" x1="352" y1="343" x2="352" y2="264"/>
+</g>
+<g id="Ruoli">
+	<g>
+		<rect x="787" y="46.5" class="st16" width="214" height="64"/>
+		<text transform="matrix(1 0 0 1 812.5 72.1454)" class="st2 st3">• Fornisce indirizzi strategici</text>
+		<text transform="matrix(1 0 0 1 812.5 91.5454)" class="st2 st3">• Facilita l’adozione di strategie</text>
+	</g>
+	<g>
+		<rect x="787" y="275.7" class="st16" width="214" height="50.8"/>
+		<text transform="matrix(1 0 0 1 812.5 297.317)" class="st2 st3">Organo politico di controllo della  </text>
+		<text transform="matrix(1 0 0 1 812.5 311.717)" class="st2 st3">spesa</text>
+	</g>
+	<g>
+		<rect x="787" y="535.5" class="st16" width="214" height="74"/>
+		<text transform="matrix(1 0 0 1 812.5 561.4414)" class="st2 st3">• Gestisce gli acquisti  </text>
+		<text transform="matrix(1 0 0 1 812.5 575.8414)" class="st2 st3">centralizzati e i rapporti con i  </text>
+		<text transform="matrix(1 0 0 1 812.5 590.2414)" class="st2 st3">soggetti aggregatori</text>
+	</g>
+	<g>
+		<rect x="787" y="434.1" class="st16" width="214" height="53.5"/>
+		<text transform="matrix(1 0 0 1 812.5 457.0206)" class="st2 st3">Organo d’indirizzo strategico  </text>
+		<text transform="matrix(1 0 0 1 812.5 471.4206)" class="st2 st3">dell’AGID</text>
+	</g>
+	<g>
+		<rect x="787" y="672.7" class="st16" width="214" height="116"/>
+		<rect x="812.5" y="688.7" class="st17" width="161.5" height="84"/>
+		<text transform="matrix(1 0 0 1 812.5 697.3553)" class="st2 st3">• Coordinano le iniziative</text>
+		<text transform="matrix(1 0 0 1 812.5 716.7552)" class="st2 st3">• Monitorano l’avanzamento </text>
+		<text transform="matrix(1 0 0 1 812.5 731.1553)" class="st2 st3">operativo della progettualità</text>
+		<text transform="matrix(1 0 0 1 812.5 750.5553)" class="st2 st3">• curano le modalità di </text>
+		<text transform="matrix(1 0 0 1 812.5 764.9553)" class="st2 st3">diffusione</text>
+	</g>
+	<g>
+		<rect x="783" y="872.5" class="st16" width="218" height="91"/>
+		<text transform="matrix(1 0 0 1 812.5 897.266)" class="st2 st3">• Usufruiscono dei servizi</text>
+		<text transform="matrix(1 0 0 1 812.5 916.666)" class="st2 st3">• Partecipano alla  </text>
+		<text transform="matrix(1 0 0 1 812.5 931.066)" class="st2 st3">progettazione e creazione di  </text>
+		<text transform="matrix(1 0 0 1 812.5 945.466)" class="st2 st3">alcuni servizi (co-creation)</text>
+	</g>
+	<g>
+		<rect x="787" y="118.5" class="st16" width="214" height="89.5"/>
+		<text transform="matrix(1 0 0 1 812.5 142.5056)" class="st2 st3">• Detta le linee guida per  </text>
+		<text transform="matrix(1 0 0 1 812.5 156.9056)" class="st2 st3">l’attuazione dell’Agenda Digitale</text>
+		<text transform="matrix(1 0 0 1 812.5 176.3056)" class="st2 st3">• Coordina e supervisiona i  </text>
+		<text transform="matrix(1 0 0 1 812.5 190.7056)" class="st2 st3">progetti digitali</text>
+	</g>
+	<g>
+		<rect x="23" y="347.5" class="st16" width="214" height="47.3"/>
+		<text transform="matrix(1 0 0 1 40.5913 367.3167)" class="st2 st3">• Monitora lo stato di  </text>
+		<text transform="matrix(1 0 0 1 40.5913 381.7167)" class="st2 st3">attuazione della strategia ICT</text>
+	</g>
+	<g>
+		<rect x="23" y="171.3" class="st16" width="214" height="89.8"/>
+		<text transform="matrix(1 0 0 1 40.5916 190.7559)" class="st2 st3">• esercita funzioni di  </text>
+		<text transform="matrix(1 0 0 1 40.5916 205.1559)" class="st2 st3">coordinamento, di indirizzo, di  </text>
+		<text transform="matrix(1 0 0 1 40.5916 219.5559)" class="st2 st3">promozione in materia di  </text>
+		<text transform="matrix(1 0 0 1 40.5916 233.9559)" class="st2 st3">digitalizzazione delle pubbliche  </text>
+		<text transform="matrix(1 0 0 1 40.5916 248.3559)" class="st2 st3">amministrazioni</text>
+	</g>
+	<g>
+		<rect x="23" y="550.2" class="st16" width="193" height="77.8"/>
+		<g>
+			<text transform="matrix(1 0 0 1 40.5916 570.9164)" class="st2 st3">• Fornisce supporto  </text>
+			<text transform="matrix(1 0 0 1 40.5916 585.3164)" class="st2 st3">all’attuazione della  </text>
+			<text transform="matrix(1 0 0 1 40.5916 599.7164)" class="st2 st3">programmazione comunitaria e  </text>
+			<text transform="matrix(1 0 0 1 40.5916 614.1164)" class="st2 st3">nazionale</text>
+		</g>
+	</g>
+	<g>
+		<rect x="23" y="446.5" class="st16" width="352" height="91"/>
+		<text transform="matrix(1 0 0 1 40.5913 468.745)" class="st2 st3">• Redige, coordina e monitora il Piano Triennale</text>
+		<text transform="matrix(1 0 0 1 40.5913 488.145)" class="st2 st3">• Emana le regole tecniche e definisce le linee guida</text>
+		<text transform="matrix(1 0 0 1 40.5913 507.545)" class="st2 st3">• Coordina le progettualità strategiche per il paese e realizza  le  </text>
+		<text transform="matrix(1 0 0 1 40.5913 521.945)" class="st2 st3">infrastrutture immateriali nazionali</text>
+	</g>
+</g>
+<g id="Attori">
+	<g id="MEF">
+		<path class="st6" d="M748.6,329.4H590.9c-4.4,0-7.9-3.6-7.9-7.9v-40.7c0-4.4,3.6-7.9,7.9-7.9h157.7c4.4,0,7.9,3.6,7.9,7.9v40.7
+			C756.5,325.8,752.9,329.4,748.6,329.4z"/>
+		<text transform="matrix(1 0 0 1 656.9053 305.3893)" class="st16 st10 st18">MEF</text>
+	</g>
+	<g id="Comitato_indirizzo">
+		<path class="st19" d="M740.6,481.2H568.9c-3.2,0-5.8-2.6-5.8-5.8v-29.2c0-3.2,2.6-5.8,5.8-5.8h171.8c3.2,0,5.8,2.6,5.8,5.8v29.2
+			C746.4,478.6,743.8,481.2,740.6,481.2z"/>
+		<text transform="matrix(1 0 0 1 577.3696 464.7537)" class="st20 st10 st21">Comitato d’indirizzo AGID</text>
+	</g>
+	<g id="Ministro_della_PA">
+		<path class="st4" d="M270.2,264.5c-7,0-12.7-5.7-12.7-12.7v-71.1c0-7,5.7-12.7,12.7-12.7h170.1c7,0,12.7,5.7,12.7,12.7v71.1
+			c0,7-5.7,12.7-12.7,12.7L270.2,264.5L270.2,264.5z"/>
+		<path class="st22" d="M440.3,259.5H270.2c-4.2,0-7.7-3.5-7.7-7.7v-71.1c0-4.2,3.5-7.7,7.7-7.7h170.1c4.2,0,7.7,3.5,7.7,7.7v71.1
+			C448,256,444.5,259.5,440.3,259.5z"/>
+		<text transform="matrix(1 0 0 1 287.417 220.0138)" class="st16 st10 st23">Ministro della PA</text>
+	</g>
+	<g id="AGID">
+		<path class="st6" d="M590.6,583.5H435.3c-5.7,0-10.4-4.7-10.4-10.4v-90.8c0-5.7,4.7-10.4,10.4-10.4h155.3
+			c5.7,0,10.4,4.7,10.4,10.4v90.8C600.9,578.8,596.3,583.5,590.6,583.5z"/>
+		<path class="st20" d="M581,576.5H444.8c-4.9,0-9-4-9-9v-79.6c0-4.9,4-9,9-9H581c4.9,0,9,4,9,9v79.6C590,572.4,586,576.5,581,576.5
+			z"/>
+		<path class="st19" d="M571.6,568.5H454.3c-4.1,0-7.4-3.3-7.4-7.4v-66.6c0-4.1,3.3-7.4,7.4-7.4h117.4c4.1,0,7.4,3.3,7.4,7.4V561
+			C579.1,565.1,575.7,568.5,571.6,568.5z"/>
+		<path class="st4" d="M561.7,561h-97.5c-3.3,0-5.9-2.7-5.9-5.9v-54.6c0-3.3,2.7-5.9,5.9-5.9h97.5c3.3,0,5.9,2.7,5.9,5.9V555
+			C567.6,558.3,565,561,561.7,561z"/>
+		<text transform="matrix(1 0 0 1 490.0259 533.4007)" class="st20 st24 st25">AGID</text>
+	</g>
+	<g id="DFP">
+		<path class="st6" d="M426.8,399.4H277.2c-4.2,0-7.7-3.5-7.7-7.7v-41.1c0-4.2,3.5-7.7,7.7-7.7h149.6c4.2,0,7.7,3.5,7.7,7.7v41.1
+			C434.5,395.9,431,399.4,426.8,399.4z"/>
+		<text transform="matrix(1 0 0 1 307.7344 366.0139)" class="st16 st10 st18">Dipartimento</text>
+		<text transform="matrix(1 0 0 1 291.3344 384.8138)" class="st16 st10 st18">Funzione Pubblica</text>
+	</g>
+	<g id="PAC">
+		<path class="st7" d="M579,719.9H444.9c-4.4,0-8-3.6-8-8v-50.1c0-4.4,3.6-8,8-8H579c4.4,0,8,3.6,8,8V712
+			C587,716.3,583.4,719.9,579,719.9z"/>
+		<path class="st4" d="M573.7,713.7H450.2c-3.8,0-6.9-3.1-6.9-6.9v-40c0-3.8,3.1-6.9,6.9-6.9h123.6c3.8,0,6.9,3.1,6.9,6.9v40
+			C580.6,710.7,577.5,713.7,573.7,713.7z"/>
+		<path class="st19" d="M568,707.5H455.9c-3.1,0-5.7-2.6-5.7-5.7V672c0-3.1,2.6-5.7,5.7-5.7H568c3.1,0,5.7,2.6,5.7,5.7v29.8
+			C573.7,705,571.1,707.5,568,707.5z"/>
+		<text transform="matrix(1 0 0 1 454.9669 683.1316)" class="st26"><tspan x="0" y="0" class="st20 st24 st27">Amministrazioni</tspan><tspan x="30.7" y="16" class="st20 st24 st27">centrali</tspan></text>
+	</g>
+	<g id="PAL">
+		<path class="st7" d="M577.1,802.6H443c-4.4,0-8-3.6-8-8v-50.1c0-4.4,3.6-8,8-8h134.2c4.4,0,8,3.6,8,8v50.1
+			C585.1,799,581.5,802.6,577.1,802.6z"/>
+		<path class="st4" d="M571.8,796.4H448.3c-3.8,0-6.9-3.1-6.9-6.9v-40c0-3.8,3.1-6.9,6.9-6.9h123.6c3.8,0,6.9,3.1,6.9,6.9v40
+			C578.7,793.3,575.6,796.4,571.8,796.4z"/>
+		<path class="st19" d="M566.1,790.2H454c-3.1,0-5.7-2.6-5.7-5.7v-29.8c0-3.1,2.6-5.7,5.7-5.7h112.1c3.1,0,5.7,2.6,5.7,5.7v29.8
+			C571.8,787.6,569.2,790.2,566.1,790.2z"/>
+		<text transform="matrix(1 0 0 1 453.067 765.8315)" class="st26"><tspan x="0" y="0" class="st20 st24 st27">Amministrazioni</tspan><tspan x="38.7" y="16" class="st20 st24 st27">locali</tspan></text>
+	</g>
+	<g id="Cittadini_e_imprese">
+		<path class="st7" d="M637.6,970.6H388.3c-3.5,0-6.4-2.9-6.4-6.4v-92.4c0-3.5,2.9-6.4,6.4-6.4h249.4c3.5,0,6.4,2.9,6.4,6.4v92.4
+			C644,967.7,641.1,970.6,637.6,970.6z"/>
+		<text transform="matrix(1 0 0 1 400.3225 925.5949)" class="st20 st10 st28">Cittadini e imprese</text>
+	</g>
+	<g id="Agenzia_coesione">
+		<path class="st19" d="M395.8,617.4H246.2c-4.2,0-7.7-3.5-7.7-7.7v-41.1c0-4.2,3.5-7.7,7.7-7.7h149.6c4.2,0,7.7,3.5,7.7,7.7v41.1
+			C403.5,613.9,400,617.4,395.8,617.4z"/>
+		<text transform="matrix(1 0 0 1 277.2334 586.0138)" class="st20 st10 st18">Agenzia per la</text>
+		<text transform="matrix(1 0 0 1 256.9334 604.8138)" class="st20 st10 st18">coesione territoriale</text>
+	</g>
+	<g id="Commissario">
+		<path class="st4" d="M585.2,204.5c-7,0-12.7-5.7-12.7-12.7v-71.1c0-7,5.7-12.7,12.7-12.7h170.1c7,0,12.7,5.7,12.7,12.7v71.1
+			c0,7-5.7,12.7-12.7,12.7H585.2z"/>
+		<path class="st22" d="M755.3,199.5H585.2c-4.2,0-7.7-3.5-7.7-7.7v-71.1c0-4.2,3.5-7.7,7.7-7.7h170.1c4.2,0,7.7,3.5,7.7,7.7v71.1
+			C763,196,759.5,199.5,755.3,199.5z"/>
+		<text transform="matrix(1 0 0 1 628.4985 141.4592)" class="st16 st10 st18">Commissario</text>
+		<text transform="matrix(1 0 0 1 614.1985 160.2592)" class="st16 st10 st18">straordinario per </text>
+		<text transform="matrix(1 0 0 1 615.6985 178.9592)" class="st16 st10 st18">l’Agenda Digitale</text>
+	</g>
+	<g id="Governo">
+		<path class="st22" d="M615.9,122.5h-206c-6.6,0-12-5.4-12-12v-74c0-6.6,5.4-12,12-12h206c6.6,0,12,5.4,12,12v74
+			C627.9,117.1,622.5,122.5,615.9,122.5z"/>
+		<text transform="matrix(1 0 0 1 457.8813 82.3854)" class="st16 st10 st29">Governo</text>
+	</g>
+	<g id="Consip">
+		<path class="st30" d="M749.6,609.7H629.7c-2.9,0-5.3-2.4-5.3-5.3v-63.9c0-2.9,2.4-5.3,5.3-5.3h119.9c2.9,0,5.3,2.4,5.3,5.3v63.9
+			C754.9,607.3,752.5,609.7,749.6,609.7z"/>
+		<text transform="matrix(1 0 0 1 667.7258 557.213)" class="st20 st10 st18">Consip</text>
+		<text transform="matrix(1 0 0 1 659.3258 576.013)" class="st20 st10 st18">e centrali</text>
+		<text transform="matrix(1 0 0 1 638.4258 594.713)" class="st20 st10 st18">di committenza</text>
+	</g>
+	<g id="Enti_strumentali">
+		<path class="st19" d="M749.6,760.5H629.7c-2.9,0-5.3-2.4-5.3-5.3v-48.9c0-2.9,2.4-5.3,5.3-5.3h119.9c2.9,0,5.3,2.4,5.3,5.3v48.9
+			C754.9,758.1,752.5,760.5,749.6,760.5z"/>
+		<text transform="matrix(1 0 0 1 677.9202 726.0137)" class="st20 st10 st21">Enti</text>
+		<text transform="matrix(1 0 0 1 654.3203 743.3137)" class="st20 st10 st21">strumentali</text>
+	</g>
+	<g id="Società_in_house">
+		<path class="st19" d="M383.6,719.2H266.9c-3.2,0-5.8-2.6-5.8-5.8v-29.2c0-3.2,2.6-5.8,5.8-5.8h116.8c3.2,0,5.8,2.6,5.8,5.8v29.2
+			C389.4,716.6,386.8,719.2,383.6,719.2z"/>
+		<text transform="matrix(1 0 0 1 275.0518 703.7614)" class="st20 st10 st21">Società in house</text>
+	</g>
+	<g id="Fornitori">
+		<path class="st19" d="M383.6,783H266.9c-3.2,0-5.8-2.6-5.8-5.8V748c0-3.2,2.6-5.8,5.8-5.8h116.8c3.2,0,5.8,2.6,5.8,5.8v29.2
+			C389.4,780.4,386.8,783,383.6,783z"/>
+		<text transform="matrix(1 0 0 1 298.4468 767.321)" class="st20 st10 st21">Fornitori</text>
+	</g>
+</g>
+</svg>
