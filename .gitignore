@@ -1,3 +1,5 @@
 html/
 _build/
 .env
+.vscode
+.DS_Store

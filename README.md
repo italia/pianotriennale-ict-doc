@@ -1,5 +1,5 @@
-# PIANO TRIENNALE PER L’INFORMATICA NELLA PUBBLICA AMMINISTRAZIONE 2017 - 2019
-Questo repository contiene il testo del *Piano Triennale per l'informatica nella pubblica amministrazione* in formato reStructredText.
+# PIANO TRIENNALE PER L’INFORMATICA NELLA PUBBLICA AMMINISTRAZIONE 2019 - 2021
+Questo repository contiene il testo del *Piano Triennale per l’informatica nella pubblica amministrazione* in formato reStructredText.
 
 ## Sito tematico di presentazione del Piano triennale
 [https://pianotriennale-ict.italia.it](https://pianotriennale-ict.italia.it)
