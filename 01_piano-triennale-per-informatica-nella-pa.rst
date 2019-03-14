@@ -54,14 +54,14 @@ principi:
   tecnologia, tenendo conto della necessità di prevenire il rischio di
   *lock-in*. Dovranno altresì valutare il ricorso al cloud di tipo pubblico,
   privato o ibrido in relazione alla natura dei dati trattati e ai relativi
-  requisiti di confidenzialità
+  requisiti di confidenzialità;
 
 - inclusività e accessibilità dei servizi: le pubbliche amministrazioni devono
   progettare servizi pubblici digitali che siano per definizione inclusivi e
   che vengano incontro alle diverse esigenze delle persone, ad esempio degli
-  anziani e delle persone con disabilità.
+  anziani e delle persone con disabilità;
 
-- Inclusività territoriale: le pubbliche amministrazioni devono progettare
+- inclusività territoriale: le pubbliche amministrazioni devono progettare
   servizi pubblici digitali che siano inclusivi anche per le minoranze
   linguistiche presenti sul territorio nazionale;
 
@@ -204,7 +204,7 @@ In riferimento alla Mappa, così come si vedrà nei successivi capitoli:
   qualità dei servizi della Pubblica Amministrazione, attraverso la
   razionalizzazione dei *data center*, l’adozione sistematica del paradigma
   *cloud* e lo sviluppo della connettività, con particolare riferimento alla
-  rete internet nei luoghi pubblici e negli uffici della Pubblica
+  rete Internet nei luoghi pubblici e negli uffici della Pubblica
   Amministrazione;
 
 - il **modello di interoperabilità** definisce i meccanismi che facilitano e
@@ -234,7 +234,7 @@ In riferimento alla Mappa, così come si vedrà nei successivi capitoli:
   interesse nazionale, gli *open data*, e i vocabolari controllati.
   Quest’ultimo è un *repository* necessario per creare e/o mantenere tutte
   quelle risorse fondamentali per la piena valorizzazione del patrimonio
-  informativo della Pubblica Amministrazione.
+  informativo della Pubblica Amministrazione;
 
 - la **sicurezza** comprende le attività per la regolazione e
   regolamentazione della *cybersecurity* nella PA per l’*Assessment test* e
@@ -269,7 +269,7 @@ In riferimento alla Mappa, così come si vedrà nei successivi capitoli:
   *designer* e di chiunque voglia scambiare informazioni, collaborare e
   partecipare;
 
-- Il **Governo della trasformazione digitale** è un componente definito per far
+- il **Governo della trasformazione digitale** è un componente definito per far
   fronte alle necessità di coordinamento, gestione e monitoraggio delle
   attività funzionali allo sviluppo del Piano. È trasversale ad altri
   componenti e aggrega tutte le linee di azione, di *governance* e di supporto
@@ -379,14 +379,14 @@ definizione e attuazione del Piano:
          definisce le linee guida, coordina le progettualità strategiche per il
          Paese e realizza le infrastrutture immateriali nazionali. All’Agenzia è
          collegato il Comitato di indirizzo dell’Agenzia, che è l’organo di
-         indirizzo strategico dell’Agenzia. All’Agenzia, sono collegate anche
+         indirizzo strategico dell’Agenzia. All’Agenzia sono collegate anche
          l’Agenzia per la coesione territoriale, che fornisce supporto
          all’attuazione della programmazione nazionale e comunitaria, Consip e
          le centrali di committenza, col compito di gestire gli acquisti
          centralizzati e i rapporti con i soggetti aggregatori. Al di sotto di
          questo impianto di attori citati, e legati ad esso, si trovano le
          pubbliche amministrazioni centrali e le pubbliche amministrazioni
-         locali, che legandosi a enti strumentali, fornitori e società in-house,
+         locali, che legandosi a enti strumentali, fornitori e società *in house*,
          coordinano le iniziative, monitorano l’avanzamento operativo delle
          progettualità e curano le modalità di diffusione. Al di sotto delle
          amministrazioni centrali e locali, e legati ad esse, ci sono i
@@ -513,7 +513,7 @@ La struttura di questi capitoli è la seguente:
   - tempi: si indica la data di avvio dell’azione, ovvero se l’azione è già in
     corso;
 
-  - attori: sono indicati gli attori coinvolti, che collaborano al
+  - attori: sono indicati gli attori coinvolti che collaborano al
     raggiungimento dei risultati;
 
   - descrizione: si delineano brevemente le attività e/o le fasi di lavoro;
