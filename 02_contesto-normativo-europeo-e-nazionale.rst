@@ -133,7 +133,7 @@ per configurazione predefinita dei servizi digitali delle amministrazioni
 pubbliche.
 
 Sullo specifico tema dell’accessibilità e dell’inclusione, va menzionata la
-Direttiva EU 2016/2102 relativa all’accessibilità dei siti web e delle
+Direttiva UE 2016/2102 relativa all’accessibilità dei siti web e delle
 applicazioni mobili degli enti pubblici.
 
 Per un approfondimento si riportano, in :ref:`tabella
@@ -313,7 +313,7 @@ ad esempio:
 - l’articolo 7 relativo al diritto degli utenti a servizi online semplici e
   integrati;
 
-- gli artt. 8 e 9 che disciplinano rispettivamente l’alfabetizzazione
+- gli artt. 8 e 8-bis che disciplinano rispettivamente l’alfabetizzazione
   informatica dei cittadini e la connettività alla rete Internet negli uffici e
   luoghi pubblici.
 
