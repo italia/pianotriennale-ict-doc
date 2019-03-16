@@ -22,7 +22,7 @@ PA devono evitare di chiedere ai cittadini e imprese informazioni già fornite.
 
 Nello specifico, il Modello definisce gli standard e le loro modalità di
 applicazione, che le PA utilizzano per assicurare la comunicazione tra i propri
-sistemi informatici e tra questi e soggetti terzi.
+sistemi informativi e tra questi e soggetti terzi.
 
 Il Modello di interoperabilità:
 
@@ -101,7 +101,7 @@ La gestione delle Interfacce di Servizio, tra l’altro, assicura:
 - la presenza di documentazione coordinata con la versione delle Interfacce di
   servizio (*documentation*);
 
-- l’autenticazione/autorizzazione per l’accesso ai servizi (*authentication,
+- l’autenticazione/autorizzazione per l’accesso ai servizi (*authentication e
   authorization*);
 
 - la gestione dello stato di disponibilità dei servizi (*availability
@@ -136,7 +136,7 @@ aggregazione tematica e/o territoriale.
 
 Il Catalogo, cioè, segue due direttrici:
 
-- una tematica, legata agli Ecosistemi (ad esempio, la Giustizia)
+- una tematica, legata agli Ecosistemi (ad esempio, la Giustizia);
 
 - una territoriale, legata alle specificità dei territori (ad esempio, su base
   regionale).
