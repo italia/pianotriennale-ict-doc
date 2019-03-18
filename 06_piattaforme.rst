@@ -12,7 +12,7 @@ suddivisibili nelle seguenti categorie:
 
 - *process service*, l’insieme delle Piattaforme che realizzano digitalmente un
   processo completo (ad esempio l’approvvigionamento realizzato tramite gli
-  strumenti di *Public e-procurement*) di cui le PA diventano utilizzatori;
+  strumenti di *Public e-procurement*) di cui le PA diventano utilizzatrici;
 
 - *task service*, che implementano singole funzionalità trasversali alla
   realizzazione di procedimenti amministrativi digitali (ad esempio
@@ -115,7 +115,7 @@ pianificazione di aspetti quali:
   potenzialità introdotte dalle Piattaforme stesse in termini di nuovi servizi
   digitali da erogare verso cittadini, imprese e PA.
 
-Le PA responsabili delle singole Piattaforme, devono garantire durante la
+Le PA responsabili delle singole Piattaforme devono garantire durante la
 realizzazione e nella fase di esercizio:
 
 - il coordinamento tra le varie iniziative, al fine di favorire la coerenza tra
@@ -148,7 +148,7 @@ Il **sistema nazionale di public e-procurement** è finalizzato a digitalizzare
 progressivamente l’intero processo di approvvigionamento di beni e servizi da
 parte delle PA, in tutta la catena di valore, cioè dalle fasi di pianificazione
 e programmazione dei fabbisogni fino al pagamento. Si tratta di un processo
-molto complesso che vede coinvolti una pluralità di attori e di sistemi
+molto complesso che vede coinvolta una pluralità di attori e di sistemi
 informatici diversi, come rappresentato in figura 6.1.
 
 .. figure:: media/processo-acquisto-negoziazione.svg
@@ -160,7 +160,7 @@ informatici diversi, come rappresentato in figura 6.1.
          pre-aggiudicazione e post-aggiudicazione. In particolare, il Codice dei
          Contratti ha introdotto una sostanziale novità ovvero l’obbligatorietà
          dell’utilizzo di strumenti ICT nella fase di pre-aggiudicazione. L’art.
-         44 del Codice, rubricato “Digitalizzazione delle procedure”prevede la
+         44 del Codice, rubricato “Digitalizzazione delle procedure” prevede la
          pubblicazione di un Decreto Ministeriale in cui sono definite le
          modalità di digitalizzazione delle procedure di tutti i contratti
          pubblici. Per quanto riguarda la fase di post-aggiudicazione, si
@@ -179,7 +179,7 @@ informatici diversi, come rappresentato in figura 6.1.
          utilizzi il registro online dei certificati eCertis (servizio messo a
          disposizione dalla Commissione europea) per il quale AGID ha lavorato
          in consorzio con altri partner per la sua integrazione con i
-         sisteminazionali nell’ambito del progetto europeo IIeP. Ugualmente,
+         sistemi nazionali nell’ambito del progetto europeo IIeP. Ugualmente,
          secondo il Codice dei contratti, gli operatori presentano il documento
          di gara unico europeo (DGUE) che deve essere fornito esclusivamente in
          forma elettronica. AGID in consorzio con altri partner ha partecipato
@@ -189,11 +189,11 @@ informatici diversi, come rappresentato in figura 6.1.
    Fasi del processo di acquisto e negoziazione
 
 L’**architettura di riferimento del public e-procurement** che sottende il
-processo di acquisto e negoziazione di beni e servizi della PA è costituita da
+processo di acquisto e negoziazione di beni e servizi della PA è costituita di
 un insieme di regole di funzionamento, processi, standard tecnologici, modelli
 semantici, banche dati e sistemi telematici che permetterà di gestire in
 digitale l’intero processo di *procurement* delle pubbliche amministrazioni. Il
-sistema è costituito da piattaforme di acquisto sia pubbliche che private, da
+sistema è costituito di piattaforme di acquisto sia pubbliche sia private, da
 soggetti istituzionali che gestiscono servizi, piattaforme e banche dati
 coinvolti nel processo di acquisto e negoziazione, registri pubblici nazionali
 ecc. (si veda figura 6.2).
@@ -261,7 +261,7 @@ Le **componenti** di cui si avvale il sistema sono:
   .. [1] L’obbligo della gestione elettronica degli ordini verso i fornitori è
      sancito dalla Legge di bilancio 2018 articolo 1 commi 441, 412, 413, 414
      che prevede sia l’adozione di appositi regolamenti che disciplinano le
-     modalità tecniche che le date di entrata in vigore per l’invio in forma
+     modalità tecniche sia le date di entrata in vigore per l’invio in forma
      elettronica della documentazione attestante l’ordinazione e l’esecuzione
      degli acquisti di beni e servizi.
 
@@ -273,28 +273,29 @@ Le **componenti** di cui si avvale il sistema sono:
   processo di acquisto e negoziazione. Prevede la standardizzazione del processo
   di emissione-trasmissione-ricevimento-gestione di documenti fiscali (fatture o
   note) verso la Pubblica Amministrazione ed è obbligatoria in Italia sin da
-  marzo 2015 (il dei monitoraggio dei progetti di trasformazione digitale è
+  marzo 2015 (il monitoraggio dei progetti di trasformazione digitale è
   disponibile nella sezione `Avanzamento trasformazione digitale
   <https://avanzamentodigitale.italia.it/it/progetto/fatturazione-elettronica>`__
   del sito AGID). La fattura elettronica è un documento in formato digitale XML
   (**FatturaPA**) trasmesso dal fornitore alla PA tramite il **Sistema di
   Interscambio delle Fatture Elettroniche** (**SdI**). La Direttiva europea
-  55/2014, in via di recepimento, prevede l’obbligo per le PA di accettare e
-  gestire le fatture elettroniche anche nel formato conforme alla norma europea
-  sulla fatturazione elettronica a partire dal 18 aprile 2019. Ciò comporta
-  un’evoluzione della piattaforma SdI (Sistema di Interscambio) per consentire
-  il recepimento delle fatture elettroniche sia nel formato europeo che nel
-  formato FatturaPA. Il Sistema di Interscambio consentirà inoltre di gestire la
-  fatturazione elettronica tra privati a partire da gennaio 2019, come previsto
-  dalla Legge n. 205/2017 articolo 1, comma 909 (modifica D.Lgs. N. 127/2015
-  articolo 1, comma 3). In tale ottica e in previsione dei pagamenti verso la
-  PA, verrà istituito un gruppo di lavoro per l’integrazione dei dati legati al
-  pagamento tramite pagoPA all’interno del formato della fattura elettronica.
+  55/2014, recepita con il Decreto Legislativo n. 148 del 27 dicembre 2018,
+  prevede l’obbligo per le PA di accettare e gestire le fatture elettroniche
+  anche nel formato conforme alla norma europea sulla fatturazione elettronica
+  a partire dal 18 aprile 2019. Ciò comporta un’evoluzione della piattaforma
+  SdI (Sistema di Interscambio) per consentire il recepimento delle fatture
+  elettroniche sia nel formato europeo sia nel formato FatturaPA. Il Sistema di
+  Interscambio consentirà inoltre di gestire la fatturazione elettronica tra
+  privati a partire da gennaio 2019, come previsto dalla Legge n. 205/2017
+  articolo 1, comma 909 (modifica D.Lgs. N. 127/2015 articolo 1, comma 3).
+  In tale ottica e in previsione dei pagamenti verso la PA, verrà istituito un
+  gruppo di lavoro per l’integrazione dei dati legati al pagamento tramite pagoPA
+  all’interno del formato della fattura elettronica.
 
 Scenario
 ~~~~~~~~
 
-AGID sta lavorando, sia a livello nazionale che europeo, ad una serie di
+AGID sta lavorando, sia a livello nazionale sia europeo, ad una serie di
 attività che concorrono alla definizione di un quadro complessivo delle
 procedure telematiche di acquisto e di negoziazione delle PA e delle banche dati
 necessarie al funzionamento dei processi di *procurement*. In particolare,
@@ -348,12 +349,12 @@ Commissione Europea. Le DSI sono dei componenti infrastrutturali messi a
 disposizione dei paesi membri per costituire una rete interoperabile per lo
 scambio di documenti in formato elettronico.
 
-Tale paradigma è stato utilizzato per creare una rete europea, costituita da
+Tale paradigma è stato utilizzato per creare una rete europea, costituita di
 infrastrutture e regole tecniche, per lo scambio di documenti legati al
 *procurement* (*business document*): la rete PEPPOL (*Pan European Public
 Procurement Online*). PEPPOL, che viene gestita dall’Associazione senza scopo di
 lucro OpenPEPPOL, utilizza le regole definite in ambito CEN. AGID è la PEPPOL
-*Authority* Italia da settembre 2016 che:
+*Authority* in Italia da settembre 2016 che:
 
 - governa le specificità nazionali dei profili PEPPOL;
 
@@ -502,7 +503,8 @@ LA31 - Gestione del formato europeo della Fattura Elettronica (EN)
 
 **Descrizione**
   Recepimento, da parte dell’Agenzia delle Entrate, della Direttiva europea
-  2014/55 sulla fatturazione elettronica negli appalti pubblici che prevede
+  2014/55 sulla fatturazione elettronica negli appalti pubblici (recepita
+  con il Decreto Legislativo n. 148 del 27 dicembre 2018) che prevede
   l’obbligo da parte delle PA di accettare le fatture elettroniche anche in
   formato europeo.
 
@@ -553,15 +555,16 @@ Benefici per i cittadini:
 
 Benefici per la Pubblica Amministrazione:
 
-- riduzione dei tempi di incasso attraverso l’accredito delle somme direttamente
-  sui conti dell’Ente Beneficiario entro il giorno successivo al pagamento;
+- riduzione dei tempi di incasso attraverso l’accreditamento delle somme
+  direttamente sui conti dell’Ente Beneficiario entro il giorno successivo al
+  pagamento;
 
 - riduzione dei costi di gestione del contante;
 
 - miglioramento dell’efficienza della gestione degli incassi attraverso la
   riconciliazione automatica;
 
-- superamento della necessità bandire gare per l’acquisizione di servizi di
+- superamento della necessità di bandire gare per l’acquisizione di servizi di
   incasso, con conseguenti riduzioni di inefficienze e costi di commissione
   fuori mercato;
 
@@ -577,11 +580,10 @@ Benefici per il Sistema Paese:
 
 - completa aderenza agli standard della direttiva PSD2 [2]_;
 
-- incentivazione dell’utilizzo dei pagamenti elettronici a livello nazionale
-  attraverso l’utilizzo con le transazioni verso la Pubblica Amministrazione,
-  che consente di stimolare il mercato e favorire, a tendere, una maggiore
-  concorrenza nel mercato dei servizi di pagamento e un livellamento delle
-  commissioni.
+- incentivazione dei pagamenti elettronici a livello nazionale attraverso l’uso
+  delle transazioni verso la Pubblica Amministrazione, che consente di stimolare
+  il mercato e favorire, a tendere, una maggiore concorrenza nel mercato dei
+  servizi di pagamento e un livellamento delle commissioni.
 
 .. [2] Direttiva 2015/2366/(UE) sui servizi di pagamento nel mercato interno.
 
@@ -842,7 +844,7 @@ alimenta altre piattaforme (PCC, BDAP, SIOPE, SOLDIPUBBLICI, ecc.)
          trasmette gli esiti applicativi e il giornale di cassa alla Pubblica
          Amministrazione tramite la piattaforma SIOPE+; 5. La piattaforma SIOPE+
          aggiorna la piattaforma dei Crediti Commerciali e la Banca Dati SIOPE.
-         Quest’ultima alimenta il portale opendata soldipubblici.gov.it.
+         Quest’ultima alimenta il portale open data soldipubblici.gov.it.
 
    Sistema di pagamenti e incassi della Pubblica Amministrazione
 
@@ -941,7 +943,7 @@ LA36 - Revisione della piattaforma open data Soldipubblici
   Ragioneria Generale dello Stato, Banca d’Italia, AGID e PA
 
 **Descrizione**
-  `Soldipubblici <http://soldipubblici.gov.it/it/home>`__ è una piattaforma
+  `Soldipubblici <http://soldipubblici.gov.it>`__ è una piattaforma
   *open data* che rende facilmente accessibili ai cittadini i dati dei pagamenti
   della Pubblica Amministrazione. Fino ad oggi l’obiettivo è stato quello di
   garantire la piena trasparenza e permettere sia ai cittadini che alle stesse
@@ -955,7 +957,7 @@ LA36 - Revisione della piattaforma open data Soldipubblici
   ai dati di incasso e pagamento ha anche molte altre informazioni, previsionali
   e di consuntivo, di natura economico-finanziaria. Esistono poi tutti i
   cataloghi *open data*, in larga parte federati da dati.gov.it, che le
-  amministrazioni, sia centrali che locali, hanno prodotto e alimentano
+  amministrazioni, sia centrali sia locali, hanno prodotto e alimentano
   costantemente. Tutte le fonti di dati possono dare un contributo alla
   costruzione di una informazione strutturata e multilivello di cui
   Soldipubblici potrebbe essere lo strumento di visualizzazione evoluta.
@@ -1003,7 +1005,7 @@ eroga servizi stipendiali alle PA, a cui saranno aggiunte funzionalità per la
 gestione dei componenti non economici del personale, anche a supporto della
 recente riforma della PA (Legge n. 124/2015 recante “Deleghe al Governo in
 materia di riorganizzazione delle amministrazioni pubbliche”). È prevista la
-realizzazione di componenti specifici per di valorizzare il patrimonio
+realizzazione di componenti specifici per valorizzare il patrimonio
 informativo gestito, integrando informazioni e servizi erogati da altri
 *stakeholder* istituzionali.
 
@@ -1125,7 +1127,7 @@ Obiettivi
   l’integrazione anche con soggetti, non pubblici, fornitori di servizi;
 
 - massimizzare il recupero di identità pregresse delle PA per favorire lo
-  *switch off* a favore di SPID dei sistemi di autenticazione;
+  *switch off* dei sistemi di autenticazione a favore di SPID;
 
 - avviare le *Attribute authority* (fornitori di attributi qualificati);
 
@@ -1282,17 +1284,17 @@ Alla data del 15/12/2018:
 
 - sono state emesse oltre 6,7 milioni di carte;
 
-- i Comuni non in grado di emettere CIE sono solo 23 (su 7954). La percentuale
-  dei Comuni in grado di emettere la CIE è pari pertanto al 99,7% dei Comuni,
+- i comuni non in grado di emettere CIE sono solo 23 (su 7.915). La percentuale
+  dei comuni in grado di emettere la CIE è pari pertanto al 99,7% dei Comuni,
   con una copertura del 98,7% della popolazione residente.
 
 Obiettivi
 ~~~~~~~~~
 
-- Completare il dispiegamento, rendendo tutti i Comuni in grado di emettere CIE,
+- Completare il dispiegamento, rendendo tutti i comuni in grado di emettere CIE,
   anche attraverso il completamento dei formati multilingue;
 
-- rendere possibile l’emissione della CIE anche attraverso i Consolati per gli
+- rendere possibile l’emissione della CIE anche attraverso i consolati per gli
   italiani residenti all’estero;
 
 - permettere l’accesso con CIE ai servizi online, e relativa notifica eIDAS.
@@ -1314,11 +1316,11 @@ LA42 - Emissione della CIE all’estero
   Cooperazione Internazionale, Comuni, IPZS
 
 **Descrizione**
-  Rendere le sedi di alcuni Consolati pilota in grado di accettare le richieste
+  Rendere le sedi di alcuni consolati pilota in grado di accettare le richieste
   di CIE da parte degli italiani residenti all’estero.
 
 **Risultati**
-  Emissione della CIE all’estero nei Consolati pilota (da aprile 2019).
+  Emissione della CIE all’estero nei consolati pilota (da aprile 2019).
 
 **Aree di intervento**
   Nel breve periodo, impatto su PA e cittadini.
@@ -1337,16 +1339,16 @@ LA43 - Notifica eIDAS
 
 **Descrizione**
   Riconoscimento della CIE come strumento di autenticazione ai servizi in rete
-  della PA degli altri Stati membri della UE. Predisposizione da parte di AGID
+  della PA degli altri stati membri della UE. Predisposizione da parte di AGID
   del processo previsto per la necessaria notifica alla Commissione Europea del
   sistema CIE come mezzo di identificazione elettronica riconosciuto tra gli
-  Stati membri della UE, come previsto dall’articolo 9 del Regolamento eIDAS e
+  stati membri della UE, come previsto dall’articolo 9 del Regolamento eIDAS e
   successiva Decisione Esecutiva EU 2015/1984.
 
 **Risultati**
   Avvio da parte di AGID del processo previsto per la notifica alla Commissione
   Europea del sistema CIE come mezzo di identificazione elettronica riconosciuto
-  tra gli Stati membri dell’UE, come previsto dall’articolo 9 del Regolamento
+  tra gli stati membri dell’UE, come previsto dall’articolo 9 del Regolamento
   eIDAS e successiva Decisione Esecutiva EU 2015/1984 (da aprile 2019).
 
 **Aree di intervento**
@@ -1366,7 +1368,7 @@ LA44 - Accesso ai servizi online con CIE
 
 **Descrizione**
   Realizzazione di un’infrastruttura in grado di permettere la realizzazione di
-  servizi online, anche mobile, che utilizzino la CIE come sistema di
+  servizi online, anche mobili, che utilizzino la CIE come sistema di
   identificazione.
 
 **Risultati**
@@ -1561,7 +1563,7 @@ LA45 - Nuove Linee Guida per la formazione, gestione e conservazione dei documen
   coinvolte
 
 **Descrizione**
-  Attraverso l’analisi dettagliata delle regole tecniche vigenti, si intendono
+  Attraverso l’analisi dettagliata delle regole tecniche vigenti, si intende
   aggiornare le attuali Linee guida e addivenire ad un *unicum* che contempli
   tutti gli aspetti previsti all’articolo 71 dal nuovo CAD (ex D.Lgs. 217/2017)
   in materia di formazione, gestione e conservazione del documento digitale.
@@ -1622,7 +1624,7 @@ A tendere, tutte le pubbliche amministrazioni formeranno e gestiranno i propri
 documenti amministrativi, in tutto il loro ciclo di vita, completamente in
 digitale.
 
-Documenti, banche dati, email, contributi provenienti da sistemi informatici
+Documenti, banche dati, email, contributi provenienti da sistemi informativi
 complessi, dalla rete e dai *social network* costituiranno un enorme patrimonio
 di conoscenza della Pubblica Amministrazione, interamente elettronico, e
 dovranno essere archiviati e conservati in modo completamente differente da
@@ -1678,7 +1680,7 @@ Obiettivi
 - abilitare la gestione da parte di sistemi di conservazione di tutte le
   possibili tipologie di documenti e oggetti digitali prodotti dalle PA, anche
   quelli soggetti a particolari criticità sia dal punto di vista del trattamento
-  dei dati che della sicurezza nazionale, che richiedono pertanto soluzioni ed
+  dei dati sia della sicurezza nazionale, che richiedono pertanto soluzioni ed
   attenzioni particolari;
 
 - costruire un punto unico di accesso ai documenti informatici della PA in
@@ -1788,7 +1790,7 @@ italiano e dei cittadini italiani residenti all’estero.
 Scenario
 ~~~~~~~~
 
-L’Anagrafe Nazionale della Popolazione Residente (ANPR), è la banca dati
+L’Anagrafe Nazionale della Popolazione Residente (ANPR) è la banca dati
 nazionale nella quale confluiranno progressivamente le anagrafi comunali.
 
 È istituita presso il Ministero dell’Interno ai sensi dell’articolo 62 del
@@ -1797,7 +1799,7 @@ D.Lgs. n. 82/2005 (Codice dell’amministrazione digitale).
 Il Decreto Ministeriale n. 194 del 10/11/2014 stabilisce i requisiti di
 sicurezza, le funzionalità per la gestione degli adempimenti di natura
 anagrafica, i servizi per assicurare l’integrazione con i diversi sistemi
-informatici delle pubbliche amministrazioni, i gestori dei servizi pubblici e le
+informativi delle pubbliche amministrazioni, i gestori dei servizi pubblici e le
 società a controllo pubblico che, a tal fine, dovranno sottoscrivere accordi di
 servizio con lo stesso Ministero.
 
@@ -1893,13 +1895,13 @@ LA50 - Visura anagrafica e Certificazione anagrafica nazionale
   realizzazione di un servizio di certificazione anagrafica nazionale online.
 
 **Risultati**
-  Disponibilità visura anagrafica online per i cittadini (gennaio 2019).
+  Disponibilità di visura anagrafica online per i cittadini (gennaio 2019).
 
-  Disponibilità certificazione dei dati anagrafici online per i cittadini
+  Disponibilità di certificazione dei dati anagrafici online per i cittadini
   (dicembre 2019).
 
 **Aree di intervento**
-  Visura anagrafica: nel breve periodo sui cittadini le PA locali.
+  Visura anagrafica: nel breve periodo sui cittadini, le PA locali.
 
   Certificazione online: nel medio periodo sui cittadini, le PA locali e gli
   ordini professionali.
