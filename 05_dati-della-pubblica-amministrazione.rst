@@ -49,7 +49,7 @@ macro aree:
 
 - **dati aperti**: comunemente chiamati *Open data*, abilitano il riutilizzo
   dei dati da parte di chiunque e per qualunque scopo, anche commerciale, purché
-  non vi siano particolare restrizioni (ad es. segreto di stato, segreto
+  non vi siano particolari restrizioni (ad es. segreto di Stato, segreto
   statistico, vincoli di protezione dei dati personali come definiti dal Garante
   della *privacy*). L’apertura dei dati pubblici (in generale i dati conoscibili
   da chiunque) per il loro riutilizzo è un’azione specifica nell’ambito del
@@ -117,7 +117,7 @@ aggiornamento dei servizi da parte delle amministrazioni responsabili.
 Il comma 3-bis dello stesso articolo ha indicato le seguenti basi di dati di
 interesse nazionale:
 
-- Il Repertorio nazionale dei dati territoriali (RNDT) - Titolare: AGID;
+- il Repertorio nazionale dei dati territoriali (RNDT) - Titolare: AGID;
 
 - l’Anagrafe nazionale della popolazione residente (ANPR) - Titolare: Ministero
   dell’Interno;
@@ -220,8 +220,8 @@ territoriali e il `Catalogo nazionale dati.gov.it <https://www.dati.gov.it/>`__
 (si veda par. 5.2).
 
 La versione 2.0 del Repertorio nazionale dei dati territoriali ha assunto il
-dominio https://geodati.gov.it e la conseguente registrazione come
-`infrastruttura di riferimento
+nome a dominio geodati.gov.it (URL https://geodati.gov.it) e la conseguente
+registrazione come `infrastruttura di riferimento
 <http://inspire-geoportal.ec.europa.eu/INSPIRERegistry/>`__ per l’erogazione dei
 `servizi di ricerca
 <http://inspire-geoportal.ec.europa.eu/resources/history/INSPIRE-3d45a92d-bd53-11e7-b037-52540023a883_20171030-110016/services/1/>`__,
@@ -229,7 +229,7 @@ nonché per le rilevazioni ufficiali di monitoraggio nel contesto della
 implementazione della direttiva INSPIRE in Italia. Al riguardo, entro il 2019 si
 provvederà ad effettuare la revisione delle regole tecniche (da adottare ai
 sensi dell’articolo 71 del CAD) per tenere conto, tra l’altro, delle regole per
-l’implementazione dei metadati su *dataset* e servizi definite nel contesto di
+l’implementazione dei metadati su *dataset* e servizi definiti nel contesto di
 attuazione della Direttiva INSPIRE, che andranno in vigore da dicembre 2019, e
 delle evidenze implementative riscontrate nel contesto delle amministrazioni
 italiane.
@@ -248,19 +248,19 @@ Catalogo dei servizi
 Il catalogo dei servizi - servizi.gov.it - è lo strumento che permetterà alle
 pubbliche amministrazioni di partecipare al censimento guidato dei propri
 servizi digitali (effettuato secondo l’ontologia europea CPSV-AP e la sua
-estensione italiana CPSV-AP_IT) consentendo, ai cittadini di essere indirizzati
+estensione italiana CPSV-AP_IT) consentendo ai cittadini di essere indirizzati
 all’utilizzo degli stessi servizi e mettendo a loro disposizione informazioni
 semplificate e aggiornate.
 
 Il censimento dei servizi della Pubblica Amministrazione - oltre al beneficio di
 guidare i cittadini nei rapporti con la PA - fornisce una serie di vantaggi e
-possibili estensioni che, di fatto, rendono il sistema uno strumento utile anche
+possibili estensioni che, di fatto, rende il sistema uno strumento utile anche
 per l’ottimizzazione della gestione dei servizi che spesso vengono documentati
 su più sistemi in maniera eterogenea.
 
 Il sistema verrà utilizzato da parte di diversi applicativi di gestione
-componenti (SPID, pagoPA, *Web Analytics* ecc.) per i propri sistemi di gestione
-e integrazione.
+componenti (SPID, pagoPA, *Web Analytics* ecc.) per i propri sistemi di
+amministrazione e integrazione.
 
 ANPR
 ^^^^
@@ -305,7 +305,7 @@ L’introduzione di questa nuova funzione ha permesso di:
 
 - predisporre nuovi interventi per valorizzare i risultati conseguiti dalla
   realizzazione del sistema ANPR (integrazione registro nazionale di stato
-  civile, certificazione anagrafica nazionale, ...);
+  civile, certificazione anagrafica nazionale, ecc.);
 
 - incrementare le azioni di comunicazione verso tutti gli *stakeholder*
   migliorando la trasparenza sullo stato del progetto;
@@ -505,7 +505,7 @@ LA17 - Completamento del popolamento di ANPR
   e delle anagrafi della popolazione residente all’estero (AIRE).
 
 **Risultati**
-  I 7.954 Comuni italiani popolano ANPR effettuando la migrazione delle APR e
+  I 7.915 comuni italiani popolano ANPR effettuando la migrazione delle APR e
   AIRE locali (data di rilascio: in fase di riprogrammazione).
 
 **Aree di intervento**
@@ -524,7 +524,7 @@ LA18 - Sperimentazione dell’archivio nazionale informatizzato dei registri di 
   Ministero dell’Interno, Sogei, Comuni
 
 **Descrizione**
-  Attraverso la sperimentazione su un campione significativo di Comuni italiani
+  Attraverso la sperimentazione su un campione significativo di comuni italiani
   si provvederà alla realizzazione di prototipi di registri di stato civile,
   valutando le possibili semplificazioni derivanti dalla digitalizzazione e
   centralizzazione degli stessi.
@@ -555,7 +555,7 @@ LA19 - Adozione delle Linee Guida IPA
   di pubblici servizi devono attenersi alle regole prescritte.
 
 **Risultati**
-  AGID pubblica Linee Guida sul sito web, dandone notizia in Gazzetta Ufficiale
+  AGID pubblica Linee Guida sul sito web dandone notizia in Gazzetta Ufficiale
   (giugno 2019).
 
 **Aree di intervento**
@@ -855,7 +855,7 @@ Obiettivi
   consentano alle amministrazioni pubbliche titolari di vocabolari, tassonomie e
   nomenclature, ecc., di concorrere e partecipare alla gestione dei registri
   pubblicati nel Sistema di Registri già disponibile (sulla base dello Standard
-  ISO 19135-1 e delle *best practices* implementate nell’ambito delle attività
+  ISO 19135-1 e delle *best practice* implementate nell’ambito delle attività
   del Sistema di Registri INSPIRE e della relativa Federazione);
 
 - definire ontologie specifiche, sulla base di progetti delle amministrazioni
@@ -863,7 +863,7 @@ Obiettivi
   relativi al Sistema museale, in stretta correlazione con i competenti Uffici
   del Ministero per i beni e le attività culturali (MiBAC), in coerenza con le
   disposizioni di cui al Decreto 21 febbraio 2018 dello stesso Ministero,
-  recante“Adozione dei livelli minimi uniformi di qualità per i musei e i luoghi
+  recante “Adozione dei livelli minimi uniformi di qualità per i musei e i luoghi
   della cultura di appartenenza pubblica e attivazione del Sistema museale
   nazionale”.
 
@@ -984,7 +984,7 @@ amministrazioni come log e dati di utilizzo che non rientrano nella definizione
 precedente.
 
 I *Big Data Engine* sono utili ad armonizzare ed elaborare, sia in modalità
-differita che in tempo reale, i dati grezzi memorizzati nel *data lake* e ad
+differita sia in tempo reale, i dati grezzi memorizzati nel *data lake* e ad
 implementare modelli di apprendimento automatico.
 
 Infine gli strumenti per la comunicazione dei dati sono utili a favorire la
@@ -1041,7 +1041,7 @@ Obiettivi
 
 - Valorizzare il patrimonio di informazioni della Pubblica Amministrazione
   facilitando l’accesso ai dati da parte delle PA e favorendo la costituzione di
-  team agili di analisi, sia centrali che federati;
+  team agili di analisi, sia centrali sia federati;
 
 - puntare su qualità e standardizzazione dei dati. La PDND, infatti, è lo
   strumento operativo che consente di supportare in maniera coordinata gli
@@ -1094,7 +1094,7 @@ LA26 - Progettazione della PDND, sperimentazione e prima applicazione della stes
 **Descrizione**
   La PDND si basa sullo sviluppo di una Piattaforma *big data* e sulla
   costituzione di un team di *data scientist*, *big data architect* e *data
-  engineer*. Il Team per la trasformazione digitale, ha il compito di gestire
+  engineer*. Il Team per la trasformazione digitale ha il compito di gestire
   attivamente la fase di sviluppo concettuale e implementativo
   dell’infrastruttura, insieme a tutte le fasi del ciclo di vita del dato,
   dall’ingestione all’analisi e sviluppo di applicazioni. Il Team per la
