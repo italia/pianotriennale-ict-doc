@@ -239,7 +239,7 @@ LA02 - Migrazione dei sistemi informativi delle PA verso il cloud
 
 **Descrizione**
   Un gruppo di amministrazioni pilota individuate da AGID e Team per la
-  trasformazione digitale eseguono i piani di migrazione dei sistemi informativi
+  trasformazione digitale esegue i piani di migrazione dei sistemi informativi
   verso il Cloud della PA definiti nell’ambito del Programma nazionale di
   abilitazione al Cloud.
 
@@ -299,12 +299,12 @@ LA03 - Definizione dei requisiti tecnici delle infrastrutture IT
   - si aggiornano le modalità per l’approvazione delle spese in materia di data
     center (giugno 2019).
 
-  AGID e Team per la trasformazione digitale pubblicano in consultazione, le
+  AGID e Team per la trasformazione digitale pubblicano in consultazione le
   Linee guida per la progettazione e realizzazione di *data center* nell’ambito
   dei Poli strategici nazionali (giugno 2019);
 
   AGID e Team per la trasformazione digitale predispongono un documento di *gap
-  analysis* sui candidati a Polo strategico nazionale (dicembre 2019);
+  analysis* sui candidati a Polo strategico nazionale (dicembre 2019).
 
   A seguito dell’emanazione del decreto di individuazione dei PSN da parte del
   Governo, AGID dà seguito a quanto previsto e definito all’interno della
@@ -369,7 +369,7 @@ Obiettivi
 
 - Definire politiche di razionalizzazione delle infrastrutture IT delle PA
   tramite azioni di consolidamento e dismissione/migrazione verso il Cloud della
-  PA.
+  PA;
 
 - incrementare la qualità delle infrastrutture IT in termini di sicurezza,
   resilienza, efficienza energetica e continuità operativa (*business
@@ -433,7 +433,7 @@ LA05 - Avvio del consolidamento e della dismissione dei data center di Gruppo A
 **Risultati**
   AGID e Team per la trasformazione digitale pubblicano il Primo Rapporto sullo
   stato d’avanzamento della migrazione al Cloud della PA del Gruppo A (novembre
-  2019). Le PA del Gruppo A trasmettono ad AGID e i propri piani di migrazione
+  2019). Le PA del Gruppo A trasmettono ad AGID i propri piani di migrazione
   al Cloud della PA (novembre 2020)
 
 **Aree di intervento**
@@ -489,7 +489,7 @@ attraverso quattro differenti direttrici:
    processamento del traffico;
 
 2. l’adeguamento della connettività per consentire alle sedi delle pubbliche
-   amministrazioni di accedere a internet e ai servizi cloud;
+   amministrazioni di accedere a Internet e ai servizi cloud;
 
 3. l’adeguamento della connettività per interconnettere i Poli Strategici
    Nazionali (PSN) e consentire loro di erogare i servizi cloud;
@@ -512,7 +512,7 @@ seguenti principi minimi generali:
 - monitoraggio dell’intera infrastruttura fisica finalizzato a garantire un
   tempestivo intervento in caso di incidente;
 
-- scalabilità della capacità di banda ai fini dell’erogazione di servizi wi-fi
+- scalabilità della capacità di banda ai fini dell’erogazione di servizi Wi-Fi
   per uso pubblico;
 
 - conformità dei livelli di sicurezza agli standard internazionali e alle
@@ -527,13 +527,13 @@ seguenti principi minimi generali:
   centralizzate e virtuali che permettano di gestire le problematiche di
   affidabilità in *real-time*;
 
-- capacità di supportare il protocollo *dual-stack* IPv4/IPv6.
+- capacità di supportare i protocolli IPv4 e IPv6 in modalità *dual-stack*.
 
 La connettività della PA deve essere finalizzata a garantire:
 
 - l’erogazione e la fruizione dei servizi in interoperabilità;
 
-- l’accesso alla rete internet a tutti i dipendenti della PA per i fini
+- l’accesso alla rete Internet a tutti i dipendenti della PA per i fini
   istituzionali e come strumento a supporto della produttività, compreso
   l’accesso a strumenti per la comunicazione evoluta;
 
@@ -550,7 +550,7 @@ La connettività della PA deve essere finalizzata a garantire:
 
 Allo stato dell’arte:
 
-- risultano contrattualizzati un migliaio di contratti per i servizi di
+- risulta contrattualizzato un migliaio di contratti per i servizi di
   connettività nell’ambito del Sistema pubblico di connettività (SPC), di cui
   circa 50 afferenti alle grandi amministrazioni centrali dello Stato;
 
@@ -565,12 +565,12 @@ Allo stato dell’arte:
 
 - è prevista la cessazione, al 31 marzo 2019, dei servizi della vecchia
   infrastruttura QXN utilizzata dalle amministrazioni che si sono avvalse del
-  precedente contratto SPC1.
+  precedente contratto SPC.
 
 L’adozione del Modello Cloud della PA descritto nel paragrafo 3.1 del presente
-Piano Triennale, richiede inoltre un aggiornamento del modello di connettività
+Piano Triennale richiede inoltre un aggiornamento del modello di connettività
 che risponda alle esigenze dei diversi scenari e al fine di garantire alle
-amministrazioni un accesso ad internet semplice, veloce e affidabile.
+amministrazioni un accesso ad Internet semplice, veloce e affidabile.
 
 Anche in funzione del piano di razionalizzazione delle risorse ICT della PA sono
 da segnalare due distinti percorsi, in raccordo con il Piano Nazionale Banda
@@ -614,7 +614,7 @@ Obiettivi
 - uniformare e aumentare la diffusione della connettività *wireless* nei luoghi
   pubblici e negli uffici della Pubblica Amministrazione accessibili al
   pubblico, anche al fine di favorire l’accesso ai servizi da parte dei
-  cittadini attraverso l’uso di reti wi-fi pubbliche.
+  cittadini attraverso l’uso di reti Wi-Fi pubbliche.
 
 Linee di azione
 ~~~~~~~~~~~~~~~
@@ -711,7 +711,7 @@ LA09 - Operatività dei nuovi contratti per la connettività S-RIPA per le sedi 
 
 .. _la10:
 
-LA10 - Realizzazione dei servizi in conformità alle Linee guida per la realizzazione di reti wi-fi pubbliche
+LA10 - Realizzazione dei servizi in conformità alle Linee guida per la realizzazione di reti Wi-Fi pubbliche
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Tempi**
@@ -721,22 +721,22 @@ LA10 - Realizzazione dei servizi in conformità alle Linee guida per la realizza
   PA
 
 **Descrizione**
-  AGID pubblica in consultazione le Linee guida per l’utilizzo delle wi-fi che
-  le pubbliche amministrazioni rendono accessibili ai cittadini negli uffici e
-  nei luoghi pubblici, redatte anche sulla base delle migliori esperienze di
-  wi-fi pubblico già in essere nella PA.
+  AGID pubblica in consultazione le Linee guida per l’utilizzo delle reti Wi-Fi
+  che le pubbliche amministrazioni rendono accessibili ai cittadini negli uffici
+  e nei luoghi pubblici, redatte anche sulla base delle migliori esperienze di
+  Wi-Fi pubblico già in essere nella PA.
 
   Le amministrazioni definiscono e realizzano il Piano di adeguamento alle linee
-  guida emanate da AGID per le wi-fi.
+  guida emanate da AGID per le Wi-Fi.
 
   AGID adegua periodicamente le linee guida in funzione degli aggiornamenti
   tecnologici e normativi e sulla base di buone pratiche messe in campo dalle
   pubbliche amministrazioni.
 
 **Risultati**
-  Pubblicazione di Linee guida wi-fi da parte di AGID (entro settembre 2019).
+  Pubblicazione di Linee guida Wi-Fi da parte di AGID (entro settembre 2019).
 
-  Le amministrazioni mettono a disposizione la propria rete wi-fi per la
+  Le amministrazioni mettono a disposizione la propria rete Wi-Fi per la
   fruizione gratuita da parte dei cittadini negli uffici e luoghi pubblici
   (entro agosto 2020)
 
@@ -786,7 +786,7 @@ LA10 - Realizzazione dei servizi in conformità alle Linee guida per la realizza
    Cloud della PA mediante due componenti principali:
 
    - il programma di *Cloud Enablement* nazionale, ovvero l’insieme dei progetti
-     specifici che consentiranno alle PA di migrare le applicazioni in ambiente
+     specifici che consentirà alle PA di migrare le applicazioni in ambiente
      cloud;
 
    - l’ambiente (cd. *framework*) di lavoro del *Cloud Enablement* costituito
@@ -813,6 +813,6 @@ LA10 - Realizzazione dei servizi in conformità alle Linee guida per la realizza
 
    In particolare, l’emanazione delle Linee guida per la razionalizzazione del
    patrimonio ICT delle Pubbliche amministrazioni e dei Piani di
-   razionalizzazione del patrimonio ICT delle PA sono state ricomprese
+   razionalizzazione del patrimonio ICT delle PA è stata ricompresa
    nell’azione “**Attuazione del Programma nazionale di abilitazione al Cloud
    della PA**” nell’ambito della definizione del Programma.
