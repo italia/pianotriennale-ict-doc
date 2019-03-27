@@ -750,10 +750,10 @@ Linee di azione
    - la strategia di *Cloud Enablement*, per la migrazione delle infrastrutture
      e delle applicazioni esistenti verso il modello Cloud della PA;
 
-   - i Centri di Competenza Territoriali, ovvero una comunità allargata di
-     tecnici, esperti e *manager* dell’IT che propongono standard e regolamenti
-     dei servizi digitali e condividono informazioni, soluzioni e competenze
-     utili a mantenere, aggiornare e aumentare l’affidabilità dei sistemi.
+   - i Centri di competenza tecnici, ovvero una comunità allargata di tecnici,
+     esperti e *manager* dell’IT che propongono standard e regolamenti dei
+     servizi digitali e condividono informazioni, soluzioni e competenze utili a
+     mantenere, aggiornare e aumentare l’affidabilità dei sistemi.
 
    Nell’ambito del principio del *Cloud First*, il **SaaS First** punta a
    favorire l’adozione di soluzioni SaaS, ove disponibili sul *Cloud
@@ -773,14 +773,12 @@ Linee di azione
      dall’insieme di risorse, strategie operative, metodologie e strumenti
      necessari per attuare il Cloud Enablement Program della PA.
 
-   Nell’ambito dell’attività di costituzione dei Centri di Competenza
-   Territoriali (CdCT), illustrata nel cap. 11, AGID fornirà il proprio supporto
-   con lo scopo di consolidare il *know how* e l’esperienza relativa ai servizi
-   Cloud nella PA. I CdCT svolgono la funzione di **soggetti aggregatori** in
-   grado di amministrare i servizi IT per conto di altre PA e AGID potrà mettere
-   a disposizione delle amministrazioni, su richiesta, competenze e risorse
-   professionali anche nell’ambito dell’Accordo Quadro stipulato a febbraio 2018
-   tra AGID e Regioni e Province Autonome.
+   Nell’ambito dell’attività di costituzione dei Centri di Competenza Tematici
+   (CdCT), illustrata nel cap. 11, AGID fornirà il proprio supporto con lo scopo
+   di consolidare il know how e l’esperienza relativa ai servizi Cloud nella PA
+   e potrà mettere a disposizione delle amministrazioni, su richiesta,
+   competenze e risorse professionali anche nell’ambito dell’Accordo Quadro
+   stipulato a febbraio 2018 tra AGID e Regioni e Province Autonome.
 
 
 .. admonition:: Focus. Revisione delle azioni su Cloud e Data Center del Piano

@@ -149,14 +149,14 @@ ricompresi nelle analisi.
 A2.2 Figure e tavole
 --------------------
 
-Tavola 1. Informazioni generali
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Tavola 1.  Informazioni generali
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Dati relativi all’anagrafica dell’Ente e all’organizzazione interna della
 funzione ICT
 
 +------------------------------+------+------+------+------+
-| Non dipendenti ICT/(dipendenti ICT + non dipendenti ICT) |
+| Personale non dipendente ICT / Personale ICT             |
 +------------------------------+------+------+------+------+
 | Tipologia ente               | 2016 | 2017 | 2018 | 2019 |
 +==============================+======+======+======+======+

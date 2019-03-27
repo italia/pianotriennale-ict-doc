@@ -228,6 +228,7 @@ quali-quantitativo, è così composto:
 
 .. image:: media/mappa-questionario-ict.png
    :name: mappa-questionario-ict
+   :scale: 100 %
    :alt: La figura mostra sulla mappa dello stato la posizione delle PA che
          hanno partecipato al questionario.
 

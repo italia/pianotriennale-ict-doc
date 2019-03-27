@@ -51,7 +51,6 @@ l’Informatica nella Pubblica Amministrazione 2019 - 2021:
 - Comune di Napoli
 - Comune di Palermo
 - Comune di Reggio Calabria
-- Comune di Roma
 - Comune di Torino
 - Comune di Venezia
 - Conferenza delle Regioni e Province Autonome
@@ -118,6 +117,7 @@ l’Informatica nella Pubblica Amministrazione 2019 - 2021:
 - Regione Umbria
 - Regione Valle d’Aosta
 - Regione Veneto
+- Roma Capitale
 - Scuola Nazionale dell’Amministrazione
 - Servizio della Centrale regionale di committenza della Regione Sardegna
 - Servizio regionale Centrale Unica di Committenza del Molise
