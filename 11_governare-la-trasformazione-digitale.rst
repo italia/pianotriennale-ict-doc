@@ -129,11 +129,9 @@ Obiettivi
 Linee di azione
 ~~~~~~~~~~~~~~~
 
-
-.. _la79:
-
-LA79 - Costituzione di Unità di Program Management Office nazionali e regionali
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA79 - Costituzione di Unità di Program Management Office nazionali e regionali**
+   :class: ref
+   :name: la79
 
 **Tempi**
   In corso
@@ -160,11 +158,9 @@ LA79 - Costituzione di Unità di Program Management Office nazionali e regionali
 **Aree di intervento**
   Impatto a breve termine sulle PA.
 
-
-.. _la80:
-
-LA80 - Laboratori digitali per i territori
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA80 - Laboratori digitali per i territori**
+   :class: ref
+   :name: la80
 
 **Tempi**
   Da gennaio 2019
@@ -191,11 +187,9 @@ LA80 - Laboratori digitali per i territori
 **Aree di intervento**
   Nel breve periodo, impatto sulle PA.
 
-
-.. _la81:
-
-LA81 - Istituzione del servizio civile digitale
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA81 - Istituzione del servizio civile digitale**
+   :class: ref
+   :name: la81
 
 **Tempi**
   Da gennaio 2019
@@ -371,11 +365,9 @@ Obiettivi
 Linee di azione
 ~~~~~~~~~~~~~~~
 
-
-.. _la82:
-
-LA82 - Costituzione della rete dei RTD
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA82 - Costituzione della rete dei RTD**
+   :class: ref
+   :name: la82
 
 **Tempi**
   In corso
@@ -407,11 +399,9 @@ LA82 - Costituzione della rete dei RTD
 **Aree di intervento**
   Impatto a breve termine sulle PA.
 
-
-.. _la83:
-
-LA83 - Iniziative della Rete dei RTD
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA83 - Iniziative della Rete dei RTD**
+   :class: ref
+   :name: la83
 
 **Tempi**
   Da luglio 2019
@@ -501,11 +491,9 @@ Obiettivi
 Linee di azione
 ~~~~~~~~~~~~~~~
 
-
-.. _la84:
-
-LA84 - Evoluzione della strategia di monitoraggio
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA84 - Evoluzione della strategia di monitoraggio**
+   :class: ref
+   :name: la84
 
 **Tempi**
   Da gennaio 2019
@@ -554,11 +542,9 @@ LA84 - Evoluzione della strategia di monitoraggio
 **Aree di intervento**
   Impatto a breve termine sulle PA.
 
-
-.. _la85:
-
-LA85 - Rilascio e messa in esercizio della piattaforma di monitoraggio
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA85 - Rilascio e messa in esercizio della piattaforma di monitoraggio**
+   :class: ref
+   :name: la85
 
 **Tempi**
   Da giugno 2019
@@ -686,11 +672,9 @@ Obiettivi
 Linee di azione
 ~~~~~~~~~~~~~~~
 
-
-.. _la86:
-
-LA86 - Progettazione ed erogazione di corsi di ICT project management per RTD
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA86 - Progettazione ed erogazione di corsi di ICT project management per RTD**
+   :class: ref
+   :name: la86
 
 **Tempi**
   Da gennaio 2019
@@ -715,11 +699,9 @@ LA86 - Progettazione ed erogazione di corsi di ICT project management per RTD
 **Aree di intervento**
   Impatto a breve termine sulle PA.
 
-
-.. _la87:
-
-LA87 - Progettazione ed erogazione di iniziative di formazione di base e specialistica per PA
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA87 - Progettazione ed erogazione di iniziative di formazione di base e specialistica per PA**
+   :class: ref
+   :name: la87
 
 **Tempi**
   Da gennaio 2019
@@ -846,11 +828,9 @@ Obiettivi
 Linee di azione
 ~~~~~~~~~~~~~~~
 
-
-.. _la88:
-
-LA88 - Interazione della figura del Difensore civico per il digitale con la rete dei Responsabili per la transizione al digitale
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA88 - Interazione della figura del Difensore civico per il digitale con la rete dei Responsabili per la transizione al digitale**
+   :class: ref
+   :name: la88
 
 **Tempi**
   Da luglio 2019
@@ -871,11 +851,9 @@ LA88 - Interazione della figura del Difensore civico per il digitale con la rete
 **Aree di intervento**
   Impatto a breve e medio termine sulle PA.
 
-
-.. _la89:
-
-LA89 - Redazione Guida sui diritti di cittadinanza digitale
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA89 - Redazione Guida sui diritti di cittadinanza digitale**
+   :class: ref
+   :name: la89
 
 **Tempi**
   In corso
@@ -916,11 +894,9 @@ LA89 - Redazione Guida sui diritti di cittadinanza digitale
 **Aree di intervento**
   Impatto a breve termine sui cittadini.
 
-
-.. _la90:
-
-LA90 - La semplificazione amministrativa degli sportelli unici delle attività produttive e dell’edilizia
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA90 - La semplificazione amministrativa degli sportelli unici delle attività produttive e dell’edilizia**
+   :class: ref
+   :name: la90
 
 **Tempi**
   In corso

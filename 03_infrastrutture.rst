@@ -183,11 +183,9 @@ Obiettivi
 Linee di azione
 ~~~~~~~~~~~~~~~
 
-
-.. _la01:
-
-LA01 - Attuazione del Programma nazionale di abilitazione al Cloud della PA
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA01 - Attuazione del Programma nazionale di abilitazione al Cloud della PA**
+   :class: ref
+   :name: la01
 
 **Tempi**
   In corso
@@ -225,11 +223,9 @@ LA01 - Attuazione del Programma nazionale di abilitazione al Cloud della PA
   Nel medio periodo, impatto sulle PA, su Consip, e sulle imprese che rivestono
   il ruolo di *Cloud Service Provider*.
 
-
-.. _la02:
-
-LA02 - Migrazione dei sistemi informativi delle PA verso il cloud
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA02 - Migrazione dei sistemi informativi delle PA verso il cloud**
+   :class: ref
+   :name: la02
 
 **Tempi**
   In corso
@@ -261,11 +257,9 @@ LA02 - Migrazione dei sistemi informativi delle PA verso il cloud
   Nel breve e medio periodo impatto verso le PA coinvolte e Consip. Nel medio e
   lungo periodo impatto su imprese e professionisti settore IT.
 
-
-.. _la03:
-
-LA03 - Definizione dei requisiti tecnici delle infrastrutture IT
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA03 - Definizione dei requisiti tecnici delle infrastrutture IT**
+   :class: ref
+   :name: la03
 
 **Tempi**
   In corso
@@ -385,11 +379,9 @@ gruppo B.
 Linee di azione
 ~~~~~~~~~~~~~~~
 
-
-.. _la04:
-
-LA04 - Comunicazione dei risultati del censimento del Patrimonio ICT
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA04 - Comunicazione dei risultati del censimento del Patrimonio ICT**
+   :class: ref
+   :name: la04
 
 **Tempi**
   In corso
@@ -409,11 +401,9 @@ LA04 - Comunicazione dei risultati del censimento del Patrimonio ICT
 **Aree di intervento**
   Nel breve periodo, impatto sulle PA.
 
-
-.. _la05:
-
-LA05 - Avvio del consolidamento e della dismissione dei data center di Gruppo A
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA05 - Avvio del consolidamento e della dismissione dei data center di Gruppo A**
+   :class: ref
+   :name: la05
 
 **Tempi**
   In corso
@@ -440,11 +430,9 @@ LA05 - Avvio del consolidamento e della dismissione dei data center di Gruppo A
   Nel medio periodo, impatto sulle PA appartenenti al Gruppo A e sulle imprese
   ICT.
 
-
-.. _la06:
-
-LA06 - Dismissione dei data center di Gruppo B
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA06 - Dismissione dei data center di Gruppo B**
+   :class: ref
+   :name: la06
 
 **Tempi**
   In corso
@@ -619,11 +607,9 @@ Obiettivi
 Linee di azione
 ~~~~~~~~~~~~~~~
 
-
-.. _la07:
-
-LA07 - Aggiornamento del modello di connettività
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA07 - Aggiornamento del modello di connettività**
+   :class: ref
+   :name: la07
 
 **Tempi**
   Marzo 2020
@@ -645,11 +631,9 @@ LA07 - Aggiornamento del modello di connettività
 **Aree di intervento**
   Nel lungo periodo, impatto sulle PA e cittadini.
 
-
-.. _la08:
-
-LA08 - Adeguamento della capacità di connessione della PA
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA08 - Adeguamento della capacità di connessione della PA**
+   :class: ref
+   :name: la08
 
 **Tempi**
   In corso
@@ -678,11 +662,9 @@ LA08 - Adeguamento della capacità di connessione della PA
 **Aree di intervento**
   Nel breve periodo, impatto sulle PA.
 
-
-.. _la09:
-
-LA09 - Operatività dei nuovi contratti per la connettività S-RIPA per le sedi estere delle Pubbliche Amministrazioni
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA09 - Operatività dei nuovi contratti per la connettività S-RIPA per le sedi estere delle Pubbliche Amministrazioni**
+   :class: ref
+   :name: la09
 
 **Tempi**
   In corso
@@ -708,11 +690,9 @@ LA09 - Operatività dei nuovi contratti per la connettività S-RIPA per le sedi 
   Nel medio periodo, impatto sulle sedi estere delle PA e nel lungo periodo
   sulle imprese italiane all’estero e cittadini italiani all’estero.
 
-
-.. _la10:
-
-LA10 - Realizzazione dei servizi in conformità alle Linee guida per la realizzazione di reti Wi-Fi pubbliche
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA10 - Realizzazione dei servizi in conformità alle Linee guida per la realizzazione di reti Wi-Fi pubbliche**
+   :class: ref
+   :name: la10
 
 **Tempi**
   In corso

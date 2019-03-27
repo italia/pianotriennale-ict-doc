@@ -223,11 +223,9 @@ a:
 Linee di azione
 ---------------
 
-
-.. _la55:
-
-LA55 - CERT-PA - ampliamento capacità operativa
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: **LA55 - CERT-PA - ampliamento capacità operativa**
+   :class: ref
+   :name: la55
 
 **Tempi**
   In corso
@@ -251,11 +249,9 @@ LA55 - CERT-PA - ampliamento capacità operativa
 **Aree di intervento**
   Nel breve periodo, impatto sulle PA.
 
-
-.. _la56:
-
-LA56 - CERT-PA - Piattaforma Infosec
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: **LA56 - CERT-PA - Piattaforma Infosec**
+   :class: ref
+   :name: la56
 
 **Tempi**
   Giugno 2019
@@ -275,11 +271,9 @@ LA56 - CERT-PA - Piattaforma Infosec
 **Aree di intervento**
   Nel breve periodo, impatto sulle PA.
 
-
-.. _la57:
-
-LA57 - Adeguamento delle PA agli standard Trasmissione automatizzata IoC
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: **LA57 - Adeguamento delle PA agli standard Trasmissione automatizzata IoC**
+   :class: ref
+   :name: la57
 
 **Tempi**
   In corso
@@ -305,11 +299,9 @@ LA57 - Adeguamento delle PA agli standard Trasmissione automatizzata IoC
 **Aree di intervento**
   Nel breve periodo, impatto sulle PA.
 
-
-.. _la58:
-
-LA58 - Realizzazione piattaforma nazionale della PA per la trasmissione automatizzata degli IoC
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: **LA58 - Realizzazione piattaforma nazionale della PA per la trasmissione automatizzata degli IoC**
+   :class: ref
+   :name: la58
 
 **Tempi**
   In corso
@@ -330,11 +322,9 @@ LA58 - Realizzazione piattaforma nazionale della PA per la trasmissione automati
 **Aree di intervento**
   Nel breve periodo, impatto sulle PA.
 
-
-.. _la59:
-
-LA59 - Segnalazioni incidenti Informatici al CERT-PA
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: **LA59 - Segnalazioni incidenti Informatici al CERT-PA**
+   :class: ref
+   :name: la59
 
 **Tempi**
   In corso
@@ -357,11 +347,9 @@ LA59 - Segnalazioni incidenti Informatici al CERT-PA
 **Aree di intervento**
   Nel breve periodo, impatto sulle PA.
 
-
-.. _la60:
-
-LA60 - Emanazione Linee Guida di sicurezza cibernetica per le PA
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: **LA60 - Emanazione Linee Guida di sicurezza cibernetica per le PA**
+   :class: ref
+   :name: la60
 
 **Tempi**
   In corso

@@ -281,16 +281,16 @@ Le **componenti** di cui si avvale il sistema sono:
   Interscambio delle Fatture Elettroniche** (**SdI**). La Direttiva europea
   55/2014, recepita con il Decreto Legislativo n. 148 del 27 dicembre 2018,
   prevede l’obbligo per le PA di accettare e gestire le fatture elettroniche
-  anche nel formato conforme alla norma europea sulla fatturazione elettronica
-  a partire dal 18 aprile 2019. Ciò comporta un’evoluzione della piattaforma
-  SdI (Sistema di Interscambio) per consentire il recepimento delle fatture
+  anche nel formato conforme alla norma europea sulla fatturazione elettronica a
+  partire dal 18 aprile 2019. Ciò comporta un’evoluzione della piattaforma SdI
+  (Sistema di Interscambio) per consentire il recepimento delle fatture
   elettroniche sia nel formato europeo sia nel formato FatturaPA. Il Sistema di
   Interscambio consentirà inoltre di gestire la fatturazione elettronica tra
   privati a partire da gennaio 2019, come previsto dalla Legge n. 205/2017
-  articolo 1, comma 909 (modifica D.Lgs. N. 127/2015 articolo 1, comma 3).
-  In tale ottica e in previsione dei pagamenti verso la PA, verrà istituito un
-  gruppo di lavoro per l’integrazione dei dati legati al pagamento tramite pagoPA
-  all’interno del formato della fattura elettronica.
+  articolo 1, comma 909 (modifica D.Lgs. N. 127/2015 articolo 1, comma 3). In
+  tale ottica e in previsione dei pagamenti verso la PA, verrà istituito un
+  gruppo di lavoro per l’integrazione dei dati legati al pagamento tramite
+  pagoPA all’interno del formato della fattura elettronica.
 
 Scenario
 ~~~~~~~~
@@ -392,11 +392,9 @@ Obiettivi
 Linee di azione
 ~~~~~~~~~~~~~~~
 
-
-.. _la28:
-
-LA28 - Adeguamento/evoluzione delle piattaforme telematiche
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA28 - Adeguamento/evoluzione delle piattaforme telematiche**
+   :class: ref
+   :name: la28
 
 **Tempi**
   In corso
@@ -432,11 +430,9 @@ LA28 - Adeguamento/evoluzione delle piattaforme telematiche
   Nel breve e medio periodo, impatto sulle PA e sulle imprese fornitrici delle
   piattaforme.
 
-
-.. _la29:
-
-LA29 - Messa in esercizio della BDOE
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA29 - Messa in esercizio della BDOE**
+   :class: ref
+   :name: la29
 
 **Tempi**
   In corso
@@ -459,11 +455,9 @@ LA29 - Messa in esercizio della BDOE
 **Aree di intervento**
   Nel breve periodo, impatto su PA e imprese.
 
-
-.. _la30:
-
-LA30 - Gestione elettronica degli ordini verso i fornitori
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA30 - Gestione elettronica degli ordini verso i fornitori**
+   :class: ref
+   :name: la30
 
 **Tempi**
   Da ottobre 2019
@@ -489,11 +483,9 @@ LA30 - Gestione elettronica degli ordini verso i fornitori
 **Aree di intervento**
   Nel breve periodo, impatto su aziende sanitarie e imprese del settore.
 
-
-.. _la31:
-
-LA31 - Gestione del formato europeo della Fattura Elettronica (EN)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA31 - Gestione del formato europeo della Fattura Elettronica (EN)**
+   :class: ref
+   :name: la31
 
 **Tempi**
   Da aprile 2019
@@ -722,11 +714,9 @@ Gli obiettivi di medio/lungo periodo sono:
 Linee di azione
 ~~~~~~~~~~~~~~~
 
-
-.. _la32:
-
-LA32 - Evoluzione tecnologica della piattaforma
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA32 - Evoluzione tecnologica della piattaforma**
+   :class: ref
+   :name: la32
 
 **Tempi**
   In corso
@@ -747,11 +737,9 @@ LA32 - Evoluzione tecnologica della piattaforma
 **Aree di intervento**
   Nel breve periodo impatto, su PA e prestatori di servizi di pagamento.
 
-
-.. _la33:
-
-LA33 - Completamento dell’adesione alla piattaforma
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA33 - Completamento dell’adesione alla piattaforma**
+   :class: ref
+   :name: la33
 
 **Tempi**
   In corso
@@ -779,11 +767,9 @@ LA33 - Completamento dell’adesione alla piattaforma
 **Aree di intervento**
   Nel breve periodo, impatto su PA e prestatori di servizi di pagamento.
 
-
-.. _la34:
-
-LA34 - Monitoraggio tecnico e dell’attivazione dei servizi
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA34 - Monitoraggio tecnico e dell’attivazione dei servizi**
+   :class: ref
+   :name: la34
 
 **Tempi**
   In corso
@@ -893,11 +879,9 @@ Obiettivi
 Linee di azione
 ~~~~~~~~~~~~~~~
 
-
-.. _la35:
-
-LA35 - Dispiegamento del sistema SIOPE+
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA35 - Dispiegamento del sistema SIOPE+**
+   :class: ref
+   :name: la35
 
 **Tempi**
   In corso
@@ -930,11 +914,9 @@ LA35 - Dispiegamento del sistema SIOPE+
 **Aree di intervento**
   Nel breve periodo, impatto sulle PA.
 
-
-.. _la36:
-
-LA36 - Revisione della piattaforma open data Soldipubblici
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA36 - Revisione della piattaforma open data Soldipubblici**
+   :class: ref
+   :name: la36
 
 **Tempi**
   Da giugno 2019
@@ -1023,11 +1005,9 @@ Obiettivi
 Linee di azione
 ~~~~~~~~~~~~~~~
 
-
-.. _la37:
-
-LA37 - Evoluzione del sistema NoiPA e valorizzazione del patrimonio informativo gestito
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA37 - Evoluzione del sistema NoiPA e valorizzazione del patrimonio informativo gestito**
+   :class: ref
+   :name: la37
 
 **Tempi**
   In corso
@@ -1143,11 +1123,9 @@ Obiettivi
 Linee di azione
 ~~~~~~~~~~~~~~~
 
-
-.. _la38:
-
-LA38 - Linee Guida SPID
-^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA38 - Linee Guida SPID**
+   :class: ref
+   :name: la38
 
 **Tempi**
   In corso
@@ -1191,11 +1169,9 @@ LA38 - Linee Guida SPID
   Nel breve periodo, impatto sulle PA e sulle imprese (*identity provider* e
   *service provider* privati).
 
-
-.. _la39:
-
-LA39 - Attività a seguito della notifica di SPID alla Commissione Europea
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA39 - Attività a seguito della notifica di SPID alla Commissione Europea**
+   :class: ref
+   :name: la39
 
 **Tempi**
   In corso
@@ -1215,11 +1191,9 @@ LA39 - Attività a seguito della notifica di SPID alla Commissione Europea
 **Aree di intervento**
   Nel breve periodo, impatto sulle PA degli Stati membri e sui cittadini.
 
-
-.. _la40:
-
-LA40 - Integrazione con le identità digitali a livello europeo
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA40 - Integrazione con le identità digitali a livello europeo**
+   :class: ref
+   :name: la40
 
 **Tempi**
   In corso
@@ -1242,11 +1216,9 @@ LA40 - Integrazione con le identità digitali a livello europeo
 **Aree di intervento**
   Nel breve periodo, impatto sulle PA europee e sui cittadini.
 
-
-.. _la41:
-
-LA41 - Analisi diffusione di SPID ai fini dello switch-off
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA41 - Analisi diffusione di SPID ai fini dello switch-off**
+   :class: ref
+   :name: la41
 
 **Tempi**
   In corso
@@ -1302,11 +1274,9 @@ Obiettivi
 Linee di azione
 ~~~~~~~~~~~~~~~
 
-
-.. _la42:
-
-LA42 - Emissione della CIE all’estero
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA42 - Emissione della CIE all’estero**
+   :class: ref
+   :name: la42
 
 **Tempi**
   In corso
@@ -1325,11 +1295,9 @@ LA42 - Emissione della CIE all’estero
 **Aree di intervento**
   Nel breve periodo, impatto su PA e cittadini.
 
-
-.. _la43:
-
-LA43 - Notifica eIDAS
-^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA43 - Notifica eIDAS**
+   :class: ref
+   :name: la43
 
 **Tempi**
   In corso
@@ -1354,11 +1322,9 @@ LA43 - Notifica eIDAS
 **Aree di intervento**
   Nel breve periodo, impatto su PA degli Stati membri dell’UE.
 
-
-.. _la44:
-
-LA44 - Accesso ai servizi online con CIE
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA44 - Accesso ai servizi online con CIE**
+   :class: ref
+   :name: la44
 
 **Tempi**
   Dicembre 2019
@@ -1549,11 +1515,9 @@ Obiettivi
 Linee di azione
 ~~~~~~~~~~~~~~~
 
-
-.. _la45:
-
-LA45 - Nuove Linee Guida per la formazione, gestione e conservazione dei documenti informatici
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA45 - Nuove Linee Guida per la formazione, gestione e conservazione dei documenti informatici**
+   :class: ref
+   :name: la45
 
 **Tempi**
   In corso
@@ -1577,11 +1541,9 @@ LA45 - Nuove Linee Guida per la formazione, gestione e conservazione dei documen
 **Aree di intervento**
   Nel breve periodo, impatto sulle PA e su conservatori accreditati.
 
-
-.. _la46:
-
-LA46 - Modelli per l'interoperabilità tra sistemi di gestione documentale delle PA
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA46 - Modelli per l'interoperabilità tra sistemi di gestione documentale delle PA**
+   :class: ref
+   :name: la46
 
 **Tempi**
   Da gennaio 2019
@@ -1695,11 +1657,9 @@ Obiettivi
 Linee di azione
 ~~~~~~~~~~~~~~~
 
-
-.. _la47:
-
-LA47 - Progetto di redazione di linee guida di interoperabilità tra sistemi di conservazione
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA47 - Progetto di redazione di linee guida di interoperabilità tra sistemi di conservazione**
+   :class: ref
+   :name: la47
 
 **Tempi**
   In corso
@@ -1748,11 +1708,9 @@ LA47 - Progetto di redazione di linee guida di interoperabilità tra sistemi di 
 **Aree di intervento**
   Nel medio periodo, impatto sulle PA.
 
-
-.. _la48:
-
-LA48 - Progetto di dematerializzazione documenti della PA
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA48 - Progetto di dematerializzazione documenti della PA**
+   :class: ref
+   :name: la48
 
 **Tempi**
   In corso
@@ -1832,11 +1790,9 @@ Obiettivi
 Linee di azione
 ~~~~~~~~~~~~~~~
 
-
-.. _la49:
-
-LA49 - Promozione della circolarità anagrafica
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA49 - Promozione della circolarità anagrafica**
+   :class: ref
+   :name: la49
 
 **Tempi**
   In corso
@@ -1872,11 +1828,9 @@ LA49 - Promozione della circolarità anagrafica
   Nel breve e medio periodo impatto sulle PA, gestori di pubblici servizi,
   società controllate dalle PA.
 
-
-.. _la50:
-
-LA50 - Visura anagrafica e Certificazione anagrafica nazionale
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA50 - Visura anagrafica e Certificazione anagrafica nazionale**
+   :class: ref
+   :name: la50
 
 **Tempi**
   In corso
