@@ -382,7 +382,7 @@ Linee di azione
   Da gennaio 2019
 
 **Attori**
-  PA centrali
+  PA centrali, AGID, Dipartimento della Funzione Pubblica
 
 **Descrizione**
   Le pubbliche amministrazioni centrali, elencate nella `Determinazione AGID

@@ -15,13 +15,7 @@ generalmente utilizzato.
 
 La strategia Horizon 2020 ha come obiettivo il miglioramento della competitività
 dell’UE, conservando allo stesso tempo il modello di economia sociale di mercato
-e migliorando sensibilmente l’efficacia dell’utilizzo delle risorse. Sullo
-specifico tema dei dati, sempre a livello europeo, ma anche nazionale, si
-registra la crescente necessità di un migliore coordinamento tra le varie
-politiche sui dati, in particolare per l’attuazione della direttiva INSPIRE nel
-contesto delle politiche di eGov. In tal senso si esprimono, in particolare, il
-Piano d’azione per l’*eGovernment* dell’UE 2016 - 2020 (COM (2016) 179 final) e
-il nuovo quadro europeo di interoperabilità (COM (2017) 134 final).
+e migliorando sensibilmente l’efficacia dell’utilizzo delle risorse.
 
 In tale contesto, diventa essenziale sfruttare le potenzialità del patrimonio di
 dati gestiti dalla Pubblica Amministrazione. Gli strumenti offerti dalla
@@ -288,9 +282,9 @@ Il popolamento della banca dati di interesse nazionale ANPR evidenzia un
 incremento nell’ultimo periodo, nel dettaglio da meno di 300.000 abitanti e 13
 comuni nel settembre 2017 (data della firma del contratto) si è raggiunto il
 numero di quasi 19 milioni di abitanti e oltre 1600 comuni a fine gennaio 2019
-(il monitoraggio in tempo reale dei progetti di trasformazione digitale è
-disponibile nella sezione `Avanzamento trasformazione digitale
-<https://avanzamentodigitale.italia.it/it/progetto/anpr>`__ del sito AGID).
+(il monitoraggio in tempo reale della migrazione dei comuni verso ANPR è
+disponibile nella dashboard `ANPR - Stato della migrazione
+<https://stato-migrazione.anpr.it/>`__).
 L’incremento del processo di subentro dei Comuni in ANPR constatato nell’ultimo
 periodo è imputabile all’assetto della *governance* del progetto stesso che
 individua un *Program Office* (PO) di nomina commissariale, a cui è stata

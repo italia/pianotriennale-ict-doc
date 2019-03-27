@@ -240,6 +240,14 @@ C
      appalti pubblici elettronici, compresi i processi pre-aggiudicazione e
      post-aggiudicazione.
 
+   Centri di competenza tematici
+     Comunità di tecnologi, tecnici ed esperti che propongono soluzioni
+     (tecnologie, standard, regolamenti, ect) per la realizzazione efficace di
+     servizi digitali e condividono informazioni e competenze utili a allo
+     scambio delle buone pratiche per la gestione delle iniziative tematica di
+     cui si fanno promotori. I CdCT possono essere di tipo nazionale (es. i CdCT
+     di AgiD) e/o territoriale (es. di Regioni, in house, ect).
+
    Cloud o cloud computing
      Modello per abilitare, tramite la rete, l’accesso diffuso, agevole e a
      richiesta, ad un insieme condiviso e configurabile di risorse di
