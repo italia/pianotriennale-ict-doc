@@ -400,11 +400,9 @@ Obiettivi
 Linee di azione
 ~~~~~~~~~~~~~~~
 
-
-.. _la14:
-
-LA14 - Definizione delle linee di sviluppo delle basi di dati di interesse nazionale
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA14 - Definizione delle linee di sviluppo delle basi di dati di interesse nazionale**
+   :class: ref
+   :name: la14
 
 **Tempi**
   Da gennaio 2019
@@ -428,11 +426,9 @@ LA14 - Definizione delle linee di sviluppo delle basi di dati di interesse nazio
   nazionale e su tutta la PA. Nel medio/lungo impatto su imprese, cittadini,
   altri soggetti istituzionali e categorie specifiche di utenza.
 
-
-.. _la15:
-
-LA15 - Implementazione standard Geo - DCAT-AP_IT
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA15 - Implementazione standard Geo - DCAT-AP_IT**
+   :class: ref
+   :name: la15
 
 **Tempi**
   In corso
@@ -461,11 +457,9 @@ LA15 - Implementazione standard Geo - DCAT-AP_IT
   imprese, cittadini, altri soggetti istituzionali e categorie specifiche di
   utenza.
 
-
-.. _la16:
-
-LA16 - Disponibilità Catalogo dei servizi (servizi.gov.it)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA16 - Disponibilità Catalogo dei servizi (servizi.gov.it)**
+   :class: ref
+   :name: la16
 
 **Tempi**
   In corso
@@ -488,11 +482,9 @@ LA16 - Disponibilità Catalogo dei servizi (servizi.gov.it)
 **Aree di intervento**
   Nel breve periodo, impatto sulle PA.
 
-
-.. _la17:
-
-LA17 - Completamento del popolamento di ANPR
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA17 - Completamento del popolamento di ANPR**
+   :class: ref
+   :name: la17
 
 **Tempi**
   In corso
@@ -511,11 +503,9 @@ LA17 - Completamento del popolamento di ANPR
 **Aree di intervento**
   Nel breve periodo sulle PA e sui cittadini.
 
-
-.. _la18:
-
-LA18 - Sperimentazione dell’archivio nazionale informatizzato dei registri di stato civile in ANPR
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA18 - Sperimentazione dell’archivio nazionale informatizzato dei registri di stato civile in ANPR**
+   :class: ref
+   :name: la18
 
 **Tempi**
   Da gennaio 2019
@@ -537,11 +527,9 @@ civile (dicembre 2019).
 Nel breve periodo, impatto sulle PA coinvolte. Nel medio-lungo periodo, impatto
 sui cittadini.
 
-
-.. _la19:
-
-LA19 - Adozione delle Linee Guida IPA
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA19 - Adozione delle Linee Guida IPA**
+   :class: ref
+   :name: la19
 
 **Tempi**
   In corso
@@ -679,11 +667,9 @@ pongono i seguenti obiettivi:
 Linee di azione
 ~~~~~~~~~~~~~~~
 
-
-.. _la20:
-
-LA20 - Strategia complessiva per valorizzazione dei dati
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA20 - Strategia complessiva per valorizzazione dei dati**
+   :class: ref
+   :name: la20
 
 **Tempi**
   Da gennaio 2019
@@ -709,11 +695,9 @@ LA20 - Strategia complessiva per valorizzazione dei dati
   Nel breve periodo, impatto sulle PA e, nel medio/lungo periodo, impatto su
   imprese, cittadini, altri soggetti istituzionali.
 
-
-.. _la21:
-
-LA21 - Indagine sul grado di maturità degli open data e sullo stato di attuazione della direttiva PSI
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA21 - Indagine sul grado di maturità degli open data e sullo stato di attuazione della direttiva PSI**
+   :class: ref
+   :name: la21
 
 **Tempi**
   Da febbraio 2019
@@ -736,11 +720,9 @@ LA21 - Indagine sul grado di maturità degli open data e sullo stato di attuazio
 **Aree di intervento**
   Nel breve periodo, impatto sulle PA partecipanti.
 
-
-.. _la22:
-
-LA22 - Evoluzione del Catalogo nazionale dati.gov.it
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA22 - Evoluzione del Catalogo nazionale dati.gov.it**
+   :class: ref
+   :name: la22
 
 **Tempi**
   Da marzo 2019
@@ -770,11 +752,9 @@ LA22 - Evoluzione del Catalogo nazionale dati.gov.it
 **Aree di intervento**
   Nel medio periodo, impatto su PA, cittadini e imprese.
 
-
-.. _la23:
-
-LA23 - Aggiornamento delle Linee guida per la valorizzazione del patrimonio informativo pubblico
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA23 - Aggiornamento delle Linee guida per la valorizzazione del patrimonio informativo pubblico**
+   :class: ref
+   :name: la23
 
 **Tempi**
   Da gennaio 2019
@@ -863,18 +843,16 @@ Obiettivi
   relativi al Sistema museale, in stretta correlazione con i competenti Uffici
   del Ministero per i beni e le attività culturali (MiBAC), in coerenza con le
   disposizioni di cui al Decreto 21 febbraio 2018 dello stesso Ministero,
-  recante “Adozione dei livelli minimi uniformi di qualità per i musei e i luoghi
-  della cultura di appartenenza pubblica e attivazione del Sistema museale
-  nazionale”.
+  recante “Adozione dei livelli minimi uniformi di qualità per i musei e i
+  luoghi della cultura di appartenenza pubblica e attivazione del Sistema
+  museale nazionale”.
 
 Linee di azione
 ~~~~~~~~~~~~~~~
 
-
-.. _la24:
-
-LA24 - Ruoli e procedure per la gestione del Registry
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA24 - Ruoli e procedure per la gestione del Registry**
+   :class: ref
+   :name: la24
 
 **Tempi**
   Da marzo 2019
@@ -895,11 +873,9 @@ LA24 - Ruoli e procedure per la gestione del Registry
 **Aree di intervento**
   Nel medio periodo, impatto su PA, cittadini e imprese.
 
-
-.. _la25:
-
-LA25 - Sviluppo ontologie
-^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA25 - Sviluppo ontologie**
+   :class: ref
+   :name: la25
 
 **Tempi**
   In corso
@@ -1077,11 +1053,9 @@ Obiettivi
 Linee di azione
 ~~~~~~~~~~~~~~~
 
-
-.. _la26:
-
-LA26 - Progettazione della PDND, sperimentazione e prima applicazione della stessa
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA26 - Progettazione della PDND, sperimentazione e prima applicazione della stessa**
+   :class: ref
+   :name: la26
 
 **Tempi**
   In corso
@@ -1135,11 +1109,9 @@ LA26 - Progettazione della PDND, sperimentazione e prima applicazione della stes
 **Aree di intervento**
   Nel breve periodo impatto sulle PA.
 
-
-.. _la27:
-
-LA27 - Messa in produzione della PDND
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA27 - Messa in produzione della PDND**
+   :class: ref
+   :name: la27
 
 **Tempi**
   Da luglio 2019

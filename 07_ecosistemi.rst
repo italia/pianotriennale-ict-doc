@@ -511,11 +511,9 @@ di seguito descritte su almeno quattro ecosistemi “prioritari”:
 Proseguono inoltre le attività relative all’Ecosistema Sanità, già avviato e in
 fase avanzata di sviluppo.
 
-
-.. _la51:
-
-LA51 - Convocazione dei Gruppi di lavoro degli ecosistemi e definizione dei tavoli di lavoro tecnici
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: **LA51 - Convocazione dei Gruppi di lavoro degli ecosistemi e definizione dei tavoli di lavoro tecnici**
+   :class: ref
+   :name: la51
 
 **Tempi**
   Da gennaio 2019
@@ -540,11 +538,9 @@ LA51 - Convocazione dei Gruppi di lavoro degli ecosistemi e definizione dei tavo
 **Aree di intervento**
   Nel breve periodo, impatto su PA capofila e *stakeholder* dell’ecosistema.
 
-
-.. _la52:
-
-LA52 - Design degli ecosistemi
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: **LA52 - Design degli ecosistemi**
+   :class: ref
+   :name: la52
 
 **Tempi**
   Da gennaio 2020
@@ -571,11 +567,9 @@ LA52 - Design degli ecosistemi
 **Aree di intervento**
   Nel breve periodo, impatto su PA coinvolte e *stakeholder* degli ecosistemi.
 
-
-.. _la53:
-
-LA53 - Realizzazione delle analisi As-Is degli ecosistemi
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: **LA53 - Realizzazione delle analisi As-Is degli ecosistemi**
+   :class: ref
+   :name: la53
 
 **Tempi**
   Da giugno 2020
@@ -599,11 +593,9 @@ LA53 - Realizzazione delle analisi As-Is degli ecosistemi
 **Aree di intervento**
   Nel breve periodo, impatto su PA coinvolte e *stakeholder* degli ecosistemi.
 
-
-.. _la54:
-
-LA54 - Accompagnamento allo sviluppo degli ecosistemi
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: **LA54 - Accompagnamento allo sviluppo degli ecosistemi**
+   :class: ref
+   :name: la54
 
 **Tempi**
   Da gennaio 2021

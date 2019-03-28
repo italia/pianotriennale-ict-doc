@@ -122,11 +122,9 @@ Obiettivi
 Linee di azione
 ~~~~~~~~~~~~~~~
 
-
-.. _la61:
-
-LA61 - Adeguamento alle Linee guida di design dei siti e servizi web delle PA
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA61 - Adeguamento alle Linee guida di design dei siti e servizi web delle PA**
+   :class: ref
+   :name: la61
 
 **Tempi**
   In corso
@@ -148,11 +146,9 @@ LA61 - Adeguamento alle Linee guida di design dei siti e servizi web delle PA
 **Aree di intervento**
   Nel breve periodo, impatto sulle PA.
 
-
-.. _la62:
-
-LA62 - Linee guida di design dei siti della PA nei capitolati di gara
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA62 - Linee guida di design dei siti della PA nei capitolati di gara**
+   :class: ref
+   :name: la62
 
 **Tempi**
   Da giugno 2019
@@ -173,11 +169,9 @@ LA62 - Linee guida di design dei siti della PA nei capitolati di gara
 **Aree di intervento**
   Nel breve periodo, impatto sulle PA e sulle imprese ICT.
 
-
-.. _la63:
-
-LA63 - Rilascio di un kit per il design e lo sviluppo dei siti dei comuni e delle scuole
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA63 - Rilascio di un kit per il design e lo sviluppo dei siti dei comuni e delle scuole**
+   :class: ref
+   :name: la63
 
 **Tempi**
   Da aprile 2019
@@ -202,11 +196,9 @@ LA63 - Rilascio di un kit per il design e lo sviluppo dei siti dei comuni e dell
 **Aree di intervento**
   Nel breve periodo, impatto su Comuni, scuole e cittadini.
 
-
-.. _la64:
-
-LA64 - Pubblicazione delle linee guida di design contenenti regole, standard e guide tecniche, secondo l’articolo 71 del CAD
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA64 - Pubblicazione delle linee guida di design contenenti regole, standard e guide tecniche, secondo l’articolo 71 del CAD**
+   :class: ref
+   :name: la64
 
 **Tempi**
   Luglio 2019
@@ -281,11 +273,9 @@ Obiettivi
 Linee di azione
 ~~~~~~~~~~~~~~~
 
-
-.. _la65:
-
-LA65 - Pubblicazione obiettivi di accessibilità
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA65 - Pubblicazione obiettivi di accessibilità**
+   :class: ref
+   :name: la65
 
 **Tempi**
   Entro marzo 2019
@@ -313,11 +303,9 @@ LA65 - Pubblicazione obiettivi di accessibilità
 **Aree di intervento**
   Nel breve periodo, impatto sulle PA.
 
-
-.. _la66:
-
-LA66 - Attuazione Direttiva europea 2016/2102 sull’accessibilità dei siti web
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA66 - Attuazione Direttiva europea 2016/2102 sull’accessibilità dei siti web**
+   :class: ref
+   :name: la66
 
 **Tempi**
   In corso
@@ -386,11 +374,9 @@ Obiettivi
 Linee di azione
 ~~~~~~~~~~~~~~~
 
-
-.. _la67:
-
-LA67 - Utilizzo del protocollo eGLU per i test usabilità dei siti web delle PA centrali
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA67 - Utilizzo del protocollo eGLU per i test usabilità dei siti web delle PA centrali**
+   :class: ref
+   :name: la67
 
 **Tempi**
   Da gennaio 2019
@@ -462,11 +448,9 @@ Obiettivi
 Linee di azione
 ~~~~~~~~~~~~~~~
 
-
-.. _la68:
-
-LA68 - Nuovi strumenti per il riuso delle soluzioni delle PA
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA68 - Nuovi strumenti per il riuso delle soluzioni delle PA**
+   :class: ref
+   :name: la68
 
 **Tempi**
   Da gennaio 2019
@@ -540,11 +524,9 @@ Obiettivi
 Linee di azione
 ~~~~~~~~~~~~~~~
 
-
-.. _la69:
-
-LA69 - Evoluzione della piattaforma Docs Italia
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA69 - Evoluzione della piattaforma Docs Italia**
+   :class: ref
+   :name: la69
 
 **Tempi**
   Giugno 2019
@@ -566,11 +548,9 @@ LA69 - Evoluzione della piattaforma Docs Italia
 **Aree di intervento**
   Nel breve periodo, impatto su PA e cittadini.
 
-
-.. _la70:
-
-LA70 - Sperimentazione dell’adozione di Docs Italia per documentare progetti pubblici legati all’Agenda digitale
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA70 - Sperimentazione dell’adozione di Docs Italia per documentare progetti pubblici legati all’Agenda digitale**
+   :class: ref
+   :name: la70
 
 **Tempi**
   Dicembre 2019
@@ -630,11 +610,9 @@ Le pubbliche amministrazioni pilota:
 Linee di azione
 ~~~~~~~~~~~~~~~
 
-
-.. _la71:
-
-LA71 - Avvio del processo di onboarding alla piattaforma “Web Analytics Italia”
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA71 - Avvio del processo di onboarding alla piattaforma “Web Analytics Italia”**
+   :class: ref
+   :name: la71
 
 **Tempi**
   Da ottobre 2019
@@ -697,11 +675,9 @@ Obiettivi
 Linee di azione
 ~~~~~~~~~~~~~~~
 
-
-.. _la72:
-
-LA72 - Progettazione e sviluppo dell’app e della piattaforma
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA72 - Progettazione e sviluppo dell’app e della piattaforma**
+   :class: ref
+   :name: la72
 
 **Tempi**
   Da gennaio 2019
@@ -723,11 +699,9 @@ LA72 - Progettazione e sviluppo dell’app e della piattaforma
 **Aree di intervento**
   Nel breve periodo, impatto su PA e cittadini.
 
-
-.. _la73:
-
-LA73 - Onboarding delle PA sulla piattaforma IO
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA73 - Onboarding delle PA sulla piattaforma IO**
+   :class: ref
+   :name: la73
 
 **Tempi**
   Gennaio 2020
@@ -809,11 +783,9 @@ Obiettivi
 Linee di azione
 ~~~~~~~~~~~~~~~
 
-
-.. _la74:
-
-LA74 - Supporto alla migrazione verso il dominio .edu e il dominio .it
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA74 - Supporto alla migrazione verso il dominio .edu e il dominio .it**
+   :class: ref
+   :name: la74
 
 **Tempi**
   In corso

@@ -201,11 +201,9 @@ Obiettivi
 Linee di azione
 ---------------
 
-
-.. _la11:
-
-LA11 - Transizione dei servizi SP-Coop al nuovo Modello da parte delle PA
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: **LA11 - Transizione dei servizi SP-Coop al nuovo Modello da parte delle PA**
+   :class: ref
+   :name: la11
 
 **Tempi**
   In corso
@@ -247,11 +245,9 @@ LA11 - Transizione dei servizi SP-Coop al nuovo Modello da parte delle PA
 **Aree di intervento**
   Nel breve periodo, impatto sulle PA.
 
-
-.. _la12:
-
-LA12 - Adozione delle linee guida del nuovo Modello di interoperabilità
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: **LA12 - Adozione delle linee guida del nuovo Modello di interoperabilità**
+   :class: ref
+   :name: la12
 
 **Tempi**
   In corso
@@ -291,11 +287,9 @@ LA12 - Adozione delle linee guida del nuovo Modello di interoperabilità
 **Aree di intervento**
   Nel breve periodo, impatto sulle PA.
 
-
-.. _la13:
-
-LA13 - Realizzazione e popolamento del “Catalogo delle Interfacce di Servizio"
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: **LA13 - Realizzazione e popolamento del “Catalogo delle Interfacce di Servizio"**
+   :class: ref
+   :name: la13
 
 **Tempi**
   Da dicembre 2019

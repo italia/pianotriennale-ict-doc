@@ -196,11 +196,9 @@ innovazione:
 Linee di azione
 ~~~~~~~~~~~~~~~
 
-
-.. _la75:
-
-LA75 - Attivazione e sperimentazione della Piattaforma per gli appalti di innovazione
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA75 - Attivazione e sperimentazione della Piattaforma per gli appalti di innovazione**
+   :class: ref
+   :name: la75
 
 **Tempi**
   In corso
@@ -230,11 +228,9 @@ LA75 - Attivazione e sperimentazione della Piattaforma per gli appalti di innova
 **Area di intervento**
   Nel breve periodo impatto sulle PA, nel medio periodo impatto sulle imprese.
 
-
-.. _la76:
-
-LA76 - Promozione e monitoraggio degli appalti di innovazione
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA76 - Promozione e monitoraggio degli appalti di innovazione**
+   :class: ref
+   :name: la76
 
 **Tempi**
   In corso
@@ -504,11 +500,9 @@ Obiettivi
 Linee di azione
 ~~~~~~~~~~~~~~~
 
-
-.. _la77:
-
-LA77 - Definizione e implementazione del modello Smart Landscape
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA77 - Definizione e implementazione del modello Smart Landscape**
+   :class: ref
+   :name: la77
 
 **Tempi**
   In corso
@@ -534,11 +528,9 @@ LA77 - Definizione e implementazione del modello Smart Landscape
 **Aree di intervento**
   Nel breve periodo, impatto sulle PA.
 
-
-.. _la78:
-
-LA78 - Progettazione e realizzazione del primo prototipo del motore predittivo a supporto della governance della Smart Landscape
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: **LA78 - Progettazione e realizzazione del primo prototipo del motore predittivo a supporto della governance della Smart Landscape**
+   :class: ref
+   :name: la78
 
 **Tempi**
   Gennaio 2020
