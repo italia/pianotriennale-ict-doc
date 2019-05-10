@@ -129,7 +129,7 @@ Obiettivi
 Linee di azione
 ~~~~~~~~~~~~~~~
 
-.. rubric:: **LA79 - Costituzione di Unità di Program Management Office nazionali e regionali**
+.. rubric:: **LA79 - Costituzione di Unità di Program Management Office regionali**
    :class: ref
    :name: la79
 

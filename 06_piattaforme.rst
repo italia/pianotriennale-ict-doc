@@ -392,7 +392,7 @@ Obiettivi
 Linee di azione
 ~~~~~~~~~~~~~~~
 
-.. rubric:: **LA28 - Adeguamento/evoluzione delle piattaforme telematiche**
+.. rubric:: **LA28 - Adeguamento/evoluzione delle piattaforme telematiche di e-procurement**
    :class: ref
    :name: la28
 
@@ -714,7 +714,7 @@ Gli obiettivi di medio/lungo periodo sono:
 Linee di azione
 ~~~~~~~~~~~~~~~
 
-.. rubric:: **LA32 - Evoluzione tecnologica della piattaforma**
+.. rubric:: **LA32 - Evoluzione tecnologica della piattaforma pagoPA**
    :class: ref
    :name: la32
 
@@ -737,7 +737,7 @@ Linee di azione
 **Aree di intervento**
   Nel breve periodo impatto, su PA e prestatori di servizi di pagamento.
 
-.. rubric:: **LA33 - Completamento dell’adesione alla piattaforma**
+.. rubric:: **LA33 - Completamento dell’adesione alla piattaforma pagoPA**
    :class: ref
    :name: la33
 
@@ -767,7 +767,7 @@ Linee di azione
 **Aree di intervento**
   Nel breve periodo, impatto su PA e prestatori di servizi di pagamento.
 
-.. rubric:: **LA34 - Monitoraggio tecnico e dell’attivazione dei servizi**
+.. rubric:: **LA34 - Monitoraggio tecnico e dell’attivazione dei servizi di pagoPA**
    :class: ref
    :name: la34
 
@@ -1224,7 +1224,7 @@ Linee di azione
   In corso
 
 **Attori**
-  AGID
+  AGID, PA
 
 **Descrizione**
   AGID sviluppa uno studio sulla stabilità del sistema SPID ai fini del suo
