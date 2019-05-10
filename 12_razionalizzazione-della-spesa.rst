@@ -829,14 +829,14 @@ agli ambiti“Istituzionali *core business*”, 165 per circa 1,3 miliardi di �
 complessivi, e“Autoamministrazione”, 62 interventi per 830 milioni di €
 complessivi.
 
-Le Amministrazioni Regionali, 220 in tutto per circa 1 miliardi di €
+Le Amministrazioni Regionali, 221 in tutto per circa 1 miliardi di €
 complessivo, hanno focalizzato la loro attenzione su progetti “Strategici PA
 digitale verso cittadini, imprese e altri utenti finali”, 111 per 600 milioni di
 € complessivi, e “Strategici PA digitale verso altre PA”, 50 per 240 milioni di
 € complessivi che rappresentano insieme circa l’82% dell’importo complessivo del
 triennio 2017 - 2019.
 
-Infine, anche le Pubbliche Amministrazioni Locali, 144 in tutto per 187 milioni
+Infine, anche le Pubbliche Amministrazioni Locali, 145 in tutto per 187 milioni
 di € complessivi, hanno orientato i propri investimenti in ambito “Strategici PA
 digitale verso cittadini, imprese e altri utenti finali” (67 per 78 milioni di
 €) e “Autoamministrazione” (36 per 46 milioni di €) per un importo complessivo
