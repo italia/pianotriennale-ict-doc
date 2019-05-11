@@ -36,7 +36,7 @@ risorse ICT descritta nel capitolo 3 “Infrastrutture” come uno dei principal
 approcci per aumentare il livello di sicurezza complessivo dell’amministrazione
 attraverso la riduzione della “superficie” esposta agli attacchi informatici.
 Questo è, infatti, uno degli aspetti tecnici maggiormente critici tra quelli
-individuati nel Rapporto “*Italian Cyber Security Report 2014*”. Altro
+individuati nel Rapporto “*Italian Cyber Security Report 2016*”. Altro
 aspetto di fondamentale criticità emerso dal medesimo rapporto è la mancanza
 nelle pubbliche amministrazioni della consapevolezza sulla minaccia e l’assenza
 di strutture organizzative locali in grado di operare efficacemente un’attività
@@ -113,12 +113,12 @@ standard per la realizzazione di un sistema nazionale di interscambio automatico
 di indicatori di compromissione qualificati tra operatori accreditati.
 
 Nel corso del 2017 AGID, tramite il CERT-PA, ha provveduto a sviluppare
-ulteriormente il *National Vulnerability Database* gestito tramite la
+ulteriormente il *National Vulnerability Database* gestito mediante la
 piattaforma Infosec. Quest’ultima è stata potenziata e arricchita di
 funzionalità nonché messa sperimentalmente a disposizione di tutte le
 amministrazioni in sola consultazione. Le statistiche di accesso hanno
 mostrato come Infosec sia rapidamente diventato una piattaforma tecnica di
-riferimento da parte della comunità nazionale e internazionale di analisti,
+riferimento per la comunità nazionale e internazionale di analisti,
 evidenziando un numero significativo e sempre crescente di accessi dall’estero
 (il monitoraggio sulla gestione della sicurezza informatica nella PA è
 disponibile nella sezine `Avanzamento trasformazione digitale
@@ -145,7 +145,7 @@ Obiettivi
 - elaborare e pubblicare un modello organizzativo standard per la realizzazione
   di “CERT di prossimità”, ossia CERT di secondo livello sia “orizzontali”
   (territoriali) che “verticali” (tematici o di settore), il quale costituirà il
-  riferimento normativo per la eventuale costituzione di tali strutture aventi
+  riferimento normativo per la eventuale formazione di tali strutture aventi
   funzione di snodo tra il CERT-PA e le amministrazioni locali;
 
 - elaborare e pubblicare lo standard nazionale per l’interscambio automatizzato
@@ -234,7 +234,7 @@ Linee di azione
   AGID
 
 **Descrizione**
-  CERT-PA, operante dal 2013, aumenterà progressivamente la sua capacità
+  CERT-PA, attiva dal 2013, aumenterà progressivamente la sua capacità
   operativa, rafforzando l’infrastruttura ICT di erogazione dei servizi di base
   e potenziando il primo sistema informativo sulle minacce cibernetiche (*Cyber
   Security Knowledge Base*), anche attraverso l’implementazione delle soluzioni
@@ -242,7 +242,7 @@ Linee di azione
   *National Vulnerability Database* (NVD).
 
 **Risultati**
-  Ampliamento della propria *constituency,* gestione della piattaforma di
+  Ampliamento della propria *constituency*, gestione della piattaforma di
   *infosharing* in modalità autonoma da parte delle amministrazioni accreditate.
   Costituzione del NVD tramite la piattaforma Infosec.
 
