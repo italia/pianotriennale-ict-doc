@@ -70,10 +70,11 @@ rappresentazione è costituita da due livelli trasversali:
 l’interoperabilità e la sicurezza dei sistemi informativi e dei livelli
 verticali di servizi, dati, piattaforme ed infrastrutture. 
 
-|image0|
+.. figure:: ./media/modello_strategico.jpg
+   :name: modello-strategico
+   :alt: Figura 1 - Questa immagine descrive il modello strategico di evoluzione del sistema informativo della Pubblica Amministrazione
 
-*Figura 1 - Modello strategico di evoluzione del sistema informativo
-della Pubblica Amministrazione*
+   Figura 1 - Modello strategico di evoluzione del sistema informativo della Pubblica Amministrazione
 
 L’impianto generale vede il Piano organizzato in 9 capitoli, completati
 da un *executive summary* e da un capitolo dedicato ai principi e
@@ -195,7 +196,3 @@ effettivo risparmio e dall’altra generando fiducia nei sistemi
 informatici e nelle tecnologie. Ciò permetterà, altresì, al sistema di
 accogliere le nuove generazioni in un contesto adeguato ai tempi e
 professionalmente appagante.
-
-.. |image0| image:: ./media/image1.jpg
-   :width: 2.37795in
-   :height: 2.95065in
