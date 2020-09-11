@@ -103,7 +103,7 @@ I capitoli hanno la seguente struttura: 
 -  L’\ **introduzione** descrive i temi affrontati nel capitolo fornendo
    un raccordo con il Piano precedente e con le azioni già realizzate; 
 
--  il **Contesto normativo e strategico **\ elenca i riferimenti sia
+-  il **Contesto normativo e strategico** elenca i riferimenti sia
    normativi che strategici a cui le amministrazioni devono attenersi,
    in termini di fonti normative con *link* a documenti / siti ufficiali
    e riferimenti ad attività progettuali finanziate. Il riferimento
@@ -123,13 +123,13 @@ I capitoli hanno la seguente struttura: 
    trasformazione digitale;
 
 -  la sezione **Cosa devono fare AGID, Dipartimento per la
-   Trasformazione Digitale e altri soggetti istituzionali**\ esplicita
+   Trasformazione Digitale e altri soggetti istituzionali** esplicita
    la *roadmap* – per il triennio 2020-2022 – delle linee d’azione
    (attività) a carico di AGID, Dipartimento per la Trasformazione
    Digitale, e altri soggetti istituzionali per il conseguimento di
    ciascun obiettivo definito nel paragrafo precedente;
 
--  la sezione **Cosa devono fare le PA **\ descrive la *roadmap* delle
+-  la sezione **Cosa devono fare le PA** descrive la *roadmap* delle
    attività a carico delle diverse PA, che scaturiscono dalla *roadmap*
    dei soggetti istituzionali sopra indicati o in continuità con quanto
    previsto dal precedente PT;
