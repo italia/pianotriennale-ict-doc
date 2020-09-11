@@ -72,9 +72,9 @@ verticali di servizi, dati, piattaforme ed infrastrutture. 
 
 .. figure:: ./media/modello_strategico.jpg
    :name: modello-strategico
-   :alt: Figura 1 - Questa immagine descrive il modello strategico di evoluzione del sistema informativo della Pubblica Amministrazione
+   :alt: Questa immagine descrive il modello strategico di evoluzione del sistema informativo della Pubblica Amministrazione
 
-   Figura 1 - Modello strategico di evoluzione del sistema informativo della Pubblica Amministrazione
+   Modello strategico di evoluzione del sistema informativo della Pubblica Amministrazione
 
 L’impianto generale vede il Piano organizzato in 9 capitoli, completati
 da un *executive summary* e da un capitolo dedicato ai principi e
