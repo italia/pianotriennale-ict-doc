@@ -468,7 +468,7 @@ digitali**
 
 
 I servizi pubblici digitali nella Strategia per l’innovazione tecnologica e la digitalizzazione del Paese 2025
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------
 
 Nell’elaborazione complessiva, il capitolo tiene conto delle tre sfide
 della Strategia per l’innovazione tecnologica e la digitalizzazione del
