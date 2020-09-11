@@ -189,7 +189,7 @@ Obiettivi e risultati attesi
       400 soggetti che riusano software *open source* presente in
       Developers Italia rispetto alla *baseline*.
 
--  R.A.1.1b - **Incremento del livello di adozione del** \`programma
+-  R.A.1.1b - **Incremento del livello di adozione del** `programma
    di abilitazione al
    cloud <https://docs.italia.it/italia/piano-triennale-ict/cloud-docs/it/stabile/cloud-enablement.html>`__
 
