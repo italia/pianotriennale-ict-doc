@@ -168,7 +168,7 @@ Progetti di riferimento finanziati:
 Obiettivi e risultati attesi
 ----------------------------
 
-OB.1.1 - Migliorare la capacità di generare ed erogare servizi digitali
+**OB.1.1 - Migliorare la capacità di generare ed erogare servizi digitali**
 
 -  R.A.1.1a - **Diffusione del modello di riuso di software tra le
    amministrazioni in attuazione delle Linee Guida AGID
@@ -189,7 +189,7 @@ OB.1.1 - Migliorare la capacità di generare ed erogare servizi digitali
       400 soggetti che riusano software *open source* presente in
       Developers Italia rispetto alla *baseline*.
 
--  R.A.1.1b - **Incremento del** **livello di adozione del**\ `programma
+-  R.A.1.1b - **Incremento del livello di adozione del** \`programma
    di abilitazione al
    cloud <https://docs.italia.it/italia/piano-triennale-ict/cloud-docs/it/stabile/cloud-enablement.html>`__
 
@@ -211,7 +211,7 @@ OB.1.1 - Migliorare la capacità di generare ed erogare servizi digitali
       `Manuale di abilitazione al
       cloud <https://docs.italia.it/italia/manuale-di-abilitazione-al-cloud/manuale-di-abilitazione-al-cloud-docs/it/bozza/index.html>`__.
 
--  R.A.1.1c - **Ampliamento dell’offerta del**\ `Catalogo dei servizi
+-  R.A.1.1c - **Ampliamento dell’offerta del** \ `Catalogo dei servizi
    cloud qualificati da AGID <https://cloud.italia.it/marketplace/>`__
 
    -  Target 2020 - *Baseline*: 800 servizi qualificati.
@@ -222,8 +222,7 @@ OB.1.1 - Migliorare la capacità di generare ed erogare servizi digitali
    -  Target 2022 - Incremento, rispetto alla *baseline*, di almeno
       altri 1.000 servizi qualificati. 
 
--  R.A.1.1d - **Diffusione del monitoraggio, da parte delle
-   Amministrazioni, della fruizione dei servizi digitali **
+-  R.A.1.1d - **Diffusione del monitoraggio, da parte delle Amministrazioni, della fruizione dei servizi digitali**
 
    -  Target 2020 - *Baseline*: 80 PA attivano `Web Analytics
       Italia <https://webanalytics.italia.it/>`__. 
@@ -248,11 +247,8 @@ OB.1.2 - Migliorare l’esperienza d’uso e l’accessibilità dei servizi
    -  Target 2022 - Incremento, rispetto alla *baseline*, dell’utilizzo
       del modello per almeno altre 200 PA.
 
--  R.A.1.2b - **Diffusione dei test di usabilità previsti
-   dalle**\ `Linee Guida AGID per il design dei
-   servizi <https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/>`__\ **nelle
-   amministrazioni per agevolare il feedback e le valutazioni da parte
-   degli utenti**
+-  R.A.1.2b - **Diffusione dei test di usabilità previsti dalle** \ `Linee Guida AGID per il design dei
+   servizi <https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/>`__\  **nelle amministrazioni per agevolare il feedback e le valutazioni da parte degli utenti**
 
    -  Target 2020 - *Baseline*: numero di report ricevuti da AGID sui
       test di usabilità effettuati dalle PA
@@ -263,10 +259,7 @@ OB.1.2 - Migliorare l’esperienza d’uso e l’accessibilità dei servizi
    -  Target 2022 - Incremento del 10% del numero di report ricevuti
       rispetto alla *baseline*
 
--  R.A.1.2c - **Incremento del livello di accessibilità dei servizi
-   digitali della PA secondo le**\ `Linee guida sull'accessibilità degli
-   strumenti
-   informatici  <https://docs.italia.it/AgID/documenti-in-consultazione/lg-accessibilita-docs/it/stabile/index.html>`__
+-  R.A.1.2c - **Incremento del livello di accessibilità dei servizi digitali della PA secondo le** \ `Linee guida sull'accessibilità degli strumenti informatici  <https://docs.italia.it/AgID/documenti-in-consultazione/lg-accessibilita-docs/it/stabile/index.html>`__
 
    -  Target 2020 - *Baseline* 1: rilevazione del livello di conformità
       dei siti, comunicato dalle Amministrazioni nelle loro
@@ -353,7 +346,7 @@ Le seguenti linee d’azione devono concludersi entro: 
 
 **OB.1.2 - Migliorare l’esperienza d’uso e l’accessibilità dei servizi**
 
-Le seguenti linee d’azione devono concludersi entro:\ ** **
+Le seguenti linee d’azione devono concludersi entro:
 
 -  **Settembre 2020** - Pubblicazione dell’analisi degli obiettivi di
    accessibilità comunicati dalle PA - (AGID) - **CAP1.LA15**
@@ -404,7 +397,7 @@ digitali**
 
 -  **Da settembre 2020** - Le PA finalizzano l’adesione a *Web
    Analytics* Italia per migliorare il processo evolutivo dei propri
-   servizi online - **CAP1.PA.LA01 **
+   servizi online - **CAP1.PA.LA01**
 
 -  **Da settembre 2020** - Le PA continuano ad applicare i principi
    *Cloud First* - *SaaS First* e ad acquisire servizi *cloud* solo se
@@ -437,7 +430,7 @@ digitali**
    procedure indicate nelle Linee guida attuative su acquisizione e
    riuso del software - **CAP1.PA.LA07**
 
--  **Da gennaio 2022 -** Le PA alimentano il catalogo dei servizi della
+-  **Da gennaio 2022** - Le PA alimentano il catalogo dei servizi della
    PA - **CAP1.PA.LA08**
 
 **OB.1.2 - Migliorare l’esperienza d’uso e l’accessibilità dei servizi**
@@ -446,7 +439,7 @@ digitali**
    servizi ICT, le PA devono far riferimento alle Linee guida di
    *design* - **CAP1.PA.LA09**
 
--  **Da settembre 2020 -** Le PA comunicano ad AGID, tramite apposito
+-  **Da settembre 2020** - Le PA comunicano ad AGID, tramite apposito
    form *online*, l’esito dei test di usabilità del proprio sito
    istituzionale - **CAP1.PA.LA10**
 
@@ -459,10 +452,10 @@ digitali**
    2018/1724 sul *Single Digital Gateway*, pubblicano le informazioni di
    propria competenza - **CAP1.PA.LA12**
 
--  **Entro marzo 2021 - **\ Le PA devono pubblicare gli obiettivi di
+-  **Entro marzo 2021** - Le PA devono pubblicare gli obiettivi di
    accessibilità sul proprio sito - **CAP1.PA.LA13**
 
--  **Da aprile 2021 -** Le PA comunicano ad AGID, tramite apposito *form
+-  **Da aprile 2021** - Le PA comunicano ad AGID, tramite apposito *form
    online*, l’uso dei modelli per lo sviluppo web per i propri siti
    istituzionali - **CAP1.PA.LA14**
 
@@ -470,7 +463,7 @@ digitali**
    2021, la dichiarazione di accessibilità per le APP mobili, tramite
    l’applicazione form.agid.gov.it - **CAP1.PA.LA15**
 
--  **Entro marzo 2022 - **\ Le PA devono pubblicare gli obiettivi di
+-  **Entro marzo 2022** - Le PA devono pubblicare gli obiettivi di
    accessibilità sul proprio sito - **CAP1.PA.LA16**
 
 
