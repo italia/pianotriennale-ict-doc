@@ -233,7 +233,7 @@ Obiettivi e risultati attesi
    -  Target 2022 - Ulteriori 400 PA, rispetto alla *baseline*, attivano
       Web Analytics Italia.
 
-OB.1.2 - Migliorare l’esperienza d’uso e l’accessibilità dei servizi
+**OB.1.2 - Migliorare l’esperienza d’uso e l’accessibilità dei servizi**
 
 -  R.A.1.2a - **Incremento e diffusione dei modelli standard per lo
    sviluppo di siti disponibili in Designers Italia**
