@@ -11,26 +11,26 @@ territori**
    Nodi Territoriali di Competenza del CdCT “Riuso e *Open Source*\ ”
    (include un *assessment* sulle esperienze maturate e sulle
    competenze) a seguito della definizione dei requisiti per la
-   costituzione dei NTC - **CAP8.PA.LA01 **
+   costituzione dei NTC - **CAP8.PA.LA01**
 
--  **Da febbraio 2021** - Le Regioni e Province Autonome, sulla base
-   delle proprie proposte progettuali, avviano le attività definite nei
+-  **Da febbraio 2021** - Le Regioni e Province Autonome, sulla base
+   delle proprie proposte progettuali, avviano le attività definite nei
    Piani operativi degli Accordi territoriali con il supporto dei PMO -
    **CAP8.PA.LA02**
 
--  **Da marzo 2021 -** Le Regioni e Province Autonome e le PAL
+-  **Da marzo 2021** - Le Regioni e Province Autonome e le PAL
    interessate condividono i Piani operativi di intervento dei Nodi
    Territoriali di Competenza per il CdCT “Riuso e *Open Source*\ ” nel
-   rispetto delle specificità dei singoli territori - **CAP8.PA.LA03**
+   rispetto delle specificità dei singoli territori - **CAP8.PA.LA03**
 
--  **Da gennaio 2022** - Le PAL avviano le attività definite nei Piani
+-  **Da gennaio 2022** - Le PAL avviano le attività definite nei Piani
    operativi degli Accordi territoriali con il supporto dei PMO -
    **CAP8.PA.LA04**
 
 -  **Da marzo 2022** - Le Regioni e Province Autonome e le PAL
    interessate condividono i piani operativi di intervento dei Nodi
    Territoriali di Competenza per il CdCT “Riuso e *Open Source*\ ” nel
-   rispetto delle specificità dei singoli territori - **CAP8.PA.LA05** 
+   rispetto delle specificità dei singoli territori - **CAP8.PA.LA05**
 
 -  **Da dicembre 2022** - Le Regioni e Province Autonome e le PAL
    interessate avviano le attività definite nei Piani operativi degli
@@ -40,11 +40,11 @@ territori**
 digitale**
 
 -  **Da gennaio 2021** - Le PA che hanno nominato il RTD aderiscono alla
-   piattaforma di *community -* **CAP8.PA.LA07**
+   piattaforma di *community* - **CAP8.PA.LA07**
 
 -  **Da febbraio 2021** - Le PA aderenti alla *community* partecipano
    all’interscambio di esperienze e forniscono contributi per
-   l’individuazione di *best practices -* **CAP8.PA.LA08**
+   l’individuazione di *best practices* - **CAP8.PA.LA08**
 
 -  **Da febbraio 2021** - Le PA pilota partecipano ad un progetto
    sperimentale di formazione destinato a RTD - **CAP8.PA.LA09**
@@ -90,7 +90,7 @@ interoperabili**
 -  **Da gennaio 2021** - Le PA evidenziano le esigenze che non trovano
    riscontro nella Linea guida e partecipano alla definizione di
    *pattern* e profili di interoperabilità per l’aggiornamento delle
-   stesse - **CAP8.PA.LA18** 
+   stesse - **CAP8.PA.LA18**
 
 -  **Da novembre 2021** - Le PA partecipano ai tavoli di coordinamento
    per domini specifici - **CAP8.PA.LA19**
@@ -105,10 +105,10 @@ favorire l’inclusione digitale**
 
 -  **Da gennaio 2021** - Le PA partecipano alle iniziative pilota, alle
    iniziative di sensibilizzazione e a quelle di formazione
-   specialistica previste dal Piano triennale e in linea con il  Piano
+   specialistica previste dal Piano triennale e in linea con il Piano
    strategico nazionale per le competenze digitali - **CAP8.PA.LA21**
 
--  **Da febbraio 2021** -  Le PA aggiornano i piani di azione secondo
+-  **Da febbraio 2021** - Le PA aggiornano i piani di azione secondo
    quanto previsto nel Piano strategico nazionale per le competenze
    digitali - **CAP8.PA.LA22**
 
