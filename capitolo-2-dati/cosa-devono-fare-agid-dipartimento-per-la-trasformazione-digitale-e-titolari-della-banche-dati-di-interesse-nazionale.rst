@@ -11,18 +11,18 @@ Le seguenti linee d’azione devono concludersi entro:
    Trasformazione Digitale) - **CAP2.LA01**
 
 -  **Dicembre 2020** - Costruzione dell’indicatore per i *dataset* di
-   tipo dinamico e definizione delle modalità di misurazione - (AGID e
-   Dipartimento per la Trasformazione Digitale) - **CAP2.LA02 **
+   tipo dinamico e definizione delle modalità di misurazione - (AGID e
+   Dipartimento per la Trasformazione Digitale) - **CAP2.LA02**
 
 -  **Dicembre 2020** - Identificazione dei *dataset* per il monitoraggio
    INSPIRE con la definizione del relativo *target* - (AGID) -
-   **CAP2.LA03 **
+   **CAP2.LA03**
 
 -  **Dicembre 2021** - Avvio dell’adeguamento al modello di
    interoperabilità e ai modelli di riferimento di dati nazionali ed
    europei delle basi di dati di interesse nazionale e documentazione
    nel relativo catalogo delle API - (Titolari delle banche dati di
-   interesse nazionale) - **CAP2.LA04 **
+   interesse nazionale) - **CAP2.LA04**
 
 -  **Dicembre 2022** - Prosecuzione dell’adeguamento al modello di
    interoperabilità e ai modelli di riferimento di dati nazionali ed
@@ -42,14 +42,14 @@ Le seguenti linee d’azione devono concludersi entro:
    attesi, delle modalità di monitoraggio e delle relative baseline -
    (AGID e Dipartimento per la Trasformazione Digitale) - **CAP2.LA07**
 
--  Gennaio 2021 - Aggiornamento delle linee guida sulla valorizzazione
+-  **Gennaio 2021** - Aggiornamento delle linee guida sulla valorizzazione
    patrimonio informativo pubblico – (AGID e Dipartimento per la
-   Trasformazione Digitale) - **CAP2.LA08 **
+   Trasformazione Digitale) - **CAP2.LA08**
 
 -  **Gennaio 2021** - Avvio, insieme alla PA, del processo continuo di
    identificazione e definizione dei modelli semantici standard
    condivisi per i *dataset* di interesse aperti - (AGID e Dipartimento
-   per la Trasformazione Digitale) - **CAP2.LA09 **
+   per la Trasformazione Digitale) - **CAP2.LA09**
 
 **OB.2.3 - Aumentare la consapevolezza sulle politiche di valorizzazione
 del patrimonio informativo pubblico e su una moderna economia dei dati**
@@ -65,7 +65,7 @@ Le seguenti linee d’azione devono concludersi entro:
    - **CAP2.LA10**
 
 -  **Dicembre 2020** - Identificazione e adozione della licenza aperta
-   di riferimento nazionale  - (AGID e Dipartimento per la
+   di riferimento nazionale - (AGID e Dipartimento per la
    Trasformazione Digitale) - **CAP2.LA11**
 
 -  **Gennaio 2021** - Definizione di iniziative di formazione e di
@@ -84,6 +84,6 @@ Le seguenti linee d’azione devono concludersi entro:
 -  **Dicembre  2021** - Pubblicazione della Strategia nazionale dati -
    (AGID e Dipartimento per la Trasformazione Digitale) - **CAP2.LA14**
 
--  **Giugno 2022** - Pubblicazione di un piano operativo  di
+-  **Giugno 2022** - Pubblicazione di un piano operativo di
    implementazione della Strategia nazionale dati - (AGID e Dipartimento
    per la Trasformazione Digitale) - **CAP2.LA15**

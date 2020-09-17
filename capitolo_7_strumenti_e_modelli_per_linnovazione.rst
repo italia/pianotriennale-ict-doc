@@ -7,16 +7,17 @@ innovative, focalizzando l’attenzione sui quei progetti di innovazione
 delle amministrazioni pubbliche, in cui, in modo più o meno consapevole,
 il committente pubblico:
 
-● circoscrive l’esigenza concreta e si concentra sulla specificazione
-dell’esigenza che vuole affrontare;
+-  circoscrive l’esigenza concreta e si concentra sulla specificazione
+   dell’esigenza che vuole affrontare;
 
-● è alla ricerca di soluzioni nuove o comunque diverse rispetto a quelle
-consolidate e lascia spazio alla proposizione di soluzioni innovative;
+-  è alla ricerca di soluzioni nuove o comunque diverse rispetto a
+   quelle consolidate e lascia spazio alla proposizione di soluzioni
+   innovative;
 
-● coinvolge in modo ampio e aperto il mercato. Il mondo esterno è molto
-più ampio di quello interno al committente pubblico e quindi in grado di
-esprimere soluzioni più efficaci, anche divergenti rispetto a soluzioni
-preesistenti.
+-  coinvolge in modo ampio e aperto il mercato. Il mondo esterno è molto
+   più ampio di quello interno al committente pubblico e quindi in grado
+   di esprimere soluzioni più efficaci, anche divergenti rispetto a
+   soluzioni preesistenti.
 
 Con ciò il committente pubblico-amministrazione non si limita solo a
 portare marginali miglioramenti in termini di efficienza, ma stimola e

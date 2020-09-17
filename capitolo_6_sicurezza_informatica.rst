@@ -24,7 +24,7 @@ potenziali minacce informatiche. 
 Considerando quindi che il punto di accesso ai servizi digitali è
 rappresentato dai portali istituzionali delle pubbliche amministrazioni,
 al fine di realizzare un livello omogeneo di sicurezza, il capitolo
-definisce alcune azioni concrete in tale ambito.
+definisce alcune azioni concrete in tale ambito. 
 
 Infine, il capitolo si prefigge di supportare gli altri capitoli del
 piano sulle tematiche trasversali di sicurezza informatica, attraverso

@@ -15,8 +15,8 @@ Le leve per l’innovazione delle PA e dei territori
 
 -  `Decreto legislativo 7 marzo 2005, n. 82 - Codice
    dell'amministrazione digitale (in breve
-   CAD) <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig=>`__\ art.
-   14
+   CAD) <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig=>`__
+   art. 14
 
 -  `Strategia Europa
    2020 <https://ec.europa.eu/info/business-economy-euro/economic-and-fiscal-policy-coordination/eu-economic-governance-monitoring-prevention-correction/european-semester_it>`__
@@ -32,8 +32,8 @@ Le leve per l’innovazione delle PA e dei territori
 
 -  `Accordo Quadro per la crescita e la cittadinanza digitale verso gli
    obiettivi EU2020 tra le Regioni e le Province Autonome e
-   AgID <https://trasparenza.agid.gov.it/archivio28_provvedimenti_0_121528_791_1.html>`__\ -
-   febbraio 2018
+   AgID <https://trasparenza.agid.gov.it/archivio28_provvedimenti_0_121528_791_1.html>`__
+   - febbraio 2018
 
 **Consolidamento del ruolo del Responsabile della transizione al
 digitale:**
@@ -75,7 +75,7 @@ Riferimenti normativi italiani:
    dell'articolo 13, comma 6, della legge 31 dicembre 2012, n.
    247 <https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.giustizia:decreto:2014-03-10;55!vig=>`__ 
 
--  `Decreto Ministeriale del Ministero dell’economia e delle finanze del
+-  `Decreto Ministeriale del Ministero dell’Economia e delle Finanze del
    7 Dicembre 2018 - Modalità e tempi per l'attuazione delle
    disposizioni in materia di emissione e trasmissione dei documenti
    attestanti l'ordinazione degli acquisti di beni e servizi effettuata
@@ -139,8 +139,8 @@ Riferimenti normativi europei:
 
 .. _gli-strumenti-per-migliorare-i-processi-di-trasformazione-digitale-e-di-innovazione-della-pa-1:
 
-Gli strumenti per migliorare i processi di trasformazione digitale e di innovazione della PA
---------------------------------------------------------------------------------------------
+Gli strumenti per migliorare i processi di trasformazione digitale e di innovazione della PA\ ** **
+---------------------------------------------------------------------------------------------------
 
 **Il monitoraggio del Piano triennale**
 

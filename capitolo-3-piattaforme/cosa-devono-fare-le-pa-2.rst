@@ -20,7 +20,7 @@ Oltre a queste indicazioni generali si riportano a seguire, per alcune
 delle piattaforme descritte nei diversi obiettivi, alcune specifiche
 indicazioni: 
 
-**OB.3.1 – Favorire l’evoluzione delle piattaforme esistenti**
+**OB.3.1 - Favorire l’evoluzione delle piattaforme esistenti**
 
 -  **Da ottobre 2020** - Le PA che intendono aderire a NoiPA esprimono
    manifestazione di interesse e inviano richiesta di adesione -
@@ -48,7 +48,7 @@ indicazioni: 
    accreditate devono inserire le proprie agende nel sistema CUP
    interaziendale o regionale - **CAP3.PA.LA06**
 
-**OB.3.2 – Aumentare il grado di adozione delle piattaforme abilitanti
+**OB.3.2 - Aumentare il grado di adozione delle piattaforme abilitanti
 esistenti da parte delle pubbliche amministrazioni**
 
 -  **Da settembre 2020** - Le PA e i gestori di pubblici servizi
@@ -91,7 +91,7 @@ esistenti da parte delle pubbliche amministrazioni**
    Piattaforma pagoPA per tutti gli incassi delle PA centrali e locali -
    **CAP3.PA.LA15**
 
-**OB.3.3 – Incrementare il numero di piattaforme per le amministrazioni
+**OB.3.3 - Incrementare il numero di piattaforme per le amministrazioni
 ed i cittadini**
 
 -  **Da settembre 2020 -** I musei statali compilano il questionario di

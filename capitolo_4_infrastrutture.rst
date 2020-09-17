@@ -26,18 +26,19 @@ sensibili o perdita e alterazione degli stessi dati.
 Lo scenario delineato pone l’esigenza immediata di attuare un percorso
 di razionalizzazione delle infrastrutture per:
 
-1.    garantire la sicurezza dei servizi erogati tramite infrastrutture
-classificate come gruppo B, mediante la migrazione degli stessi verso
-*data center* più sicuri e verso infrastrutture e servizi *cloud*
-qualificati da AGID secondo il modello Cloud della PA. 
+1. garantire la sicurezza dei servizi erogati tramite infrastrutture
+   classificate come gruppo B, mediante la migrazione degli stessi verso
+   *data center* più sicuri e verso infrastrutture e servizi *cloud*
+   qualificati da AGID secondo il modello *Cloud* della PA. 
 
-2.     evitare che le amministrazioni costruiscano nuovi *data center*
-al fine di ridurre la frammentazione delle risorse e la proliferazione
-incontrollata di infrastrutture con conseguente moltiplicazione dei
-costi.  
+2. evitare che le amministrazioni costruiscano nuovi *data center* al
+   fine di ridurre la frammentazione delle risorse e la proliferazione
+   incontrollata di infrastrutture con conseguente moltiplicazione dei
+   costi.  
 
 Per approfondimenti sulla strategia governativa per il *cloud* è
-consultabile il sito https://cloud.italia.it/.
+consultabile il sito
+`https://cloud.italia.it/. <https://cloud.italia.it/>`__
 
 Con riferimento alla classificazione dei *data center* di cui alla
 Circolare AGID 1/2019, ai fini della strategia di razionalizzazione dei
@@ -95,12 +96,12 @@ migrazione: 
    Pubbliche
    Amministrazioni <https://www.consip.it/bandi-di-gara/gare-e-avvisi/aq-public-cloud-iaas-e-paas>`__\ **.**
    L’Accordo Quadro consentirà alle PA di ridurre in modo significativo
-   i tempi di approvvigionamento di servizi public cloud IaaS e PaaS e
+   i tempi di approvvigionamento di servizi *public cloud* IaaS e PaaS e
    di servizi professionali per le PA che necessitano di reperire sul
    mercato le competenze necessarie per attuare quanto previsto nel
-   manuale di abilitazione al cloud.
+   manuale di abilitazione al *cloud*.
 
-Per realizzare un’adeguata evoluzione tecnologica e supportare il
+Per realizzare un’adeguata evoluzione tecnologica e di supportare il
 paradigma *cloud*, favorendo altresì la razionalizzazione delle spese
 per la connettività delle pubbliche amministrazioni, è necessario anche
 aggiornare il modello di connettività.

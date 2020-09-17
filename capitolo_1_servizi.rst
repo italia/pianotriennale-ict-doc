@@ -10,12 +10,12 @@ CAPITOLO 1. Servizi
   richiede un approccio multidisciplinare nell'adozione di metodologie e
   tecniche interoperabili per la progettazione di un servizio. La
   qualità finale, così come il costo complessivo del servizio, non può
-  infatti prescindere da un un’attenta analisi dei molteplici *layer,*
+  infatti prescindere da un’attenta analisi dei molteplici *layer,*
   tecnologici e organizzativi interni, che strutturano l’intero processo
-  della prestazione erogata. Ciò implica anche un’adeguata
-  semplificazione dei processi interni alle PA, coordinata dal
-  Responsabile della Transizione al Digitale, con il necessario supporto
-  di efficienti procedure digitali.
+  della prestazione erogata, celandone la complessità sottostante. Ciò
+  implica anche un’adeguata semplificazione dei processi interni alle
+  PA, coordinata dal Responsabile della Transizione al Digitale, con il
+  necessario supporto di efficienti procedure digitali.
 
 Occorre quindi agire su più livelli e migliorare la capacità delle
 Pubbliche Amministrazioni di generare ed erogare servizi di qualità
@@ -37,8 +37,8 @@ necessità di mettere a fattor comune le soluzioni applicative adottate
 dalle diverse amministrazioni al fine di ridurre la frammentazione che
 ritarda la maturità dei servizi. Si richiama quindi l’importanza di
 fornire servizi completamente digitali, progettati sulla base delle
-semplificazioni di processo, abilitate dalle piattaforme di cui al
-Capitolo 3, del principio cloud first, sia in termini tecnologici
+semplificazioni di processo abilitate dalle piattaforme di cui al
+Capitolo 3, del principio *cloud first*, sia in termini tecnologici
 (architetture a microservizi ecc.), sia in termini di acquisizione dei
 servizi di erogazione in forma SaaS ove possibile, da preferirsi alla
 conduzione diretta degli applicativi. È cruciale infine il rispetto
@@ -59,7 +59,7 @@ disposizione delle amministrazioni sono:
 
 -  `Forum Italia <https://forum.italia.it/>`__.
 
-Per incoraggiare tutti gli utenti a privilegiare il canale online
+Per incoraggiare tutti gli utenti a privilegiare il canale *online*
 rispetto a quello esclusivamente fisico, rimane necessaria una decisa
 accelerazione nella semplificazione dell'esperienza d’uso complessiva e
 un miglioramento dell'inclusività dei servizi, in modo che essi siano
@@ -72,20 +72,21 @@ Analytics Italia <https://webanalytics.italia.it/>`__, una piattaforma
 nazionale *open source* che offre rilevazioni statistiche su indicatori
 utili al miglioramento continuo dell’esperienza utente.
 
-Anche il *quadro* normativo nazionale ed europeo pone importanti
-obiettivi finalizzati a incrementare la centralità dell’utente,
-l'integrazione dei principali servizi europei e la loro reperibilità. Ad
-esempio il Regolamento europeo sul *Single Digital Gateway* intende
+Anche il quadro normativo nazionale ed europeo pone importanti obiettivi
+finalizzati a incrementare la centralità de\ *ll’utente,
+l'in*\ tegrazione dei principali servizi europei e la loro reperibilità.
+Ad esempio il Regolamento europeo sul *Single Digital Gateway* intende
 costruire uno sportello unico digitale a livello europeo che consenta a
 cittadini e imprese di esercitare più facilmente i propri diritti e fare
-impresaall’interno dell’Unione europea. 
+impresa all’interno dell’Unione europea. 
 
-Favorire l’applicazione del principio *once only*, anche attraverso
-l’accesso ai dati certificati da altre Pubbliche Amministrazioni nei
-modi previsti dal Modello di Interoperabilità per la PA indicato nel
-capitolo 5, richiedendo a tutti gli utenti i soli dati non conosciuti
-dalle Pubbliche Amministrazioni e, per questi, assicurare la validità ed
-efficacia probatoria nei modi previsti dalla norma. 
+Per semplificare e agevolare l'utilizzo del servizio è necessario
+favorire l’applicazione del principio *once only*, richiedendo agli
+utenti i soli dati non conosciuti dalle Pubbliche Amministrazioni e, per
+questi, assicurandone la validità ed efficacia probatoria nei modi
+previsti dalla norma, anche attraverso l’accesso ai dati certificati da
+altre Pubbliche Amministrazioni nei modi previsti dal Modello di
+Interoperabilità per la PA indicato nel capitolo 5
 
 Nel caso il servizio richieda un accesso da parte del cittadino è
 necessario che sia consentito attraverso un sistema di autenticazione

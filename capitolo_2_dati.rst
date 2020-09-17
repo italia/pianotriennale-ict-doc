@@ -25,9 +25,15 @@ In linea con i principi enunciati anche con il precedente Piano, è ora
 necessario dare continuità alle azioni avviate e fare un ulteriore passo
 in avanti per assicurare maggiore efficacia all’attività amministrativa
 in tutti i processi che coinvolgono l’utilizzo dei dati: sia con
-riferimento alla condivisione dei datitra pubbliche amministrazioni per
+riferimento alla condivisione dei dati tra pubbliche amministrazioni per
 finalità istituzionali, sia con riferimento al riutilizzo dei dati, per
 finalità commerciali e non, secondo il paradigma degli *open data*.
+
+Un asset fondamentale tra i dati gestiti dalle pubbliche amministrazione
+è rappresentato dalle banche dati di interesse nazionali (art. 60 del
+CAD), la nuova *data governance* deve favorire l'accesso alle stesse per
+agevolare la constatazione degli stati relative alle persone fisiche e
+alle persone giuridich
 
 .. toctree::
   :maxdepth: 3

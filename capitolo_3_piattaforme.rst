@@ -25,8 +25,8 @@ standardizzazione dei flussi di dati tra amministrazioni. 
 
 Infine, il concetto di piattaforma cui fa riferimento il Piano triennale
 comprende non solo piattaforme abilitanti a livello nazionale e di
-aggregazione territoriale, ma anche piattaforme che possono utili per
-più tipologie di amministrazioni o piattaforme che raccolgono e
+aggregazione territoriale, ma anche piattaforme che possono essere utili
+per più tipologie di amministrazioni o piattaforme che raccolgono e
 riconciliano i servizi delle amministrazioni, sui diversi livelli di
 competenza. È il caso, ad esempio, delle piattaforme di intermediazione
 tecnologica sui pagamenti disponibili sui territori regionali che si
@@ -75,9 +75,9 @@ edizione si intendono identificare nuove opportunità ed aree di
 intervento. 
 
 Ognuna delle piattaforme di seguito indicate è caratterizzata dalla
-presenza di uno o più owner a livello nazionale o regionale, e di
-diversi soggetti di riferimento che ne curano lo sviluppo, l’evoluzione
-e la gestione.
+presenza di uno o più owner a livello nazionale o regionale e di diversi
+soggetti di riferimento che ne curano lo sviluppo, l’evoluzione e la
+gestione.
 
 .. toctree::
   :maxdepth: 3

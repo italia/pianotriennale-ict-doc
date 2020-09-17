@@ -103,7 +103,7 @@ favorire l’inclusione digitale**
 -  **Entro settembre 2020** - Le PA contribuiscono alla definizione del
    Piano strategico nazionale per le competenze digitali, che include
    gli assi di intervento relativi alla PA e alle competenze digitali di
-   base per i cittadini (tutte le PA) - **CAP8.PA.LA20**
+   base per i cittadini - **CAP8.PA.LA20**
 
 -  **Da gennaio 2021** - Le PA partecipano alle iniziative pilota, alle
    iniziative di sensibilizzazione e a quelle di formazione
@@ -132,10 +132,10 @@ innovazione della PA**
    PT di raccolta dati e informazioni per la verifica di coerenza delle
    attività con il Piano triennale - **CAP8.PA.LA25**
 
--  **Da febbraio 2021** - Le PA adottano le modifiche introdotte
-   circolare N. 4./2016 avente come oggetto “Monitoraggio
-   sull’esecuzione dei contratti” e partecipano alle attività di
-   formazione secondo le indicazioni fornite da AGID - **CAP8.PA.LA26**
+-  **Da febbraio 2021** - Le PA adottano le modifiche introdotte nella
+   Circolare n. 4/2016 avente come oggetto “Monitoraggio sull’esecuzione
+   dei contratti” e partecipano alle attività di formazione secondo le
+   indicazioni fornite da AGID - **CAP8.PA.LA26**
 
 -  **Entro maggio 2021** - Le PA individuate come pilota per la
    sperimentazione rilasciano il Format PT compilato - **CAP8.PA.LA27**

@@ -13,7 +13,7 @@ infrastrutture sicure ed affidabili**
    **CAP4.PA.LA01**
 
 -  **Da settembre 2020** - Le PA proprietarie di *data center* di gruppo
-   A comunicano ad AGIDle spese in materia di *data center* nelle
+   A comunicano ad AGID le spese in materia di *data center* nelle
    modalità stabilite dalla Circolare AGID 1/2019 - **CAP4.PA.LA02**
 
 -  **Da settembre 2020** - Le PA proprietarie di *data center*

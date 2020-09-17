@@ -14,7 +14,7 @@ Le seguenti linee d’azione devono concludersi entro:
    rivolte ai RTD per promuovere l’utilizzo del *tool* di *Cyber Risk
    Assessment* - (AGID) - **CAP6.LA02**
 
--  **Dicembre 2020** - Conclusione dell’erogazione del  I° ciclo di
+-  **Dicembre 2020** - Conclusione dell’erogazione del I° ciclo di
    attività di sensibilizzazione rivolti ai RTD sulle tematiche di
    *Cyber Security* **-** (AGID e Dipartimento per la Trasformazione
    Digitale) - **CAP6.LA03**

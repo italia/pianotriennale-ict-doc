@@ -62,21 +62,22 @@ digitale**
 
 Le seguenti linee d’azione devono concludersi entro:
 
--  **Settembre 2020 –** Costituzione di un gruppo di lavoro finalizzato
+-  **Settembre 2020 -** Costituzione di un gruppo di lavoro finalizzato
    alla predisposizione di un *maturity model* per l’utilizzo dello
-   *smartworking* nella P.A. (Rete dei RTD, AGID e Dipartimento per la
-   Trasformazione digitale) - **CAP8.LA10** 
+   *smartworking* nella PA (AGID, Dipartimento per la Trasformazione
+   digitale e Rete dei RTD) - **CAP8.LA10** 
 
--  **Dicembre 2020 –** Definizione di un primo *maturity model* per lo
-   *smartworking* e la condivisione di buone pratiche (Rete dei RTD,
-   AGID e Dipartimento per la Trasformazione digitale) - **CAP8.LA11** 
+-  **Dicembre 2020 -** Definizione di un primo *maturity model* per lo
+   *smartworking* e la condivisione di buone pratiche (AGID,
+   Dipartimento per la Trasformazione digitale e Rete dei RTD) -
+   **CAP8.LA11** 
 
 -  **Dicembre 2020** - Attivazione della piattaforma di *community* per
    RTD - (AGID) - **CAP8.LA12** 
 
 -  **Febbraio 2021** - Avvio delle attività di animazione della
    *community* al fine della definizione e alla condivisione di *best
-   practice* da parte delle amministrazioni - (Dipartimento per la
+   practice* da parte delle Amministrazioni - (Dipartimento per la
    Trasformazione Digitale, AGID) - **CAP8.LA13** 
 
 -  **Marzo 2021** - Vademecum per la nomina di RTD in forma associata da
@@ -108,8 +109,8 @@ Le seguenti linee di azione devono concludersi entro:
 
 -  **Settembre 2020** - Pubblicazione dei regolamenti per l’adesione, da
    parte delle PA, al programma `Smarter
-   Italy <https://appaltinnovativi.gov.it/smarter-italy>`__ e agli altri
-   programmi nazionali per la promozione e il finanziamento della
+   Italy <https://appaltinnovativi.gov.it/smarter-italy>`__  e agli
+   altri programmi nazionali per la promozione e il finanziamento della
    domanda pubblica di innovazione. Attivazione sulla Piattaforma per
    gli appalti di innovazione dei servizi digitali per l’adesione ai
    programmi nazionali - (AGID, MISE, Dipartimento per la Trasformazione
@@ -201,18 +202,17 @@ Le seguenti linee d’azione devono concludersi entro:
 **OB.8.2 - Rafforzare le competenze digitali per la PA e per il Paese e
 favorire l’inclusione digitale**
 
-Le seguenti linee d’azione devono concludersi entro:
+Le seguenti linee d’azione devono concludersi entro:\ ** **
 
--  
 -  **Settembre 2020** - Pubblicazione di un catalogo di moduli formativi
    erogati in modalità *e-learning* per le 5 aree di competenze di base
    descritte nel Syllabus Competenze digitali per la PA - (Dipartimento
-   Funzione Pubblica) - **CAP8.LA34** 
+   Funzione Pubblica) - **CAP8.LA34**
 
--  Ottobre 2020 - Definizione del Piano Operativo correlato alla
+-  **Ottobre 2020 -** Definizione del Piano Operativo correlato alla
    "Strategia nazionale per le competenze digitali" da parte dei gruppi
    di lavoro di Repubblica Digitale - (Dipartimento per la
-   Trasformazione Digitale)  - CAP8.LA35
+   Trasformazione Digitale)  - **CAP8.LA35** 
 
 -  **Ottobre 2020** - Sperimentazione della piattaforma “Competenze
    digitali per la PA” presso amministrazioni differenziate per
@@ -247,13 +247,13 @@ Le seguenti linee d’azione devono concludersi entro:
    formazione per i dipendenti PA sui temi del Piano triennale:
    accessibilità, sicurezza e *privacy, security awareness* -
    (Dipartimento Funzione Pubblica, Dipartimento per la Trasformazione
-   Digitale, AGID, SNA, Formez) - **CAP8.LA41**
+   Digitale, AGID, SNA, Formez PA) - **CAP8.LA41**
 
 -  **Marzo 2021** - Avvio di un ciclo biennale di corsi per RTD sui temi
    della trasformazione digitale quali ad es. il governo dei contratti
    ICT, il *change management*, la reingegnerizzazione dei processi -
    (Dipartimento Funzione Pubblica, AGID, Dipartimento per la
-   Trasformazione Digitale, SNA, Formez, CRUI, università) -
+   Trasformazione Digitale, SNA, Formez PA, CRUI, Università) -
    **CAP8.LA42**
 
 -  **Febbraio 2022** - Aggiornamento della strategia nazionale per le
@@ -280,7 +280,7 @@ Le seguenti linee d’azione devono concludersi entro:
    che ripropone la struttura obiettivi-azioni del PT - (AGID) -
    **CAP8.LA46**
 
--  **Dicembre 2020** - Modifica della circolare N. 4./2016 avente come
+-  **Dicembre 2020** - Modifica della Circolare n. 4/2016 avente come
    oggetto “Monitoraggio sull’esecuzione dei contratti“ con l’obiettivo
    di associare il monitoraggio del Piano triennale al monitoraggio dei
    contratti - (AGID) - **CAP8.LA47**

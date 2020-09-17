@@ -57,7 +57,7 @@ digitale**
 -  Target 2022 - Incremento di 8 punti percentuali rispetto alla
    *baseline*.
 
--  R.A.8.1.d - **Incremento del livello di trasformazione digitale
+-  R.A.8.1d - **Incremento del livello di trasformazione digitale
    mediante l’utilizzo dei servizi previsti dalle Gare strategiche**
 
    -  Target 2020 - n.d.

@@ -22,10 +22,10 @@ Le seguenti linee d’azione devono concludersi entro:
 
 -  **Settembre 2021** - Pubblicazione del sistema “PPM del *Cloud
    Enablement Program*\ ” per l’acquisizione e il monitoraggio dei piani
-   di migrazione dei *data center,* classificati gruppo B, delle PAL
-   verso i servizi *cloud* qualificati da AGID e i *data center* di
-   gruppo A , nonché per l’acquisizione e gestione delle autorizzazioni
-   e comunicazioni di spesa in materia di *data center* - (Dipartimento
+   di migrazione dei *data center* classificati gruppo B delle PAL verso
+   i servizi *cloud* qualificati da AGID e i *data center* di gruppo A ,
+   nonché per l’acquisizione e gestione delle autorizzazioni e
+   comunicazioni di spesa in materia di *data center* - (Dipartimento
    per la Trasformazione Digitale e AGID) - **CAP4.LA03**
 
 -  **Dicembre 2021** - Emanazione del regolamento per i livelli minimi
@@ -39,12 +39,12 @@ migrazione su infrastrutture sicure ed affidabili **
 Le seguenti linee d’azione devono concludersi entro:
 
 -  **Settembre 2021** - Acquisizione e valutazione dei piani di
-   migrazione dei *data center,* classificati gruppo B, delle PAC
+   migrazione dei *data center* classificati gruppo B delle PAC
    (Dipartimento per la Trasformazione Digitale e AGID) - **CAP4.LA05**
 
-**OB.4.3 -** Migliorare la fruizione l’offerta dei servizi digitali per
-cittadini ed imprese tramite il potenziamento della connettività per le
-PA
+**OB.4.3 -** Migliorare la fruizione dell’offerta dei servizi
+digitali per cittadini e imprese tramite il potenziamento della
+connettività per le PA
 
 Le seguenti linee d’azione devono concludersi entro:
 
@@ -55,7 +55,7 @@ Le seguenti linee d’azione devono concludersi entro:
 
 -  **Ottobre 2020** - Realizzazione di una campagna di comunicazione
    istituzionale da parte di AGID, Consip e Dipartimento sul nuovo bando
-   MEPA per i servizi di connettività *internet* - (AGID, Consip e
+   MEPA per i servizi di connettività internet - (AGID, Consip e
    Dipartimento per la Trasformazione Digitale) - **CAP4.LA07**
 
 -  **Dicembre 2020** - Rilascio del nuovo modello di connettività -

@@ -34,6 +34,6 @@ Nel periodo intercorso tra l’emanazione della precedente edizione Piano
 e la redazione di questo Piano sono state avviate diverse linee di
 azione per lo sviluppo di progetti per le *Smart cities* e altre sono
 già in cantiere per il prossimo triennio, pertanto limitatamente a
-questi contenuti, di seguito è proposta la roadmap 2020-2022 per le
-amministrazioni owner, responsabili dell’avvio delle azioni e per PAC,
+questi contenuti, di seguito è proposta la *roadmap* 2020-2022 per le
+amministrazioni *owner*, responsabili dell’avvio delle azioni e per PAC,
 le Regioni e le Province Autonome e le PAL.

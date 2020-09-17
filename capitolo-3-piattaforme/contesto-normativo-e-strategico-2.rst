@@ -39,15 +39,16 @@ Fascicolo Sanitario Elettronico:
 
 -  `Decreto Legge 18 ottobre 2012, n. 179 - Ulteriori misure urgenti per
    la crescita del
-   Paese <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-10-18;179!vig=>`__ 
+   Paese <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-10-18;179!vig=>`__
 
 -  `Decreto del Presidente del Consiglio dei
-   Ministri <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2015-09-29;178!vig=>`__\ 29
+   Ministri <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2015-09-29
+   ;178!vig=>`__ 29
    settembre 2015, n. 178 - Regolamento in materia di fascicolo
    sanitario elettronico
 
--  `Decreto 23 dicembre 2019 “Utilizzo del Fondo per il  finanziamento 
-   degli  investimenti  e  lo sviluppo  infrastrutturale - Fascicolo
+-  `Decreto 23 dicembre 2019 “Utilizzo del Fondo per il finanziamento
+   degli  investimenti  e  lo sviluppo infrastrutturale - Fascicolo
    sanitario elettronico” (GU n.13 del 17-1-2020) (Piano di
    digitalizzazione dei dati e documenti
    sanitari <https://www.gazzettaufficiale.it/eli/gu/2020/01/17/13/sg/pdf>`__)
@@ -83,8 +84,8 @@ NoiPA:
 -  `Decreto Ministeriale del Ministro dell'Economia e delle Finanze del
    31 ottobre 2002 - Modifiche delle norme sull'articolazione
    organizzativa del Dipartimento per le politiche di sviluppo e di
-   coesione del Ministero dell'economia e delle
-   finanze <https://www.gazzettaufficiale.it/eli/id/2002/12/11/02A13777/sg>`__
+   coesione del Ministero dell’Economia e delle
+   Finanze <https://www.gazzettaufficiale.it/eli/id/2002/12/11/02A13777/sg>`__
 
 -  `Decreto Ministeriale del Ministro dell'Economia e delle Finanze del
    6 luglio 2012 - Contenuti e modalità di attivazione dei servizi in

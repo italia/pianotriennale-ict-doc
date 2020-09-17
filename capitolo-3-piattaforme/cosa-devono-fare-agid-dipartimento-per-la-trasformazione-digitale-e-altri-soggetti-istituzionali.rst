@@ -13,15 +13,15 @@ Le seguenti linee d’azione devono concludersi entro:
 -  **Settembre 2020** - Revisione della normativa in materia di FSE per
    integrare il fascicolo con tutti i dati e documenti prodotti in
    ambito sanitario - (AGID, Dipartimento per la Trasformazione
-   Digitale, Ministero della salute, Ministero dell'economia e delle
-   finanze in collaborazione con Regioni e Province Autonome) -
+   Digitale, Ministero della Salute, Ministero dell’Economia e delle
+   Finanze in collaborazione con Regioni e Province Autonome) -
    **CAP3.LA01**
 
 -  **Ottobre 2020** - Aggiornamento delle specifiche di interoperabilità
    per adeguare le piattaforme sanitarie regionali e nazionale secondo i
    modelli definiti nell'ambito dei gruppi di lavoro - (AGID,
-   Dipartimento per la Trasformazione Digitale, Ministero della salute,
-   Ministero dell'economia e delle finanze e Regioni e Province
+   Dipartimento per la Trasformazione Digitale, Ministero della Salute,
+   Ministero dell’Economia e delle Finanze e Regioni e Province
    Autonome) - **CAP3.LA02**
 
 -  **Dicembre 2020** - Standardizzazione del modello di gestione e
@@ -40,15 +40,15 @@ Le seguenti linee d’azione devono concludersi entro:
 
 -  **Dicembre 2022** - Verifica e valutazione dello stato di
    implementazione delle attività di sviluppo del FSE - (AGID,
-   Dipartimento per la Trasformazione Digitale, Ministero della salute,
-   Ministero dell'economia e delle finanze e Regioni e Province
+   Dipartimento per la Trasformazione Digitale, Ministero della Salute,
+   Ministero dell’Economia e delle Finanze e Regioni e Province
    Autonome) - **CAP3.LA06**
 
 **Sanità - CUP integrati:** l'attività è finalizzata all’integrazione
 delle soluzioni di CUP di ciascuna regione anche in vista di una futura
 interoperabilità interregionale. Per raggiungere tale scopo è necessario
-mappare le piattaforme CUP esistenti a livello regionale, analizzare, e
-studiare i flussi di dati così da poterdi identificare la soluzione di
+mappare e analizzare le piattaforme CUP esistenti a livello regionale,
+studiare i flussi di dati, così da poter identificare la soluzione di
 interoperabilità di riferimento e favorire un più semplice accesso alle
 prestazioni sanitarie da parte dei cittadini.
 
@@ -56,8 +56,8 @@ Le seguenti linee d’azione devono concludersi entro:
 
 -  **Ottobre 2020** - Avvio della mappatura e analisi delle soluzioni di
    CUP regionali e interaziendali - (AGID, Dipartimento per la
-   Trasformazione Digitale, Ministero della salute, Ministero
-   dell'economia e delle finanze e Regioni e Province Autonome) -
+   Trasformazione Digitale, Ministero della Salute, Ministero
+   dell’Economia e delle Finanze, Regioni e Province Autonome) -
    **CAP3.LA07**
 
 -  **Dicembre 2021** - Collegamento al sistema CUP interaziendale o
@@ -72,8 +72,8 @@ Le seguenti linee d’azione devono concludersi entro:
 -  **Luglio 2022** - Definizione della soluzione di interoperabilità e
    delle specifiche tecniche per favorire l’integrazione delle soluzioni
    di CUP regionali e interaziendali - (AGID, Dipartimento per la
-   Trasformazione Digitale, Ministero della salute, Ministero
-   dell'economia e delle finanze e Regioni e Province Autonome)
+   Trasformazione Digitale, Ministero della Salute, Ministero
+   dell’Economia e delle Finanze e Regioni e Province Autonome)
    - **CAP3.LA10**
 
 -  **Dicembre 2022** - Realizzazione e messa in esercizio della
@@ -81,7 +81,7 @@ Le seguenti linee d’azione devono concludersi entro:
    per almeno un paio di prestazioni (adozione progressiva) per favorire
    l’accesso alle prestazioni sanitarie da parte dei cittadini in
    mobilità - (Dipartimento per la Trasformazione Digitale, AGID,
-   Ministero della salute, Ministero dell'economia e delle finanze e
+   Ministero della Salute, Ministero dell’Economia e delle Finanze e
    Regioni e Province Autonome) - **CAP3.LA11**
 
 **Organizzazione della PA - NoiPA:** integrazione della piattaforma
@@ -95,7 +95,7 @@ Le seguenti linee d’azione devono concludersi entro:
    di erogazione dei servizi, inclusi quelli aggiuntivi, anche
    attraverso la sottoscrizione di accordi con partner istituzionali,
    quali Anci, Conferenza Stato Regioni, e partner tecnologici locali -
-   (Ministero dell’economia e delle finanze-Dipartimento Affari Generali
+   (Ministero dell’Economia e delle Finanze-Dipartimento Affari Generali
    (MEF-DAG d’ora in avanti), Dipartimento per la Trasformazione
    Digitale e AGID) - **CAP3.LA12**
 
@@ -183,13 +183,15 @@ Le seguenti linee d’azione devono concludersi entro:
    autenticazione per i servizi *online* – (Istituto Poligrafico e Zecca
    dello Stato)  - **CAP3.LA23**
 
-**ANPR:** completare il subentro dei comuni in ANPR e avviare le
-attività per l’integrazione di ANPR con le varie amministrazioni. Ai
-fini della semplificazione, verrà promosso l’accesso ad ANPR da parte
-degli enti fruitori, attraverso gli Accordi di Fruizione tra Ministero
-dell’Interno e la PA/Gestore richiedente in cui saranno individuati e
-dettagliati i casi e le modalità di accesso ad ANPR da parte della
-PA/Gestore richiedente.
+**ANPR:** Ai fini della semplificazione, attraverso la stipula di
+Accordi quadro (anche detti accordi di fruizione) tra il Ministero
+dell’Interno e le PA e i gestori di pubblici servizi richiedenti, verrà
+assicurato l'accesso, tramite API, ai dati presenti in ANPR necessari
+all'espletamento delle funzioni istituzionali dei richiedenti. A tal
+fine il Ministero dell’Interno nel 2020 realizza una piattaforma per la
+stipula degli Accordi quadro che pubbliche amministrazioni e gestori di
+pubblici servizi potranno sottoscrivere, per accedere ai dati presenti
+in ANPR.
 
 Le seguenti linee d’azione devono concludersi entro:
 
@@ -226,11 +228,13 @@ Le seguenti linee d’azione devono concludersi entro:
 
 -  **Marzo 2021** - Verifica assenza criticità utilizzo da parte delle
    istituzioni scolastiche della versione dello standard OPI in
-   esercizio - (MEF-RGS, MIUR, Banca d’Italia) - **CAP3.LA29**
+   esercizio - (MEF-RGS, Ministero dell’Istruzione, Banca d’Italia) -
+   **CAP3.LA29**
 
 -  **Luglio 2021** - Avvio dell’adesione al SIOPE+ da parte delle
    istituzioni scolastiche statali su tutto il territorio nazionale con
-   il coordinamento del MIUR - (MIUR) - **CAP3.LA30**
+   il coordinamento del Ministero dell’Istruzione - (Ministero
+   dell’Istruzione) - **CAP3.LA30**
 
 -  **Marzo 2022** - Definizione ed emissione di una versione evolutiva
    dello standard OPI - (AGID) - **CAP3.LA31**
@@ -240,7 +244,7 @@ Le seguenti linee d’azione devono concludersi entro:
    necessarie a facilitarne l’adesione - (MEF-RGS, Banca d’Italia e
    AGID) - **CAP3.LA32**
 
-**OB.3.3 – Incrementare il numero di piattaforme per le amministrazioni
+**OB.3.3 - Incrementare il numero di piattaforme per le amministrazioni
 ed i cittadini**
 
 **Piattaforma IO:** rilascio della piattaforma, avvio delle operazioni
@@ -336,13 +340,14 @@ regionali o interregionali.
 Le seguenti linee d’azione devono concludersi entro:
 
 -  **Marzo 2021** - *Assessment* delle piattaforme esistenti presso le
-   PAC e le Regioni - (AGID in collaborazione con la rete degli RTD) -
-   **CAP3.LA45**
+   PAC e le Regioni e Province Autonome - (AGID in collaborazione con la
+   rete degli RTD) - **CAP3.LA45**
 
 -  **Settembre 2021** - Produzione di uno studio di fattibilità per la
    realizzazione di una piattaforma nazionale di *e-learning* -
-   (Dipartimento per la Trasformazione Digitale, MIUR, Dipartimento
-   della Funzione Pubblica) - **CAP3.LA46**
+   (Dipartimento per la Trasformazione Digitale, Ministero
+   dell’Istruzione, Ministero dell’Università e della Ricerca,
+   Dipartimento della Funzione Pubblica) - **CAP3.LA46**
 
 -  **Settembre 2021** - Produzione di uno studio di fattibilità per la
    realizzazione di una piattaforma nazionale per lo *smart working*
@@ -365,5 +370,4 @@ Le seguenti linee d’azione devono concludersi entro:
 -  **Dicembre 2022** - Aggiornamento dell’\ *assessment* e costruzione
    della *baseline* per il monitoraggio delle iniziative di
    razionalizzazione ed integrazione attraverso il modello definito -
-   (AGID con il supporto dei Responsabili della Transizione al Digitale)
-   - **CAP3.LA50**
+   (AGID con il supporto dei RTD) - **CAP3.LA50**

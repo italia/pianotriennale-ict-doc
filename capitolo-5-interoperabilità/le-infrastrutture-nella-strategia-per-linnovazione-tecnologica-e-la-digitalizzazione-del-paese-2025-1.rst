@@ -5,8 +5,8 @@ Le infrastrutture nella Strategia per l’innovazione tecnologica e la digitaliz
 
 Il tema dell’interoperabilità è trasversale ai vari obiettivi presentati
 nella Strategia per l’innovazione tecnologica e la digitalizzazione del
-Paese 2025. Nell’elaborazione complessiva, il capitolo tiene conto, in
-particolare, della “Seconda sfida: un paese innovativo”.
+Paese 2025. Nell’elaborazione complessiva, il capitolo tiene conto in
+particolare della “Seconda sfida: un paese innovativo”.
 
 I risultati delle linee di attività indicate in precedenza, sebbene non
 trovino una corrispondenza puntuale con le azioni indicate nella

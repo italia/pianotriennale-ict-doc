@@ -12,8 +12,8 @@ Interoperabilità da parte degli erogatori di API **
    implementando API conformi - **CAP5.PA.LA01 **
 
 -  **Da gennaio 2021** - Le PA adottano la Linea guida sul Modello di
-   Interoperabilità per la PA realizzando API conformi per l’interazione
-   con altre PA e/o soggetti privati -  **CAP5.PA.LA02**
+   Interoperabilità per la PA realizzando API per l’interazione con
+   altre PA e/o soggetti privati -  **CAP5.PA.LA02**
 
 **OB.5.2 - Adottare API conformi al Modello di Interoperabilità**
 
