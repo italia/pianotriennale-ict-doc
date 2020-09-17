@@ -4,14 +4,12 @@ La valorizzazione del patrimonio informativo pubblico nella Strategia per l’in
 Il tema dei dati è trasversale ai vari obiettivi presentati nella
 Strategia per l’innovazione tecnologica e la digitalizzazione del Paese
 2025. Nell’elaborazione complessiva, il capitolo tiene conto, in
-particolare: 
+particolare:
 
 -  della “Prima Sfida: una società digitale” con particolare riferimento
-   all’obiettivo 3 della stessa; 
+   all’obiettivo 3 della stessa;
 
--  della “Seconda sfida: un paese innovativo”    
-
-. 
+-  della “Seconda sfida: un paese innovativo”
 
 Più nel dettaglio Il patrimonio informativo pubblico e l’utilizzo e
 condivisione dei dati da parte delle amministrazioni e dei privati è

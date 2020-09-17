@@ -1,12 +1,12 @@
-Cosa devono fare le PA 
-=======================
+Cosa devono fare le PA
+======================
 
 **OB.1.1 - Migliorare la capacità di generare ed erogare servizi
 digitali**
 
 -  **Da settembre 2020** - Le PA finalizzano l’adesione a *Web
    Analytics* Italia per migliorare il processo evolutivo dei propri
-   servizi online - **CAP1.PA.LA01 **
+   servizi online - **CAP1.PA.LA01**
 
 -  **Da settembre 2020** - Le PA continuano ad applicare i principi
    *Cloud First* - *SaaS First* e ad acquisire servizi *cloud* solo se
@@ -29,7 +29,7 @@ digitali**
    previsti dalla fase di *assessment* dei servizi e avviano le fasi
    successive - **CAP1.PA.LA05**
 
--  **Entro dicembre 2020 -** Le PAC coinvolte nell’implementazione
+-  **Entro dicembre 2020** - Le PAC coinvolte nell’implementazione
    nazionale del *Single Digital Gateway* finalizzano l’adesione a *Web
    Analytic*\ s Italia - **CAP1.PA.LA06**
 
@@ -39,7 +39,7 @@ digitali**
    procedure indicate nelle Linee guida attuative su acquisizione e
    riuso del software - **CAP1.PA.LA07**
 
--  **Da gennaio 2022 -** Le PA alimentano il catalogo dei servizi della
+-  **Da gennaio 2022** - Le PA alimentano il catalogo dei servizi della
    PA - **CAP1.PA.LA08**
 
 **OB.1.2 - Migliorare l’esperienza d’uso e l’accessibilità dei servizi**
@@ -48,7 +48,7 @@ digitali**
    servizi ICT, le PA devono far riferimento alle Linee guida di
    *design* - **CAP1.PA.LA09**
 
--  **Da settembre 2020 -** Le PA comunicano ad AGID, tramite apposito
+-  **Da settembre 2020** - Le PA comunicano ad AGID, tramite apposito
    form *online*, l’esito dei test di usabilità del proprio sito
    istituzionale - **CAP1.PA.LA10**
 
@@ -61,10 +61,10 @@ digitali**
    2018/1724 sul *Single Digital Gateway*, pubblicano le informazioni di
    propria competenza - **CAP1.PA.LA12**
 
--  **Entro marzo 2021 - **\ Le PA devono pubblicare gli obiettivi di
+-  **Entro marzo 2021** - Le PA devono pubblicare gli obiettivi di
    accessibilità sul proprio sito - **CAP1.PA.LA13**
 
--  **Da aprile 2021 -** Le PA comunicano ad AGID, tramite apposito *form
+-  **Da aprile 2021** - Le PA comunicano ad AGID, tramite apposito *form
    online*, l’uso dei modelli per lo sviluppo web per i propri siti
    istituzionali - **CAP1.PA.LA14**
 
@@ -72,5 +72,5 @@ digitali**
    2021, la dichiarazione di accessibilità per le APP mobili, tramite
    l’applicazione form.agid.gov.it - **CAP1.PA.LA15**
 
--  **Entro marzo 2022 - **\ Le PA devono pubblicare gli obiettivi di
+-  **Entro marzo 2022** - Le PA devono pubblicare gli obiettivi di
    accessibilità sul proprio sito - **CAP1.PA.LA16**

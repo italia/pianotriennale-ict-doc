@@ -81,7 +81,7 @@ Le seguenti linee d’azione devono concludersi entro:
    nazionale dati - (AGID e Dipartimento per la Trasformazione Digitale)
    - **CAP2.LA13**
 
--  **Dicembre  2021** - Pubblicazione della Strategia nazionale dati -
+-  **Dicembre 2021** - Pubblicazione della Strategia nazionale dati -
    (AGID e Dipartimento per la Trasformazione Digitale) - **CAP2.LA14**
 
 -  **Giugno 2022** - Pubblicazione di un piano operativo di

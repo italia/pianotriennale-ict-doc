@@ -37,16 +37,16 @@ territori**
    Accordi territoriali con il supporto dei PMO - **CAP8.PA.LA06**
 
 **Consolidamento del ruolo del Responsabile della Transizione al
-digitale **
+digitale**
 
 -  **Da gennaio 2021** - Le PA che hanno nominato il RTD aderiscono alla
    piattaforma di *community -* **CAP8.PA.LA07**
 
--  **Da febbraio 2021** - Le PA aderenti alla *community* partecipano
-   all’interscambio di esperienze e forniscono contributi per
+-  **Da febbraio 2021** - Le PA aderenti alla *community* partecipano
+   all’interscambio di esperienze e forniscono contributi per
    l’individuazione di *best practices -* **CAP8.PA.LA08**
 
--  **Da febbraio 2021** - Le PA pilota partecipano ad un progetto
+-  **Da febbraio 2021** - Le PA pilota partecipano ad un progetto
    sperimentale di formazione destinato a RTD - **CAP8.PA.LA09**
 
 -  **Da marzo 2021** - Le PA, attraverso i propri RTD, partecipano alle
@@ -65,7 +65,7 @@ digitale **
 -  **Entro ottobre 2021** - Le PA che hanno aderito alle Gare
    strategiche forniscono agli organismi di coordinamento e controllo le
    misure degli indicatori generali che verranno utilizzate per la
-   costruzione della \ *baseline -* **CAP8.PA.LA13**
+   costruzione della *baseline* - **CAP8.PA.LA13**
 
 -  **Entro ottobre 2021** - Le PA programmano i fabbisogni di
    innovazione, beni e servizi innovativi per l’anno 2022 -

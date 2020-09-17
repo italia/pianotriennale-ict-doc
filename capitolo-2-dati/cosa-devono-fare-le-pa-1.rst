@@ -1,15 +1,15 @@
 .. _cosa-devono-fare-le-pa-1:
 
-Cosa devono fare le PA 
-=======================
+Cosa devono fare le PA
+======================
 
 **OB.2.1 - Favorire la condivisione e il riutilizzo dei dati tra le PA e
-il riutilizzo da parte di cittadini e imprese  **
+il riutilizzo da parte di cittadini e imprese**
 
 -  **Da gennaio 2021** - Le PA individuano i *dataset* di tipo dinamico
    da rendere disponibili in *open data* coerenti con il modello di
    interoperabilità e con i modelli di riferimento di dati nazionali ed
-   europei - **CAP2.PA.LA01 **
+   europei - **CAP2.PA.LA01**
 
 -  **Da gennaio 2021** - Le PA rendono disponibili i dati territoriali
    attraverso i servizi di cui alla `Direttiva 2007/2/EC
@@ -24,7 +24,7 @@ il riutilizzo da parte di cittadini e imprese  **
    di servizi pubblici da loro controllati per l’apertura dei dati
    dinamici (es. i dati sulla mobilità in possesso dell’azienda
    partecipata locale), e agevolano la documentazione degli stessi nei
-   cataloghi nazionali di riferimento (dati, geodati e API) -
+   cataloghi nazionali di riferimento (dati, geodati e API) -
    **CAP2.PA.LA03**
 
 -  **Da gennaio 2022** - Le PA avviano l’adeguamento dei sistemi che si
@@ -38,13 +38,13 @@ il riutilizzo da parte di cittadini e imprese  **
 **OB.2.2 - Aumentare la qualità dei dati e dei metadati**
 
 -  **Da gennaio 2021** - Le PA uniformano i propri sistemi di metadati
-   relativi ai dati geografici alle specifiche nazionali e documentano i
-   propri *dataset* nel catalogo nazionale geodati.gov.it - 
+   relativi ai dati geografici alle specifiche nazionali e documentano i
+   propri *dataset* nel catalogo nazionale geodati.gov.it -
    **CAP2.PA.LA06**
 
 -  **Da gennaio 2021** - Le PA uniformano i propri sistemi di metadati
-   relativi ai dati non geografici alle specifiche nazionali e
-   documentano i propri *dataset* nel catalogo nazionale dati.gov.it  -
+   relativi ai dati non geografici alle specifiche nazionali e
+   documentano i propri *dataset* nel catalogo nazionale dati.gov.it -
    **CAP2.PA.LA07**
 
 -  **Da gennaio 2021** - Le PA forniscono indicazioni sul livello di
@@ -56,7 +56,7 @@ il riutilizzo da parte di cittadini e imprese  **
 del patrimonio informativo pubblico e su una moderna economia dei dati**
 
 -  **Da gennaio 2021** - Le PA adottano la licenza aperta di riferimento
-   nazionale, documentandola esplicitamente come metadato -
+   nazionale, documentandola esplicitamente come metadato -
    **CAP2.PA.LA09**
 
 -  **Da gennaio 2021 -** Le PA definiscono al proprio interno una
@@ -74,7 +74,7 @@ del patrimonio informativo pubblico e su una moderna economia dei dati**
    Dipartimento per la Trasformazione Digitale, alla definizione di
    metodologie per monitorare il riutilizzo dei dati aperti sulla base
    di quanto previsto nella norma di recepimento della Direttiva sui
-   dati aperti ((UE) 2019/1024) - **CAP2.PA.LA12**
+   dati aperti ((UE) 2019/1024) - **CAP2.PA.LA12**
 
 -  **Da marzo 2022** - Le PA pilota avviano progetti di implementazione
-   della Strategia nazionale dati - **CAP2.PA.LA13**
+   della Strategia nazionale dati - **CAP2.PA.LA13**

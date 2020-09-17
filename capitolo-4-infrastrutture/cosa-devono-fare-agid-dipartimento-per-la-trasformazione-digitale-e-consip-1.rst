@@ -1,9 +1,9 @@
 Cosa devono fare AGID, Dipartimento per la Trasformazione Digitale e Consip
 ===========================================================================
 
-**OB.4.1 - Migliorare la qualità dei servizi digitali erogati dalle
+**OB.4.1 - Migliorare la qualità dei servizi digitali erogati dalle
 amministrazioni locali favorendone l’aggregazione e la migrazione su
-infrastrutture sicure ed affidabili **
+infrastrutture sicure ed affidabili**
 
 Le seguenti linee d’azione devono concludersi entro:
 
@@ -32,7 +32,7 @@ Le seguenti linee d’azione devono concludersi entro:
 
 **OB.4.2 - Migliorare la qualità e la sicurezza dei servizi digitali
 erogati dalle amministrazioni centrali favorendone l’aggregazione e la
-migrazione su infrastrutture sicure ed affidabili **
+migrazione su infrastrutture sicure ed affidabili**
 
 Le seguenti linee d’azione devono concludersi entro:
 
@@ -40,13 +40,13 @@ Le seguenti linee d’azione devono concludersi entro:
    migrazione dei *data center* classificati gruppo B delle PAC
    (Dipartimento per la Trasformazione Digitale e AGID) - **CAP4.LA05**
 
-**OB.4.3 -** Migliorare la fruizione dell’offerta dei servizi
-digitali per cittadini e imprese tramite il potenziamento della
-connettività per le PA
+**OB.4.3 - Migliorare la fruizione dell’offerta dei servizi
+digitali per cittadini e imprese tramite il potenziamento della
+connettività per le PA**
 
 Le seguenti linee d’azione devono concludersi entro:
 
--  **Settembre 2020** – Predisposizione di un rinnovato bando MEPA per
+-  **Settembre 2020** – Predisposizione di un rinnovato bando MEPA per
    servizi di connettività *internet* per le PA locali al fine del
    caricamento dei cataloghi da parte dei fornitori - (Consip) -
    **CAP4.LA06**

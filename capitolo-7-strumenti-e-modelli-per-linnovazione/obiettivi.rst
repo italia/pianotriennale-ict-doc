@@ -4,13 +4,13 @@ Obiettivi
 Lo scenario delineato permette di declinare tre dei principali obiettivi
 per l’innovazione:
 
-OB.7.1 - Dare impulso allo sviluppo delle *Smart cities* e dei Borghi
+**OB.7.1** - Dare impulso allo sviluppo delle *Smart cities* e dei Borghi
 del Futuro
 
-OB.7.2 - Costruire una rete dei poli di innovazione che diventi
+**OB.7.2** - Costruire una rete dei poli di innovazione che diventi
 catalizzatore e acceleratore della innovazione nella PA
 
-OB.7.3 - Considerare l’innovazione come e per il bene comune
+**OB.7.3** - Considerare l’innovazione come e per il bene comune
 
 In questo Piano triennale 2020-2022 gli obiettivi sopra indicati sono
 formulati in modo ampio ed è necessario proseguire ed intensificare un

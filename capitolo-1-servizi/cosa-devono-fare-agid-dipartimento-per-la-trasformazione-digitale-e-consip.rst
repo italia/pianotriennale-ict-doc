@@ -32,7 +32,7 @@ Le seguenti linee d’azione devono concludersi entro: 
    **CAP1.LA05**
 
 -  **Febbraio 2021** - Definizione del modello di integrazione tra
-   *Cloud Marketplac*\ e di AGID e piattaforma AcquistinretePA di Consip
+   *Cloud Marketplace* di AGID e piattaforma AcquistinretePA di Consip
    - (Consip) - **CAP1.LA06**
 
 -  **Marzo 2021** - Avvio pubblicazione gare strategiche per *Servizi

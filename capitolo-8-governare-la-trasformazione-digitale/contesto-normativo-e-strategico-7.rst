@@ -33,8 +33,8 @@ Le leve per l’innovazione delle PA e dei territori
    AgID <https://trasparenza.agid.gov.it/archivio28_provvedimenti_0_121528_791_1.html>`__
    - febbraio 2018
 
-**Consolidamento del ruolo del Responsabile della transizione al
-digitale:**
+**Consolidamento del ruolo del Responsabile della Transizione al
+Digitale:**
 
 -  `Decreto legislativo 7 marzo 2005, n. 82 - Codice
    dell'amministrazione digitale (in breve CAD) art.

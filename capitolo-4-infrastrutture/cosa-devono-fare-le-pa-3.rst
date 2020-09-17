@@ -1,7 +1,7 @@
-Cosa devono fare le PA 
-=======================
+Cosa devono fare le PA
+======================
 
-**OB.4.1 - Migliorare la qualità dei servizi digitali erogati dalle
+**OB.4.1 - Migliorare la qualità dei servizi digitali erogati dalle
 amministrazioni locali favorendone l’aggregazione e la migrazione su
 infrastrutture sicure ed affidabili**
 

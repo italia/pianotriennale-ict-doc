@@ -1,8 +1,8 @@
 CAPITOLO 8. Governare la trasformazione digitale
 ================================================
 
-Le leve per l’innovazione delle PA e dei territori 
----------------------------------------------------
+Le leve per l’innovazione delle PA e dei territori
+--------------------------------------------------
 
 **Il coinvolgimento attivo delle amministrazioni e dei territori**
 
@@ -20,7 +20,7 @@ Competenza Tematici (CdCT).
 Saranno attivate collaborazioni con Enti e organismi aventi analoghe
 conoscenze ed esperienze e già operanti in significative aree del Paese,
 al fine di costituire Nodi Territoriali di Competenza (NTC), che
-assumono la funzione di *hub* locale del CdCT stesso. Mentre prosegue il
+assumono la funzione di *hub* locale del CdCT stesso. Mentre prosegue il
 percorso di condivisione con gli altri soggetti istituzionali, in primis
 il Dipartimento della Funzione Pubblica, per lo sviluppo sui territori
 del CdCT “Semplificazione amministrativa”, si lavorerà alla costituzione
@@ -31,10 +31,10 @@ delle progettualità espresse dal territorio.
 digitale, che le Amministrazioni in grado di esprimere progettualità e
 competenze tecniche ed organizzative in relazione ai temi del Piano
 triennale (ad es. *cloud*, interoperabilità, *design* dei servizi…) si
-propongano come punti di riferimento. 
+propongano come punti di riferimento.
 
 **Consolidamento del ruolo del Responsabile della Transizione al
-Digitale **
+Digitale**
 
 Per la realizzazione delle azioni del Piano triennale 2020-2022 la
 figura del RTD è l’interfaccia tra AGID, Dipartimento per la
@@ -70,7 +70,7 @@ Gli appalti di innovazione, l’\ *innovation procurement,* rappresentano
 uno strumento aperto di sfida e stimolo alla partecipazione competitiva
 di un mercato allargato, che coinvolge le grandi imprese, ma anche e
 soprattutto PMI, *start-up*, terzo settore, università e centri di
-ricerca. 
+ricerca.
 
 Al mondo degli appalti, e in particolare a quello degli appalti di
 innovazione, può essere applicato l’approccio *Open innovation*: esso
@@ -116,7 +116,7 @@ continuità con quanto già avviato nel contesto degli ecosistemi, anche
 attraverso la sottoscrizione di protocolli d'intesa ed accordi per: la
 costituzione di tavoli e gruppi di lavoro; l’avvio di progettualità
 congiunte; la capitalizzazione delle soluzioni realizzate dalla PA in
-*open source* ecc. 
+*open source* ecc.
 
 Si tratta di iniziative di raccordo operativo per abilitare
 l’interoperabilità tra ecosistemi e per supportare:
@@ -235,7 +235,7 @@ modalità fissate dalla stessa Agenzia”* che ha attribuito ad AGID il
 compito di realizzare il monitoraggio delle attività e la verifica dei
 risultati delle amministrazioni, in termini sia di coerenza con il Piano
 triennale (PT) e sia di costi/benefici dei sistemi informativi delle
-singole PA. 
+singole PA.
 
 Allo stesso tempo, tali azioni di monitoraggio e verifica hanno
 l’obiettivo di supportare l’attuazione fisica, finanziaria e procedurale
@@ -245,7 +245,7 @@ Il monitoraggio del PT prevede e integra 3 livelli che complessivamente
 concorrono al raggiungimento dell’obiettivo sopra indicato:
 
 -  monitoraggio della realizzazione delle Linee di Azione in capo ai
-   singoli *owner* identificati: misurato  attraverso indicatori di tipo
+   singoli *owner* identificati: misurato attraverso indicatori di tipo
    on/off rispetto alle *roadmap* operative definite nel PT per ciascun
    obiettivo ad integrazione dell’ insieme agli indicatori presenti nel
    cruscotto di monitoraggio `Avanzamento
@@ -263,7 +263,7 @@ concorrono al raggiungimento dell’obiettivo sopra indicato:
 -  monitoraggio dell’andamento della spesa e degli investimenti ICT in
    coerenza con PT: misurati attraverso la rilevazione periodica della
    spesa ICT, da integrare alla raccolta dati e informazioni tramite il
-   Format PT per le PA. 
+   Format PT per le PA.
 
 Le PA secondo la *roadmap* definita dalle Linee d’Azione di seguito
 riportate e le modalità operative fornite da AGID, saranno chiamate a
@@ -275,13 +275,13 @@ diverse amministrazioni e di approfondire quali altre azioni siano state
 individuate localmente per il conseguimento dei singoli Obiettivi
 previsti nel PT. Si chiederà inoltre alle amministrazioni di allegare il
 proprio Piano, per poter prendere visione di eventuali altri obiettivi
-definiti localmente. 
+definiti localmente.
 
 In coerenza con le attività di monitoraggio della spesa ICT già in
 essere, i cui tempi di esecuzione saranno raccordati con quelli di
 rilascio del Format PT compilato, l’insieme delle PA coinvolte è
 rappresentato dal *panel* di amministrazioni centrali e locali che
-periodicamente rispondono alla *Rilevazione della spesa ICT della PA*. 
+periodicamente rispondono alla *Rilevazione della spesa ICT della PA*.
 
 Si avrà quindi, una visione complessiva delle attività svolte dalle
 amministrazioni in relazione alla loro coerenza con il Piano triennale e
@@ -294,7 +294,7 @@ rivolte al personale delle Pubbliche Amministrazioni.
 Va inoltre tenuto conto del fatto che, anche nel caso di progetti ICT,
 la componente non immediatamente monetizzabile dei benefici attesi,
 risulta spesso molto importante ed è quindi necessario integrare la
-tradizionale valutazione economica. 
+tradizionale valutazione economica.
 
 .. toctree::
   :maxdepth: 3

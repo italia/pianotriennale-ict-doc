@@ -5,8 +5,8 @@ OB.4.1 - Migliorare la qualità e la sicurezza dei servizi digitali
 erogati dalle amministrazioni locali favorendone l’aggregazione e la
 migrazione sul territorio
 
--  R.A.4.1a - ** Riduzione dei**\ `data center in Gruppo
-   B <https://docs.italia.it/italia/piano-triennale-ict/censimento-ict/it/bozza/contents.html>`__\ **sul
+-  R.A.4.1a - **Riduzione dei `data center in Gruppo
+   B <https://docs.italia.it/italia/piano-triennale-ict/censimento-ict/it/bozza/contents.html>`__ sul
    territorio**
 
    -  Target 2020 - *Baseline*: 1.101 *data center* gruppo B di 741 PAL
@@ -22,9 +22,9 @@ OB.4.2 - Migliorare la qualità e la sicurezza dei servizi digitali
 erogati dalle amministrazioni centrali favorendone l’aggregazione e la
 migrazione su infrastrutture sicure ed affidabili
 
--  R.A.4.2a - **Riduzione dei** `data center in gruppo
+-  R.A.4.2a - **Riduzione dei `data center in gruppo
    B <https://docs.italia.it/italia/piano-triennale-ict/censimento-ict/it/bozza/contents.html>`__
-   **delle amministrazioni centrali.**
+   delle amministrazioni centrali.**
 
    -  Target 2020 - *Baseline*: 88 *data center* gruppo B di 44 PAC
       censiti da AGID per 17.020 CPU, 1.520 TB di RAM, 73 PB di

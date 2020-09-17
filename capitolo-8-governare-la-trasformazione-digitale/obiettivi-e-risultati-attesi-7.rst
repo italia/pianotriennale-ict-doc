@@ -1,11 +1,11 @@
 Obiettivi e risultati attesi
 ============================
 
-OB.8.1 - Rafforzare le leve per l’innovazione delle PA e dei territori 
+OB.8.1 - Rafforzare le leve per l’innovazione delle PA e dei territori
 
 **Coinvolgimento attivo delle amministrazioni e dei territori**
 
--  R.A.8.1a ** - Ampliamento del coinvolgimento attivo dei territori **
+-  R.A.8.1a - **Ampliamento del coinvolgimento attivo dei territori**
 
    -  Target 2020 - Baseline: 10 PMO attivi in amministrazioni.
       Attivazione della collaborazione con 3 NTC per il CdCT sul Riuso e
@@ -13,7 +13,7 @@ OB.8.1 - Rafforzare le leve per l’innovazione delle PA e dei territori 
 
    -  Target 2021 - Ulteriori 2 PMO attivi in amministrazioni.
       Attivazione della collaborazione con ulteriori 5 NTC per il CdCT
-      sul Riuso e *Open source.* 
+      sul Riuso e *Open source.*
 
    -  Target 2022 - Ulteriori 3 PMO attivi in amministrazioni.
       Attivazione della collaborazione con ulteriori 7 NTC per il CdCT
@@ -24,10 +24,10 @@ OB.8.1 - Rafforzare le leve per l’innovazione delle PA e dei territori 
 digitale**
 
 -  R.A.8.1b - **Promozione e diffusione di modalità e modelli di
-   consolidamento del ruolo dei RTD, anche  in forma aggregata presso la
+   consolidamento del ruolo dei RTD, anche in forma aggregata presso la
    PAL**
 
-   -  Target 2020 -  *Baseline*: numero di amministrazioni che hanno
+   -  Target 2020 - *Baseline*: numero di amministrazioni che hanno
       nominato RTD, anche in forma aggregata, e definizione del set di
       indicatori per la misurazione della partecipazione alla
       *community.*
@@ -38,9 +38,9 @@ digitale**
       definizione dell’incremento su base annuale per il target 2022.
 
    -  Target 2022 - Incremento almeno del 20% rispetto alla *baseline*
-      del numero di numero di amministrazioni che hanno nominato RTD. 
+      del numero di numero di amministrazioni che hanno nominato RTD.
 
-** La domanda pubblica come leva per l’innovazione del Paese**
+**La domanda pubblica come leva per l’innovazione del Paese**
 
 -  R.A.8.1c - **Incremento della percentuale di PMI e start up che
    partecipano agli appalti di innovazione e alle Gare strategiche**
@@ -89,7 +89,7 @@ interoperabili**
 
    -  Target 2021 - *Baseline*: numero delle PA che espongono API
       condivise individuato sulla base delle evidenze registrate nel
-      Catalogo delle API indicato al Capitolo 5 - Interoperabilità.
+      Catalogo delle API indicato al Capitolo 5 - Interoperabilità.
 
    -  Target 2022 - Incremento del 5% rispetto alla *baseline*.
 
@@ -124,14 +124,14 @@ favorire l’inclusione digitale
       promosso dal Dipartimento della Funzione Pubblica; *Baseline*:
       Partecipazione di 10.000 dipendenti pubblici ad iniziative
       formative basate sul Syllabus “Competenze digitali per la PA”
-      promosso dal Dipartimento della Funzione Pubblica. 
+      promosso dal Dipartimento della Funzione Pubblica.
 
 -  Target 2022 - Ulteriori 30.000 dipendenti pubblici usano lo strumento
    di *self-assessment* online per le competenze digitali promosso dal
    Dipartimento della Funzione Pubblica; ulteriori 10.000 dipendenti
    pubblici partecipano ad iniziative formative basate sul Syllabus
    “Competenze digitali per la PA” promosso dal Dipartimento della
-   Funzione Pubblica. 
+   Funzione Pubblica.
 
 -  R.A.8.2b - **Incremento delle competenze digitali dei cittadini sulla
    base della definizione e realizzazione di modelli, strumenti e
@@ -160,11 +160,11 @@ favorire l’inclusione digitale
          base rispetto ai valori definiti nella *baseline*.
 
 -  R.A.8.2c - **Diffusione delle competenze digitali nella PA per
-   l’attuazione degli obiettivi del Piano triennale **
+   l’attuazione degli obiettivi del Piano triennale**
 
    -  Target 2020 - *Baseline*: individuazione di indicatori coerenti
       con quelli di altri programmi strategici nazionali ed europei e
-      costruzione della *baseline*  (es. numero iniziative formative
+      costruzione della *baseline* (es. numero iniziative formative
       realizzate su un tema specifico, numero dipendenti formati secondo
       competenze professionali ICT di base e avanzate, numero ore di
       formazione erogate, ecc.).
@@ -182,12 +182,12 @@ digitale e di innovazione della PA
    programmazioni ICT delle PA con il Piano triennale**
 
    -  Target 2020 - Definizione del sistema integrato dei flussi di
-      raccolta dati per il monitoraggio del Piano triennale.  
+      raccolta dati per il monitoraggio del Piano triennale.
 
    -  Target 2021 - *Baseline*: almeno 20 PA centrali e locali (tra
       quelle periodicamente coinvolte nella *Rilevazione della spesa ICT
       della PA*) rilasciano il proprio Format PT coerente con gli
-      obiettivi e le *roadmap* previste nel Piano triennale. 
+      obiettivi e le *roadmap* previste nel Piano triennale.
 
    -  Target 2022 - Incremento, rispetto alla baseline 2021, di almeno
       40 PA centrali e locali (tra quelle periodicamente coinvolte nella

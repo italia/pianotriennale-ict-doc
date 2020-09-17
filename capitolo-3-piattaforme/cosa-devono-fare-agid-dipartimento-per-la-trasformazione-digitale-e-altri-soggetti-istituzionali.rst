@@ -1,5 +1,5 @@
-Cosa devono fare AGID, Dipartimento per la Trasformazione Digitale e *altri soggetti istituzionali *
-====================================================================================================
+Cosa devono fare AGID, Dipartimento per la Trasformazione Digitale e altri soggetti istituzionali
+=================================================================================================
 
 **OB.3.1 – Favorire l’evoluzione delle piattaforme esistenti**
 

@@ -1,5 +1,5 @@
 Cosa devono fare AGID, Dipartimento per la Trasformazione Digitale e altri soggetti istituzionali
-==================================================================================================
+=================================================================================================
 
 **OB.7.1 Dare impulso allo sviluppo delle Smart Cities e dei Borghi del
 Futuro**

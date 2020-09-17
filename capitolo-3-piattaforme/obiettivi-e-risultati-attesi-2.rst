@@ -4,7 +4,7 @@ Obiettivi e risultati attesi
 ============================
 
 OB.3.1 - Favorire l’evoluzione delle piattaforme esistenti per
-migliorare i servizi offerti a cittadini ed imprese semplificando
+migliorare i servizi offerti a cittadini ed imprese semplificando
 l’azione amministrativa
 
 -  R.A.3.1a - **Incremento del livello di alimentazione e
@@ -15,19 +15,19 @@ l’azione amministrativa
    -  Target 2020 - *Baseline*: numero di documenti digitalizzati
       confluiti nel FSE (referti di medicina di laboratorio e ricette).
 
-   -  Target 2021 - Aumento del 10% rispetto alla *baseline. *
+   -  Target 2021 - Aumento del 10% rispetto alla *baseline*.
 
-   -  Target 2022 - Aumento del 20% rispetto alla *baseline. *
+   -  Target 2022 - Aumento del 20% rispetto alla *baseline*.
 
 -  R.A.3.1b - **Incremento del numero di prestazioni prenotate online
    rispetto al canale fisico attraverso CUP online regionali integrati**
 
    -  Target 2020 - *Baseline*: Percentuale di prenotazioni effettuate
-      *online* rispetto al totale. 
+      *online* rispetto al totale.
 
-   -  Target 2021 - Aumento del 10% rispetto alla *baseline. *
+   -  Target 2021 - Aumento del 10% rispetto alla *baseline*.
 
-   -  Target 2022 - Aumento del 20% rispetto alla *baseline. *
+   -  Target 2022 - Aumento del 20% rispetto alla *baseline*.
 
 -  R.A.3.1c – **Incremento del numero di Amministrazioni servite in
    NoiPA ed estensione del numero di servizi offerti dalla piattaforma
@@ -54,7 +54,7 @@ abilitanti esistenti da parte delle pubbliche amministrazioni
       2019.
 
    -  Target 2021 - Incremento del numero di autenticazioni del 50%
-      rispetto alla *baseline. *
+      rispetto alla *baseline.*
 
    -  Target 2022 - incremento del numero di autenticazioni del 100%
       rispetto alla *baseline.*
@@ -70,9 +70,9 @@ abilitanti esistenti da parte delle pubbliche amministrazioni
    -  Target 2020 - *Baseline*: Numero di amministrazioni che utilizzano
       pagoPA.
 
-   -  Target 2021 - Aumento del 20% rispetto alla *baseline.*
+   -  Target 2021 - Aumento del 20% rispetto alla *baseline*.
 
-   -  Target 2022 - Aumento del 30% rispetto alla *baseline.*
+   -  Target 2022 - Aumento del 30% rispetto alla *baseline*.
 
 -  R.A.3.2d - **Incremento del numero di Amministrazioni la cui spesa è
    consultabile on-line attraverso SIOPE+**
@@ -81,24 +81,24 @@ abilitanti esistenti da parte delle pubbliche amministrazioni
       possibile consultare la spesa on-line attraverso SIOPE+.
 
    -  Target 2021 - Aumento del 10% rispetto alla *baseline*, attraverso
-      il collegamento delle istituzioni scolastiche statali. 
+      il collegamento delle istituzioni scolastiche statali. 
 
-   -  Target 2022 - Aumento del 20% rispetto alla *baseline. *
+   -  Target 2022 - Aumento del 20% rispetto alla *baseline*.
 
-OB.3.3 - Incrementare e razionalizzare il numero di piattaforme per le
+OB.3.3 - Incrementare e razionalizzare il numero di piattaforme per le
 amministrazioni al fine di semplificare i servizi ai cittadini
 
 -  R.A.3.3a – **Aumentare il grado di adozione della** **Piattaforma IO
    (l’App dei servizi pubblici)**
 
    -  Target 2020 - *Baseline*: numero di amministrazioni aderenti alla
-      Piattaforma IO con almeno un servizio. 
+      Piattaforma IO con almeno un servizio. 
 
    -  Target 2021 - Il 50% delle Regioni e il 10% dei Comuni aderenti
-      espongono i propri servizi su IO. 
+      espongono i propri servizi su IO. 
 
    -  Target 2022 - Il 100% delle Regioni e il 30% dei Comuni aderenti
-      espongono i propri servizi su IO. 
+      espongono i propri servizi su IO. 
 
 -  R.A.3.3b – **Realizzazione della Piattaforma Indice nazionale dei
    domicili digitali delle persone fisiche e degli altri enti di diritto
@@ -112,7 +112,7 @@ amministrazioni al fine di semplificare i servizi ai cittadini
       gli Enti nazionali di previdenza e assistenza sociale, Agenzie
       Fiscali, Regioni, grandi comuni e aree metropolitane).
 
-   -  Target 2022 - Aumento del 40% rispetto alla *baseline.*
+   -  Target 2022 - Aumento del 40% rispetto alla *baseline*.
 
 -  R.A.3.3c - **Pubblicazione della** **Piattaforma del Sistema Museale
    Nazionale e accreditamento dei musei al Sistema Museale Nazionale

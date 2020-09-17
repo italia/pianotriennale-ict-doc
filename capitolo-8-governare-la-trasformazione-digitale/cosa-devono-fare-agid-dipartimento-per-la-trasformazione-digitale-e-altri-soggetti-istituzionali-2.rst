@@ -1,5 +1,5 @@
-Cosa devono fare AGID, Dipartimento per la Trasformazione Digitale e altri soggetti istituzionali 
-==================================================================================================
+Cosa devono fare AGID, Dipartimento per la Trasformazione Digitale e altri soggetti istituzionali
+=================================================================================================
 
 **OB.8.1 - Rafforzare le leve per l’innovazione delle PA e dei
 territori**
@@ -55,8 +55,8 @@ Le seguenti linee d’azione devono concludersi entro:
    attività di accompagnamento e sensibilizzazione sul territorio -
    (AGID) - **CAP8.LA09**
 
-**Consolidamento del ruolo del Responsabile della transizione al
-digitale**
+**Consolidamento del ruolo del Responsabile della Transizione al
+Digitale**
 
 Le seguenti linee d’azione devono concludersi entro:
 

@@ -19,9 +19,9 @@ il riutilizzo da parte di cittadini e imprese  
 
    -  Target 2022 - Aumento del 40% rispetto alla *baseline*.
 
--  R.A.2.1b - **Aumento del** **numero di dataset aperti di tipo
-   dinamico in coerenza con quanto previsto dalla**\ `Direttiva (UE)
-   2019/1024 <https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1561563110433&uri=CELEX:32019L1024>`__\ **,
+-  R.A.2.1b - **Aumento del numero di dataset aperti di tipo
+   dinamico in coerenza con quanto previsto dalla `Direttiva (UE)
+   2019/1024 <https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1561563110433&uri=CELEX:32019L1024>`__,
    relativa all’apertura dei dati e al riutilizzo dell’informazione del
    settore pubblico**
 
@@ -32,10 +32,10 @@ il riutilizzo da parte di cittadini e imprese  
 
    -  Target 2022 - Incremento del 10% rispetto alla *baseline*.
 
--  R.A.2.1c - **Aumento del** **numero di dataset resi disponibili
-   attraverso i servizi di dati territoriali di cui alla**\ `Direttiva
+-  R.A.2.1c - **Aumento del numero di dataset resi disponibili
+   attraverso i servizi di dati territoriali di cui alla `Direttiva
    2007/2/EC
-   (INSPIRE) <https://eur-lex.europa.eu/legal-content/IT/ALL/?uri=celex%3A32007L0002>`__
+   (INSPIRE) <https://eur-lex.europa.eu/legal-content/IT/ALL/?uri=celex%3A32007L0002>`__**
 
    -  Target 2020 - *Baseline*: definizione indicatore e misurazione in
       conformità alle regole di monitoraggio INSPIRE.
@@ -44,11 +44,11 @@ il riutilizzo da parte di cittadini e imprese  
 
    -  Target 2022 - Aumento del 40% rispetto alla *baseline*.
 
-OB.2.2 - Aumentare la qualità dei dati e dei metadati 
+OB.2.2 - Aumentare la qualità dei dati e dei metadati
 
--  R.A.2.2a - **Aumento del** **numero di dataset con metadati di
+-  R.A.2.2a - **Aumento del numero di dataset con metadati di
    qualità conformi agli standard di riferimento europei e dei cataloghi
-   nazionali (dati.gov.it, geodati.gov.it)   **
+   nazionali (dati.gov.it, geodati.gov.it)**
 
    -  Target 2020 - *Baseline*: costruzione dell’indicatore e
       definizione del *target. *
@@ -59,8 +59,8 @@ OB.2.2 - Aumentare la qualità dei dati e dei metadati 
 
 -  R.A.2.2b - **Aumento del numero di dataset aperti conformi ad un
    sottoinsieme di caratteristiche di qualità derivate dallo
-   standard**\ `ISO/IEC
-   25012 <https://www.agid.gov.it/sites/default/files/repository_files/documenti_indirizzo/iso_25024_agid_misurazione_della_qualita_dei_dati.pdf>`__\ **  **
+   standard `ISO/IEC
+   25012 <https://www.agid.gov.it/sites/default/files/repository_files/documenti_indirizzo/iso_25024_agid_misurazione_della_qualita_dei_dati.pdf>`__**
 
    -  Target 2020 - *Baseline*: individuazione di *dataset* di interesse
       e caratteristiche di qualità.
@@ -73,7 +73,7 @@ OB.2.3 - Aumentare la consapevolezza sulle politiche di valorizzazione
 del patrimonio informativo pubblico e su una moderna economia dei dati
 
 -  R.A.2.3a - **Aumento di azioni coordinate tra le pubbliche
-   amministrazioni coerenti con la Strategia nazionale dati **
+   amministrazioni coerenti con la Strategia nazionale dati**
 
    -  Target 2020 - n.d.
 
