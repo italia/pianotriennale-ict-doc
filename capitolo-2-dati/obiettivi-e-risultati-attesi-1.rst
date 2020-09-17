@@ -53,7 +53,7 @@ OB.2.2 - Aumentare la qualità dei dati e dei metadati
 
    -  Target 2022 - Aumento del 40% rispetto alla *baseline*.
 
--  R.A.2.2b - **Aumento del numero di dataset aperti conformi ad un sottoinsieme di caratteristiche di qualità derivate dallo standard** `ISO/IEC 25012 <https://www.agid.gov.it/sites/default/files/repository_files/documenti_indirizzo/iso_25024_agid_misurazione_della_qualita_dei_dati.pdf>`__*
+-  R.A.2.2b - **Aumento del numero di dataset aperti conformi ad un sottoinsieme di caratteristiche di qualità derivate dallo standard** `ISO/IEC 25012 <https://www.agid.gov.it/sites/default/files/repository_files/documenti_indirizzo/iso_25024_agid_misurazione_della_qualita_dei_dati.pdf>`__
 
    -  Target 2020 - *Baseline*: individuazione di *dataset* di interesse
       e caratteristiche di qualità.
@@ -75,7 +75,7 @@ del patrimonio informativo pubblico e su una moderna economia dei dati
    -  Target 2022 - Almeno due iniziative coordinate di implementazione
       del piano operativo.
 
--  R.A.2.3b - **Aumento del** **numero di dataset che adottano un’unica
+-  R.A.2.3b - **Aumento del numero di dataset che adottano un’unica
    licenza aperta identificata a livello nazionale**
 
    -  Target 2020 - *Baseline*: individuazione della licenza aperta di
