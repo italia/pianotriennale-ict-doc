@@ -19,11 +19,9 @@ il riutilizzo da parte di cittadini e imprese  
 
    -  Target 2022 - Aumento del 40% rispetto alla *baseline*.
 
--  R.A.2.1b - **Aumento del numero di dataset aperti di tipo
-   dinamico in coerenza con quanto previsto dalla `Direttiva (UE)
-   2019/1024 <https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1561563110433&uri=CELEX:32019L1024>`__,
-   relativa all’apertura dei dati e al riutilizzo dell’informazione del
-   settore pubblico**
+-  R.A.2.1b - **Aumento del numero di dataset aperti di tipo dinamico in coerenza con quanto previsto dalla** `Direttiva (UE)
+   2019/1024 <https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1561563110433&uri=CELEX:32019L1024>`__ ,
+   **relativa all’apertura dei dati e al riutilizzo dell’informazione del settore pubblico**
 
    -  Target 2020 - *Baseline*: costruzione dell’indicatore e
       misurazione.
@@ -32,10 +30,8 @@ il riutilizzo da parte di cittadini e imprese  
 
    -  Target 2022 - Incremento del 10% rispetto alla *baseline*.
 
--  R.A.2.1c - **Aumento del numero di dataset resi disponibili
-   attraverso i servizi di dati territoriali di cui alla `Direttiva
-   2007/2/EC
-   (INSPIRE) <https://eur-lex.europa.eu/legal-content/IT/ALL/?uri=celex%3A32007L0002>`__**
+-  R.A.2.1c - **Aumento del numero di dataset resi disponibili attraverso i servizi di dati territoriali di cui alla** `Direttiva
+   2007/2/EC (INSPIRE) <https://eur-lex.europa.eu/legal-content/IT/ALL/?uri=celex%3A32007L0002>`__
 
    -  Target 2020 - *Baseline*: definizione indicatore e misurazione in
       conformità alle regole di monitoraggio INSPIRE.
@@ -51,16 +47,13 @@ OB.2.2 - Aumentare la qualità dei dati e dei metadati
    nazionali (dati.gov.it, geodati.gov.it)**
 
    -  Target 2020 - *Baseline*: costruzione dell’indicatore e
-      definizione del *target. *
+      definizione del *target*.
 
    -  Target 2021 - Aumento del 20% rispetto alla *baseline*.
 
    -  Target 2022 - Aumento del 40% rispetto alla *baseline*.
 
--  R.A.2.2b - **Aumento del numero di dataset aperti conformi ad un
-   sottoinsieme di caratteristiche di qualità derivate dallo
-   standard `ISO/IEC
-   25012 <https://www.agid.gov.it/sites/default/files/repository_files/documenti_indirizzo/iso_25024_agid_misurazione_della_qualita_dei_dati.pdf>`__**
+-  R.A.2.2b - **Aumento del numero di dataset aperti conformi ad un sottoinsieme di caratteristiche di qualità derivate dallo standard** `ISO/IEC 25012 <https://www.agid.gov.it/sites/default/files/repository_files/documenti_indirizzo/iso_25024_agid_misurazione_della_qualita_dei_dati.pdf>`__
 
    -  Target 2020 - *Baseline*: individuazione di *dataset* di interesse
       e caratteristiche di qualità.
@@ -82,7 +75,7 @@ del patrimonio informativo pubblico e su una moderna economia dei dati
    -  Target 2022 - Almeno due iniziative coordinate di implementazione
       del piano operativo.
 
--  R.A.2.3b - **Aumento del** **numero di dataset che adottano un’unica
+-  R.A.2.3b - **Aumento del numero di dataset che adottano un’unica
    licenza aperta identificata a livello nazionale**
 
    -  Target 2020 - *Baseline*: individuazione della licenza aperta di

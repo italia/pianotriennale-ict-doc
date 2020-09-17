@@ -1,21 +1,21 @@
 CAPITOLO 1. Servizi
 ===================
 
-| Il miglioramento della qualità dei servizi pubblici digitali
-  costituisce la premessa indispensabile per l’incremento del loro
-  utilizzo da parte degli utenti, siano questi cittadini, imprese o
-  altre amministrazioni pubbliche.
-| In questo processo di trasformazione digitale, è essenziale che i
-  servizi abbiano un chiaro valore per l’utente; questo obiettivo
-  richiede un approccio multidisciplinare nell'adozione di metodologie e
-  tecniche interoperabili per la progettazione di un servizio. La
-  qualità finale, così come il costo complessivo del servizio, non può
-  infatti prescindere da un’attenta analisi dei molteplici *layer,*
-  tecnologici e organizzativi interni, che strutturano l’intero processo
-  della prestazione erogata, celandone la complessità sottostante. Ciò
-  implica anche un’adeguata semplificazione dei processi interni alle
-  PA, coordinata dal Responsabile della Transizione al Digitale, con il
-  necessario supporto di efficienti procedure digitali.
+Il miglioramento della qualità dei servizi pubblici digitali
+costituisce la premessa indispensabile per l’incremento del loro
+utilizzo da parte degli utenti, siano questi cittadini, imprese o
+altre amministrazioni pubbliche.
+In questo processo di trasformazione digitale, è essenziale che i
+servizi abbiano un chiaro valore per l’utente; questo obiettivo
+richiede un approccio multidisciplinare nell'adozione di metodologie e
+tecniche interoperabili per la progettazione di un servizio. La
+qualità finale, così come il costo complessivo del servizio, non può
+infatti prescindere da un’attenta analisi dei molteplici *layer,*
+tecnologici e organizzativi interni, che strutturano l’intero processo
+della prestazione erogata, celandone la complessità sottostante. Ciò
+implica anche un’adeguata semplificazione dei processi interni alle
+PA, coordinata dal Responsabile della Transizione al Digitale, con il
+necessario supporto di efficienti procedure digitali.
 
 Occorre quindi agire su più livelli e migliorare la capacità delle
 Pubbliche Amministrazioni di generare ed erogare servizi di qualità

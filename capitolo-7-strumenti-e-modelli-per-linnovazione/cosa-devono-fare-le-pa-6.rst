@@ -1,7 +1,7 @@
 Cosa devono fare le PA
 ======================
 
-**OB.7.1: Dare impulso allo sviluppo delle Smart Cities e dei Borghi del
+**OB.7.1 - Dare impulso allo sviluppo delle Smart Cities e dei Borghi del
 Futuro**
 
 -  **Da settembre 2020** - Le PAC, le Regioni e le Province Autonome e

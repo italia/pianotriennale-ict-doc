@@ -58,7 +58,7 @@ quali:
    informazioni e servizi sia per cittadini e turisti che per gli
    operatori del Sistema Museale Nazionale.
 
--  Piattaforma digitale nazionale dati (PDND)**:** la piattaforma che
+-  Piattaforma digitale nazionale dati (PDND): la piattaforma che
    permette di valorizzare il patrimonio informativo pubblico
    attraverso l’introduzione di tecniche moderne di analisi di grandi
    quantità di dati (*BigData*).
