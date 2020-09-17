@@ -56,7 +56,7 @@ OB.1.1 - Migliorare la capacità di generare ed erogare servizi digitali
       altri 1.000 servizi qualificati. 
 
 -  R.A.1.1d - **Diffusione del monitoraggio, da parte delle
-   Amministrazioni, della fruizione dei servizi digitali **
+   Amministrazioni, della fruizione dei servizi digitali**
 
    -  Target 2020 - *Baseline*: 80 PA attivano `Web Analytics
       Italia <https://webanalytics.italia.it/>`__. 
