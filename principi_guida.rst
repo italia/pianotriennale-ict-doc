@@ -1,7 +1,7 @@
 Principi guida 
 ===============
 
--  **digital & mobile first** (digitale e mobile come prima opzione): le
+-  **Digital & mobile first** (digitale e mobile come prima opzione): le
    pubbliche amministrazioni devono realizzare servizi primariamente
    digitali;
 

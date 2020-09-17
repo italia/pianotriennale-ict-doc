@@ -22,7 +22,7 @@ OB.1.1 - Migliorare la capacità di generare ed erogare servizi digitali
       400 soggetti che riusano software *open source* presente in
       Developers Italia rispetto alla *baseline*.
 
--  R.A.1.1b - **Incremento del** **livello di adozione del**\ `programma
+-  R.A.1.1b - **Incremento del livello di adozione del** `programma
    di abilitazione al
    cloud <https://docs.italia.it/italia/piano-triennale-ict/cloud-docs/it/stabile/cloud-enablement.html>`__
 
@@ -44,7 +44,7 @@ OB.1.1 - Migliorare la capacità di generare ed erogare servizi digitali
       `Manuale di abilitazione al
       cloud <https://docs.italia.it/italia/manuale-di-abilitazione-al-cloud/manuale-di-abilitazione-al-cloud-docs/it/bozza/index.html>`__.
 
--  R.A.1.1c - **Ampliamento dell’offerta del**\ `Catalogo dei servizi
+-  R.A.1.1c - **Ampliamento dell’offerta del** `Catalogo dei servizi
    cloud qualificati da AGID <https://cloud.italia.it/marketplace/>`__
 
    -  Target 2020 - *Baseline*: 800 servizi qualificati.
@@ -81,11 +81,7 @@ OB.1.2 - Migliorare l’esperienza d’uso e l’accessibilità dei servizi
    -  Target 2022 - Incremento, rispetto alla *baseline*, dell’utilizzo
       del modello per almeno altre 200 PA.
 
--  R.A.1.2b - **Diffusione dei test di usabilità previsti
-   dalle**\ `Linee Guida AGID per il design dei
-   servizi <https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/>`__\ **nelle
-   amministrazioni per agevolare il feedback e le valutazioni da parte
-   degli utenti**
+-  R.A.1.2b - **Diffusione dei test di usabilità previsti dalle** `Linee Guida AGID per il design dei servizi <https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/>`__ **nelle amministrazioni per agevolare il feedback e le valutazioni da parte degli utenti**
 
    -  Target 2020 - *Baseline*: numero di report ricevuti da AGID sui
       test di usabilità effettuati dalle PA
@@ -96,10 +92,8 @@ OB.1.2 - Migliorare l’esperienza d’uso e l’accessibilità dei servizi
    -  Target 2022 - Incremento del 10% del numero di report ricevuti
       rispetto alla *baseline*
 
--  R.A.1.2c - **Incremento del livello di accessibilità dei servizi
-   digitali della PA secondo le**\ `Linee guida sull'accessibilità degli
-   strumenti
-   informatici  <https://docs.italia.it/AgID/documenti-in-consultazione/lg-accessibilita-docs/it/stabile/index.html>`__
+-  R.A.1.2c - **Incremento del livello di accessibilità dei servizi digitali della PA secondo le** `Linee guida sull'accessibilità degli
+   strumenti informatici  <https://docs.italia.it/AgID/documenti-in-consultazione/lg-accessibilita-docs/it/stabile/index.html>`__
 
    -  Target 2020 - *Baseline* 1: rilevazione del livello di conformità
       dei siti, comunicato dalle Amministrazioni nelle loro

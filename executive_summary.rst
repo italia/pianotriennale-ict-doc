@@ -15,7 +15,7 @@ dell'economia digitale europea. 
 Per tale motivo, come già indicato dettagliatamente nelle edizioni
 precedenti, gli obiettivi del Piano triennale sono basati sulle
 indicazioni che emergono dalla nuova programmazione europea 2021-2027,
-sui principi dell'\ *eGovernment Action Plan* 2016-2020 e sulle azioni
+sui principi dell'*eGovernment Action Plan* 2016-2020 e sulle azioni
 previste dalla *eGovernment Declaration* di Tallinn (2017-2021), i cui
 indicatori misurano il livello di digitalizzazione in tutta l’UE e
 rilevano l’effettiva presenza e l’uso dei servizi digitali da parte dei
