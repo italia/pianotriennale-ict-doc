@@ -35,7 +35,7 @@ l’emanazione di linee guida e guide tecniche.
   :caption: Indice dei contenuti
 
   capitolo-6-sicurezza-informatica/contesto-normativo-e-strategico-5.rst
-  capitolo-6-sicurezza-informatica/obiettivi-e-risultati-attesi-4.rst
+  capitolo-6-sicurezza-informatica/obiettivi-e-risultati-attesi-5.rst
   capitolo-6-sicurezza-informatica/cosa-devono-fare-agid-e-dipartimento-per-la-trasformazione-digitale.rst
   capitolo-6-sicurezza-informatica/cosa-devono-fare-le-pa-5.rst
   capitolo-6-sicurezza-informatica/la-sicurezza-informatica-nella-strategia-per-linnovazione-tecnologica-e-la-digitalizzazione-del-paese-2025.rst

@@ -1,5 +1,3 @@
-.. _contesto-normativo-e-strategico-4:
-
 Contesto normativo e strategico
 ===============================
 

@@ -1,6 +1,4 @@
-.. _cosa-devono-fare-agid-dipartimento-per-la-trasformazione-digitale-e-altri-soggetti-istituzionali-1:
-
-Cosa devono fare AGID, Dipartimento per la Trasformazione Digitale e altri soggetti istituzionali 
+Cosa devono fare AGID, Dipartimento per la Trasformazione Digitale e altri soggetti istituzionali
 ==================================================================================================
 
 **OB.7.1 Dare impulso allo sviluppo delle Smart Cities e dei Borghi del

@@ -1,5 +1,3 @@
-.. _cosa-devono-fare-agid-dipartimento-per-la-trasformazione-digitale-e-consip-1:
-
 Cosa devono fare AGID, Dipartimento per la Trasformazione Digitale e Consip
 ===========================================================================
 

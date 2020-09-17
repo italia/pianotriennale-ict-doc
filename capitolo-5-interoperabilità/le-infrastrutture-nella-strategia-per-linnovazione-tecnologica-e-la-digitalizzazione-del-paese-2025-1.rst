@@ -1,5 +1,3 @@
-.. _le-infrastrutture-nella-strategia-per-linnovazione-tecnologica-e-la-digitalizzazione-del-paese-2025-1:
-
 Le infrastrutture nella Strategia per l’innovazione tecnologica e la digitalizzazione del Paese 2025
 ====================================================================================================
 

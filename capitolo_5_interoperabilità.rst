@@ -51,7 +51,7 @@ per le tematiche di sicurezza il capitolo "6. Sicurezza informatica".
   :caption: Indice dei contenuti
 
   capitolo-5-interoperabilità/contesto-normativo-e-strategico-4.rst
-  capitolo-5-interoperabilità/obiettivi-e-risultati-attesi-3.rst
+  capitolo-5-interoperabilità/obiettivi-e-risultati-attesi-4.rst
   capitolo-5-interoperabilità/cosa-devono-fare-agid-dipartimento-per-la-trasformazione-digitale.rst
   capitolo-5-interoperabilità/cosa-devono-fare-le-pa-4.rst
   capitolo-5-interoperabilità/le-infrastrutture-nella-strategia-per-linnovazione-tecnologica-e-la-digitalizzazione-del-paese-2025-1.rst

@@ -208,8 +208,8 @@ la formazione e l’aggiornamento sui temi della trasformazione digitale e
 del governo dei processi di innovazione per i Responsabili della
 Transizione al digitale.
 
-Gli strumenti per migliorare i processi di trasformazione digitale e di innovazione della PA\ ** **
----------------------------------------------------------------------------------------------------
+Gli strumenti per migliorare i processi di trasformazione digitale e di innovazione della PA
+--------------------------------------------------------------------------------------------
 
 **Il monitoraggio del Piano triennale**
 
@@ -300,8 +300,8 @@ tradizionale valutazione economica. 
   :maxdepth: 3
   :caption: Indice dei contenuti
 
-  capitolo-8-governare-la-trasformazione-digitale/contesto-normativo-e-strategico-6.rst
-  capitolo-8-governare-la-trasformazione-digitale/obiettivi-e-risultati-attesi-5.rst
+  capitolo-8-governare-la-trasformazione-digitale/contesto-normativo-e-strategico-7.rst
+  capitolo-8-governare-la-trasformazione-digitale/obiettivi-e-risultati-attesi-7.rst
   capitolo-8-governare-la-trasformazione-digitale/cosa-devono-fare-agid-dipartimento-per-la-trasformazione-digitale-e-altri-soggetti-istituzionali-2.rst
   capitolo-8-governare-la-trasformazione-digitale/cosa-devono-fare-le-pa-7.rst
   capitolo-8-governare-la-trasformazione-digitale/la-governance-della-trasformazione-digitale-nella-strategia-per-linnovazione-tecnologica-e-la-digitalizzazione-del-paese-2025.rst

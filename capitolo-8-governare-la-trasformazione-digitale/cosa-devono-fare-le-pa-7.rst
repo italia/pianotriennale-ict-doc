@@ -1,7 +1,5 @@
-.. _cosa-devono-fare-le-pa-7:
-
 Cosa devono fare le PA
-=============================
+======================
 
 **OB.8.1 - Rafforzare le leve per l’innovazione delle PA e dei
 territori**

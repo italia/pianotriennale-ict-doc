@@ -1,5 +1,3 @@
-.. _obiettivi-e-risultati-attesi-5:
-
 Obiettivi e risultati attesi
 ============================
 

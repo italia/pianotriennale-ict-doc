@@ -67,7 +67,7 @@ Il Piano prosegue inoltre nel percorso di evoluzione delle piattaforme
 esistenti (es. SPID, pagoPA, ANPR, CIE, FSE, NoiPA ecc.) e individua una
 serie di azioni volte a promuovere i processi di adozione, ad aggiungere
 nuove funzionalità e ad adeguare costantemente la tecnologia utilizzata
-e i livelli di sicurezza.     
+e i livelli di sicurezza. 
 
 Le linee di azione definite nella precedente edizione del Piano
 triennale restano valide fino al loro compimento; con la presente

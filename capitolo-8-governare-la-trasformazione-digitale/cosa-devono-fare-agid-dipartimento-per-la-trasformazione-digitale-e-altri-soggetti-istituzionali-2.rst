@@ -1,5 +1,3 @@
-.. _cosa-devono-fare-agid-dipartimento-per-la-trasformazione-digitale-e-altri-soggetti-istituzionali-2:
-
 Cosa devono fare AGID, Dipartimento per la Trasformazione Digitale e altri soggetti istituzionali 
 ==================================================================================================
 
@@ -202,7 +200,7 @@ Le seguenti linee d’azione devono concludersi entro:
 **OB.8.2 - Rafforzare le competenze digitali per la PA e per il Paese e
 favorire l’inclusione digitale**
 
-Le seguenti linee d’azione devono concludersi entro:\ ** **
+Le seguenti linee d’azione devono concludersi entro:
 
 -  **Settembre 2020** - Pubblicazione di un catalogo di moduli formativi
    erogati in modalità *e-learning* per le 5 aree di competenze di base

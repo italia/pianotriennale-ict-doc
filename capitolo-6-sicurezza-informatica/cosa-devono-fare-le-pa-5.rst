@@ -1,5 +1,3 @@
-.. _cosa-devono-fare-le-pa-5:
-
 Cosa devono fare le PA 
 =======================
 
