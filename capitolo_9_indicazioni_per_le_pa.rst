@@ -14,38 +14,25 @@ occasione della terza edizione del Piano, grazie al progressivo processo
 di condivisione e affinamento, con le amministrazioni, del linguaggio,
 delle finalità e dei riferimenti progettuali.
 
-+-----------------------------------+-----------------------------------+
-| |La figura 2 mette a confronto il | |image2|                          |
-| Modello strategico di evoluzione  |                                   |
-| del sistema informativo della PA  |                                   |
-| nel Piano 2019-2021 e la          |                                   |
-| rappresentazione semplificata     |                                   |
-| contenuta nel Piano 2020-2022. In |                                   |
-| particolare, nella parte sinistra |                                   |
-| della figura è rappresentato il   |                                   |
-| modello strategico del Piano      |                                   |
-| triennale 2019-2021 costituito da |                                   |
-| 6 livelli orizzontali (accesso ai |                                   |
-| servizi, ecosistemi, piattaforme, |                                   |
-| dati della PA, modello di         |                                   |
-| interoperabilità e                |                                   |
-| infrastrutture) e 2 livelli       |                                   |
-| verticali (sicurezza informatica  |                                   |
-| e piattaforma nazionale digitale  |                                   |
-| dati). Nella parte destra della   |                                   |
-| figura è inserita la              |                                   |
-| rappresentazione semplificata del |                                   |
-| Modello strategico costituito da  |                                   |
-| quattro livelli orizzontali       |                                   |
-| (servizi, dati, piattaforme e     |                                   |
-| infrastrutture) e due livelli     |                                   |
-| verticali (sicurezza e            |                                   |
-| interoperabilità).|               |                                   |
-+-----------------------------------+-----------------------------------+
+.. figure:: ./media/modello_strategico_evoluzione.jpg
+   :name: modello-strategico-evoluzione
+   :alt: La figura mette a confronto il Modello strategico di evoluzione
+         del sistema informativo della PA nel Piano 2019-2021 e la
+         rappresentazione semplificata contenuta nel Piano 2020-2022. In
+         particolare, nella parte sinistra della figura è rappresentato il
+         modello strategico del Piano triennale 2019-2021 costituito da 6
+         livelli orizzontali (accesso ai servizi, ecosistemi, piattaforme,
+         dati della PA, modello di interoperabilità e infrastrutture) e 2
+         livelli verticali (sicurezza informatica e piattaforma nazionale
+         digitale dati). Nella parte destra della figura è inserita la
+         rappresentazione semplificata del Modello strategico costituito da
+         quattro livelli orizzontali (servizi, dati, piattaforme e
+         infrastrutture) e due livelli verticali (sicurezza e
+         interoperabilità).
 
-Figura 2 - Modello strategico di evoluzione del sistema informativo
-della PA nel Piano 2019-2021 e rappresentazione semplificata nel Piano
-2020-2022
+   Modello strategico di evoluzione del sistema informativo
+   della PA nel Piano 2019-2021 e rappresentazione semplificata nel Piano
+   2020-2022
 
 Inoltre a completamento di quanto dettagliato nei singoli capitoli, dal
 confronto tra le due rappresentazioni, è opportuno sottolineare come la
@@ -163,96 +150,67 @@ Province Autonome e PAL, sono così strutturate:
 
 **Le azioni 2020 per tutte le Pubbliche Amministrazioni**
 
-|image3|\ |image4|\ [CHART]
+.. figure:: ./media/figura_3.png
+   :name: azioni-2020
+   :alt: La figura mostra in un grafico le azioni 2020 per tutte le
+         Pubbliche Amministrazioni
 
-Figura 3 - Le azioni 2020 per tutte le Pubbliche Amministrazioni
+   Le azioni 2020 per tutte le Pubbliche Amministrazioni
 
 **Le azioni 2021 per tutte le Pubbliche Amministrazioni (1/2)**
 
-|image5|\ |image6|\ [CHART]
+.. figure:: ./media/figura_4.png
+   :name: azioni-2021-1
+   :alt: La figura mostra in un grafico le azioni 2021 per tutte le
+         Pubbliche Amministrazioni
 
-Figura 4 - Le azioni 2021 per tutte le Pubbliche Amministrazioni (1/2)
+   Le azioni 2021 per tutte le Pubbliche Amministrazioni (1/2)
 
 **Le azioni 2021 per tutte le Pubbliche Amministrazioni (2/2)**
 
-|image7|\ |image8|\ [CHART]
+.. figure:: ./media/figura_5.png
+   :name: azioni-2021-2
+   :alt: La figura mostra in un grafico le azioni 2021 per tutte le
+         Pubbliche Amministrazioni
 
-Figura 5 - Le azioni 2021 per tutte le Pubbliche Amministrazioni (2/2)
+   Le azioni 2021 per tutte le Pubbliche Amministrazioni (2/2)
 
 **Le azioni 2022 per tutte le Pubbliche Amministrazioni**
 
-|image9|\ |image10|\ [CHART]
+.. figure:: ./media/figura_6.png
+   :name: azioni-2022
+   :alt: La figura mostra in un grafico le azioni 2022 per tutte le
+         Pubbliche Amministrazioni
+
+   Le azioni 2022 per tutte le Pubbliche Amministrazioni
 
 Figura 6 - Le azioni 2022 per tutte le Pubbliche Amministrazioni
 
 **Le azioni 2020-2022 per le Pubbliche Amministrazioni Centrali (PAC)**
 
-|image11|\ |image12|\ [CHART]
+.. figure:: ./media/figura_7.png
+   :name: azioni-2020-2022-pac
+   :alt: La figura mostra in un grafico le azioni 2020-2022 per le
+         Pubbliche Amministrazioni Centrali (PAC)
 
-Figura 7 - Le azioni 2020-2022 per le Pubbliche Amministrazioni Centrali
-(PAC)
+   Le azioni 2020-2022 per le Pubbliche Amministrazioni Centrali
+   (PAC)
 
 **Le azioni 2020-2022 per le Regioni e le Province Autonome**
 
-|image13|\ |image14|\ [CHART]
+.. figure:: ./media/figura_8.png
+   :name: azioni-2020-2022-regioni-province-autonome
+   :alt: La figura mostra in un grafico le azioni 2020-2022 per le
+         Regioni e le Province Autonome
 
-Figura 8 - Le azioni 2020-2022 per le Regioni e le Province Autonome
+   Le azioni 2020-2022 per le Regioni e le Province Autonome
 
 **Le azioni 2020-2022 per le Pubbliche Amministrazioni Locali (PAL)**
 
-|image15|\ |image16|\ [CHART]
+.. figure:: ./media/figura_9.png
+   :name: azioni-2020-2022-pal
+   :alt: La figura mostra in un grafico le azioni 2020-2022 per le
+         Pubbliche Amministrazioni Locali (PAL)
 
-Figura 9 - Le azioni 2020-2022 per le Pubbliche Amministrazioni Locali
-(PAL)
-
-.. |La figura 2 mette a confronto il Modello strategico di evoluzione del sistema informativo della PA nel Piano 2019-2021 e la rappresentazione semplificata contenuta nel Piano 2020-2022. In particolare, nella parte sinistra della figura è rappresentato il modello strategico del Piano triennale 2019-2021 costituito da 6 livelli orizzontali (accesso ai servizi, ecosistemi, piattaforme, dati della PA, modello di interoperabilità e infrastrutture) e 2 livelli verticali (sicurezza informatica e piattaforma nazionale digitale dati). Nella parte destra della figura è inserita la rappresentazione semplificata del Modello strategico costituito da quattro livelli orizzontali (servizi, dati, piattaforme e infrastrutture) e due livelli verticali (sicurezza e interoperabilità).| image:: ./media/image4.jpeg
-   :width: 2.20472in
-   :height: 2.7364in
-.. |image1| image:: ./media/image5.jpeg
-   :width: 2.20413in
-   :height: 2.73497in
-.. |image2| image:: ./media/image5.jpeg
-   :width: 2.20413in
-   :height: 2.73497in
-.. |image3| image:: ./media/image6.png
-   :width: 3.30486in
-   :height: 0.80486in
-.. |image4| image:: ./media/image7.png
-   :width: 1.49375in
-   :height: 0.55764in
-.. |image5| image:: ./media/image7.png
-   :width: 1.49375in
-   :height: 0.55764in
-.. |image6| image:: ./media/image6.png
-   :width: 3.30486in
-   :height: 0.80486in
-.. |image7| image:: ./media/image6.png
-   :width: 3.30486in
-   :height: 0.80486in
-.. |image8| image:: ./media/image7.png
-   :width: 1.49375in
-   :height: 0.55764in
-.. |image9| image:: ./media/image6.png
-   :width: 3.30486in
-   :height: 0.80486in
-.. |image10| image:: ./media/image7.png
-   :width: 1.49426in
-   :height: 0.55811in
-.. |image11| image:: ./media/image7.png
-   :width: 1.49375in
-   :height: 0.55764in
-.. |image12| image:: ./media/image6.png
-   :width: 3.30486in
-   :height: 0.80486in
-.. |image13| image:: ./media/image7.png
-   :width: 1.49375in
-   :height: 0.55764in
-.. |image14| image:: ./media/image6.png
-   :width: 3.30486in
-   :height: 0.80486in
-.. |image15| image:: ./media/image7.png
-   :width: 1.49375in
-   :height: 0.55764in
-.. |image16| image:: ./media/image6.png
-   :width: 3.30486in
-   :height: 0.80486in
+   Le azioni 2020-2022 per le Pubbliche Amministrazioni Locali
+   (PAL)
