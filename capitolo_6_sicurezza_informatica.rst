@@ -24,7 +24,7 @@ potenziali minacce informatiche. 
 Considerando quindi che il punto di accesso ai servizi digitali è
 rappresentato dai portali istituzionali delle pubbliche amministrazioni,
 al fine di realizzare un livello omogeneo di sicurezza, il capitolo
-definisce alcune azioni concrete in tale ambito. 
+definisce alcune azioni concrete in tale ambito.
 
 Infine, il capitolo si prefigge di supportare gli altri capitoli del
 piano sulle tematiche trasversali di sicurezza informatica, attraverso
@@ -34,8 +34,8 @@ l’emanazione di linee guida e guide tecniche.
   :maxdepth: 3
   :caption: Indice dei contenuti
 
-  capitolo-6.-sicurezza-informatica/contesto-normativo-e-strategico-5.rst
-  capitolo-6.-sicurezza-informatica/obiettivi-e-risultati-attesi-4.rst
-  capitolo-6.-sicurezza-informatica/cosa-devono-fare-agid-e-dipartimento-per-la-trasformazione-digitale.rst
-  capitolo-6.-sicurezza-informatica/cosa-devono-fare-le-pa-5.rst
-  capitolo-6.-sicurezza-informatica/la-sicurezza-informatica-nella-strategia-per-linnovazione-tecnologica-e-la-digitalizzazione-del-paese-2025.rst
+  capitolo-6-sicurezza-informatica/contesto-normativo-e-strategico-5.rst
+  capitolo-6-sicurezza-informatica/obiettivi-e-risultati-attesi-4.rst
+  capitolo-6-sicurezza-informatica/cosa-devono-fare-agid-e-dipartimento-per-la-trasformazione-digitale.rst
+  capitolo-6-sicurezza-informatica/cosa-devono-fare-le-pa-5.rst
+  capitolo-6-sicurezza-informatica/la-sicurezza-informatica-nella-strategia-per-linnovazione-tecnologica-e-la-digitalizzazione-del-paese-2025.rst

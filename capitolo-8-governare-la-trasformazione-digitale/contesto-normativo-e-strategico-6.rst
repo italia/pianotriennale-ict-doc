@@ -139,8 +139,8 @@ Riferimenti normativi europei:
 
 .. _gli-strumenti-per-migliorare-i-processi-di-trasformazione-digitale-e-di-innovazione-della-pa-1:
 
-Gli strumenti per migliorare i processi di trasformazione digitale e di innovazione della PA\ ** **
----------------------------------------------------------------------------------------------------
+Gli strumenti per migliorare i processi di trasformazione digitale e di innovazione della PA
+--------------------------------------------------------------------------------------------
 
 **Il monitoraggio del Piano triennale**
 

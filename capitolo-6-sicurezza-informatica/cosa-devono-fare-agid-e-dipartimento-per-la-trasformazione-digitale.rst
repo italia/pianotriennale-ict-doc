@@ -4,7 +4,7 @@ Cosa devono fare AGID e Dipartimento per la Trasformazione Digitale
 **OB.6.1 - Aumentare la consapevolezza del rischio cyber (Cyber Security
 Awareness) nelle PA**
 
-Le seguenti linee d’azione devono concludersi entro:\ ** **
+Le seguenti linee d’azione devono concludersi entro:
 
 -  **Ottobre 2020 -** Emanazione di un documento tecnico su *cipher
    suite* e protocolli TLS minimi - (AGID e Dipartimento per la
@@ -41,7 +41,7 @@ Le seguenti linee d’azione devono concludersi entro:\ ** **
 **OB.6.2 - Aumentare il livello di sicurezza informatica dei portali
 istituzionali della Pubblica Amministrazione**
 
-Le seguenti linee d’azione devono concludersi entro:\ ** **
+Le seguenti linee d’azione devono concludersi entro:
 
 -  **Dicembre 2020** - Rilascio della nuova versione della piattaforma
    Infosec 2.0 **-** (AGID) - **CAP6.LA08**

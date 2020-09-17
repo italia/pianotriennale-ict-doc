@@ -83,8 +83,8 @@ e la gestione.
   :maxdepth: 3
   :caption: Indice dei contenuti
 
-  capitolo-3.-piattaforme/contesto-normativo-e-strategico-2.rst
-  capitolo-3.-piattaforme/obiettivi-e-risultati-attesi-2.rst
-  capitolo-3.-piattaforme/cosa-devono-fare-agid-dipartimento-per-la-trasformazione-digitale-e-altri-soggetti-istituzionali.rst
-  capitolo-3.-piattaforme/cosa-devono-fare-le-pa-2.rst
-  capitolo-3.-piattaforme/le-piattaforme-nella-strategia-per-linnovazione-tecnologica-e-la-digitalizzazione-del-paese-2025.rst
+  capitolo-3-piattaforme/contesto-normativo-e-strategico-2.rst
+  capitolo-3-piattaforme/obiettivi-e-risultati-attesi-2.rst
+  capitolo-3-piattaforme/cosa-devono-fare-agid-dipartimento-per-la-trasformazione-digitale-e-altri-soggetti-istituzionali.rst
+  capitolo-3-piattaforme/cosa-devono-fare-le-pa-2.rst
+  capitolo-3-piattaforme/le-piattaforme-nella-strategia-per-linnovazione-tecnologica-e-la-digitalizzazione-del-paese-2025.rst

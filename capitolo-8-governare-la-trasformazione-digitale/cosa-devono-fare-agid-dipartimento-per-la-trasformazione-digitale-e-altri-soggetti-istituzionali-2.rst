@@ -201,7 +201,7 @@ Le seguenti linee d’azione devono concludersi entro:
 **OB.8.2 - Rafforzare le competenze digitali per la PA e per il Paese e
 favorire l’inclusione digitale**
 
-Le seguenti linee d’azione devono concludersi entro:\ ** **
+Le seguenti linee d’azione devono concludersi entro:
 
 -  
 -  **Settembre 2020** - Pubblicazione di un catalogo di moduli formativi

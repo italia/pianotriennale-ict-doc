@@ -134,7 +134,7 @@ I capitoli hanno la seguente struttura: 
    dei soggetti istituzionali sopra indicati o in continuità con quanto
    previsto dal precedente PT;
 
--  i **riferimenti** **alla Strategia per l’innovazione tecnologica e la
+-  i **riferimenti alla Strategia per l’innovazione tecnologica e la
    digitalizzazione del Paese 2025** riassumono brevemente quali siano i
    collegamenti del Piano Triennale 2020-22 alla Strategia per
    l’innovazione tecnologica e la digitalizzazione del Paese 2025

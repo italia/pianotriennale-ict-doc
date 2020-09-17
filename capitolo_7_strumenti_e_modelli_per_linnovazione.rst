@@ -186,7 +186,7 @@ devono attenersi. Di seguito un elenco delle principali fonti:
   :maxdepth: 3
   :caption: Indice dei contenuti
 
-  capitolo-7.-strumenti-e-modelli-per-linnovazione/obiettivi.rst
-  capitolo-7.-strumenti-e-modelli-per-linnovazione/cosa-devono-fare-agid-dipartimento-per-la-trasformazione-digitale-e-altri-soggetti-istituzionali-1.rst
-  capitolo-7.-strumenti-e-modelli-per-linnovazione/cosa-devono-fare-le-pa-6.rst
-  capitolo-7.-strumenti-e-modelli-per-linnovazione/linnovazione-per-una-smarter-nation-nella-strategia-per-linnovazione-tecnologica-e-la-digitalizzazione-del-paese-2025.rst
+  capitolo-7-strumenti-e-modelli-per-linnovazione/obiettivi.rst
+  capitolo-7-strumenti-e-modelli-per-linnovazione/cosa-devono-fare-agid-dipartimento-per-la-trasformazione-digitale-e-altri-soggetti-istituzionali-1.rst
+  capitolo-7-strumenti-e-modelli-per-linnovazione/cosa-devono-fare-le-pa-6.rst
+  capitolo-7-strumenti-e-modelli-per-linnovazione/linnovazione-per-una-smarter-nation-nella-strategia-per-linnovazione-tecnologica-e-la-digitalizzazione-del-paese-2025.rst

@@ -115,7 +115,7 @@ sicurezza.
   :maxdepth: 3
   :caption: Indice dei contenuti
 
-  capitolo-4.-infrastrutture/contesto-normativo-e-strategico-3.rst
-  capitolo-4.-infrastrutture/cosa-devono-fare-agid-dipartimento-per-la-trasformazione-digitale-e-consip-1.rst
-  capitolo-4.-infrastrutture/cosa-devono-fare-le-pa-3.rst
-  capitolo-4.-infrastrutture/le-infrastrutture-nella-strategia-per-linnovazione-tecnologica-e-la-digitalizzazione-del-paese-2025.rst
+  capitolo-4-infrastrutture/contesto-normativo-e-strategico-3.rst
+  capitolo-4-infrastrutture/cosa-devono-fare-agid-dipartimento-per-la-trasformazione-digitale-e-consip-1.rst
+  capitolo-4-infrastrutture/cosa-devono-fare-le-pa-3.rst
+  capitolo-4-infrastrutture/le-infrastrutture-nella-strategia-per-linnovazione-tecnologica-e-la-digitalizzazione-del-paese-2025.rst

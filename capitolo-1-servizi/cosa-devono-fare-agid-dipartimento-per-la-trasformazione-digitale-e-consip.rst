@@ -71,7 +71,7 @@ Le seguenti linee d’azione devono concludersi entro: 
 
 **OB.1.2 - Migliorare l’esperienza d’uso e l’accessibilità dei servizi**
 
-Le seguenti linee d’azione devono concludersi entro:\ ** **
+Le seguenti linee d’azione devono concludersi entro:
 
 -  **Settembre 2020** - Pubblicazione dell’analisi degli obiettivi di
    accessibilità comunicati dalle PA - (AGID) - **CAP1.LA15**

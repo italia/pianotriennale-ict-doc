@@ -97,8 +97,8 @@ disponibile anche attraverso il sistema di pagamento pagoPA.
   :maxdepth: 3
   :caption: Indice dei contenuti
 
-  capitolo-1.-servizi/contesto-normativo-e-strategico.rst
-  capitolo-1.-servizi/obiettivi-e-risultati-attesi.rst
-  capitolo-1.-servizi/cosa-devono-fare-agid-dipartimento-per-la-trasformazione-digitale-e-consip.rst
-  capitolo-1.-servizi/cosa-devono-fare-le-pa.rst
-  capitolo-1.-servizi/i-servizi-pubblici-digitali-nella-strategia-per-linnovazione-tecnologica-e-la-digitalizzazione-del-paese-2025.rst
+  capitolo-1-servizi/contesto-normativo-e-strategico.rst
+  capitolo-1-servizi/obiettivi-e-risultati-attesi.rst
+  capitolo-1-servizi/cosa-devono-fare-agid-dipartimento-per-la-trasformazione-digitale-e-consip.rst
+  capitolo-1-servizi/cosa-devono-fare-le-pa.rst
+  capitolo-1-servizi/i-servizi-pubblici-digitali-nella-strategia-per-linnovazione-tecnologica-e-la-digitalizzazione-del-paese-2025.rst

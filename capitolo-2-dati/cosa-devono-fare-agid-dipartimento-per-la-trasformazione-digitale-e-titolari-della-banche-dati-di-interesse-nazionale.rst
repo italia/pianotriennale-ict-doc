@@ -2,9 +2,9 @@ Cosa devono fare AGID, Dipartimento per la Trasformazione Digitale e titolari de
 ========================================================================================================================
 
 **OB.2.1 - Favorire la condivisione e il riutilizzo dei dati tra le PA e
-il riutilizzo da parte di cittadini e imprese  **
+il riutilizzo da parte di cittadini e imprese**
 
-Le seguenti linee d’azione devono concludersi entro:\ ** **
+Le seguenti linee d’azione devono concludersi entro:
 
 -  **Dicembre 2020** - Identificazione della *baseline* delle basi di
    dati di interesse nazionale - (AGID e Dipartimento per la
@@ -32,7 +32,7 @@ Le seguenti linee d’azione devono concludersi entro:\ ** **
 
 **OB.2.2 - Aumentare la qualità dei dati e dei metadati**
 
-Le seguenti linee d’azione devono concludersi entro:\ ** **
+Le seguenti linee d’azione devono concludersi entro:
 
 -  **Dicembre 2020** - Aggiornamento degli standard di riferimento dei
    cataloghi nazionali - (AGID e Dipartimento per la Trasformazione
@@ -54,7 +54,7 @@ Le seguenti linee d’azione devono concludersi entro:\ ** **
 **OB.2.3 - Aumentare la consapevolezza sulle politiche di valorizzazione
 del patrimonio informativo pubblico e su una moderna economia dei dati**
 
-Le seguenti linee d’azione devono concludersi entro:\ ** **
+Le seguenti linee d’azione devono concludersi entro:
 
 -  **Dicembre 2020** - Costituzione di un gruppo di lavoro
    multidisciplinare (in ambito PA, accademico, della ricerca e privato)

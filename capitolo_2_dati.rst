@@ -33,8 +33,8 @@ finalità commerciali e non, secondo il paradigma degli *open data*.
   :maxdepth: 3
   :caption: Indice dei contenuti
 
-  capitolo-2.-dati/contesto-normativo-e-strategico-1.rst
-  capitolo-2.-dati/obiettivi-e-risultati-attesi-1.rst
-  capitolo-2.-dati/cosa-devono-fare-agid-dipartimento-per-la-trasformazione-digitale-e-titolari-della-banche-dati-di-interesse-nazionale.rst
-  capitolo-2.-dati/cosa-devono-fare-le-pa-1.rst
-  capitolo-2.-dati/la-valorizzazione-del-patrimonio-informativo-pubblico-nella-strategia-per-linnovazione-tecnologica-e-la-digitalizzazione-del-paese-2025.rst
+  capitolo-2-dati/contesto-normativo-e-strategico-1.rst
+  capitolo-2-dati/obiettivi-e-risultati-attesi-1.rst
+  capitolo-2-dati/cosa-devono-fare-agid-dipartimento-per-la-trasformazione-digitale-e-titolari-della-banche-dati-di-interesse-nazionale.rst
+  capitolo-2-dati/cosa-devono-fare-le-pa-1.rst
+  capitolo-2-dati/la-valorizzazione-del-patrimonio-informativo-pubblico-nella-strategia-per-linnovazione-tecnologica-e-la-digitalizzazione-del-paese-2025.rst
