@@ -8,7 +8,7 @@ della Pubblica Amministrazione italiana. Tale trasformazione deve
 avvenire nel contesto del mercato unico europeo di beni e servizi
 digitali, secondo una strategia che in tutta la UE si propone di
 migliorare l'accesso *online* ai beni e servizi per i consumatori e le
-imprese, e creare le condizioni favorevoli affinché le reti e i servizi
+imprese e creare le condizioni favorevoli affinché le reti e i servizi
 digitali possano svilupparsi per massimizzare il potenziale di crescita
 dell'economia digitale europea. 
 
@@ -72,7 +72,14 @@ verticali di servizi, dati, piattaforme ed infrastrutture. 
 
 .. figure:: ./media/modello_strategico.jpg
    :name: modello-strategico
-   :alt: Questa immagine descrive il modello strategico di evoluzione del sistema informativo della Pubblica Amministrazione
+   :alt: La figura 1 contiene la rappresentazione semplificata del Modello
+         strategico di evoluzione del sistema informativo della Pubblica
+         Amministrazione previsto dal Piano triennale 2020 - 2022. Nel dettaglio,
+         l’immagine si compone di: • quattro livelli orizzontali che, dall’altro
+         verso il basso, sono denominati servizi, dati, piattaforme e
+         infrastrutture. • due livelli verticali che sono sicurezza e
+         interoperabilità posti rispettivamente alla sinistra e alla destra dei
+         livelli orizzontali.
 
    Modello strategico di evoluzione del sistema informativo della Pubblica Amministrazione
 

@@ -97,7 +97,7 @@ Dipartimento per le Politiche europee
 
 Dipartimento per le Politiche giovanili e il servizio civile universale
 
-Formez
+Formez PA
 
 INAIL
 
@@ -178,5 +178,9 @@ Regione Valle d'Aosta
 Regione Veneto
 
 Scuola Nazionale dell’Amministrazione
+
+UNCEM
+
+Unioncamere
 
 Unione delle Province d’Italia

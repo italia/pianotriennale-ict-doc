@@ -11,6 +11,6 @@ Strategia
    persone, delle comunità e dei territori, nel rispetto della
    sostenibilità ambientale.
 
--  Contribuire alla diffusione delle tecnologie digitali nel tessuto
-   produttivo italiano, incentivando la ricerca, l’innovazione e la
-   sperimentazione nell’ambito dei servizi pubblici.
+-  Contribuire alla diffusione delle nuove tecnologie digitali nel
+   tessuto produttivo italiano, incentivando la standardizzazione,
+   l’innovazione e la sperimentazione nell’ambito dei servizi pubblici.

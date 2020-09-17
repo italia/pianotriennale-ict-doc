@@ -1,16 +1,16 @@
 Principi guida 
 ===============
 
--  **digital & mobile first:** (digitale e mobile come prima opzione):
-   le pubbliche amministrazioni devono realizzare servizi primariamente
+-  **digital & mobile first** (digitale e mobile come prima opzione): le
+   pubbliche amministrazioni devono realizzare servizi primariamente
    digitali;
 
--  **digital identity only:** (accesso esclusivo mediante identità
+-  **digital identity only** (accesso esclusivo mediante identità
    digitale): le PA devono adottare in via esclusiva sistemi di identità
    digitale definiti dalla normativa assicurando almeno l’accesso
    tramite SPID;
 
--  **cloud first:** (*cloud* come prima opzione): le pubbliche
+-  **cloud first** (*cloud* come prima opzione): le pubbliche
    amministrazioni, in fase di definizione di un nuovo progetto e di
    sviluppo di nuovi servizi, adottano primariamente il paradigma
    *cloud*, tenendo conto della necessità di prevenire il rischio di
@@ -42,7 +42,7 @@ Principi guida
 -  **once only**: le pubbliche amministrazioni devono evitare di
    chiedere ai cittadini e alle imprese informazioni già fornite;
 
--  concepito come **transfrontaliero:** (transfrontaliero by design): le
+-  **transfrontaliero by design** (concepito come transfrontaliero): le
    pubbliche amministrazioni devono rendere disponibili a livello
    transfrontaliero i servizi pubblici digitali rilevanti;
 
