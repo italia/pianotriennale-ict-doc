@@ -11,7 +11,7 @@ migrazione sul territorio
       censiti da AGID per 33.948 CPU, 1.993 TB RAM, 107 PB Storage.
 
    -  Target 2021 - riduzione del 5% di RAM, CPU e Storage rispetto alla
-      *baseline.*
+      *baseline*.
 
    -  Target 2022 - riduzione del 20% di RAM, CPU e Storage rispetto
       alla *baseline*.
@@ -43,7 +43,7 @@ imprese tramite il potenziamento della connettività per le PA
       servizi di connettività nell’ultimo trimestre 2020.
 
    -  Target 2021 - Incremento di 150 PAL aderenti all’offerta MEPA per i
-      servizi di connettività rispetto alla *baseline.*
+      servizi di connettività rispetto alla *baseline*.
 
    -  Target 2022 - Incremento di 250 PAL aderenti all’offerta MEPA per i
       servizi di connettività rispetto alla *baseline*.
