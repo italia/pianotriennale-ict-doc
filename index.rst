@@ -1,6 +1,12 @@
 Piano Triennale per l'informatica nella Pubblica Amministrazione 2020 - 2022
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+Il Piano Triennale per l’informatica nella Pubblica Amministrazione è
+frutto della stretta collaborazione tra l’Agenzia per l’Italia Digitale
+e il Dipartimento per la Trasformazione Digitale.
+
+Roma, Luglio 2020
+
 .. toctree::
     :maxdepth: 3
     :hidden:

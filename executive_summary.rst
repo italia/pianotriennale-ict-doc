@@ -1,5 +1,5 @@
-*Executive Summary*
-===================
+Executive Summary
+=================
 
 Il Piano Triennale per l’informatica della Pubblica Amministrazione (di
 seguito Piano Triennale o Piano) è uno strumento essenziale per
