@@ -56,7 +56,7 @@ digitale**
    *baseline*.
 
 -  R.A.8.1d - **Incremento del livello di trasformazione digitale
-   mediante l’utilizzo dei servizi previsti dalle Gare strategiche**.
+   mediante l’utilizzo dei servizi previsti dalle Gare strategiche**
 
    -  Target 2020 - n.d.
 
@@ -141,7 +141,7 @@ favorire l’inclusione digitale
       (in coerenza con l’indice DESI) relativi alle competenze digitali
       dei cittadini (ad es. cittadini con competenze digitali di base,
       cittadini che utilizzano i servizi pubblici digitali, ..) e
-      costruzione della baseline
+      costruzione della baseline.
 
    -  Target 2021:
 
