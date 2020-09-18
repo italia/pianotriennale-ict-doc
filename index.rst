@@ -27,7 +27,7 @@ Roma, Luglio 2020
     appendici/appendice_1_acronimi.rst
 
 
-PARTE Iª - Il Piano Triennale
+PARTE I - Il Piano Triennale
 :::::::::::::::::::::::::::::
 
 
@@ -39,7 +39,7 @@ PARTE Iª - Il Piano Triennale
     principi_guida.rst
 
 
-PARTE IIª - Le Componenti Tecnologiche
+PARTE II - Le Componenti Tecnologiche
 ::::::::::::::::::::::::::::::::::::::
 
 
@@ -55,7 +55,7 @@ PARTE IIª - Le Componenti Tecnologiche
   
 
    
-PARTE IIIª - La governance
+PARTE III - La governance
 ::::::::::::::::::::::::::
 
 
