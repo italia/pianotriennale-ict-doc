@@ -56,7 +56,7 @@ digitale**
    *baseline*.
 
 -  R.A.8.1d - **Incremento del livello di trasformazione digitale
-   mediante l’utilizzo dei servizi previsti dalle Gare strategiche**
+   mediante l’utilizzo dei servizi previsti dalle Gare strategiche**.
 
    -  Target 2020 - n.d.
 

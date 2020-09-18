@@ -68,7 +68,7 @@ fondamentale per:
    innovazione e scalabilità.
 
 Un esempio concreto è rappresentato dal programma `Smarter
-Italy <https://appaltinnovativi.gov.it/smarter-italy>`__ , avviato dal
+Italy <https://appaltinnovativi.gov.it/smarter-italy>`__, avviato dal
 Ministero dello Sviluppo Economico, in collaborazione con AGID, MID e
 MUR, che intende sperimentare nuove soluzioni tecnologiche, accanto a
 meccanismi di *open* innovazione e appalto innovativo (*smart

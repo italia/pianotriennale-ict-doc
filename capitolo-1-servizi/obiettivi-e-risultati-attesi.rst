@@ -84,13 +84,13 @@ OB.1.2 - Migliorare l’esperienza d’uso e l’accessibilità dei servizi
 -  R.A.1.2b - **Diffusione dei test di usabilità previsti dalle** `Linee Guida AGID per il design dei servizi <https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/>`__ **nelle amministrazioni per agevolare il feedback e le valutazioni da parte degli utenti**
 
    -  Target 2020 - *Baseline*: numero di report ricevuti da AGID sui
-      test di usabilità effettuati dalle PA
+      test di usabilità effettuati dalle PA.
 
    -  Target 2021 - Incremento del 5% del numero di report ricevuti
-      rispetto alla *baseline*
+      rispetto alla *baseline*.
 
    -  Target 2022 - Incremento del 10% del numero di report ricevuti
-      rispetto alla *baseline*
+      rispetto alla *baseline*.
 
 -  R.A.1.2c - **Incremento del livello di accessibilità dei servizi digitali della PA secondo le** `Linee guida sull'accessibilità degli
    strumenti informatici  <https://docs.italia.it/AgID/documenti-in-consultazione/lg-accessibilita-docs/it/stabile/index.html>`__

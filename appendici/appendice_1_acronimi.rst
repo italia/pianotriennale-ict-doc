@@ -132,7 +132,7 @@ APPENDICE 1. Acronimi
 +-----------------------------------+-----------------------------------+
 | D.L.                              | Decreto legge                     |
 +-----------------------------------+-----------------------------------+
-| D. Lgs                            | Decreto legislativo               |
+| D.Lgs.                            | Decreto legislativo               |
 +-----------------------------------+-----------------------------------+
 | DPCM                              | Decreto della Presidente del      |
 |                                   | Consiglio dei Ministri            |

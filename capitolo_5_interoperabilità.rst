@@ -4,7 +4,7 @@ CAPITOLO 5. Interoperabilità
 L’interoperabilità permette la collaborazione e l'interazione telematica
 tra pubbliche amministrazioni, cittadini e imprese, favorendo
 l’attuazione del principio *once only* e recependo le indicazioni
-dell'\ `European Interoperability
+dell’\ `European Interoperability
 Framework <https://joinup.ec.europa.eu/collection/nifo-national-interoperability-framework-observatory/eif-european-interoperability-framework-0>`__. 
 
 La Linea guida sul Modello di Interoperabilità per la PA (di seguito

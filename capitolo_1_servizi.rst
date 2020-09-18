@@ -73,8 +73,8 @@ nazionale *open source* che offre rilevazioni statistiche su indicatori
 utili al miglioramento continuo dell’esperienza utente.
 
 Anche il quadro normativo nazionale ed europeo pone importanti obiettivi
-finalizzati a incrementare la centralità de\ *ll’utente,
-l'in*\ tegrazione dei principali servizi europei e la loro reperibilità.
+finalizzati a incrementare la centralità dell’utente,
+l'integrazione dei principali servizi europei e la loro reperibilità.
 Ad esempio il Regolamento europeo sul *Single Digital Gateway* intende
 costruire uno sportello unico digitale a livello europeo che consenta a
 cittadini e imprese di esercitare più facilmente i propri diritti e fare
@@ -86,7 +86,7 @@ utenti i soli dati non conosciuti dalle Pubbliche Amministrazioni e, per
 questi, assicurandone la validità ed efficacia probatoria nei modi
 previsti dalla norma, anche attraverso l’accesso ai dati certificati da
 altre Pubbliche Amministrazioni nei modi previsti dal Modello di
-Interoperabilità per la PA indicato nel capitolo 5
+Interoperabilità per la PA indicato nel capitolo 5.
 
 Nel caso il servizio richieda un accesso da parte del cittadino è
 necessario che sia consentito attraverso un sistema di autenticazione
