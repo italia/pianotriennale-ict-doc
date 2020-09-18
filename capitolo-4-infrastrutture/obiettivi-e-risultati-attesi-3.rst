@@ -36,7 +36,7 @@ migrazione su infrastrutture sicure ed affidabili
 OB.4.3 - Migliorare la fruizione dei servizi digitali per cittadini ed
 imprese tramite il potenziamento della connettività per le PA
 
-   -  R.A.4.3a - **Disponibilità di servizi di connettività Internet a
+-  R.A.4.3a - **Disponibilità di servizi di connettività Internet a
       banda larga e ultralarga per le PA locali**
 
    -  Target 2020 - *Baseline*: 50 PAL aderenti all’offerta MEPA per i
