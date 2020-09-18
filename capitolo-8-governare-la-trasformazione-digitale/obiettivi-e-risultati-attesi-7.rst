@@ -141,7 +141,7 @@ favorire l’inclusione digitale
       (in coerenza con l’indice DESI) relativi alle competenze digitali
       dei cittadini (ad es. cittadini con competenze digitali di base,
       cittadini che utilizzano i servizi pubblici digitali, ..) e
-      costruzione della baseline
+      costruzione della baseline.
 
    -  Target 2021:
 

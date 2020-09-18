@@ -9,7 +9,7 @@ particolare:
 -  della “Prima Sfida: una società digitale” con particolare riferimento
    all’obiettivo 3 della stessa;
 
--  della “Seconda sfida: un paese innovativo”
+-  della “Seconda sfida: un paese innovativo”.
 
 Più nel dettaglio Il patrimonio informativo pubblico e l’utilizzo e
 condivisione dei dati da parte delle amministrazioni e dei privati è

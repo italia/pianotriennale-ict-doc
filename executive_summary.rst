@@ -15,7 +15,7 @@ dell'economia digitale europea. 
 Per tale motivo, come già indicato dettagliatamente nelle edizioni
 precedenti, gli obiettivi del Piano triennale sono basati sulle
 indicazioni che emergono dalla nuova programmazione europea 2021-2027,
-sui principi dell'*eGovernment Action Plan* 2016-2020 e sulle azioni
+sui principi dell’\ *eGovernment Action Plan* 2016-2020 e sulle azioni
 previste dalla *eGovernment Declaration* di Tallinn (2017-2021), i cui
 indicatori misurano il livello di digitalizzazione in tutta l’UE e
 rilevano l’effettiva presenza e l’uso dei servizi digitali da parte dei
@@ -107,7 +107,7 @@ digitalizzazione del Paese 2025”:
 
 I capitoli hanno la seguente struttura: 
 
--  L’\ **introduzione** descrive i temi affrontati nel capitolo fornendo
+-  l’\ **Introduzione** descrive i temi affrontati nel capitolo fornendo
    un raccordo con il Piano precedente e con le azioni già realizzate; 
 
 -  il **Contesto normativo e strategico** elenca i riferimenti sia
@@ -141,7 +141,7 @@ I capitoli hanno la seguente struttura: 
    dei soggetti istituzionali sopra indicati o in continuità con quanto
    previsto dal precedente PT;
 
--  i **riferimenti alla Strategia per l’innovazione tecnologica e la
+-  i **Riferimenti alla Strategia per l’innovazione tecnologica e la
    digitalizzazione del Paese 2025** riassumono brevemente quali siano i
    collegamenti del Piano Triennale 2020-22 alla Strategia per
    l’innovazione tecnologica e la digitalizzazione del Paese 2025

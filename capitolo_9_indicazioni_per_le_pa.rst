@@ -2,7 +2,7 @@ CAPITOLO 9. Indicazioni per le PA
 =================================
 
 Il Piano triennale 2020-2022 rappresenta la naturale prosecuzione delle
-precedenti edizioni del Piano e se, come anticipato nell’\ *Excutive
+precedenti edizioni del Piano e se, come anticipato nell’\ *Executive
 summary*, la prima edizione ha posto l’accento sull’introduzione del
 Modello strategico e la seconda ha dettagliato l’implementazione del
 Modello nel suo complesso, questa edizione si focalizza invece sulla
@@ -120,27 +120,27 @@ Province Autonome e PAL, sono così strutturate:
 
 -  in fig. 3 sono rappresentate le azioni a carico di tutte le PA e che
    hanno avvio e/o conclusione (in questo caso l’azione è preceduta da
-   una barra in grigio) nel corso del 2020.
+   una barra in grigio) nel corso del 2020;
 
 -  nelle fig. 4 e 5 sono rappresentate le azioni a carico di tutte le PA
    e che hanno avvio e/o conclusione (in questo caso l’azione è
-   preceduta da una barra in grigio) nel corso del 2021.
+   preceduta da una barra in grigio) nel corso del 2021;
 
 -  in fig. 6 sono rappresentate le azioni a carico di tutte le PA e che
    hanno avvio e/o conclusione (in questo caso l’azione è preceduta da
-   una barra in grigio) nel corso del 2022.
+   una barra in grigio) nel corso del 2022;
 
 -  in fig. 7 sono rappresentate le azioni che hanno avvio e/o
    conclusione (in questo caso l’azione è preceduta da una barra in
    grigio) nel triennio 2020-2022 e che sono a carico esclusivamente
    delle Pubbliche Amministrazioni Centrali (Ministeri, Agenzie,
    Authority, enti di previdenza, altri enti e amministrazioni
-   centrali).
+   centrali);
 
 -  in fig. 8 sono rappresentate le azioni che hanno avvio e/o
    conclusione (in questo caso l’azione è preceduta da una barra in
    grigio) nel triennio 2020-2022 e che sono a carico esclusivamente
-   delle Regioni e delle Province Autonome.
+   delle Regioni e delle Province Autonome;
 
 -  in fig. 9 sono rappresentate le azioni che hanno avvio e/o
    conclusione (in questo caso l’azione è preceduta da una barra in
