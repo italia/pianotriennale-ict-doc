@@ -36,8 +36,7 @@ migrazione su infrastrutture sicure ed affidabili
 OB.4.3 - Migliorare la fruizione dei servizi digitali per cittadini ed
 imprese tramite il potenziamento della connettività per le PA
 
-   -  R.A.4.3a - **Disponibilità di servizi di connettività Internet a
-      banda larga e ultralarga per le PA locali**
+-  R.A.4.3a - **Disponibilità di servizi di connettività Internet a banda larga e ultralarga per le PA locali**
 
    -  Target 2020 - *Baseline*: 50 PAL aderenti all’offerta MEPA per i
       servizi di connettività nell’ultimo trimestre 2020.
@@ -50,8 +49,7 @@ imprese tramite il potenziamento della connettività per le PA
 
  
 
--  R.A.4.3b - **Aggiornamento dei servizi di connettività a banda
-   ultralarga nel contratto SPC connettività**
+-  R.A.4.3b - **Aggiornamento dei servizi di connettività a banda ultralarga nel contratto SPC connettività**
 
    -  Target 2021 - Definizione di una soluzione e predisposizione di
       una proposta per aggiornamento del listino da parte del comitato
