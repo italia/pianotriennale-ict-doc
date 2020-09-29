@@ -46,7 +46,7 @@ Principi guida
    pubbliche amministrazioni devono rendere disponibili a livello
    transfrontaliero i servizi pubblici digitali rilevanti;
 
--  **codice aperto**: le pubbliche amministrazioni devono prediligere
-   l’utilizzo di software con codice aperto e, nel caso di software
+-  **open source**: le pubbliche amministrazioni devono prediligere
+   l’utilizzo di software con codice sorgente aperto e, nel caso di software
    sviluppato per loro conto, deve essere reso disponibile il codice
    sorgente.
