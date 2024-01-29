@@ -2,3 +2,5 @@ html/
 _build/
 .env
 .idea
+.vscode
+.python-version
