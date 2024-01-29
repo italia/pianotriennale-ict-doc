@@ -1,83 +1,52 @@
-Piano Triennale per l'informatica nella Pubblica Amministrazione 2020 - 2022
+Piano Triennale per l'informatica nella Pubblica Amministrazione 2024 - 2026
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Il Piano Triennale per l’informatica nella Pubblica Amministrazione è
-frutto della stretta collaborazione tra l’Agenzia per l’Italia Digitale
-e il Dipartimento per la Trasformazione Digitale.
+Roma, Dicembre 2023
 
-Roma, Luglio 2020
+INTRODUZIONE
+::::::::::::
 
 .. toctree::
-    :maxdepth: 3
-    :hidden:
+    :maxdepth: 2
 
-    executive_summary.rst
-    strategia.rst
-    principi_guida.rst
-    capitolo_1_servizi.rst
-    capitolo_2_dati.rst
-    capitolo_3_piattaforme.rst
-    capitolo_4_infrastrutture.rst
-    capitolo_5_interoperabilità.rst
-    capitolo_6_sicurezza_informatica.rst
-    capitolo_7_strumenti_e_modelli_per_linnovazione.rst
-    capitolo_8_governare_la_trasformazione_digitale.rst
-    capitolo_9_indicazioni_per_le_pa.rst 
+    introduzione.rst
+
+PARTE PRIMA - Componenti strategiche per la trasformazione digitale
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+.. toctree::
+    :maxdepth: 2
+
+    capitolo-1_organizzazione-e-gestione-del-cambiamento.rst
+    capitolo-2_il-procurement-per-la-trasformazione-digitale.rst
+
+PARTE SECONDA - Componenti tecnologiche
+:::::::::::::::::::::::::::::::::::::::
+
+.. toctree::
+    :maxdepth: 2
+
+    capitolo-3_servizi.rst
+    capitolo-4_piattaforme.rst
+    capitolo-5_dati-e-intelligenza-artificiale.rst
+    capitolo-6_infrastrutture.rst
+    capitolo-7_sicurezza-informatica.rst
+
+.. toctree::
+    :maxdepth: 2
+
+    credits.rst
     ringraziamenti.rst
-    appendici/appendice_1_acronimi.rst
+    appendice-glossario.rst
 
-
-PARTE I - Il Piano Triennale
-:::::::::::::::::::::::::::::
-
+PARTE TERZA - Strumenti
+:::::::::::::::::::::::
 
 .. toctree::
-    :maxdepth: 3
+    :maxdepth: 2
 
-    executive_summary.rst
-    strategia.rst
-    principi_guida.rst
-
-
-PARTE II - Le Componenti Tecnologiche
-::::::::::::::::::::::::::::::::::::::
-
-
-.. toctree::
-    :maxdepth: 3
-
-    capitolo_1_servizi.rst
-    capitolo_2_dati.rst
-    capitolo_3_piattaforme.rst
-    capitolo_4_infrastrutture.rst
-    capitolo_5_interoperabilità.rst
-    capitolo_6_sicurezza_informatica.rst
-  
-
-   
-PARTE III - La governance
-::::::::::::::::::::::::::
-
-
-.. toctree::
-    :maxdepth: 3
-
-    capitolo_7_strumenti_e_modelli_per_linnovazione.rst
-    capitolo_8_governare_la_trasformazione_digitale.rst
-    capitolo_9_indicazioni_per_le_pa.rst 
-
-Ringraziamenti
-::::::::::::::
-
-.. toctree::
-    :maxdepth: 3
-
-    ringraziamenti.rst
-
-Appendici
-:::::::::
-
-.. toctree::
-    :maxdepth: 3
-
-    appendici/appendice_1_acronimi.rst
+    strumenti/strumento-1_approvigionamento-ict.rst
+    strumenti/strumento-2_gestione-associata-ict.rst
+    strumenti/strumento-3_servizi-prioritari-secondo-egovernment-benchmark.rst
+    strumenti/strumento-4_smart-area-servizi-digitali-territoriali-avanzati.rst
+    strumenti/strumento-5_intelligenza-artificiale-nella-pubblica-amministrazione.rst

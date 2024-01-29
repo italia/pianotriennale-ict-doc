@@ -1,186 +1,90 @@
 Ringraziamenti
 ==============
 
-Si ringrazia per la collaborazione alla stesura del Piano Triennale per
-l’Informatica nella Pubblica Amministrazione 2020 - 2022:
+Si ringrazia per la collaborazione alla stesura del Piano triennale per
+l'informatica nella Pubblica Amministrazione 2024 - 2026:
 
-Agenzia del Demanio
+**ANCI**: Antonella Galdi, Moira Benelli, Mauro Savini
 
-Agenzia delle Dogane e dei Monopoli
+**ACN:** Tutta l'Agenzia, in particolare il Servizio programmi
+industriali, tecnologici di ricerca e formazione
 
-Agenzia delle Entrate
+**Commissione per l'Innovazione Tecnologica e la Digitalizzazione della
+Conferenza delle Regioni e delle Province autonome:** Giovanni Gentili,
+Benedetta Cerbini, Valeria Palazzari
 
-Agenzia delle Entrate - Riscossione
+**Comune di Modena:** Luca Salvatore, Ludovica Carla Ferrari
 
-Agenzia per la Coesione territoriale
+**Consip**: Marco Mizzau, Patrizia Bramini, Arianna Volpe
 
-ANCI
+**Consorzio CINI**: Ernesto Damiani, Daniele Nardi, Piercosma Bisconti
+Lucidi
 
-Automobile Club d'Italia
+**Dipartimento per la Funzione pubblica:** Elio Gullo, Sauro Angeletti,
+Valentina Albano, Maria Laura Comito
 
-Banca d’Italia
+**Dipartimento per la trasformazione digitale**: Rocco Affinito, Luca
+Artesi, Adriano Avenia, Gabriella Barone, Silvia Conticelli, Daniele De
+Bernardin, Vincenzo De Falco, Fabio Di Loreto, Sara Ghazanfari, Giuseppe
+Iacono, Matteo Fortini, Mariachiara Fortuna, Vincenzo Fortunato, Jiwon
+Lee, Mariangela Antonella Maselli, Nicola Mastropietro, Gandolfo
+Miserendino, Rosalia Moffa, Pietro Morandini, Elisabetta Oliveri, Marco
+Maria Pedrazzo, Alessandra Pepe, Luca Rigoni, Fabiana Rocchi, Fabrizio
+Salvatore, Francesco Sbordone, Raffaella Francesca Sisti, Emiliano
+Vernini
 
-CISIS
+**INAIL**: Ester Rotoli, Francesco Saverio Colasuonno, Mariano Michele
+Bonaccorso
 
-Città metropolitana di Bari
+**INPS**: Massimiliano D'Angelo, Pierpaolo Bonanni, Vincenzo Di Nicola,
+Gioia Valeri
 
-Città metropolitana di Bologna
+**ISTAT**: Massimo Fedeli, Emanuela Virardi, Sara Letardi, Roberta
+Radini
 
-Città metropolitana di Cagliari
+**Istituto Poligrafico e della Zecca dello Stato**: Stefano Imperatori,
+Antonio Gentile, Salvatore Grimaldi, Andrea Spallacci
 
-Città metropolitana di Catania
+**MEF**: Giuseppe Parise, Roberta Lotti
 
-Città metropolitana di Firenze
+**Osservatorio Agenda Digitale del Politecnico di Milano:** Giuliano
+Noci, Michele Benedetti, Alfredo De Meo, Claudio Russo, Alessandra Thi
+Mandelli
 
-Città metropolitana di Genova
+**PagoPa**: Alessandro Moricca, Maurizio Fatarella, Alessio Biasutto,
+Patrizio Caligiuri, Francesco Capitanata, Raffaele Cesarano, Federica
+Ciampa, Gloriana Cimmino, Alessandro Conti, Giuseppe De Giorgi, Matteo
+De Santi, Ilaria Durante, Lorenzo Fredianelli, Riccardo Fusari, Giaime
+Gabrielli, Valeria Gesmundo, Elisa Mastrantonio, Stefano Menotti, Andrea
+Pasuch, Paola Pironi, Michelangelo Quaglia, Matteo Utzeri, Salvatore
+Valenza, Daniele Vecchia, Sara Villani
 
-Città metropolitana di Messina
+**Unione Province d'Italia:** Piero Antonelli, Gaetano Palombelli
 
-Città metropolitana di Milano
+**Università di Modena e Reggio Emilia:** Luca Chiantore, Francesco
+Leali, Marko Bertogna
 
-Città metropolitana di Napoli
+Si ringraziano, per le idee fornite e per il tempo dedicato al
+confronto: il prof. Donato Limone, i Responsabili della transizione al
+digitale delle Regioni e delle Province autonome, delle Città
+metropolitane e dei loro Comuni capoluogo, CNR, Fondazione CRUI, ENEA,
+INFN, Ministero dell'Istruzione e del Merito, Ministero dell'università
+e della ricerca, Assintel, Assinter, Anitec-Assinform, Asstel, AIIP,
+Confindustria, Confartigianato, Unioncamere.
 
-Città metropolitana di Palermo
+Si ringraziano inoltre: Sauro Del Turco, Fabrizio Donzella, Morena
+Ragone, Andrea Sammarco, Dimitri Tartari
 
-Città metropolitana di Reggio Calabria
+**Per AGID,** hanno contribuito:
 
-Città metropolitana di Roma
+Gualtiero Asunis, Enrica Massella, Antonio Romano, Luca Ventura
 
-Città metropolitana di Torino
-
-Città metropolitana di Venezia
-
-Comitato di indirizzo di AGID
-
-Commissione Sanità della Conferenza delle Regioni e Province Autonome
-
-Commissione speciale Agenda Digitale della Conferenza delle Regioni e
-Province Autonome
-
-Comune di Bari
-
-Comune di Bologna
-
-Comune di Cagliari
-
-Comune di Catania
-
-Comune di Firenze
-
-Comune di Genova
-
-Comune di Messina
-
-Comune di Milano
-
-Comune di Napoli
-
-Comune di Palermo
-
-Comune di Reggio Calabria
-
-Roma Capitale
-
-Comune di Torino
-
-Comune di Venezia
-
-Conferenza dei Rettori delle Università italiane
-
-Consiglio Nazionale delle Ricerche
-
-Consip
-
-Dipartimento della Funzione pubblica
-
-Dipartimento per le Politiche europee
-
-Dipartimento per le Politiche giovanili e il servizio civile universale
-
-Formez PA
-
-INAIL
-
-INPS
-
-Istituto Poligrafico e Zecca dello Stato
-
-Ministero degli Affari Esteri e della Cooperazione Internazionale
-
-Ministero dei Beni e delle Attività Culturali e del Turismo
-
-Ministero del Lavoro e delle Politiche Sociali
-
-Ministero dell'Interno
-
-Ministero dell'Istruzione
-
-Ministero dell'Università e della Ricerca
-
-Ministero dell’Economia e delle Finanze
-
-Ministero della Difesa
-
-Ministero della Giustizia
-
-Ministero della Salute
-
-Ministero delle Infrastrutture e dei Trasporti
-
-Ministero delle Politiche Agricole, Alimentari e Forestali
-
-Ministero dello Sviluppo Economico
-
-PagoPA S.p.A.
-
-Presidenza del Consiglio dei Ministri
-
-Provincia Autonoma di Bolzano
-
-Provincia Autonoma di Trento
-
-Regione Abruzzo
-
-Regione Basilicata
-
-Regione Calabria
-
-Regione Campania
-
-Regione Emilia-Romagna
-
-Regione Friuli Venezia Giulia
-
-Regione Lazio
-
-Regione Liguria
-
-Regione Lombardia
-
-Regione Marche
-
-Regione Molise
-
-Regione Piemonte
-
-Regione Puglia
-
-Regione Sardegna
-
-Regione Siciliana
-
-Regione Toscana
-
-Regione Umbria
-
-Regione Valle d'Aosta
-
-Regione Veneto
-
-Scuola Nazionale dell’Amministrazione
-
-UNCEM
-
-Unioncamere
-
-Unione delle Province d’Italia
+Federico Abramo, Elena Alfonsi, Giovanni Amato, Alessandra Antolini,
+Luigi Avena, Roberto Bianca, Diana Bonofiglio, Claudio Celeghin, Mirko
+Cappuccia, Antonio Colella, Michela Collacchi, Marcello Cotta, Valentina
+De Grazia, Salvatore Di Gioia, Claudio Distefano, Mauro Draoli, Maria
+Luisa De Santis, Antonio Florio, Matteo Galassi, Francesco Grasso,
+Stefano Ianniello, Angelo La Venuta, Letizia Leo, Paola Liberace, Monica
+Manganiello, Emanuela Mariotti, Saverio Mastropierro, Giovanni Melardi,
+Maura Montironi, Daniela Pascale, Alfio Raia, Antonio Rotundo, Angela
+Scanu, Vincenzo Travascio, Stefano Van der Byl, Caterina Vignato
