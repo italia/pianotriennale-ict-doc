@@ -173,4 +173,4 @@ conseguenza l'interazione con l'utenza esterna.
 --------------------
 
 -  `Sportello digitale
-   (INAIL.it) <https://www.inail.it/portale/it/supporto/guide-e-manuali-operativi/sportello-digitale.html?all=true>`__
+   (INAIL.it) <https://www.inail.it/content/dam/inail-hub-site/documenti/istituto/2024/12/Sportello_Layout_QuaderniDelDigitale.pdf>`__
