@@ -185,4 +185,4 @@ IV)  *Framework di governance* e gestione del dato: modello che
 -  `Piani strategici triennali per l'IT
    (INAIL.it) <https://www.inail.it/portale/it/istituto/l-istituto/innovazione-digitale/piani-strategici-triennali-per-l-it.html>`__
 
--  Strategia Dati INAIL
+-  `Strategia Dati INAIL <https://www.inail.it/content/dam/inail-hub-site/documenti/istituto/2024/12/DataGovernance_Layout_QuaderniDelDigitale.pdf>`__

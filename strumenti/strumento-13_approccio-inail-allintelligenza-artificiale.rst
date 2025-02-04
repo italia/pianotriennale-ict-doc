@@ -185,7 +185,7 @@ ai costi dei servizi IT.
 13.5 - Risorse utili
 --------------------
 
--  Il *Proof of Concept* su INAIL nell'ambito del Progetto
+-  `Il *Proof of Concept* su INAIL nell'ambito del Progetto
    Accredia-CINI: *Quality Management* Per i Sistemi di AI nelle
-   Organizzazioni.
+   Organizzazioni. <https:://www.inail.it/content/dam/inail%2Dhub%2Dsite/documenti/istituto/2024/12/Scheda_Layout_QuaderniDelDigitale.pdf>`__
 

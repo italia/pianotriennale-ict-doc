@@ -290,8 +290,8 @@ Ruoli e profili:
 16.5 - Risorse utili
 --------------------
 
--  Modello ITD per presidi-comunità territoriali a garanzia dei diritti
-   di cittadinanza digitale
+-  `Modello ITD per presidi-comunità territoriali a garanzia dei diritti
+   di cittadinanza digitale <https://www.agid.gov.it/sites/agid/files/2025-01/Strumento_16_Modello_ITD_per_presidi_comunit%C3%A0_territoriali_v1.3.pdf>`__
 
 -  `Posizionamento strategico delle agende digitali regionali 2021-2027
    approvato il
