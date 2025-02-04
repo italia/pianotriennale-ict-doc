@@ -1,7 +1,9 @@
 Piano Triennale per l'informatica nella Pubblica Amministrazione 2024 - 2026
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Roma, Dicembre 2023
+**Aggiornamento 2025**
+
+Dicembre 2024
 
 INTRODUZIONE
 ::::::::::::
