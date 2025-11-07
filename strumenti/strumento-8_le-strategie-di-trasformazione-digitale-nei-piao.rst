@@ -12,7 +12,7 @@ Strumento 8 - Le strategie di trasformazione digitale nei PIAO
 
 **Destinatari:** Città metropolitane, Comuni, Province.
 
-**Capitolo del PT 2024-2026:** Cap. 1 - Organizzazione e gestione del
+**Capitolo del PT 2024-2026:** Capitolo 1 - Organizzazione e gestione del
 cambiamento
 
 **Tematica:** L'ecosistema digitale amministrativo
@@ -69,6 +69,27 @@ positive delle scelte effettuate dalle istituzioni locali sulla
 comunità, attraverso un approccio partecipativo lungo tutto il ciclo
 della performance: dalla programmazione fino alla valutazione dei
 risultati.
+
+Nel mese di aprile 2025 il Dipartimento per la trasformazione digitale 
+ha pubblicato un Avviso pubblico per Province, Città metropolitane e Liberi 
+consorzi comunali finalizzato a migrare in cloud i propri dati e servizi sul 
+cloud qualificato nell'ambito della Misura 1.2 “Abilitazione al cloud per le 
+PA locali”, che dà l'opportunità di potenziare le loro infrastrutture digitali 
+anche dal punto di vista della sicurezza informatica e di migliorare la qualità 
+dei servizi offerti a cittadini e imprese.
+
+All'Avviso hanno aderito tutte le Province, le Città metropolitane e i Liberi 
+consorzi comunali e si è pertanto completato, con uno stanziamento di oltre 90 
+milioni di euro, il quadro della partecipazione delle pubbliche amministrazioni 
+italiane alla messa in sicurezza dati e servizi pubblici in ambienti cloud 
+certificati. Tutti i 103 enti intermedi italiani dovranno adeguare pertanto le 
+loro strategie di digitalizzazione bei documenti di programmazione e dei PIAO 
+sulla base delle risorse che avranno a disposizione per migrare i loro dati e 
+servizi in cloud.
+
+Nel 2026 sarà pertanto possibile monitorare in tutto il paese l'evoluzione delle 
+strategie di digitalizzazione di tutto il comparto degli enti di area vasta: 
+Province, Città metropolitane e Liberi consorzi di Comuni.
 
 Il progetto "UPIAO" qui presentato è nato dal Progetto "Province &
 Comuni - Le Province e il sistema dei servizi a supporto dei Comuni",
@@ -228,3 +249,11 @@ miglioramento organizzativo delle PA.
    guida ad hoc con riferimento alle Province italiane delle Regioni a
    Statuto
    ordinario" <https://provinceditalia.it/wp-content/uploads/2024/05/Progetto_UPIAO_CERVAP_UPI_DEFINITIVO_1.pdf>`__
+
+-  Le strategie di digitalizzazione della Provincia di Lucca
+
+-  Le strategie di digitalizzazione della Città metropolitana di Roma
+
+-  Avviso del Dipartimento per la Trasformazione Digitale “1.2 Abilitazione 
+   al Cloud - Province e città metropolitane”
+

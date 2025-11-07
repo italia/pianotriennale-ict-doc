@@ -44,7 +44,7 @@ definite.
 
 Qual è la gara strategica Consip più idonea a raggiungere i diversi
 obiettivi individuati dal Piano triennale per l'informatica nella
-PA? Per aiutare le pubbliche amministrazioni nella scelta, AGID ha
+PA? Per aiutare le pubbliche amministrazioni nella scelta, AgID ha
 realizzato una mappatura degli indicatori del Piano triennale,
 associando ad ognuno una gara strategica Consip, in modo da fornire un
 quadro completo per capire quali siano gli strumenti più indicati per

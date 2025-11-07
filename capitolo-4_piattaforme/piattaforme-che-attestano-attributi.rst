@@ -87,7 +87,7 @@ posizione elettorale del cittadino sottoscrittore.
 
 Al fine di agevolare lo sviluppo di sistemi integrati ed evoluti, che
 semplifichino e velocizzino le procedure tra le Pubbliche
-Amministrazioni, ANPR ha rilasciato 28 *e-service* sulla
+Amministrazioni, ANPR ha rilasciato oltre 30 *e-service* sulla
 Piattaforma Nazionale Digitale Dati (PDND - Interoperabilità),
 consentendo la consultazione dei dati ANPR da parte di altri Enti aventi
 diritto, nel rispetto dei principi del Regolamento *Privacy*.
@@ -103,7 +103,7 @@ offrendo la possibilità di produrre estratti o certificati tramite il sistema
 centrale, senza doverli richiedere necessariamente al Comune che li ha generati.
 
 A partire da ottobre 2023 alcuni Comuni pilota hanno iniziato ad utilizzare i
-servizi resi disponibili da ANPR per lo stato civile e, ad oggi, 14 comuni
+servizi resi disponibili da ANPR per lo stato civile e, ad oggi, oltre 500 comuni
 utilizzano i servizi, formando atti digitali di stato civile con effetti
 giuridici conservati nella piattaforma centrale.
 
@@ -142,7 +142,7 @@ Le due Anagrafi mirano ad assicurare:
 
    -  PA per fini istituzionali;
 
-   -  soggetti privati autorizzati, per gli scopi previsti dalla legge.
+   -  Soggetti privati autorizzati, per gli scopi previsti dalla legge.
 
 -  l'interoperabilità con altre banche dati (es. con ANPR per la
    gestione dei dati anagrafici degli studenti, eliminando duplicazioni
@@ -168,11 +168,15 @@ e il recupero dei dati relativi ai titoli di studio e alle iscrizioni da parte
 degli Enti aventi diritto.
 
 Il Regolamento sulle modalità di attuazione e funzionamento dell'Anagrafe
-nazionale dell'istruzione (ANIST) è entrato in vigore il 23 marzo 2024 e si
-prevede l'attivazione del portale entro il 2024, consentendo ai cittadini di
-consultare online i dati relativi alle frequenze e ai titoli di studio,
-richiedere una eventuale rettifica degli stessi, nonché ottenere il rilascio di
-certificazioni spendibili nei rapporti con i privati.
+nazionale dell'istruzione (ANIST) è entrato in vigore il 23 marzo 2024 e 
+a dicembre 2024 è stato attivato il portale con i primi servizi, consentendo 
+ai cittadini di consultare online i dati relativi alle frequenze e ai titoli 
+di studio, richiedere una eventuale rettifica degli stessi, nonché ottenere 
+il rilascio di certificazioni spendibili nei rapporti con i privati.
+
+Sono stati rilasciati, inoltre, i servizi sulla PDND, per consentire la verifica 
+e il recupero dei dati relativi ai titoli di studio e alla frequenza da parte 
+degli Enti aventi diritto.
 
 Contesto normativo e strategico
 -------------------------------
@@ -184,19 +188,19 @@ Riferimenti normativi italiani:
 -  `Decreto legislativo 7 marzo 2005, n. 82 "Codice dell'amministrazione
    digitale" (CAD),
    <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82~art64bis>`__
-   art. 3-bis e 6-quater
+   art. 3-bis e 6-quater;
 
 -  `Decreto-legge 6 novembre 2021, n. 152, convertito con modificazioni
    dalla Legge 29 dicembre 2021, n. 233 "Disposizioni urgenti per
    l'attuazione del Piano nazionale di ripresa e resilienza (PNRR) e per
    la prevenzione delle infiltrazioni
-   mafiose" <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-11-06;152>`__
+   mafiose" <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-11-06;152>`__;
 
--  `Linee Guida AGID sull'Indice nazionale dei domicili digitali delle
+-  `Linee Guida AgID sull'Indice nazionale dei domicili digitali delle
    persone fisiche, dei professionisti e degli altri enti di diritto
    privato non tenuti all'iscrizione in albi, elenchi o registri
    professionali o nel registro delle imprese
-   (2023) <https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/221871119160O__OLinee+guida+inad+ex+art.+6quater+cad.pdf>`__
+   (2023) <https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/221871119160O__OLinee+guida+inad+ex+art.+6quater+cad.pdf>`__.
 
 *ANPR*
 
@@ -204,39 +208,39 @@ Riferimenti normativi italiani:
 
 -  `Decreto legislativo 7 marzo 2005, n. 82 "Codice dell'amministrazione
    digitale" (CAD), art.
-   62 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82~art64bis>`__
+   62 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82~art64bis>`__;
 
 -  `Decreto del Presidente del Consiglio dei Ministri 10 novembre 2014,
    n. 194, Regolamento recante modalità di attuazione e di funzionamento
    dell'Anagrafe nazionale della popolazione residente (ANPR) e di
    definizione del piano per il graduale subentro dell'ANPR alle
    anagrafi della popolazione
-   residente <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2014-11-10;194!vig=2017-12-07>`__
+   residente <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2014-11-10;194!vig=2017-12-07>`__;
 
 -  `Decreto del Presidente del Consiglio dei Ministri, 23 agosto 2013,
    n. 109, Regolamento recante disposizioni per la prima attuazione
    dell'articolo 62 del decreto legislativo 7 marzo 2005, n.
-   82 <https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2013-08-23;109>`__
+   82 <https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2013-08-23;109>`__;
 
 -  `Decreto del Ministero dell'Interno del 3 novermbre 2021 Modalità di
    erogazione da parte dell'Anagrafe nazionale della popolazione
    residente dei servizi telematici per il rilascio di certificazioni
    anagrafiche on-line e per la presentazione on-line delle
    dichiarazioni
-   anagrafiche. <https://www.gazzettaufficiale.it/eli/id/2021/11/24/21A06914/sg>`__
+   anagrafiche. <https://www.gazzettaufficiale.it/eli/id/2021/11/24/21A06914/sg>`__;
 
 -  `Decreto del Ministero dell'Interno del 17 ottobre 2022, Modalità di
    integrazione nell'ANPR delle liste elettorali e dei dati relativi
    all'iscrizione nelle liste di sezione di cui al decreto del
    Presidente della Repubblica 20 marzo 1967, n.
-   223 <https://www.gazzettaufficiale.it/eli/id/2022/11/15/22A06434/sg>`__
+   223 <https://www.gazzettaufficiale.it/eli/id/2022/11/15/22A06434/sg>`__;
 
 -  `Decreto del Ministero dell'Interno del 18 ottobre 2022,
    Aggiornamento della piattaforma di funzionamento dell'Anagrafe
    nazionale della popolazione residente per l'erogazione dei servizi
    resi disponibili ai comuni per l'utilizzo dell'Archivio nazionale
    informatizzato dei registri dello stato
-   civile <https://www.gazzettaufficiale.it/eli/id/2022/11/17/22A06473/sg>`__
+   civile <https://www.gazzettaufficiale.it/eli/id/2022/11/17/22A06473/sg>`__;
 
 -  `Decreto del Ministero dell'Interno del 3 marzo 2023 - Modalità di
    attribuzione, da parte dell'Anagrafe nazionale della popolazione
@@ -252,26 +256,26 @@ Riferimenti normativi italiani:
 -  `Decreto-legge 9 maggio 2003, n. 105 "Disposizioni urgenti per le
    università e gli enti di ricerca nonché in materia di abilitazione
    all'esercizio delle attività professionali", art.
-   1-bis <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-05-09;105>`__
+   1-bis <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-05-09;105>`__;
 
 -  `Decreto legislativo 7 marzo 2005, n. 82 "Codice dell'amministrazione
    digitale" (CAD), art. 62-
-   quinquies <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82~art64bis>`__
+   quinquies <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82~art64bis>`__;
 
 -  `Decreto-legge del 6 novembre 2021, n. 152 "Disposizioni urgenti per
    l'attuazione del Piano nazionale di ripresa e resilienza (PNRR) e per
    la prevenzione delle infiltrazioni mafiose", art.
-   31-ter <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021;152~art39>`__
+   31-ter <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021;152~art39>`__;
 
 -  `Decreto del Ministero dell'Università e Ricerca del 19 gennaio 2022
    "Prima attuazione delle disposizioni istitutive dell'Anagrafe
    nazionale dell'istruzione superiore
-   (ANIS)" <https://www.gazzettaufficiale.it/eli/id/2022/04/07/22A02177/sg>`__
+   (ANIS)" <https://www.gazzettaufficiale.it/eli/id/2022/04/07/22A02177/sg>`__;
 
 -  `Decreto del Ministero dell'Università e della Ricerca del 30
    settembre 2022 "Seconda attuazione delle disposizioni istitutive
    dell'Anagrafe nazionale dell'istruzione superiore
-   (ANIS)" <https://www.gazzettaufficiale.it/eli/id/2023/01/18/23A00212/sg>`__
+   (ANIS)" <https://www.gazzettaufficiale.it/eli/id/2023/01/18/23A00212/sg>`__.
 
 *ANIST*
 
@@ -279,12 +283,12 @@ Riferimenti normativi italiani:
 
 -  `Decreto legislativo 7 marzo 2005, n. 82 "Codice dell'amministrazione
    digitale" (CAD), art. 62-quater
-   <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82~art64bis>`__
+   <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82~art64bis>`__;
 
 -  `Decreto del Ministero dell'Istruzione e del Merito del 7 dicembre 2023, n.
    234, "Regolamento sulle modalità di attuazione e funzionamento dell'Anagrafe
    nazionale dell'istruzione"
-   <https://www.gazzettaufficiale.it/eli/id/2024/03/08/24G00037/sg>`__
+   <https://www.gazzettaufficiale.it/eli/id/2024/03/08/24G00037/sg>`__.
 
 Obiettivo 4.2 - Ottenere la piena interoperabilità tra le piattaforme
 ---------------------------------------------------------------------
@@ -292,19 +296,22 @@ Obiettivo 4.2 - Ottenere la piena interoperabilità tra le piattaforme
 RA4.2.1 - Adesione ai nuovi servizi offerti da ANPR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  **Target 2024** - 100% dei comuni che aderiscono ai servizi
+-  **Monitoraggio 2024** - Il 100% dei comuni ha aderito ai servizi
    elettorali su ANPR
 
--  **Target 2025** - 100% dei comuni che aderiscono ai servizi di stato
-   civile su ANPR
+-  **Target 2025** - n.d.
 
--  **Target 2026** - Piena interoperabilità con le altre basi dati di
-   interesse nazionale (come definite nel CAD art. 60, comma 3-bis)
+-  **Target 2026** :
+  
+   - Piena interoperabilità con le altre basi dati di
+      interesse nazionale (come definite nel CAD art. 60, comma 3-bis)
+
+   - 100% dei comuni che aderiscono ai servizi di stato civile su ANPR
 
 RA4.2.2 - Disponibilità dei dati su iscrizioni e titoli di studio su ANIS
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  **Target 2024** - n.a.
+-  **Monitoraggio 2024** - n.a.
 
 -  **Target 2025** - n.a.
 
@@ -314,13 +321,12 @@ RA4.2.2 - Disponibilità dei dati su iscrizioni e titoli di studio su ANIS
 RA4.2.3 - Realizzazione della piattaforma ANIST
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  **Target 2024** - n.a. (Target rimodulato in attesa della
-   definizione delle specifiche tecniche dei servizi resi dall'ANIST ritenute
-   necessarie per l'avvio dell'operatività (art 11 DM 7 dicembre 2023, n. 234).
+-  **Monitoraggio 2024** - Piattaforma realizzata
 
--  **Target 2025** - n.a.
+-  **Target 2025** - n.d.
 
--  **Target 2026** - Completamento della piattaforma ANIST
+-  **Target 2026** - Completamento della piattaforma ANIST (target 
+   raggiunto nel 2024)
 
 Linee di azione istituzionali
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -331,23 +337,6 @@ RA4.2.1
 -  **Dicembre 2025** - Supporto ai comuni tramite contributi per l'adesione ai
    servizi dello Stato Civile - (Dipartimento per la Trasformazione Digitale) -
    CAP4.30
-
-RA4.2.2
-^^^^^^^
-
--  **Marzo 2025 \*** - Rilascio *web application* ANIS per il caricamento
-   massivo dei dati - (MUR) - CAP4.33
-
-RA4.2.3
-^^^^^^^
-
--  **Giugno 2025 \*** - Messa a disposizione di un portale dedicato ad
-   ANIST comprensivo di un'area tecnica dove sarà pubblicata la
-   documentazione di interesse per le scuole - (Dipartimento per la
-   Trasformazione Digitale) - CAP4.34
-
--  **Giugno 2026 \*** - Completamento  della piattaforma ANIST - (Dipartimento
-   per la Trasformazione Digitale) - CAP4.35
 
 Linee di azione per le PA
 ~~~~~~~~~~~~~~~~~~~~~~~~~

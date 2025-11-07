@@ -8,7 +8,7 @@ Il tema della dematerializzazione degli archivi cartacei risulta cruciale
 affinché le amministrazioni possano conseguire i propri obiettivi di
 digitalizzazione.
 
-Le nuove Linee guida sulla formazione, gestione e conservazione dei
+Le Linee guida sulla formazione, gestione e conservazione dei
 documenti informatici dell'Agenzia per l'Italia digitale, adottate ai
 sensi dell'art. 71 del CAD e in vigore dal 1° gennaio 2022,
 rappresentano un importante contributo nel rafforzamento e
@@ -54,7 +54,7 @@ nei processi documentali, nonché ad ottemperare alle seguenti misure:
    una parte chiaramente identificabile dell'area "Amministrazione
    trasparente", prevista dall'art. 9 del D.Lgs. 33/2013;
 
--  rispetto delle misure minime di sicurezza ICT, emanate da AGID con
+-  rispetto delle misure minime di sicurezza ICT, emanate da AgID con
    Circolare del 18 aprile 2017, n. 2/2017;
 
 -  rispetto delle in materia di protezione dei dati personali, ai sensi
@@ -76,7 +76,7 @@ e conformemente a quanto stabilito dall'articolo 18-bis del CAD, l'Agenzia per
 l'Italia digitale ha pianificato di avviare un'attività di monitoraggio
 riguardante l'adempimento degli obblighi specificati dalle Linee guida.
 
-A questo scopo, entro il 2024 verrà sviluppato un modello basato su
+A questo scopo, nel corso del 2024 è stato sviluppato un modello basato su
 indicatori chiari e dettagliati, supportato da un accurato percorso
 metodologico. Questo permetterà di procedere con un monitoraggio
 efficace e sistematico, da realizzarsi entro il 2025 per le disposizioni
@@ -94,69 +94,69 @@ Contesto normativo
 Riferimenti normativi italiani:
 
 -  `Legge 241/1990, Nuove norme sul procedimento
-   amministrativo. <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241!vig=>`__
+   amministrativo <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241!vig=>`__;
 
 -  `DPR 445/2000, Testo unico delle disposizioni legislative e
    regolamentari in materia di documentazione
-   amministrativa <https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445>`__.
+   amministrativa <https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445>`__;
 
 -  `Decreto legislativo 196/2003, Codice in materia di protezione dei
    dati
-   personali. <https://www.normattiva.it/atto/caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=2003-07-29&atto.codiceRedazionale=003G0218&atto.articolo.numero=0&atto.articolo.sottoArticolo=1&atto.articolo.sottoArticolo1=0&qId=ea876c77-4abe-4bb3-b54f-524915d28698&tabID=0.321316485780758&title=lbl.dettaglioAtto>`__
+   personali <https://www.normattiva.it/atto/caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=2003-07-29&atto.codiceRedazionale=003G0218&atto.articolo.numero=0&atto.articolo.sottoArticolo=1&atto.articolo.sottoArticolo1=0&qId=ea876c77-4abe-4bb3-b54f-524915d28698&tabID=0.321316485780758&title=lbl.dettaglioAtto>`__;
 
 -  `Decreto legislativo 42/2004, Codice dei beni culturali e del
    paesaggio, ai sensi dell'articolo 10 della legge 6 luglio 2002, n.
-   137. <https://www.normattiva.it/atto/caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=2004-02-24&atto.codiceRedazionale=004G0066&atto.articolo.numero=0&atto.articolo.sottoArticolo=1&atto.articolo.sottoArticolo1=0&qId=a3f71b28-5c0d-4486-a262-76c912010cb6&tabID=0.321316485780758&title=lbl.dettaglioAtto>`__
+   137 <https://www.normattiva.it/atto/caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=2004-02-24&atto.codiceRedazionale=004G0066&atto.articolo.numero=0&atto.articolo.sottoArticolo=1&atto.articolo.sottoArticolo1=0&qId=a3f71b28-5c0d-4486-a262-76c912010cb6&tabID=0.321316485780758&title=lbl.dettaglioAtto>`__;
 
 -  `Decreto legislativo 82/2005 e ss.mm.ii., Codice dell'amministrazione
-   digitale. <https://www.normattiva.it/atto/caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=2005-05-16&atto.codiceRedazionale=005G0104&atto.articolo.numero=0&atto.articolo.sottoArticolo=1&atto.articolo.sottoArticolo1=0&qId=bb504df1-76cb-44a2-b4e9-4a9d0b80652a&tabID=0.321316485780758&title=lbl.dettaglioAtto>`__
+   digitale <https://www.normattiva.it/atto/caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=2005-05-16&atto.codiceRedazionale=005G0104&atto.articolo.numero=0&atto.articolo.sottoArticolo=1&atto.articolo.sottoArticolo1=0&qId=bb504df1-76cb-44a2-b4e9-4a9d0b80652a&tabID=0.321316485780758&title=lbl.dettaglioAtto>`__;
 
 -  `Decreto legislativo 33/2013, Riordino della disciplina riguardante
    il diritto di accesso civico e gli obblighi di pubblicità,
    trasparenza e diffusione di informazioni da parte delle pubbliche
-   amministrazioni. <https://www.normattiva.it/atto/caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=2013-04-05&atto.codiceRedazionale=13G00076&atto.articolo.numero=0&atto.articolo.sottoArticolo=1&atto.articolo.sottoArticolo1=0&qId=569202c7-5574-4db1-b514-25874a984af6&tabID=0.321316485780758&title=lbl.dettaglioAtto>`__
+   amministrazioni <https://www.normattiva.it/atto/caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=2013-04-05&atto.codiceRedazionale=13G00076&atto.articolo.numero=0&atto.articolo.sottoArticolo=1&atto.articolo.sottoArticolo1=0&qId=569202c7-5574-4db1-b514-25874a984af6&tabID=0.321316485780758&title=lbl.dettaglioAtto>`__;
 
 -  `Decreto del Presidente della Repubblica 22 febbraio 2013, Regole
    tecniche in materia di generazione, apposizione e verifica delle
    firme elettroniche avanzate, qualificate e
-   digitali. <https://www.gazzettaufficiale.it/eli/id/2013/05/21/13A04284/sg>`__
+   digitali <https://www.gazzettaufficiale.it/eli/id/2013/05/21/13A04284/sg>`__;
 
 -  `Circolare 18 aprile 2017, n. 2/2017 dell'Agenzia per l'Italia
    Digitale, misure minime di sicurezza
-   ICT. <https://www.gazzettaufficiale.it/eli/id/2017/05/05/17A03060/sg>`__
+   ICT <https://www.gazzettaufficiale.it/eli/id/2017/05/05/17A03060/sg>`__;
 
--  `Linee Guida AGID sulla formazione, gestione e conservazione dei
+-  `Linee Guida AgID sulla formazione, gestione e conservazione dei
    documenti informatici
-   (2021) <https://www.agid.gov.it/sites/default/files/repository_files/linee_guida_sul_documento_informatico.pdf>`__
+   (2021) <https://www.agid.gov.it/sites/default/files/repository_files/linee_guida_sul_documento_informatico.pdf>`__;
 
 -  `Vademecum per l'implementazione delle Linee guida sulla formazione,
-   gestione e conservazione dei documenti informatici, AGID
-   (2022) <https://www.agid.gov.it/sites/default/files/repository_files/vademecum_per_limplementazione_delle_linee_guida_sulla_formazione_gestione_e_conservazione_dei_documenti_informatici.pdf>`__
+   gestione e conservazione dei documenti informatici, AgID
+   (2022) <https://www.agid.gov.it/sites/default/files/repository_files/vademecum_per_limplementazione_delle_linee_guida_sulla_formazione_gestione_e_conservazione_dei_documenti_informatici.pdf>`__;
 
--  `Modelli di interoperabilità tra sistemi di conservazione, AGID
-   (2022) <https://www.agid.gov.it/sites/default/files/repository_files/interoperabilita_aip_0.pdf>`__
+-  `Modelli di interoperabilità tra sistemi di conservazione, AgID
+   (2022) <https://www.agid.gov.it/sites/default/files/repository_files/interoperabilita_aip_0.pdf>`__;
 
--  `La conservazione delle basi di dati, AGID
-   (2023) <https://www.agid.gov.it/sites/default/files/repository_files/La%20conservazione%20delle%20basi%20di%20dati.pdf>`__
+-  `La conservazione delle basi di dati, AgID
+   (2023) <https://www.agid.gov.it/sites/default/files/repository_files/La%20conservazione%20delle%20basi%20di%20dati.pdf>`__.
 
 Riferimenti normativi europei:
 
 -  `Regolamento (UE) 910/2014, Regolamento eIDAS in materia di
    identificazione elettronica e servizi fiduciari per le transazioni
    elettroniche nel mercato
-   interno. <https://digital-strategy.ec.europa.eu/it/policies/eidas-regulation>`__
+   interno <https://digital-strategy.ec.europa.eu/it/policies/eidas-regulation>`__;
 
 -  `Regolamento (UE) 679/2016 (GDPR), relativo alla protezione delle
    persone fisiche con riguardo al trattamento dei dati
-   personali. <https://www.garanteprivacy.it/documents/10160/0/Regolamento+UE+2016+679.+Arricchito+con+riferimenti+ai+Considerando+Aggiornato+alle+rettifiche+pubblicate+sulla+Gazzetta+Ufficiale++dell%27Unione+europea+127+del+23+maggio+2018>`__
+   personali <https://www.garanteprivacy.it/documents/10160/0/Regolamento+UE+2016+679.+Arricchito+con+riferimenti+ai+Considerando+Aggiornato+alle+rettifiche+pubblicate+sulla+Gazzetta+Ufficiale++dell%27Unione+europea+127+del+23+maggio+2018>`__.
 
 Obiettivo 3.3 - Consolidare l'applicazione delle Linee guida per la formazione, gestione e conservazione documentale
 --------------------------------------------------------------------------------------------------------------------
 
 *RA3.3.1 - Monitorare l'attuazione delle Linee guida*
 
--  **Target 2024** - Costruzione *baseline* per il monitoraggio
-   dell'attuazione delle Linee guida
+-  **Monitoraggio 2024** - Definito il modello di monitoraggio
+   per l'attuazione delle Linee Guida
 
 -  **Target 2025** - Il 100% delle amministrazioni devono avere adottato il
    Manuale di gestione documentale, nominato il Responsabile della gestione
@@ -174,14 +174,11 @@ Linee di azione istituzionali
 RA3.3.1
 ^^^^^^^
 
--  **Dicembre 2024 \*** - Pubblicazione di un modello per il monitoraggio -
-   (AGID) - CAP3.29
-
 -  **Dicembre 2025** - Completamento attività di monitoraggio relativo
-   al target 2025 - (AGID) - CAP3.30
+   al target 2025 - (AgID) - CAP3.30
 
 -  **Dicembre 2026** - Completamento attività di monitoraggio relativo
-   al target 2026 - (AGID) - CAP3.31
+   al target 2026 - (AgID) - CAP3.31
 
 Linee di azione per le PA
 ~~~~~~~~~~~~~~~~~~~~~~~~~

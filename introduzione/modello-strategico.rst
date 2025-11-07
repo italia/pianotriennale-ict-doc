@@ -25,7 +25,7 @@ nazionale e realizzare un processo di digitalizzazione dell'azione
 amministrativa coordinato e condiviso e per l'individuazione delle Linee
 guida.
 
-La Presidenza del Consiglio dei ministri, anche avvalendosi dell'AGID,
+La Presidenza del Consiglio dei ministri, anche avvalendosi dell'AgID,
 assicura il coordinamento informatico dell'amministrazione statale,
 regionale e locale, con la finalità di progettare e monitorare
 l'evoluzione strategica del sistema informativo della Pubblica

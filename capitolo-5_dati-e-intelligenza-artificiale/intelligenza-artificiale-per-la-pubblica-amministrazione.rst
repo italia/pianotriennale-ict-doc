@@ -50,7 +50,8 @@ giugno 2024 (AI Act) stabilisce regole armonizzate sull'intelligenza
 artificiale. L'AI Act affronta i rischi legati all'utilizzo dell'IA,
 classificandoli in quattro diversi livelli: rischio inaccettabile (divieto),
 rischio elevato, rischio limitato e rischio minimo. L'AI Act introduce obblighi
-di trasparenza per i grandi modelli generalisti di IA. Il regolamento intende
+di trasparenza per i grandi modelli generalisti di IA e per tutti i sistemi AI 
+che interagiscono con persone fisiche. Il regolamento intende
 porre le basi per costruire un ecosistema di eccellenza nell'IA e rafforzare la
 capacità dell'Unione Europea di competere a livello globale con soluzioni di
 intelligenza artificiale affidabile.
@@ -80,13 +81,14 @@ prevede importanti misure di finanziamento sia per la ricerca in ambito
 di intelligenza artificiale sia per lo sviluppo di piattaforme di IA per
 i servizi della Pubblica Amministrazione.
 
-In applicazione dell'AI Act, il DTD di concerto con ACN e AGID promuoverà l'obiettivo di innalzare i
-livelli di *cybersecurity* dell'Intelligenza Artificiale per assicurare
-che sia progettata, sviluppata e impiegata in maniera sicura, anche in
-coerenza con le linee guida internazionali sulla sicurezza
-dell'Intelligenza Artificiale. La *cybersecurity* è un requisito
-essenziale dell'IA al fine di garantire resilienza, *privacy*,
-correttezza ed affidabilità, ovvero un cyberspazio più sicuro.
+In applicazione dell'AI Act, il DTD di concerto con ACN e AgID promuoverà 
+l'obiettivo di innalzare i livelli di *cybersecurity* dell'Intelligenza 
+Artificiale per assicurare che sia progettata, sviluppata e impiegata in 
+maniera sicura, anche in coerenza con le linee guida internazionali sulla 
+sicurezza dell'Intelligenza Artificiale. La *cybersecurity* è uno dei requisiti 
+essenziali dell'IA che, insieme ai requisiti di resilienza, *privacy*,
+accuratezza e robustezza, permette un utilizzo sicuro e consapevole di queste 
+tecnologie.
 
 La "Strategia italiana per l'intelligenza artificiale 2024-2026" stabilisce gli
 obiettivi di promozione e sviluppo dell'IA, suddividendoli in quattro macroaree:
@@ -100,24 +102,6 @@ Amministrazione.
 Il Piano triennale declina in linee di azione operative gli obiettivi per la
 Pubblica Amministrazione definiti nella "Strategia italiana per l'intelligenza
 artificiale 2024-2026".
-
-La Pubblica Amministrazione italiana conta esperienze rilevanti nello
-sviluppo e utilizzo di soluzioni di intelligenza artificiale. A titolo
-esemplificativo si citano le esperienze di:
-
--  **Agenzia delle entrate e INAIL**, utilizzo di algoritmi di *machine
-   learning* per analizzare schemi e comportamenti sospetti, aiutando
-   nella prevenzione e rilevazione di frodi;
-
--  **INPS**, adozione di *chatbot* per semplificare e personalizzare
-   l'interazione con l'utente, migliorando l'accessibilità e l'usabilità
-   dei servizi;
-
--  **ISTAT**, sperimentazione sull'uso di algoritmi di AI generativa per
-   produrre ontologie partendo da una descrizione in linguaggio naturale del
-   contesto semantico che si vuole modellare. Collaborazioni con partner
-   pubblici e privati per progetti di ricerca finalizzati allo sviluppo di LLM
-   italiani.
 
 L'affermarsi dei grandi modelli generalisti di IA costituisce un importante
 fattore di accelerazione per lo sviluppo e l'adozione di soluzioni di
@@ -136,10 +120,15 @@ contesti locali con particolare attenzione all'utilizzo di sensoristica,
 computazione decentrata e di sistemi realizzati con modelli IA anche di piccole
 dimensioni e/o con reti di agenti intelligenti.
 
+Le amministrazioni pubbliche dovranno rispettare le Linee guida sull'Intelligenza 
+artificiale in corso di formulazione ed emanazione da parte dell'Agenzia per 
+l'Italia Digitale ai sensi del Piano Triennale per l'informatica nella pubblica 
+amministrazione.
+
 *Ambienti di sperimentazione e sviluppo*
 
 Per sostenere il raggiungimento degli obiettivi definiti dalla "Strategia
-italiana per l'intelligenza artificiale 2024-2026" e del Piano triennale, AGID
+italiana per l'intelligenza artificiale 2024-2026" e del Piano triennale, AgID
 intende istituire, gestire e promuove "Ambienti di Sperimentazione e Sviluppo di
 Intelligenza Artificiale".
 
@@ -180,7 +169,16 @@ anche attraverso soggetti aggregatori (*Hub*) nazionali e regionali.
 Pubblica Amministrazione*
 
 Le amministrazioni pubbliche devono affrontare molte sfide nel
-perseguire l'utilizzo dell'intelligenza artificiale. Di seguito si
+perseguire l'utilizzo dell'intelligenza artificiale come, ad 
+esempio, evitare che le risposte generate dai sistemi di IA siano 
+inquinate da “allucinazioni” o rilascino informazioni fuorvianti 
+o errate. Le Pubbliche Amministrazioni adottano i sistemi di IA 
+garantendo la *compliance* all'*AI Act*, con particolare attenzione 
+al proprio ruolo, che, a seconda del contesto, può ricadere sia 
+in quello di *deployer* che di fornitore, con evidenti differenziazioni 
+negli obblighi conseguenti.
+
+Di seguito si
 riportano alcuni principi generali che dovranno essere adottati dalle
 pubbliche amministrazioni e declinati in fase di applicazione tenendo in
 considerazione lo scenario in veloce evoluzione.
@@ -196,9 +194,10 @@ considerazione lo scenario in veloce evoluzione.
 2.  **Analisi del rischio.** Le amministrazioni pubbliche analizzano i
     rischi associati all'impiego di sistemi di intelligenza artificiale
     per assicurare che tali sistemi non provochino violazioni dei
-    diritti fondamentali della persona o altri danni rilevanti. Le
-    pubbliche amministrazioni adottano la classificazione dei sistemi di
-    IA secondo le categorie di rischio definite dall'*AI Act*.
+    diritti fondamentali della persona o altri danni rilevanti per la 
+    salute e la sicurezza dei cittadini. Le pubbliche amministrazioni 
+    adottano la classificazione dei sistemi di IA secondo le categorie 
+    di rischio definite dall'*AI Act*.
 
 3.  **Trasparenza, responsabilità e informazione.** Le pubbliche
     amministrazioni pongono particolare attenzione alla trasparenza e
@@ -249,10 +248,11 @@ considerazione lo scenario in veloce evoluzione.
     dei ruoli, in particolare dei fornitori e degli utenti del sistema
     di IA.
 
-10. **Dati.** Le pubbliche amministrazioni, che acquistano servizi di
+10. **Dati.** Fermo restando quanto previsto dalla normativa nazionale ed 
+    unionale, le pubbliche amministrazioni, che acquistano servizi di
     intelligenza artificiale tramite API, valutano con attenzione le
     modalità e le condizioni con le quali il fornitore del servizio
-    gestisce di dati forniti dall'amministrazione con particolare
+    gestisce i dati forniti dall'amministrazione con particolare
     riferimento alla proprietà dei dati e alla conformità con la
     normativa vigente in materia di protezione dei dati e *privacy*.
 
@@ -286,6 +286,19 @@ Commissione Europea ha avviato una specifica attività presso il CEN e il
 CENELEC per definire norme tecniche europee per rispondere a tali
 esigenze.
 
+Con la Comunicazione “Piano di azione per il continente dell'IA”, inoltre, 
+la Commissione ha annunciato per la seconda metà del 2025 una nuova Strategia 
+dell'Unione sui dati con l'obiettivo di rafforzare l'ecosistema dei dati 
+dell'UE, migliorando l'interoperabilità e la disponibilità dei dati tra i 
+vari settori, per rispondere alla scarsità di dati di alta qualità per 
+l'addestramento e la convalida dei modelli di IA. Il piano prevede azioni 
+per costruire infrastrutture di dati e di calcolo dell'IA su larga scala, 
+aumentare l'accesso a dati di alta qualità, promuovere l'adozione dell'IA 
+in settori strategici, rafforzare le competenze e i talenti in materia di 
+IA e facilitare l'attuazione della legge sull'IA. Tra le componenti principali 
+figurano la creazione di fabbriche di IA e Gigafactories, la InvestAI Facility 
+per stimolare gli investimenti privati e il lancio dell'AI Skills Academy.
+
 Nel contesto nazionale, considerando un'architettura istituzionale che organizza
 i territori in regioni e comuni, con l'obiettivo di garantire livelli di
 servizio uniformi, diventa cruciale progettare e implementare soluzioni
@@ -304,29 +317,33 @@ Amministrazione italiana stessa.
 Contesto normativo e strategico
 -------------------------------
 
-Riferimenti normativi europei:
+Riferimenti normativi europei e nazionali:
 
 -  `Comunicazione della Commissione al Parlamento Europeo e al Consiglio,
    "Piano Coordinato sull'Intelligenza Artificiale", COM (2021) 205 del
-   21 aprile 2021 <https://data.consilium.europa.eu/doc/document/ST-8334-2021-INIT/it/pdf>`__
+   21 aprile 2021 <https://data.consilium.europa.eu/doc/document/ST-8334-2021-INIT/it/pdf>`__;
 
 -  `Decisione della Commissione "*on a standardisation request to the European
    Committee for Standardisation and the European Committee for Electrotechnical
    Standardisation in support of Union policy on artificial intelligence*" C
    (2023) 3215 del 22 maggio 2023
-   <https://ec.europa.eu/transparency/documents-register/detail?ref=C(2023)3215&lang=en>`__
+   <https://ec.europa.eu/transparency/documents-register/detail?ref=C(2023)3215&lang=en>`__;
 
 -  `Comunicazione della Commissione al Parlamento Europeo e al Consiglio "Sulla
    promozione delle start-up e dell'innovazione nell'IA affidabile", COM (2024)
    28 del 24 gennaio 2024
-   <https://ec.europa.eu/newsroom/dae/redirection/document/101621>`__
+   <https://ec.europa.eu/newsroom/dae/redirection/document/101621>`__;
 
 -  `Regolamento del Parlamento europeo e del Consiglio "che stabilisce regole
    armonizzate sull'intelligenza artificiale", (UE) 2024/1689 del 13 giugno 2024
-   <https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=OJ%3AL_202401689>`__
+   <https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=OJ%3AL_202401689>`__;
+
+-  Comunicazione della Commissione al Parlamento Europeo, al Consiglio, al 
+   Comitato Economico e Sociale Europeo e al Comitato delle Regioni, "Piano 
+   d'azione per il continente dell'IA”, COM(2025) 165 final del 9 aprile 2025;
 
 -  `Strategia italiana per l'intelligenza artificiale 2024-2026
-   <https://assets.innovazione.gov.it/1721376223-01-strategia-italiana-per-l-intelligenza-artificiale-2024-2026.pdf>`__
+   <https://assets.innovazione.gov.it/1721376223-01-strategia-italiana-per-l-intelligenza-artificiale-2024-2026.pdf>`__.
 
 Obiettivo 5.4 - Aumento della consapevolezza della Pubblica Amministrazione nell'adozione delle tecnologie di intelligenza artificiale
 --------------------------------------------------------------------------------------------------------------------------------------
@@ -341,7 +358,7 @@ forniranno strumenti di valutazione sull'utilizzo dell'intelligenza
 artificiale per rispondere alle esigenze delle amministrazioni,
 illustrando casi d'uso e promuovendo buone pratiche.
 
--  **Target 2024** - Redazione delle Linee guida
+-  **Monitoraggio 2024** - Redazione delle Linee guida
 
 -  **Target 2025** - Almeno 150 progetti di innovazione mediante IA
    (avviati)
@@ -362,7 +379,7 @@ il quadro normativo vigente.
 Le Linee guida forniranno indicazione sulla gestione dei servizi di IA
 da parte della PA.
 
--  **Target 2024** - Redazione delle Linee guida
+-  **Monitoraggio 2024** - Redazione delle Linee guida
 
 -  **Target 2025** - Almeno 100 iniziative di acquisizione di servizi di
    IA
@@ -378,7 +395,7 @@ amministrazioni gli strumenti metodologici necessari per affrontare
 progetti di sviluppo di soluzioni IA, compresa la creazione di soluzioni
 basate su *foundation models*.
 
--  **Target 2024** - Redazione delle Linee guida
+-  **Monitoraggio 2024** - Redazione delle Linee guida
 
 -  **Target 2025** - Almeno 50 progetti di sviluppo di soluzioni IA
 
@@ -391,7 +408,7 @@ Sviluppo e implementazione di soluzioni basate su IA finalizzate al
 miglioramento della qualità dei servizi pubblici, con l'obiettivo di
 garantire uniformi livelli di servizio su tutto il territorio nazionale.
 
--  **Target 2024** - Identificazione delle soluzioni nazionali fondate
+-  **Monitoraggio 2024** - Identificazione delle soluzioni nazionali fondate
    sull'IA
 
 -  **Target 2025** - Sviluppo delle soluzioni nazionali
@@ -411,11 +428,15 @@ Pubblica Amministrazione, preservando allo stesso tempo le peculiarità
 della Pubblica Amministrazione italiana e le specificità culturali
 nazionali.
 
--  **Target 2024** - Ricognizione delle basi di dati strategiche
+-  **Monitoraggio 2024** - n.d.  
 
--  **Target 2025** - Digitalizzazione delle basi di dati strategiche
+-  **Target 2025** - Ricognizione delle basi di dati strategiche
 
--  **Target 2026** - Promozione delle basi di dati strategiche
+-  **Target 2026:** 
+
+   - Digitalizzazione delle basi di dati strategiche
+
+   - Promozione delle basi di dati strategiche
 
 Linee di azione istituzionali
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -423,38 +444,48 @@ Linee di azione istituzionali
 RA5.4.1
 ^^^^^^^
 
--  **Dicembre 2024** - Redazione Linee guida per promuovere l'adozione
-   dell'IA nella Pubblica Amministrazione - (AGID) - CAP5.14
+-  **Dicembre 2025** - Ricognizione dei progetti di innovazione 
+   mediante IA avviati nella PA Pubblica Amministrazione - 
+   (AgID) - CAP5.28
 
-RA5.4.2
+-  **Dicembre 2026** - Ricognizione dei progetti di innovazione 
+   mediante IA avviati nella PA - (AgID) - CAP5.29
+
+RA5.4.1
 ^^^^^^^
 
--  **Dicembre 2024** - Redazione Linee guida per il *procurement* di IA
-   nella Pubblica Amministrazione - (AGID) - CAP5.15
+-  **Dicembre 2025** - Ricognizione delle iniziative di acquisizione 
+   di servizi di IA nella PA - (AgID) - CAP5.30
+
+-  **Dicembre 2026** - Ricognizione delle iniziative di acquisizione 
+   di servizi di IA nella PA - (AgID) - CAP5.31
 
 RA5.4.3
 ^^^^^^^
 
--  **Dicembre 2024** - Redazione Linee guida per lo sviluppo di
-   applicazioni di IA nella Pubblica Amministrazione - (AGID) - CAP5.16
+-  **Dicembre 2025** - Ricognizione dei progetti di sviluppo di soluzione 
+   di IA nella PA - (AgID) - CAP5.32
+
+-  **Dicembre 2026** - Ricognizione dei progetti di sviluppo di soluzione 
+   di IA nella PA - (AgID) - CAP5.33
 
 RA5.4.4
 ^^^^^^^
 
--  **Dicembre 2024** - Identificazione delle soluzioni nazionali fondate
-   sull'IA - (AGID) - CAP5.17
+-  **Dicembre 2025 \*** - Identificazione delle soluzioni nazionali fondate
+   sull'IA - (AgID) - CAP5.17
 
--  **Dicembre 2025** - Coordinamento delle attività di sviluppo delle
-   soluzioni nazionali - (AGID) - CAP5.18
+-  **Dicembre 2026** - Coordinamento delle attività di sviluppo delle
+   soluzioni nazionali - (AgID) - CAP5.18
 
 RA5.5.1
 ^^^^^^^
 
--  **Dicembre 2024** - Identificazione delle basi di dati nazionali
-   strategiche - (AGID) - CAP5.19
+-  **Dicembre 2025 \*** - Identificazione delle basi di dati nazionali
+   strategiche - (AgID) - CAP5.19
 
 -  **Dicembre 2025 -** Coordinamento delle attività di digitalizzazione
-   delle basi di dati nazionali strategiche - (AGID) - CAP5.20
+   delle basi di dati nazionali strategiche - (AgID) - CAP5.20
 
 Linee di azione per le PA
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -462,20 +493,23 @@ Linee di azione per le PA
 RA5.4.1
 ^^^^^^^
 
--  **Dicembre 2025** - Le PA adottano le Linee per promuovere l'adozione
-   dell'IA nella Pubblica Amministrazione - CAP5.PA.21
+-  **Da dicembre 2025** - Le PA dovranno rispettare le Linee per 
+   promuovere l'adozione dell'IA nella Pubblica Amministrazione - CAP5.PA.21
 
 RA5.4.2
 ^^^^^^^
 
--  **Dicembre 2025** - Le PA adottano le Linee guida per il
+-  **Da dicembre 2025** - Le PA dovranno rispettare le Linee guida per il
    *procurement* di IA nella Pubblica Amministrazione - CAP5.PA.22
 
 RA5.4.3
 ^^^^^^^
 
--  **Dicembre 2025** - Le PA adottano le Linee guida per lo sviluppo di
-   applicazioni di IA nella Pubblica Amministrazione - CAP5.PA.23
+-  **Da dicembre 2025** - Le PA dovranno rispettare le Linee guida per lo 
+   sviluppo di applicazioni di IA nella Pubblica Amministrazione - CAP5.PA.23
+
+-  **Da luglio 2026** - Le PA trasmettono periodicamente all'AgID i dati 
+   fondamentali delle iniziative nell'ambito delle tecnologie di IA - CAP5.PA.27
 
 RA5.4.4
 ^^^^^^^

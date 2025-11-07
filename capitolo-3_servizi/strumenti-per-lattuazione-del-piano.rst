@@ -27,7 +27,7 @@ OB3.2
    coerenti nell'esperienza d'uso, privilegiando le indicazioni e gli
    strumenti previsti su Designers Italia.
 
-   Il DTD e AGID mettono a disposizione su questo canale i modelli di sito
+   Il DTD e AgID mettono a disposizione su questo canale i modelli di sito
    e servizi digitali, un *design system* completo di documentazione e
    librerie di progettazione e di sviluppo, e risorse per affrontare le
    diverse fasi di progetto di un servizio pubblico digitale.
@@ -39,7 +39,7 @@ OB3.2
    informazioni, strumenti e risorse tecniche e normative per l'utilizzo
    delle piattaforme abilitanti a disposizione delle pubbliche
    amministrazioni. Il Catalogo del software a riuso e *open source*,
-   gestito da DTD ed AGID, permette alle Pubbliche Amministrazioni di
+   gestito da DTD ed AgID, permette alle Pubbliche Amministrazioni di
    svolgere le valutazioni comparative, propedeutiche all'acquisizione di
    *software* e servizi connessi. La sezione Interoperabilità fornisce
    informazioni sullo sviluppo di interfacce per la programmazione delle
@@ -49,8 +49,13 @@ OB3.2
 
 -  `Forum Italia <https://forum.italia.it/>`__
 
-   Forum Italia è uno spazio di confronto, per domande, risposte sugli
-   argomenti della trasformazione digitale.
+   Forum Italia è uno spazio di confronto, ovvero uno spazio aperto alla 
+   partecipazione di cittadini, professionisti e amministrazioni, sui temi 
+   della trasformazione digitale. Ospita anche le consultazioni pubbliche, 
+   ad esempio su leggi, linee guida o progetti digitali. Richiede ad ogni 
+   modo una registrazione per poter partecipare attivamente. Alcune categorie 
+   sono presidiate da team progettuali o referenti istituzionali, mentre altre 
+   sono gestite dalla community in modalità collaborativa.
 
 -  `Docs Italia <https://docs.italia.it/>`__
 
@@ -69,15 +74,15 @@ OB3.2
    aggregate e anonimizzate, derivanti dal monitoraggio statistico attivato
    sul singolo sito e/o servizio
 
-   AGID mette a disposizione delle PA la piattaforma di analisi statistica
+   AgID mette a disposizione delle PA la piattaforma di analisi statistica
    *Web Analytics Italia* che permette di monitorare le statistiche in
    tempo reale dei visitatori dei siti della Pubblica Amministrazione e di
    beneficiare di strumenti ad hoc per pubblicare le statistiche dei siti
    monitorati (art. 7 CAD).
 
--  `Form AGID <https://form.agid.gov.it/home>`__
+-  `Form AgID <https://form.agid.gov.it/home>`__
 
-   Applicazione messa a disposizione da AGID attraverso cui le pubbliche
+   Applicazione messa a disposizione da AgID attraverso cui le pubbliche
    amministrazioni possono inviare informazioni e dichiarazioni strutturate
    e ufficiali relativamente ai propri servizi ICT.
 
@@ -86,7 +91,7 @@ OB3.2
 
 -  `MAUVE++ <https://mauve.isti.cnr.it/>`__
 
-   Nell'ambito della misura "PNRR 1.4.2 - *Citizen inclusion*" AGID e CNR
+   Nell'ambito della misura "PNRR 1.4.2 - *Citizen inclusion*" AgID e CNR
    hanno realizzato una piattaforma, gratuita e *open source*, per la
    verifica automatica dell'accessibilità dei siti web.
 
@@ -131,7 +136,7 @@ OB3.4
    <https://www.agid.gov.it/sites/default/files/repository_files/linee_di_indirizzo_per_i_soggetti_sub-attuatori_sdg_pnrr.pdf>`__
 
 -  `Documento informativo sulla Metodologia di monitoraggio messo a disposizione
-   da AGID
+   da AgID
    <https://www.agid.gov.it/sites/default/files/repository_files/sdg_operation-center_metodologia-monitoraggio.pdf>`__
 
 -  `Documento di indicazioni per migliorare l'usabilità e l'esperienza utente

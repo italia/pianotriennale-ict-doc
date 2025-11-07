@@ -35,36 +35,30 @@ progressi compiuti verso ciascuno degli obiettivi per il 2030.
 Per individuare la proposta di nuovi indicatori e nuove metodologie di
 valorizzazione maggiormente attinenti con le caratteristiche della
 digitalizzazione italiana, è stato costituito - come indicato nel Piano 24-26,
-Linea di azione CAP1.21, vedi Appendice 2 - un gruppo di lavoro AGID-ISTAT-DTD.
-Il gruppo di lavoro avrà anche l'obiettivo di delineare sistema di valutazione
+Linea di azione CAP1.21, vedi Appendice 2 - un gruppo di lavoro AgID-ISTAT-DTD.
+Il gruppo di lavoro avrà anche l'obiettivo di delineare un sistema di valutazione
 dei servizi digitali pubblici che sia coerente con il quadro di riferimento
 europeo e con i principi dell'*eGovernment benchmark.*
 
-Nell'edizione 2022-2024 del Piano triennale è stato inoltre avviato il
-percorso di allineamento dei risultati attesi con i target degli
-`interventi PNRR in materia di
-digitalizzazione <https://www.italiadomani.gov.it/content/sogei-ng/it/it/il-piano/missioni-pnrr/digitalizzazione-e-innovazione.html>`__
-M1C1.
-
-A partire dagli esiti delle attività indicate, AGID avvierà il processo
+A partire dagli esiti delle attività indicate, AgID avvierà il processo
 di definizione di indice di digitalizzazione della PA italiana che
 permetta di ottenere una visione del livello di maturità digitale degli
 enti pubblici e di introdurre le azioni correttive necessarie al
 raggiungimento degli obiettivi previsti dalle strategie nazionali ed
 europee
 
-**Osservatorio sulla Digitalizzazione nel Territorio Italiano**
+**Osservatorio sulla Digitalizzazione nel territorio italiano**
 
 A fronte degli ingenti investimenti previsti dal Piano Nazionale di
 Ripresa e Resilienza (PNRR) per la digitalizzazione della Pubblica
 Amministrazione, il Dipartimento per la Trasformazione Digitale della
 Presidenza del Consiglio dei ministri ha avviato la costituzione di un
-Osservatorio sulla trasformazione digitale nel territorio italiano: una
-raccolta sistematica di dati sulle risorse previste per la
+Osservatorio sulla trasformazione digitale nel territorio italiano: si 
+tratta di una raccolta sistematica di dati sulle risorse previste per la
 digitalizzazione della PA, sui progetti finanziati e sulle
 amministrazioni coinvolte in questo processo, anche attraverso
 l'integrazione con altre banche dati pertinenti. L'intento è di
-accompagnare alle scelte di *policy* un'attività di monitoraggio e di
+accompagnare le scelte di *policy* con un'attività di monitoraggio e di
 misurazione degli impatti, fornendo elementi oggettivi di valutazione
 delle politiche pubbliche, che possano contribuire a orientare le
 iniziative future in materia di semplificazione e digitalizzazione dei
@@ -100,40 +94,40 @@ Riferimenti normativi italiani:
 
 -  `Decreto legislativo 7 marzo 2005, n. 82 "Codice dell'amministrazione
    digitale" (in breve CAD) art. 14-bis lettera
-   c) <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82>`__
+   c) <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82>`__.
 
 Riferimenti normativi europei:
 
 -  `Ministerial Declaration on eGovernment - Tallinn declaration - 6
    ottobre
-   2017 <https://ec.europa.eu/newsroom/dae/redirection/document/47559>`__
+   2017 <https://ec.europa.eu/newsroom/dae/redirection/document/47559>`__;
 
 -  `Regolamento (UE) 2018/1724 del 2 ottobre 2018 che istituisce uno
    sportello digitale unico per l'accesso a informazioni, procedure e
    servizi di assistenza e di risoluzione dei problemi e che modifica il
    regolamento (UE)
-   1024/2012 <https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A32018R1724>`__
+   1024/2012 <https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A32018R1724>`__;
 
 -  `Berlin Declaration on Digital Society and Value-based Digital
    Government - 8 dicembre
-   2020 <https://ec.europa.eu/newsroom/dae/document.cfm?doc_id=75984>`__
+   2020 <https://ec.europa.eu/newsroom/dae/document.cfm?doc_id=75984>`__;
 
 -  `Comunicazione della Commissione al Parlamento Europeo, al Consiglio,
    al Comitato economico e sociale europeo e al comitato delle regioni
    Bussola per il digitale 2030: il modello europeo per il decennio
-   digitale <https://eur-lex.europa.eu/legal-content/IT/ALL/?uri=CELEX%3A52021DC0118>`__
+   digitale <https://eur-lex.europa.eu/legal-content/IT/ALL/?uri=CELEX%3A52021DC0118>`__;
 
 -  `Decisione (UE) 2022/2481 del Parlamento europeo e del Consiglio del
    14 dicembre 2022 che istituisce il programma strategico per il
    decennio digitale
-   2030 <https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A32022D2481>`__
+   2030 <https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A32022D2481>`__;
 
 -  `Decisione di esecuzione (UE) della Commissione Europea del 30 giugno
    2023 che definisce gli indicatori chiave di prestazione per misurare
    i progressi compiuti verso il conseguimento degli obiettivi digitali
    di cui all'articolo 4, paragrafo 1, della decisione (UE) 2022/2481
    del Parlamento europeo e del
-   Consiglio <https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=uriserv%3AOJ.L_.2023.168.01.0048.01.ITA>`__
+   Consiglio <https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=uriserv%3AOJ.L_.2023.168.01.0048.01.ITA>`__;
 
 Obiettivo 1.3 - Monitorare e analizzare lo stato di digitalizzazione del paese
 ------------------------------------------------------------------------------
@@ -141,28 +135,27 @@ Obiettivo 1.3 - Monitorare e analizzare lo stato di digitalizzazione del paese
 RA1.3.1 - Definizione di un indice di digitalizzazione della PA italiana
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  **Target 2024** - Misurazione della *baseline* degli indicatori
+-  **Monitoraggio 2024** - Individuazione del set di indicatori propedeutico 
+   alla definizione dell’indice di digitalizzazione della PA
+
+-  **Target 2025** - Misurazione della *baseline* degli indicatori
    dell'indice di digitalizzazione della PA su un primo campione
    rappresentativo di Amministrazioni
 
--  **Target 2025** - Almeno 1.000 amministrazioni alimentano l'indice di
-   digitalizzazione
-
--  **Target 2026** - Almeno 3.000 amministrazione alimentano l'indice di
+-  **Target 2026** - Almeno 1.000 amministrazioni alimentano l'indice di
    digitalizzazione
 
 RA1.3.2 - Acquisizione ed elaborazione di informazioni analitiche da Enti locali
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  **Target 2024** - Raccolta dati tramite *survey*, coinvolgendo
-   attivamente gli Enti locali per ottenere un quadro iniziale dello
-   stato di digitalizzazione
+-  **Monitoraggio 2024** - Raccolta dati tramite survey effettuata e conclusa 
+   nell'ottobre 2024. 
 
 -  **Target 2025** - Secondo ciclo di raccolta dati tramite *survey*,
    permettendo un confronto con i dati raccolti nell'anno precedente e
    identificando eventuali *trend*
 
--  **Target 2026** - Consolidamento i dati raccolti nei due anni
+-  **Target 2026** - Consolidamento dei dati raccolti nei due anni
    precedenti per ottenere una visione approfondita e affidabile dello
    stato di digitalizzazione, fornendo basi solide per le decisioni
    future
@@ -170,10 +163,10 @@ RA1.3.2 - Acquisizione ed elaborazione di informazioni analitiche da Enti locali
 RA1.3.3 - Aumento delle tipologie e delle fonti dati integrate all'interno dell'Osservatorio
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  **Target 2024** - Integrazione di 5 nuove fonti dati
-   nell'Osservatorio, laddove possibile attraverso l'accesso diretto a
-   registri, database e documenti ufficiali *machine-readable,*
-   ampliando la varietà e la profondità delle informazioni disponibili
+-  **Monitoraggio2024** - 5 nuove fonti dati integrate nell'Osservatorio, 
+   laddove possibile attraverso l'accesso diretto a registri, database e 
+   documenti ufficiali *machine-readable,* ampliando la varietà e la 
+   profondità delle informazioni disponibili
 
 -  **Target 2025** - Ulteriori 5 fonti dati, continuando a diversificare
    le fonti integrate per ottenere una visione più completa e
@@ -190,44 +183,30 @@ Linee di azione Istituzionali
 RA1.3.1
 ^^^^^^^
 
--  **Dicembre 2024 \*** - Definizione di *KPI (Key Performance Indicator)*
-   che facciano parte dell'indice di digitalizzazione e definizione del
-   campione - (AGID) - CAP1.22
+-  **Dicembre 2025 \*** - Aggiornamento *KPI* e definizione dell'indice di 
+   digitalizzazione - (AgID) - CAP1.24
 
--  **Giugno 2025 \*** - Raccolta dati dal campione per alimentazione
+-  **Dicembre 2025** - Definizione del campione per alimentazione indice di 
+   digitalizzazione del campione e presentazione dei risultati - (AgID) - CAP1.25
+
+-  **Giugno 2026 \*** - Raccolta dati dal campione per alimentazione
    indice di digitalizzazione del campione e presentazione dei risultati
-   - (AGID) - CAP1.23
-
--  **Giugno 2025** - Aggiornamento *KPI* dell'indice di digitalizzazione
-   - (AGID) - CAP1.24
-
--  **Dicembre 2025** - Raccolta dati dal campione per alimentazione
-   indice di digitalizzazione del campione e presentazione dei risultati
-   - (AGID) - CAP1.25
+   - (AgID) - CAP1.23
 
 -  **Giugno 2026** - Aggiornamento *KPI* dell'indice di digitalizzazione
-   -(AGID) - CAP1.26
+   -(AgID) - CAP1.26
 
 -  **Dicembre 2026** - Raccolta dati dal campione per alimentazione
    indice di digitalizzazione del campione e presentazione dei risultati
-   - (AGID) - CAP1.27
+   - (AgID) - CAP1.27
 
 RA1.3.2 e RA1.3.3
 ^^^^^^^^^^^^^^^^^
 
--  **Dicembre 2024** - Pubblicazione del primo report sullo stato della
-   digitalizzazione, comunicando i risultati e le tendenze emerse dalla
-   fase iniziale di monitoraggio - (Dipartimento per la Trasformazione
-   Digitale) - CAP1.29
-
--  **Marzo 2025** - Avvio della seconda fase di raccolta e verifica dei
-   dati, adottando eventuali miglioramenti identificati nella fase
-   precedente - (Dipartimento per la Trasformazione Digitale) - CAP1.30
-
--  **Dicembre 2025** - Pubblicazione del secondo report sullo stato
-   della digitalizzazione, fornendo un'analisi più approfondita e
-   identificando le aree di miglioramento - (Dipartimento per la
-   Trasformazione Digitale) - CAP1.31
+-  **Giugno 2026** - Pubblicazione del secondo report sullo stato della 
+   digitalizzazione, fornendo un'analisi più approfondita e identificando 
+   le aree di miglioramento - (Dipartimento per la Trasformazione Digitale) - 
+   CAP1.31
 
 Linee di azione per le PA
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -235,13 +214,13 @@ Linee di azione per le PA
 RA1.3.1
 ^^^^^^^
 
--  **Febbraio 2025** - Le PA che fanno parte del campione alimentano
+-  **Da febbraio 2026** - Le PA che fanno parte del campione alimentano
    l'indice di digitalizzazione secondo la metodologia definita dal
    Gruppo di lavoro - CAP1.PA.10
 
 RA1.3.2 e RA1.3.3
 ^^^^^^^^^^^^^^^^^
 
--  **Settembre 2025** - Gli Enti locali partecipano alla seconda fase
+-  **Da settembre 2026** - Gli Enti locali partecipano alla seconda fase
    della raccolta dati, garantendo l'accuratezza e la completezza delle
    informazioni - CAP1.PA.12

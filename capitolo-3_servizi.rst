@@ -24,13 +24,13 @@ condivisione dei dati a quella della condivisione dei servizi.
 I vantaggi dell'utilizzo di un'architettura basata su microservizi
 sono:
 
--  Flessibilità e scalabilità
+-  flessibilità e scalabilità
 
--  Agilità nello sviluppo
+-  agilità nello sviluppo
 
--  Integrazione semplificata
+-  integrazione semplificata
 
--  Resilienza e affidabilità
+-  resilienza e affidabilità
 
 La transizione verso un'architettura a microservizi richiede la
 consapevolezza che non sia necessario solo un intervento tecnologico ma

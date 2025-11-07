@@ -7,29 +7,29 @@ OB4.1
 I portali delle piattaforme:
 
 -  `Developer Portal <https://developer.pagopa.it/>`__ un canale unico
-   gestito da PagoPA rivolto a enti e sviluppatori, dove trovare guide,
+   gestito da PagoPA S.p.A. rivolto a enti e sviluppatori, dove trovare guide,
    *tutorial* e strumenti per l'integrazione delle piattaforme digitali,
    quale evoluzione del *repository* PagoPA Docs che raccoglie tutta la
-   documentazione delle piattaforme in carico a PagoPA
+   documentazione delle piattaforme in carico a PagoPA S.p.A.;
 
 -  Portali istituzionali dedicati alle piattaforme con documentazione a
    supporto dell'adesione da un punto di vista di gestione
    amministrativa, delle fasi di integrazione tecnologica e della
    comunicazione ai propri utenti:
 
-   -  `PagoPA <https://www.pagopa.gov.it/>`__
+   -  `PagoPA <https://www.pagopa.gov.it/>`__;
 
-   -  `appIO <https://io.italia.it/>`__
+   -  `appIO <https://io.italia.it/>`__;
 
-   -  `SEND <https://notifichedigitali.pagopa.it/>`__
+   -  `SEND <https://notifichedigitali.pagopa.it/>`__;
 
-   -  `SPID/CIE <https://identitadigitale.gov.it/>`__
+   -  `SPID/CIE <https://identitadigitale.gov.it/>`__;
 
-   -  `NoiPA <https://noipa.mef.gov.it/cl/web/guest/aderisci-a-noipa>`__
+   -  `NoiPA <https://noipa.mef.gov.it/cl/web/guest/aderisci-a-noipa>`__;
 
-   -  `FSE <https://www.fascicolosanitario.gov.it/>`__
+   -  `FSE <https://www.fascicolosanitario.gov.it/>`__;
 
-   -  `SUAP <https://www.suapsue.gov.it/>`__
+   -  `SUAP <https://www.suapsue.gov.it/>`__.
 
 OB4.3
 -----
@@ -41,7 +41,7 @@ Portali istituzionali disponibili sulle seguenti basi dati di interesse
 nazionale:
 
 -  il `Repertorio nazionale dei dati territoriali
-   (RNDT) <http://geodati.gov.it/geoportale/>`__ - Titolare: AGID;
+   (RNDT) <http://geodati.gov.it/geoportale/>`__ - Titolare: AgID;
 
 -  l'`Anagrafe nazionale della popolazione residente
    (ANPR) <https://www.anagrafenazionale.interno.it/>`__ - Titolare:
@@ -62,19 +62,25 @@ nazionale:
    dei professionisti e degli altri enti di diritto privato, non tenuti
    all'iscrizione in albi, elenchi o registri professionali o nel
    registro delle imprese (INAD) <https://domiciliodigitale.gov.it/>`__
-   - Titolare: AGID
+   - Titolare: AgID
 
 -  l'`Indice dei domicili digitali delle pubbliche amministrazioni e
    dei gestori di pubblici servizi (IPA) <https://indicepa.gov.it/>`__ -
-   art. 6-ter - Titolare: AGID;
+   art. 6-ter - Titolare: AgID;
 
 -  l'`Indice nazionale dei domicili digitali delle imprese e dei
    professionisti (INI-PEC) <https://www.inipec.gov.it/>`__ - art. 6-bis
    - Titolare: Ministero delle Imprese e del *Made in Italy*;
 
 -  il `Catalogo dei dati delle Pubbliche
-   amministrazioni <https://www.dati.gov.it/>`__ - Titolare: AGID;
+   amministrazioni <https://www.dati.gov.it/>`__ - Titolare: AgID;
 
 -  il `Sistema informativo nazionale federato delle infrastrutture (SINFI)
    <https://sinfi.it/>`__ - Titolare: Ministero delle Imprese e del *Made in
    Italy*;
+
+-  l'Anagrafe nazionale dell'istruzione superiore (ANIS) - art. 62-quinqies -
+   Titolare: Ministero dell'università e della ricerca;
+
+-  l'Anagrafe nazionale dell'istruzione (ANIST) - art. 62-quater - Titolare: 
+   Ministero dell'istruzione e del merito.

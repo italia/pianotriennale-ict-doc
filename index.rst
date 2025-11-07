@@ -1,9 +1,9 @@
-Piano Triennale per l'informatica nella Pubblica Amministrazione 2024 - 2026
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Piano Triennale per l'informatica nella Pubblica Amministrazione
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-**Aggiornamento 2025**
+**Edizione 2024-2026**
 
-Dicembre 2024
+**Aggiornamento 2026**
 
 INTRODUZIONE
 ::::::::::::
@@ -40,7 +40,7 @@ PARTE SECONDA - Componenti tecnologiche
     credits.rst
     ringraziamenti.rst
     appendice-1_glossario.rst
-    appendice-2_risultati_output_la_istituzionali_2024_completate.rst
+    appendice-2-linee-di-azioni-istituzionali.rst
 
 PARTE TERZA - Strumenti
 :::::::::::::::::::::::

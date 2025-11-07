@@ -45,7 +45,7 @@ attraverso:
    attuarsi attraverso la definizione, la modellazione e
    l'organizzazione di comunità di pratica;
 
--  Il riuso e la condivisione di *software* e competenze tra le diverse
+-  il riuso e la condivisione di *software* e competenze tra le diverse
    amministrazioni.
 
 Per incoraggiare tutti gli utenti a privilegiare il canale online
@@ -55,17 +55,32 @@ un miglioramento dell'inclusività dei servizi, nel pieno rispetto delle
 norme riguardanti l'accessibilità e il Regolamento generale sulla
 protezione dei dati.
 
-Per il monitoraggio dei propri servizi, le PA possono utilizzare `Web
-Analytics Italia <https://webanalytics.italia.it/>`__, una piattaforma
+Per il monitoraggio dei propri servizi, le PA possono utilizzare *Web 
+Analytics* `Italia <https://webanalytics.italia.it/>`__, una piattaforma
 nazionale open source che offre rilevazioni statistiche su indicatori
 utili al miglioramento continuo dell'esperienza utente.
 
-Per la realizzazione dei propri servizi digitali, le PA possono utilizzare le
-risorse teoriche e gli strumenti operativi messi a disposizione da `Designers
-Italia <https://designers.italia.it/>`__,  tra i quali riveste particolare
-importanza il *design system* .italia, che consente di concentrare i *budget* di
-progettazione e sviluppo sulle parti e sui processi caratterizzanti dello
-specifico servizio digitale.
+È importante che le PA mantengano gli standard attuali per proseguire 
+il processo di miglioramento attuato attraverso i finanziamenti del PNRR. 
+In generale, per la realizzazione dei propri prodotti e servizi digitali, 
+le PA possono utilizzare le risorse teoriche e gli strumenti operativi 
+che saranno messi a disposizione direttamente dal DTD o quelli già messi 
+a disposizione da *Designers* `Italia <https://designers.italia.it/>`__,  
+tra i quali rivestono particolare importanza il Manuale operativo di *design*, 
+le risorse per progettare, i modelli di sito e servizi digitali, il design 
+system.italia e tutti i materiali formativi a supporto.  L'utilizzo di tali 
+risorse è da privilegiare o obbligatorio come indicato nelle Linee Guida AgID 
+di design per i siti internet e i servizi digitali della PA (2022) e forniscono 
+uno strumento fondamentale per l'attuazione delle stesse.
+
+Inoltre, in relazione all'integrazione di software open source e soluzioni 
+“messe a riuso” da altre pubbliche amministrazioni o dalla comunità di 
+sviluppatori, è possibile fare riferimento alla piattaforma nazionale 
+developers.italia.it. Attraverso tale piattaforma, i team di sviluppo 
+condividono componenti software, kit di sviluppo (SDK), esempi di integrazione
+con le piattaforme nazionali e partecipano a iniziative collaborative tramite 
+gli appositi canali digitali, favorendo così il riuso, la trasparenza e 
+l'interoperabilità dei servizi pubblici digitali.
 
 Contesto normativo e strategico
 -------------------------------
@@ -75,56 +90,56 @@ Riferimenti normativi italiani:
 -  `Legge 9 gennaio 2004, n. 4 (Disposizioni per favorire e semplificare
    l'accesso degli utenti e, in particolare, delle persone con
    disabilità agli strumenti
-   informatici) <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-01-09;4!vig=>`__
+   informatici) <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-01-09;4!vig=>`__;
 
 -  `Decreto legislativo 7 marzo 2005, n. 82 "Codice dell'amministrazione
    digitale" (in breve CAD), art. 7, 17, 23, 53, 54, 68, 69 e
-   71 <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig=>`__
+   71 <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig=>`__;
 
 -  `Decreto Ministeriale 30 aprile 2008 (Regole tecniche disciplinanti
    l'accessibilità agli strumenti didattici e formativi a favore degli
    alunni
-   disabili). <https://www.gazzettaufficiale.it/eli/id/2008/06/12/08A04044/sg>`__
+   disabili) <https://www.gazzettaufficiale.it/eli/id/2008/06/12/08A04044/sg>`__;
 
 -  `Legge 3 marzo 2009, n. 18 - Ratifica ed esecuzione della Convenzione
    delle Nazioni Unite sui diritti delle persone con
-   disabilità <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-03-03;18~art3>`__
+   disabilità <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-03-03;18~art3>`__;
 
 -  `Decreto Legislativo 10 agosto 2018, n. 106 (Attuazione della
    direttiva (UE) 2016/2102 relativa all'accessibilità dei siti web e
    delle applicazioni mobili degli enti
-   pubblici) <https://www.gazzettaufficiale.it/eli/id/2018/09/11/18G00133/sg>`__
+   pubblici) <https://www.gazzettaufficiale.it/eli/id/2018/09/11/18G00133/sg>`__;
 
 -  `Decreto-Legge 16 luglio 2020, n. 76 (Misure urgenti per la
    semplificazione e l'innovazione
-   digitale) <https://www.gazzettaufficiale.it/eli/id/2020/07/16/20G00096/sg>`__
+   digitale) <https://www.gazzettaufficiale.it/eli/id/2020/07/16/20G00096/sg>`__;
 
 -  `Decreto Legislativo 27 maggio 2022, n. 82 - "Attuazione della
    direttiva (UE) 2019/882 del Parlamento europeo e del Consiglio, del
    17 aprile 2019, sui requisiti di accessibilità dei prodotti e dei
-   servizi." <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-05-27;82>`__
+   servizi" <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-05-27;82>`__;
 
--  `Linee Guida AGID su acquisizione e riuso del software per la
+-  `Linee Guida AgID su acquisizione e riuso del software per la
    Pubblica Amministrazione
-   (2019) <https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/stabile/>`__
+   (2019) <https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/stabile/>`__;
 
--  `Linee Guida AGID sull'accessibilità degli strumenti informatici
-   (2020) <https://trasparenza.agid.gov.it/archivio19_regolamenti_0_5382.html>`__
+-  `Linee Guida AgID sull'accessibilità degli strumenti informatici
+   (2022) <https://trasparenza.agid.gov.it/archivio19_regolamenti_0_5382.html>`__;
 
--  `Linee Guida AGID sulla formazione, gestione e conservazione dei
+-  `Linee Guida AgID sulla formazione, gestione e conservazione dei
    documenti informatici
-   (2021) <https://www.agid.gov.it/sites/default/files/repository_files/linee_guida_sul_documento_informatico.pdf>`__
+   (2021) <https://www.agid.gov.it/sites/default/files/repository_files/linee_guida_sul_documento_informatico.pdf>`__;
 
--  `Linee Guida AGID di design per i siti internet e i servizi digitali
+-  `Linee Guida AgID di design per i siti internet e i servizi digitali
    della PA
-   (2022) <https://docs.italia.it/italia/design/lg-design-servizi-web/it/versione-corrente/index.html>`__
+   (2022) <https://docs.italia.it/italia/design/lg-design-servizi-web/it/versione-corrente/index.html>`__;
 
--  `Determinazione AGID n.354/2022 del 22 dicembre 2022 - Linee Guida
+-  `Determinazione AgID n.354/2022 del 22 dicembre 2022 - Linee Guida
    sull'accessibilità degli strumenti informatici adottate con
    Determinazione n. 437/2019 del 20 dicembre 2019 e rettificate con
    Determinazione n. 396/2020 del 10 settembre 2020 - Rettifica per
    adeguamento a norma tecnica europea armonizzata
-   sopravvenuta <https://trasparenza.agid.gov.it/archivio28_provvedimenti-amministrativi_0_123388_725_1.html>`__.
+   sopravvenuta <https://trasparenza.agid.gov.it/archivio28_provvedimenti-amministrativi_0_123388_725_1.html>`__;
 
 -  Piano Nazionale di Ripresa e Resilienza:
 
@@ -132,13 +147,13 @@ Riferimenti normativi italiani:
       interoperabilità <https://italiadomani.gov.it/it/Interventi/investimenti/dati-e-interoperabilita.html>`__"
 
    -  M1C1 - Investimento 1.4: "`Servizi digitali e cittadinanza
-      digitale <https://italiadomani.gov.it/it/Interventi/investimenti/servizi-digitali-e-cittadinanza-digitale.html>`__"
+      digitale <https://italiadomani.gov.it/it/Interventi/investimenti/servizi-digitali-e-cittadinanza-digitale.html>`__".
 
 Riferimenti normativi europei:
 
 -  `Direttiva (UE) 2016/2102 del 26 ottobre 2016 relativa
    all'accessibilità dei siti web e delle applicazioni mobili degli enti
-   pubblici <https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:32016L2102&from=IT>`__
+   pubblici <https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:32016L2102&from=IT>`__;
 
 -  `Decisione di esecuzione (UE) 2018/1524 della Commissione dell'11
    ottobre 2018 che stabilisce una metodologia di monitoraggio e
@@ -146,53 +161,55 @@ Riferimenti normativi europei:
    relazioni degli Stati membri conformemente alla direttiva (UE)
    2016/2102 del Parlamento europeo e del Consiglio relativa
    all'accessibilità dei siti web e delle applicazioni mobili degli enti
-   pubblici <https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:32018D1524&from=ES>`__
+   pubblici <https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:32018D1524&from=ES>`__;
 
 -  `Direttiva (UE) 2019/882 del parlamento europeo e del consiglio, del
    17 aprile 2019, sui requisiti di accessibilità dei prodotti e dei
-   servizi <https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:32019L0882&from=EN>`__
+   servizi <https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:32019L0882&from=EN>`__;
 
 -  `Decisione di esecuzione (UE) 2021/1339 della Commissione dell'11
    agosto 2021 che modifica la decisione di esecuzione (UE) 2018/2048
    per quanto riguarda la norma armonizzata per i siti web e le
    applicazioni
-   mobili <https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A32021D1339>`__
+   mobili <https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A32021D1339>`__;
+
+-  Web Content Accessibility Guidelines (WCAG) 2.2.
 
 Obiettivo 3.2 - Migliorare la capacità di generare ed erogare servizi digitali
 ------------------------------------------------------------------------------
 
-RA3.2.1 - Diffusione del modello di riuso di software tra le amministrazioni in attuazione delle Linee guida AGID sull'acquisizione e il riuso del software per la Pubblica Amministrazione
+RA3.2.1 - Diffusione del modello di riuso di software tra le amministrazioni in attuazione delle Linee guida AgID sull'acquisizione e il riuso del software per la Pubblica Amministrazione
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  **Target 2024** - Almeno 100 amministrazioni che rilasciano
-   *software* *open source* in Developers Italia e almeno 2.600 soggetti
-   che riusano *software* *open source* presente in Developers Italia
+-  **Monitoraggio 2024** - 135 amministrazioni rilasciano
+   *software* *open source* in Developers Italia e almeno 8.045 soggetti
+   riusano *software* *open source* presente in Developers Italia
 
--  **Target 2025** - Almeno 125 amministrazioni che rilasciano
-   *software* *open source* in Developers Italia e almeno 2.800 soggetti
+-  **Target 2025** - 140 amministrazioni che rilasciano
+   *software* *open source* in Developers Italia e almeno 8.250 soggetti
    che riusano *software* *open source* presente in Developers Italia
 
 -  **Target 2026** - Almeno 150 amministrazioni che rilasciano
-   *software* *open source* in Developers Italia e almeno 3.000 soggetti
+   *software* *open source* in Developers Italia e almeno 8.500 soggetti
    che riusano *software* *open source* presente in Developers Italia
 
 RA3.2.2 - Incremento dell'accessibilità dei servizi digitali
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  **Target 2024** - Il 100 % delle PA pubblica e aggiorna la
-   dichiarazione di accessibilità dei propri siti istituzionali
-   registrati su IndicePA
+-  **Monitoraggio 2024** - Il 54,5 % delle PA registrate su IPA ha 
+   pubblicato almeno una dichiarazione di accessibilità dei propri 
+   siti istituzionali registrati su IndicePA
 
--  **Target 2025** - Il 100 % delle PA aggiorna la dichiarazione di
+-  **Target 2025** - Il 100 % delle PA registrate su IPA aggiorna la dichiarazione di
    accessibilità dei propri siti istituzionali registrati su IndicePA
 
--  **Target 2026** - Il 100 % delle PA aggiorna la dichiarazione di
+-  **Target 2026** - Il 100 % delle PA registrate su IPA aggiorna la dichiarazione di
    accessibilità dei propri siti istituzionali registrati su IndicePA
 
 RA3.2.3 - Incremento e diffusione dei modelli standard di siti e servizi digitali, disponibili in `Designers Italia <https://designers.italia.it/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  **Target 2024** - 6.520 PA adottano i modelli standard di siti e
+-  **Monitoraggio 2024** - 6.282 PA adottano i modelli standard di siti e
    servizi digitali disponibili
 
 -  **Target 2025** - 9.750 PA adottano i modelli standard di siti e
@@ -207,52 +224,35 @@ Linee di azione istituzionali
 RA3.2.1
 ^^^^^^^
 
--  **Dicembre 2024** - Il DTD condivide a livello europeo soluzioni già
-   sviluppate nel catalogo di Developers Italia (*standard publiccode.
-   yaml, software crawler*, struttura del catalogo), attraverso
-   iniziative come il progetto FOSSEPS (*Free Open Source Software for
-   European Public Services*) - (Dipartimento per la Trasformazione
-   Digitale) - CAP3.12
+-  **Dicembre 2025** - Il DTD conclude i lavori di analisi e progettazione 
+   di Docs Italia per consentire agli enti un'agevole pubblicazione dei 
+   propri documenti - (Dipartimento per la Trasformazione Digitale) - 
+   CAP3.15
 
--  **Dicembre 2024** - Il DTD coordina la definizione di un inventario
-   di *software* "critico", ovvero con valenza strategica per la
-   sovranità digitale del Paese, e identificazione di soluzioni valide
-   esistenti da preservare o lacune da colmare - (Dipartimento per la
-   Trasformazione Digitale) - CAP3.13
-
--  **Dicembre 2024** - Il DTD avvia i lavori di aggiornamento di Docs
+-  **Dicembre 2026** - Il DTD conclude i lavori di aggiornamento di Docs
    Italia per consentire agli enti un'agevole pubblicazione dei propri
-   documenti - (Dipartimento per la Trasformazione Digitale) - CAP3.14
-
--  **Dicembre 2025** - Il DTD conclude i lavori di aggiornamento di Docs
-   Italia per consentire agli enti un'agevole pubblicazione dei propri
-   documenti - (Dipartimento per la Trasformazione Digitale) - CAP3.15
+   documenti - (Dipartimento per la Trasformazione Digitale) - CAP3.37
 
 RA3.2.2
 ^^^^^^^
 
--  **Dicembre 2024** - Aggiornamento dell'elenco degli errori di
-   accessibilità più frequenti, individuati mediante monitoraggio esteso
-   con MAUVE - (AGID) - CAP3.18
+-  **Dicembre 2025** - Monitoraggio relativo all'accessibilità dei siti 
+   web e delle applicazioni mobili della pubblica amministrazione, nel 
+   rispetto della metodologia stabilita dalle Linee Guida AgID 
+   sull'accessibilità degli strumenti informatici - (AgID) - CAP3.38
 
--  **Dicembre 2024** - Erogazione di 50 iniziative di comunicazione,
+-  **Dicembre 2025** - Erogazione di 70 iniziative di comunicazione,
    formazione e sensibilizzazione alla cultura dell'accessibilità su
    scala nazionale a soggetti target del settore pubblico e privato -
-   (AGID) - CAP3.19
+   (AgID) - CAP3.39
 
--  **Dicembre 2024** - Invio alla Commissione Europa della relazione di
-   monitoraggio nazionale dell'accessibilità, ai sensi della Direttiva
-   (UE) 2016/2102 - (AGID) - CAP3.20
-
--  **Giugno 2025** - Sviluppo di un sistema *open source* per la
-   verifica automatica di accessibilità dei siti - (AGID) - CAP3.21
+-  **Dicembre 2026** - Monitoraggio relativo all'accessibilità dei siti 
+   web e delle applicazioni mobili della pubblica amministrazione, nel 
+   rispetto della metodologia stabilita dalle Linee Guida AgID 
+   sull'accessibilità degli strumenti informatici - (AgID) - CAP3.40
 
 RA3.2.3
 ^^^^^^^
-
--  **Dicembre 2024** - Messa a disposizione delle PA della versione di
-   esercizio della documentazione del *Design system* del Paese -
-   (Dipartimento per la Trasformazione Digitale) - CAP3.25
 
 -  **Dicembre 2025** - Erogazione e/o partecipazione ad iniziative di
    formazione tecnica e sensibilizzazione alla cultura della
@@ -260,32 +260,11 @@ RA3.2.3
    pubblico, finalizzate al raggiungimento degli obiettivi della Decade
    Digitale - (Dipartimento per la Trasformazione Digitale) - CAP3.26
 
--  **Gennaio 2025** - Avvio raccolta *feedback* derivanti dalle
-   implementazioni del modello standard di sito per le Aziende Sanitarie
-   Locali, da parte delle ASL che lo hanno implementato, in ottica di
-   miglioramento evolutivo - (Dipartimento per la Trasformazione
-   Digitale) - CAP3.27
-
--  **Marzo 2025** - Avvio raccolta *feedback* derivanti dalle
-   implementazioni del modello standard di sito i musei civici, da parte
-   dei musei civici che lo hanno implementato, in ottica di
-   miglioramento evolutivo - (Dipartimento per la Trasformazione
-   Digitale) - CAP3.28
-
 Linee di azione per le PA
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 RA3.2.2
 ^^^^^^^
-
--  **Dicembre 2024** - Tutte le Regioni, le Province autonome, le Città
-   metropolitane, i Comuni capoluogo delle Città metropolitane attivano
-   *Web Analytics Italia* per la rilevazione delle statistiche di
-   utilizzo del proprio sito *web* istituzionale presente su IndicePA -
-   CAP3.PA.12
-
--  **Marzo 2025** - Le PA pubblicano gli obiettivi di accessibilità sul
-   proprio sito *web* - CAP3.PA.13
 
 -  **Settembre 2025** - Le PA pubblicano, entro il 23 settembre,
    esclusivamente tramite l'applicazione form.agid.gov.it, la

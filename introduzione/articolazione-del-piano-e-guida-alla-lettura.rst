@@ -26,7 +26,7 @@ Il Piano è strutturato in tre parti:
    amministrazioni possono prendere a riferimento come modelli di
    supporto, esempi di buone pratiche, *check-list* per pianificare i
    propri interventi. Questa sezione è destinata ad ampliarsi e ad
-   essere sistematicamente aggiornata sul sito AGID, nelle pagine
+   essere sistematicamente aggiornata sul sito AgID, nelle pagine
    dedicate al Piano triennale.
 
 Per meglio comprendere la terminologia utilizzata nel Piano si è
@@ -56,19 +56,17 @@ impostazione delle precedenti edizioni:
    presenti, per il triennio 2024-2026;
 
 -  la sezione **Linee di azione istituzionali** specifica tempi e linee di
-   azione (attività) a carico di AGID, Dipartimento per la Trasformazione
+   azione (attività) a carico di AgID, Dipartimento per la Trasformazione
    Digitale, ACN e altri soggetti istituzionali per il conseguimento di ciascun
    obiettivo. In questo aggiornamento le linee di azione sono state
    rappresentate come segue:
 
-   -  le linee di azione con tempi di realizzazione nel mese di dicembre 2024
+   -  le linee di azione con tempi di realizzazione nel mese di dicembre 2025
       sono mantenute nel testo attuale;
-   -  le linee di azione completate sono state eliminate dal testo e sono state
-      riportate in apposita Appendice 2 "Risultati e *output* delle Linee di
-      azione istituzionali 2024 completate, con il riferimento al rispettivo
-      *output* e/o risultato;
+   -  le linee di azione completate, eliminate e riprogrammate/riformulate sono 
+      state rimosse dal testo e sono state riportate in apposita Appendice 2;
    -  le linee di azione ripianificate sono presenti nel testo, con i tempi
-      aggiornati e sono contrassegnate da un asterisco;
+      aggiornati e sono contrassegnate da un asterisco (*);
    -  le nuove linee di azione sono inserite nel testo e seguono la numerazione
       progressiva per capitolo.
 
@@ -97,7 +95,7 @@ ciascun capitolo:
    ricorrere a gare strategiche ICT, di rispondere ad avvisi e bandi
    pubblici e di intercettare misure PNRR di interesse.
 
-Guida alla lettura dell'aggiornamento 2025 del PT 2024-2026
+Guida alla lettura dell'aggiornamento 2026 del PT 2024-2026
 -----------------------------------------------------------
 
 La redazione del presente aggiornamento del Piano ha seguito lo stesso percorso
@@ -106,39 +104,31 @@ di concertazione permanente. Per ogni capitolo del Piano, sottoposto a revisione
 e aggiornamento, sono stati infatti forniti contributi redazionali dai soggetti
 competenti. Inoltre, per alimentare la parte terza - Strumenti (già elemento di
 novità nell'edizione 2024-2026), ai componenti del Tavolo è stato messo a
-disposizione un *format* per la proposta di nuovi "strumenti". La partecipazione
-è stata ampia e sono pervenute molte proposte, tutte pertinenti e innovative.
+disposizione un *format* per la proposta di nuovi "strumenti".
 Alcune di queste sono in corso di maggiore definizione e dettaglio e potranno
 essere inserite in versioni successive del Piano, altre sono state già inserite
 in questo documento. Il Piano prevede che l'aggiornamento degli strumenti sia un
 processo continuo, e tal fine sarà messa a disposizione un'apposita sezione sul
-sito AGID del Piano triennale.
+sito AgID del Piano triennale.
 
-Le principali modifiche dell'aggiornamento 2025 riguardano:
+Le principali modifiche dell'aggiornamento 2026 riguardano:
 
--  l'introduzione del tema *IT-Wallet* nello "Scenario delle piattaforme
-   nazionali che erogano servizi a cittadini e imprese o altre PA", nel capitolo
-   4 - Piattaforme;
+-  L'introduzione delle attività connesse alla realizzazione dell'AgID Academy;
 
--  l'aggiornamento del tema SUAP-SUE (RA4.1.7) per l'adeguamento al target PNRR;
+-	Il consolidamento  del tema *IT-Wallet* nell'ambito delle piattaforme nazionali che erogano servizi a cittadini e imprese o altre PA, nel capitolo 4 - Piattaforme;
 
--  l'introduzione del nuovo risultato atteso su SIOPE+ (RA4.1.8), con relativi
-   target e linee di azione nel capitolo 4 - Piattaforme;
+-  L'aggiornamento delle tematiche connesse all'intelligenza artificiale;
 
--  l'introduzione di undici nuovi strumenti nella Parte terza - Strumenti del
-   Piano.
+-  L'adeguamento dei contenuti sul tema del *cloud* alla normativa di settore ;
+
+-  L'introduzione di sei nuovi strumenti nella Parte terza - Strumenti del Piano.
 
 Per meglio comprendere la terminologia utilizzata nel Piano sono state
 ulteriormente integrate le voci presenti nel "Glossario e Acronimi" in Appendice
 1.
 
-In questo aggiornamento 2025 è stata inserita l'Appendice 2 "Risultati e
-*output* delle Linee di azione istituzionali 2024 completate", di ausilio al
-lettore per il monitoraggio degli avanzamenti delle linee di azione previste dal
-Piano 2024-2026.
-
 Inoltre, per offrire un quadro di maggiore dettaglio su alcune tematiche chiave,
-sul sito web di AGID, sempre nella sezione dedicata al Piano triennale, saranno
+sul sito web di AgID, sempre nella sezione dedicata al Piano triennale, saranno
 riportati opportuni approfondimenti.
 
 Come per le edizioni precedenti, questo Piano rappresenta un lavoro comune *in

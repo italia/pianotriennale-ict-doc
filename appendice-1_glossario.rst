@@ -1,7 +1,7 @@
 Appendice 1 - Glossario e acronimi
 ==================================
 
-**AGID**
+**AgID**
    Agenzia per l'Italia Digitale è l'agenzia tecnica della Presidenza del
    Consiglio col compito di garantire la realizzazione degli obiettivi
    dell'Agenda digitale e contribuire alla diffusione dell'utilizzo delle
