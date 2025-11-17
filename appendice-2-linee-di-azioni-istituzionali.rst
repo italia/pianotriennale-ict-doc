@@ -511,8 +511,8 @@ Riprogrammate e riformulate
      - NOVEMBRE 2025
      - AgID
 
-ELIMINATE
-----------
+Eliminate
+---------
 
 .. list-table::
    :header-rows: 1
