@@ -1,4 +1,4 @@
-APPENDICE 2 - Linee di Azioni Istituzionali
+Appendice 2 - Linee di azioni istituzionali
 ===========================================
 
 .. list-table::
