@@ -117,4 +117,5 @@ Gli **obiettivi** dello strumento sono di:
 18.5 - Risorse utili
 --------------------
 
-- Portale Trasparenza AgID - Accordo di collaborazione
+-  `Portale Trasparenza AgID - Accordo di 
+   collaborazione <https://trasparenza.agid.gov.it/page/103/details/5183/determinazione-n-211-del-25-luglio-2024-accordo-di-collaborazione-tra-lagenzia-per-litalia-digitale-agid-e-il-dipartimento-di-matematica-e-informatica-delluniversita-della-calabria-per-lo-svolgimento-in-collaborazione-di-attivita-finalizzate-al-raggiungimento-di-obiettivi-comuni-e-alla-promozione-delle-proprie-attivita-nei-rispettivi-campi-di-azione.html>`__

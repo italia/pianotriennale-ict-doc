@@ -123,13 +123,14 @@ fasi strategiche:
 20.5 - Risorse utili
 --------------------
 
-- Catalogo Nazionale della Semantica dei Dati (NDC) (a)
+-  `Catalogo Nazionale della Semantica dei Dati (NDC) (a) <https://schema.gov.it/>`__
 
-- Piattaforma Digitale Nazionale Dati (PDND) (b)
+-  `Piattaforma Digitale Nazionale Dati (PDND) (b) <https://www.interop.pagopa.it/>`__
 
-- Linee guida sull'interoperabilità tecnica delle Pubbliche Amministrazioni (AgID)
-  (c)
+-  `Linee guida sull'interoperabilità tecnica delle Pubbliche Amministrazioni (AgID)
+   (c) <https://www.agid.gov.it/sites/agid/files/2024-05/linee_guida_interoperabilit_tecnica_pa.pdf>`__
 
-- Schema editor (d)
+-  `Schema editor (d) <https://schema.gov.it/schema-editor>`__
 
-- Documentazione per la progettazione di API REST della PA (e)
+-  `Documentazione per la progettazione di API REST della PA (e) <https://developers.italia.it/it/interoperabilita>`__
+

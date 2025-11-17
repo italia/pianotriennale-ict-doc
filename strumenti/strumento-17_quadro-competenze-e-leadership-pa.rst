@@ -147,4 +147,4 @@ comprensione delle effettive esigenze di sviluppo del personale e organizzativo.
 17.5 - Risorse utili
 --------------------
 
-- Report "Competenze E-Leadership per la PA"
+-  `Report "Competenze E-Leadership per la PA" <https://www.agid.gov.it/it/agenzia/piano-triennale/strumenti/strumento-17>`__

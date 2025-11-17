@@ -129,4 +129,4 @@ organizzazioni internazionali provenienti da più di venti paesi.
 21.5 - Risorse utili
 --------------------
 
-- NoiPA
+-  `NoiPA <https://noipa.mef.gov.it/cl/deo4pa>`__

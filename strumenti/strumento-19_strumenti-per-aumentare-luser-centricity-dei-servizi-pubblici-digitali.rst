@@ -132,12 +132,12 @@ la consultazione degli strumenti messi a disposizione delle PA, ovvero:
 19.5 - Risorse utili
 --------------------
 
-- AgID_Principi_Guida_UX-UI Toolkit.pdf
+-  `AgID_Principi_Guida_UX-UI Toolkit.pdf <https://www.agid.gov.it/sites/agid/files/2025-10/AGID_Principi_Guida_UX-UI%20Toolkit.pdf>`__
 
-- AgID_User Centricity_Raccomandazioni SEO.pdf
-  
-- AgID_User Centricity_Raccomandazioni Web Analytics.pdf
+-  `AgID_User Centricity_Raccomandazioni SEO.pdf <https://www.agid.gov.it/sites/agid/files/2025-10/AGID_User%20Centricity_Raccomandazioni%20SEO.pdf>`__
 
-- AgID_User Centricity_Raccomandazioni Feedback Management.pdf
+-  `AgID_User Centricity_Raccomandazioni Web Analytics.pdf <https://www.agid.gov.it/sites/agid/files/2025-10/AGID_User%20Centricity_Raccomandazioni%20Web%20Analytics.pdf>`__
+
+-  `AgID_User Centricity_Raccomandazioni Feedback Management.pdf <https://www.agid.gov.it/sites/agid/files/2025-10/AGID_User%20Centricity_Raccomandazioni%20Feedback%20Management.pdf>`__
 
 
