@@ -276,7 +276,7 @@ Appendice 2 - Linee di azioni istituzionali
      - AgID
 
 
-RIPROGRAMMATE e RIFORMULATE
+Riprogrammate e riformulate
 ---------------------------
 
 .. list-table::
