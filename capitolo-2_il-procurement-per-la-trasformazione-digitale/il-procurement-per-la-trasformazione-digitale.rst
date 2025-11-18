@@ -83,16 +83,16 @@ Tali norme definiscono un quadro di strumenti amministrativi e di coordinamento
 istituzionale tra i livelli ministeriali di governo, i soggetti finanziatori e
 le agenzie che attuano gli acquisti.
 
-Gli acquisti di innovazione, nel prossimo triennio, sono indirizzati
+Gli acquisti di innovazione, nell'attuale triennio, sono indirizzati
 prioritariamente alla sperimentazione di modelli di commercializzazione
 ed acquisto di soluzioni di intelligenza artificiale ed alla crescita di
 capacità industriali nel settore, anche attraverso collaborazioni
 internazionali.
 
-Allo stato attuale, `Smarter Italy <https://smarteritaly.agid.gov.it/>`__ è il
+`Smarter Italy <https://smarteritaly.agid.gov.it/>`__ è il
 principale programma di sperimentazione di appalti di innovazione nella Pubblica
 Amministrazione. In parallelo, in coerenza con questo programma, diverse
-amministrazioni hanno svolto, in collaborazione con AGID e utilizzando la
+amministrazioni hanno svolto, in collaborazione con AgID e utilizzando la
 Piattaforma per gli appalti di innovazione, consultazioni preliminari di mercato
 cui hanno partecipato, nel complesso, migliaia di operatori economici. La fase
 della consultazione è molto importante per l'emersione dei fabbisogni di
@@ -103,6 +103,25 @@ la *cybersecurity* e i sistemi anticontraffazione, lo sviluppo digitale nei
 paesi ad economia emergente, l'Intelligenza artificiale per i medici di base, i
 concorsi digitali, la produzione delle materie prime seconde, il comunicare il
 *Made in Italy*.
+
+Nel corso del 2024 il programma *Smarter Italy* si è rinnovato grazie alla 
+collaborazione con il Dipartimento per la Trasformazione digitale per il 
+coordinamento e la valorizzazione delle iniziative di domanda pubblica 
+intelligente. L'obiettivo è la promozione dell'adozione degli strumenti della 
+domanda di innovazione presso i soggetti pubblici valorizzando le iniziative 
+pubbliche in appalti di innovazione e diffondendone i risultati.
+In tale contesto, tra il 2024 e il 2025: in collaborazione con il Ministero 
+dell'Università e della Ricerca (MUR) prosegue la procedura di appalto 
+pre-commerciale “Applicazioni innovative di Realtà Virtuale e Aumentata per 
+persone con una condizione dello spettro autistico” e si avvia la procedura 
+di appalto pre-commerciale “Soluzioni innovative per lo sviluppo delle comunità 
+del territorio attraverso la valorizzazione dei beni culturali”; in collaborazione 
+con il Ministero degli affari esteri e della cooperazione internazionale (MAECI), 
+l'Agenzia italiana per la cooperazione allo sviluppo (AICS) e il Dipartimento per 
+la Trasformazione digitale si avvia la progettazione e gestione di un programma di 
+appalto pubblico innovativo attraverso lo strumento dell’appalto pre-commerciale, 
+finalizzato alla selezione di iniziative imprenditoriali innovative, sostenibili e 
+inclusive da realizzare con particolare riguardo ai Paesi africani.
 
 **L'ecosistema digitale degli acquisti pubblici**
 
@@ -137,6 +156,23 @@ previsione di un'evoluzione del Sistema d'Interscambio (SDI) per la conformità
 del formato domestico della fattura elettronica (FatturaPA) a quello europeo
 definito con la norma europea EN16931 e l'integrazione con la richiamata
 infrastruttura di rete PEPPOL.
+
+Le Regole tecniche e lo Schema operativo costituiscono dunque il quadro normativo 
+per il funzionamento delle piattaforme di approvvigionamento digitale. La conformità 
+dell'ecosistema ai requisiti tecnici previsti dal Codice dei contratti si rende 
+necessaria per assicurare la correttezza delle negoziazioni di acquisto pubblico, 
+per rendere più efficace il contrasto ai fenomeni corruttivi e mitigare la 
+possibilità di contenziosi. Il 31 dicembre 2024 è stato pubblicato il decreto 
+legislativo 31 dicembre 2024, n. 209 (c.d. Correttivo) recante “Disposizioni 
+integrative e correttive al codice dei contratti pubblici, di cui al decreto 
+legislativo 31 marzo 2023, n. 36” con entrata in vigore il giorno stesso. Il 
+Correttivo rende più chiara la disciplina attuale salvaguardando il quadro 
+regolatorio di cui alle Regole tecniche già definite e attualmente vigenti, 
+fa salvo il D.L. 19/2024 che consente un approccio graduale all'adeguamento 
+delle piattaforme al modello di certificazione e consente di rispettare i tempi 
+di adozione del provvedimento (cd. Regole tecniche) di cui al comma 1 del nuovo 
+art. 26 che sarà allineato alle nuove norme, chiarendo le modalità di applicazione 
+delle stesse.
 
 La digitalizzazione degli acquisti pubblici è parte fondamentale del
 percorso di trasformazione digitale della PA contribuendo a snellire e
@@ -297,6 +333,18 @@ Riferimenti normativi italiani:
    aprile 2014, relativa alla fatturazione elettronica negli appalti
    pubblici <https://www.gazzettaufficiale.it/eli/id/2019/01/17/19G00004/sg>`__
 
+-  `Decreto legislativo 31 marzo 2023, n. 36 "Codice dei contratti
+   pubblici", artt.
+   19-26 <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023;036>`__
+
+- Decreto-legge 2 marzo 2024, n. 19 “Ulteriori disposizioni urgenti per 
+  l'attuazione del Piano nazionale di ripresa e resilienza (PNRR), art. 12, 
+  comma 16-quater;
+
+- Decreto legislativo 31 dicembre 2024, n. 209 “Disposizioni integrative e 
+  correttive al codice dei contratti pubblici, di cui al decreto legislativo 
+  31 marzo 2023, n. 36”;
+
 -  `Decreto del Ministero dell'Economia e delle Finanze del 27 dicembre
    2019 "Modifica del decreto 7 dicembre 2018 recante: Modalità e tempi
    per l'attuazione delle disposizioni in materia di emissione e
@@ -304,10 +352,6 @@ Riferimenti normativi italiani:
    beni e servizi effettuata in forma elettronica da applicarsi agli
    enti del Servizio sanitario
    nazionale" <https://www.gazzettaufficiale.it/eli/id/2020/01/16/20A00236/sg>`__
-
--  `Decreto legislativo 31 marzo 2023, n. 36 "Codice dei contratti
-   pubblici", artt.
-   19-26 <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023;036>`__
 
 -  `Circolare AGID n. 3 del 6 dicembre 2016 "Regole Tecniche aggiuntive
    per garantire il colloquio e la condivisione dei dati tra sistemi
@@ -357,8 +401,8 @@ Obiettivo 2.1 - Rafforzare l'ecosistema nazionale di approvvigionamento digitale
 RA2.1.1 - Diffusione del processo di certificazione delle piattaforme di approvvigionamento digitale
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  **Target 2024** - 100% delle piattaforme di approvvigionamento dei
-   soggetti aggregatori certificate
+-  **Monitoraggio 2024** - 100% delle piattaforme di approvvigionamento dei
+   soggetti aggregatori certificate (ANAC: Registo comunicazioni adempimenti)
 
 -  **Target 2025** - 100% delle piattaforme di approvvigionamento dei gestori privati certificate
 
@@ -370,24 +414,23 @@ Obiettivo 2.2 - Diffondere l'utilizzo degli appalti innovativi
 RA2.2.1 - Incremento della partecipazione di PMI e start up agli appalti di innovazione
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  **Target 2024** - 50% di PMI e *start up* innovative che partecipano
+-  **Monitoraggio 2024** - 50 PMI innovative e *start up* che hanno partecipato 
    ad appalti di innovazione sul totale degli operatori economici che
    partecipano alle gare
 
--  **Target 2025** - 50% di PMI e *start up* innovative che partecipano
-   ad appalti di innovazione sul totale degli operatori economici che
-   partecipano alle gare
+-  **Target 2025** - Almeno 50% di PMI innovative e *start up* che partecipano ad 
+   appalti di innovazione sul totale degli operatori economici che partecipano 
+   alle gare
 
--  **Target 2026** - 50% di PMI e *start up* innovative che partecipano
-   ad appalti di innovazione sul totale degli operatori economici che
-   partecipano alle gare
+-  **Target 2026** - Almeno 50% di PMI innovative e *start up* che partecipano ad 
+   appalti di innovazione sul totale degli operatori economici che partecipano 
+   alle gare
 
 RA2.2.2 - Incremento della diffusione degli appalti di innovazione nelle PA
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  **Target 2024** - Definizione della *baseline* consistente nel numero
-   di amministrazioni che hanno pubblicato procedure di tipo
-   pre-commerciale e partenariato per l'innovazione nel triennio
+-  **Monitoraggio 2024** - Numero di 11 amministrazioni che hanno pubblicato 
+   procedure di tipo pre-commerciale e partenariato per l'innovazione nel triennio
    2022-2024
 
 -  **Target 2025** - Incremento del 10% sulla *baseline* individuata nel
@@ -401,42 +444,38 @@ Linee di azione istituzionali
 RA2.1.1
 ^^^^^^^
 
--  **Dicembre 2024** - Gestione e monitoraggio del processo di
-   certificazione delle piattaforme di approvvigionamento digitale -
-   (AGID, ANAC) - CAP2.01
+-  **Dicembre 2025 \*** - Aggiornamento delle regole tecniche a seguito 
+   della pubblicazione del Correttivo - (AgID, ANAC, Dipartimento per 
+   la Trasformazione Digitale, ACN) - CAP2.02
 
--  **Dicembre 2025 \*** - Aggiornamento delle regole tecniche ampliando
-   l'ambito di riferimento della interoperabilità - (AGID, ANAC,
-   Dipartimento per la Trasformazione Digitale) - CAP2.02
+- **Giugno 2026** - Gestione e monitoraggio del processo di certificazione
+  delle piattaforme di approvvigionamento digitale - (AgID, ANAC) - CAP2.13
 
--  **Dicembre 2025** - Definizione della regolazione tecnica della fase
-   di esecuzione, comprendendo la definizione del formato e della
-   modalità di trasmissione su rete PEPPOL degli ordini e delle fatture
-   elettroniche - (AGID) - CAP2.03
-
--  **Dicembre 2024 \*** - Pubblicazione dei regolamenti per l'adesione, da
-   parte delle PA, al programma *Smarter Italy* e agli altri programmi
-   nazionali per la promozione e il finanziamento della domanda pubblica
-   di innovazione - (Struttura di progetto *Smarter Italy*) - CAP2.04
-
-- **Dicembre 2025** - Gestione e monitoraggio del processo di certificazione
-  delle piattaforme di approvvigionamento digitale - (AGID, ANAC, Dipartimento
-  per la Trasformazione Digitale) - CAP2.13
-
-- **Giugno 2026** - Evoluzione del processo di certificazione in conformità al
-  Regolamento eIDAS e agli standard tecnologici di riferimento - (AGID) -
+- **Dicembre 2026 \*** - Adeguamento del processo di certificazione in conformità 
+  al Regolamento eIDAS e agli standard tecnologici di riferimento - (AgID) -
   CAP2.14
+
+RA2.2.1
+^^^^^^^
+
+-  **Dicembre 2026** - Sviluppo della Community degli appalti di innovazione - 
+   (AgID) - CAP2.15
 
 RA2.2.2
 ^^^^^^^
 
--  **Dicembre 2024** - Selezione e avvio dei progetti *Smarter Italy*
-   sulle tematiche di "Salute e benessere" e "Protezione dell'ambiente"
-   - (AGID) - CAP2.07
+-  **Dicembre 2025** - Completamento del Deliverable D2.5 *“Servizi di 
+   e-procurement per gli affidamenti in procedure di innovazione”* previsto 
+   dall'Accordo di collaborazione con il DTD *“per il coordinamento e la 
+   valorizzazione delle iniziative di domanda pubblica intelligente Smarter Italy”* 
+   (AgID) - CAP2.16
 
--  **Dicembre 2026** - Completamento dei progetti *Smarter Italy* -
-   (Ministero dell'Università e della Ricerca, Ministero delle Imprese e
-   del *Made in Italy*, AGID) - CAP2.08
+-  **Dicembre 2026** - Completamento dei progetti *Smarter Italy* del Ministero 
+   dell'Università e della Ricerca (AgID) - CAP2.08
+
+-  **Dicembre 2026** - Avvio delle attività relative all'affidamento dell'appalto 
+   pre-commerciale per l'attuazione della iniziativa in collaborazione con AICS 
+   (AgID) - CAP2.17
 
 Linee di azione per le PA
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -459,7 +498,11 @@ RA2.1.1
 RA2.2.1
 ^^^^^^^
 
--  **Dicembre 2024** - Le PAL coinvolte nel programma *Smarter Italy*
-   partecipano alla definizione dei fabbisogni: Salute e benessere,
-   Valorizzazione dei beni culturali, Protezione dell'ambiente -
-   CAP2.PA.03
+-  **Da dicembre 2026** - Le amministrazioni entrano nel programma *Smarter Italy* 
+   delle consultazioni di mercato - CAP2.PA.08
+
+RA2.2.2
+^^^^^^^
+
+-  **Giugno 2026** - Le amministrazioni che hanno avviato appalti di innovazione 
+   completano la fase di aggiudicazione e di esecuzione - CAP2.PA.09

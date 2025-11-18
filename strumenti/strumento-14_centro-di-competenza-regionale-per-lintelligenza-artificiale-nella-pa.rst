@@ -134,7 +134,7 @@ tematici sui singoli aspetti dell'Intelligenza artificiale.
 Con successiva `D.G.R. 28 marzo 2024, n.
 349 <https://burp.regione.puglia.it/documents/20135/2467739/DEL_349_2024.pdf/29a51671-865c-12da-893f-a4de4df86a74?version=1.0&t=1714994612490>`__,
 sempre su impulso del RTD regionale, la Giunta ha approvato lo schema di
-protocollo d'intesa con le Università pugliesi e AGID, per avviare
+protocollo d'intesa con le Università pugliesi e AgID, per avviare
 l'operatività del Comitato Tecnico del Centro.
 
 Con la delibera di approvazione, la Giunta ha affidato al RTD regionale
@@ -145,7 +145,7 @@ ulteriori atti necessari.
 
 Fondamentale, quindi, la collaborazione con le Università del
 territorio, soprattutto sugli aspetti di "ricerca" delle soluzioni di
-IA, così come la collaborazione con AGID, essenziale per delineare le
+IA, così come la collaborazione con AgID, essenziale per delineare le
 attività del Centro nella direzione definita, a livello nazionale, dal
 Piano triennale per l'informatica nella Pubblica Amministrazione
 2024-2026 e dalla Strategia Italiana per l'Intelligenza Artificiale

@@ -11,7 +11,7 @@ OB5.3
 -  `Intervento PNRR M2C4M1_I.1.1 "Realizzazione di un sistema avanzato
    ed integrato di monitoraggio e previsione"
    (SIM) <https://www.mase.gov.it/pagina/investimento-1-1-realizzazione-di-un-sistema-avanzato-ed-integrato-di-monitoraggio-e>`__
-   - per dati territoriali e ambientali, compresi i *dataset* di elevato
+   - Per dati territoriali e ambientali, compresi i *dataset* di elevato
    valore
 
 -  `PNRR Misura Dati e

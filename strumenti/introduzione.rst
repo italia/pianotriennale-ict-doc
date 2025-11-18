@@ -1,19 +1,22 @@
 Introduzione
 ============
 
-In linea con quanto già proposto nel Piano 2024-2026, una delle principali
-novità dell'Aggiornamento 2025 del Piano riguarda la Parte Terza - Strumenti.
+In linea con quanto già proposto nel Piano 2024-2026, confermata 
+nell'Aggiornamento 2025, una delle principali novità dell'Aggiornamento 2026 
+del Piano riguarda la Parte Terza - Strumenti, con l'integrazione di ulteriori 
+schede.
 
 Per rendere omogenea la struttura degli Strumenti e facilitarne la lettura, sono
 state predisposte delle brevi schede descrittive presentate in questa sezione de
 Piano. Gli Strumenti veri e propri sono resi disponibili nella specifica sezione
-del sito AGID dedicata al Piano triennale.
+del sito AgID dedicata al Piano triennale.
 
-Nell'Aggiornamento 2025 sono proposte in totale 16 schede descrittive: sono
-presenti le 5 schede degli strumenti già indicati nel Piano triennale 2024-2026
-e ulteriori 11 schede, contributo di Amministrazioni che hanno voluto mettere a
-disposizione degli utenti del Piano il proprio know how, le proprie esperienze e
-la propria documentazione. Le schede sono strutturate in 5 sezioni:
+Nell'Aggiornamento 2026 sono proposte in totale 22 schede descrittive: sono
+presenti le 5 schede degli strumenti già indicati nel Piano triennale 2024-2026, 
+le 11 schede integrative dell'Aggiornamento 2025 e ulteriori 6 schede, quale 
+contributo di Amministrazioni che hanno voluto mettere a disposizione degli 
+utenti del Piano il proprio know how, le proprie esperienze e la propria 
+documentazione. Le schede sono strutturate in 5 sezioni:
 
 1.  Anagrafica: sono indicate le amministrazioni che mettono a disposizione lo
     Strumento e il collegamento con i temi del Piano triennale
@@ -26,7 +29,7 @@ la propria documentazione. Le schede sono strutturate in 5 sezioni:
 
 5.  Risorse utili, una sezione che rimanda ad una serie di allegati. Gli
     allegati, forniti dagli autori dello Strumento, possono essere: rimandi a
-    normativa, documenti in pdf, link a pagine del sito AGID, link a pagine di
+    normativa, documenti in pdf, link a pagine del sito AgID, link a pagine di
     altri siti pubblici
 
 Di seguito l'elenco degli Strumenti proposti:
@@ -50,3 +53,9 @@ Di seguito l'elenco degli Strumenti proposti:
     strumento-14_centro-di-competenza-regionale-per-lintelligenza-artificiale-nella-pa.rst
     strumento-15_validatore-semantico.rst
     strumento-16_modello-itd-per-presidicomunità-territoriali-a-garanzia-dei-diritti-di-cittadinanza-digitale.rst
+    strumento-17_quadro-competenze-e-leadership-pa.rst
+    strumento-18_accordi-di-collaborazione-tra-agenzia-per-litalia-digitale-universita-italiane-e-istituti-di-ricerca.rst
+    strumento-19_strumenti-per-aumentare-luser-centricity-dei-servizi-pubblici-digitali.rst
+    strumento-20_schema-editor.rst
+    strumento-21_un-modello-di-governance-per-la-gestione-dei-progetti-basati-sull-intelligenza-artificiale.rst
+    strumento-22_modelli-amministrativi-e-procedure-tipo.rst

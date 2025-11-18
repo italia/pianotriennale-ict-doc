@@ -6,7 +6,7 @@ Strumento 5 - Intelligenza Artificiale nella Pubblica Amministrazione
 5.1 - Anagrafica
 ----------------
 
-**Ente:** AGID, Consorzio Interuniversitario Nazionale per l'Informatica
+**Ente:** AgID, Consorzio Interuniversitario Nazionale per l'Informatica
 (CINI), INAIL, ISTAT, INPS
 
 **Ufficio proponente:** -
@@ -74,7 +74,7 @@ che dovrebbero:
 -  pubblicare riepiloghi dei dati protetti da diritto di autore e
    utilizzati per l'addestramento.
 
-L'approfondimento del tema dell'approccio basato sul rischio dell'AI ACT
+L'approfondimento del tema dell'approccio basato sul rischio dell'*AI Act*
 è seguito da quattro contributi di casi concreti di pubbliche
 amministrazioni, che stanno realizzando applicazioni basate
 sull'intelligenza artificiale.

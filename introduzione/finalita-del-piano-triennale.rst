@@ -1,7 +1,7 @@
 Finalità del Piano triennale
 ============================
 
-Gli scopi del Piano Triennale sono definiti principalmente nelle
+Gli scopi del Piano triennale sono definiti principalmente nelle
 seguenti norme:
 
 Decreto legislativo 7 marzo 2005, n. 82 (Codice dell'Amministrazione
@@ -30,7 +30,7 @@ III. Le pubbliche amministrazioni operano per assicurare l'uniformità e
      canale di erogazione, nel rispetto dell'autonomia e della
      specificità di ciascun erogatore di servizi. (..)
 
-Art. 14-bis Agenzia per l'Italia digitale (AGID)
+Art. 14-bis Agenzia per l'Italia digitale (AgID)
 
 (..)2. AGID svolge le funzioni di:
 
@@ -49,7 +49,7 @@ b) programmazione e coordinamento delle attività delle amministrazioni
    contenente la fissazione degli obiettivi e l'individuazione dei
    principali interventi di sviluppo e gestione dei sistemi informativi
    delle amministrazioni pubbliche. Il predetto Piano è elaborato
-   dall'AGID, anche sulla base dei dati e delle informazioni acquisiti
+   dall'AgID, anche sulla base dei dati e delle informazioni acquisiti
    dai soggetti di cui all'articolo 2, comma 2, ed è approvato dal
    Presidente del Consiglio dei ministri o dal Ministro delegato entro
    il 30 settembre di ogni anno (…)
@@ -66,12 +66,12 @@ Art. 1.
    economico consolidato della pubblica amministrazione, come
    individuate dall'Istituto nazionale di statistica (ISTAT) ai sensi
    dell'articolo 1 della legge 31 dicembre 2009, n. 196, provvedono ai
-   propri approvvigionamenti esclusivamente tramite Consip SpA o i
+   propri approvvigionamenti esclusivamente tramite Consip S.p.A o i
    soggetti aggregatori, ivi comprese le centrali di committenza
    regionali, per i beni e i servizi disponibili presso gli stessi
    soggetti. (..)
 
--  Comma 513. L'Agenzia per l'Italia digitale (AGID) predispone il Piano
+-  Comma 513. L'Agenzia per l'Italia digitale (AgID) predispone il Piano
    triennale per l'informatica nella Pubblica Amministrazione che è
    approvato dal Presidente del Consiglio dei ministri o dal Ministro
    delegato. Il Piano contiene, per ciascuna amministrazione o categoria
@@ -82,7 +82,7 @@ Art. 1.
    rilevanza strategica.
 
 -  Comma 514. Ai fini di cui al comma 512, Consip S.p.A. o il soggetto
-   aggregatore interessato, sentita l'AGID per l'acquisizione dei beni e
+   aggregatore interessato, sentita l'AgID per l'acquisizione dei beni e
    servizi strategici indicati nel Piano triennale per l'informatica
    nella Pubblica Amministrazione di cui al comma 513, programma gli
    acquisti di beni e servizi informatici e di connettività, in coerenza

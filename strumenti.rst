@@ -22,3 +22,9 @@ Strumenti
     strumenti/strumento-14_centro-di-competenza-regionale-per-lintelligenza-artificiale-nella-pa.rst
     strumenti/strumento-15_validatore-semantico.rst
     strumenti/strumento-16_modello-itd-per-presidicomunità-territoriali-a-garanzia-dei-diritti-di-cittadinanza-digitale.rst
+    strumenti/strumento-17_quadro-competenze-e-leadership-pa.rst
+    strumenti/strumento-18_accordi-di-collaborazione-tra-agenzia-per-litalia-digitale-universita-italiane-e-istituti-di-ricerca.rst
+    strumenti/strumento-19_strumenti-per-aumentare-luser-centricity-dei-servizi-pubblici-digitali.rst
+    strumenti/strumento-20_schema-editor.rst
+    strumenti/strumento-21_un-modello-di-governance-per-la-gestione-dei-progetti-basati-sull-intelligenza-artificiale.rst
+    strumenti/strumento-22_modelli-amministrativi-e-procedure-tipo.rst

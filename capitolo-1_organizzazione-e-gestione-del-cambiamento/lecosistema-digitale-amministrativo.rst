@@ -12,7 +12,7 @@ del Piano triennale.
 È necessario seguire un approccio innovativo che affronti, in maniera
 sistematica, tutti gli aspetti legati a organizzazione, processi, regole, dati e
 tecnologie. Sono perciò necessari strumenti utili alla mappatura di tali aspetti
-ed è altrettanto necessario agevolare lo scambio di buone pratiche, così da
+ed è altrettanto necessario agevolare lo scambio di buone pratiche per
 rendere tutti gli operatori pubblici sviluppatori dell'innovazione
 amministrativa, attraverso la diffusione di una cultura amministrativa digitale.
 
@@ -79,7 +79,9 @@ necessario:
 -  definire un processo integrato finalizzato alla costruzione di
    ecosistemi digitali strutturati sostenuti da organizzazioni pubbliche
    semplificate, trasparenti, aperte, digitalizzate e con servizi di
-   qualità erogati e definire schemi organizzativi per il raccordo tra
+   qualità erogati ;
+
+-  definire schemi organizzativi per il raccordo tra
    Ufficio del RTD (Responsabile per la transizione digitale) e il
    resto dell'organizzazione pubblica in cui lo stesso ufficio è
    inserito;

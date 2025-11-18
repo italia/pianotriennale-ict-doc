@@ -60,10 +60,10 @@ Il documento "Strumento 1 - Approvvigionamento ICT" è strutturato in due
 parti.
 
 Nella prima parte viene delineata l'attività di monitoraggio condotta da
-AGID in relazione alla stipula degli Accordi quadro Consip stipulati
+AgID in relazione alla stipula degli Accordi quadro Consip stipulati
 dalle amministrazioni e alla coerenza di tali accordi con gli obiettivi
 del Piano triennale per l'informatica nella PA. Viene illustrato un
-modello di indicatori di digitalizzazione adottato da AGID per
+modello di indicatori di digitalizzazione adottato da AgID per
 monitorare l'**Incremento del livello di trasformazione digitale
 mediante l'utilizzo dei servizi previsti dalle Gare strategiche,** che è
 uno dei risultati attesi del Piano triennale 2022-2024.
@@ -75,10 +75,10 @@ triennale, a disposizione delle Amministrazioni e utilizzabili in alcuni
 casi anche con fondi PNRR.
 
 Questo strumento ha l'obiettivo di fornire indicazioni metodologiche sul
-percorso condotto da AGID nella definizione delle proprie attività di
+percorso condotto da AgID nella definizione delle proprie attività di
 monitoraggio: attraverso i Comitati tecnici previsti nell'ambito dei
 compiti di *governance* degli Organismi di coordinamento e controllo,
-AGID ha avviato delle azioni congiunte con gli aggiudicatari degli
+AgID ha avviato delle azioni congiunte con gli aggiudicatari degli
 Accordi quadro e con le amministrazioni contraenti, finalizzate alla
 rilevazione sempre più accurata di elementi indispensabili alla
 misurazione della crescita digitale del Paese.
@@ -86,11 +86,11 @@ misurazione della crescita digitale del Paese.
 Le Amministrazioni hanno l'opportunità di definire contratti coerenti
 con gli obiettivi del Piano triennale, attraverso un **modello di
 indicatori di digitalizzazione** e di categorie che sono oggetto di
-rilevazione del monitoraggio condotto da AGID. Essi contribuiscono alla
+rilevazione del monitoraggio condotto da AgID. Essi contribuiscono alla
 misurazione dell'incremento del livello di trasformazione digitale
 mediante l'utilizzo dei servizi previsti dalle stesse Gare strategiche.
 
-Nell'ambito del proprio ruolo istituzionale, AGID ha monitorato, a
+Nell'ambito del proprio ruolo istituzionale, AgID ha monitorato, a
 diversi livelli di aggregazione, in che modo e con quale efficacia il
 ricorso alle iniziative strategiche stia contribuendo al raggiungimento
 degli obiettivi del Piano triennale. Tale analisi è stata svolta
@@ -134,7 +134,7 @@ Il Piano triennale 2022-2024 aveva tra i propri obiettivi quello di
 (Obiettivo 7.1). Il relativo indicatore **R.A.7.1b Incremento del
 livello di trasformazione digitale mediante l'utilizzo dei servizi
 previsti dalle Gare strategiche"** è parte del sistema di monitoraggio
-AGID dei risultati attesi e può rappresentare un'indicazione sul livello
+AgID dei risultati attesi e può rappresentare un'indicazione sul livello
 di efficacia degli interventi di digitalizzazione operati dalle PA
 attraverso l'utilizzo delle Gare strategiche.
 
@@ -177,7 +177,7 @@ stabilizzarsi intorno al valore 6.
 Il fenomeno può essere conseguenza di varie cause come, ad esempio, gli
 insiemi di gare/lotti che mutano nel tempo secondo le attivazioni ed il
 conseguente ciclo di monitoraggio o, più verosimilmente, per i possibili
-effetti dovuti all'opera di sensibilizzazione di AGID verso le PA, che
+effetti dovuti all'opera di sensibilizzazione di AgID verso le PA, che
 ha portato le stesse ad una valorizzazione più diffusa e accurata degli
 indicatori.
 

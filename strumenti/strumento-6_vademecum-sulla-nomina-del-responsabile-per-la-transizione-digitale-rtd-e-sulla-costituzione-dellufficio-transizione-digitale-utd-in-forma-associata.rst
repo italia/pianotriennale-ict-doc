@@ -83,7 +83,7 @@ Uffici transizione digitale, anche in forma associata".
 
 Il documento è frutto del lavoro condiviso realizzato dal gruppo di
 lavoro del Laboratorio "Nomina RTD in forma associata", coordinato da
-AGID, in particolare dal Servizio "Coordinamento Iniziative per le PA
+AgID, in particolare dal Servizio "Coordinamento Iniziative per le PA
 Locali", dall'Area "Iniziative Piano Nazionale di Ripresa e Resilienza",
 dall'Ufficio "Affari Legali" con il contributo del "Difensore Civico per
 il Digitale", e composto da ANCI (Associazione Nazionale dei Comuni

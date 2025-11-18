@@ -53,6 +53,8 @@ OB5.3
    -  Visualizzatore di ontologie e vocabolari per il *repository
       semantic*
 
+   -  Schema editor
+
 OB5.4
 -----
 

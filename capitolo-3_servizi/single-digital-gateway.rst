@@ -29,32 +29,26 @@ stabilito le norme per:
    l'applicazione del principio *once only* in accordo con le specifiche
    normative dei differenti Stati Membri.
 
-A dicembre 2023 AGID ha completato le attività di integrazione e collaudo delle
-componenti architetturali nazionali SDG, sia per l'interoperabilità tra PA
-italiane, sia per quella tra PA italiane e quelle degli Stati Membri. Le
-pubbliche amministrazioni competenti per i procedimenti amministrativi relativi
-alle procedure (di cui all'Allegato II del Regolamento UE 2018/1724) hanno
-stipulato con AGID appositi Accordi di collaborazione per l'adeguamento dei
-propri procedimenti amministrativi alle specifiche tecniche di implementazione
-del *Single Digital Gateway*.
-
-Dopo aver reso disponibile *online* i servizi relativi delle procedure previste,
-le successive attività per il *Single Digital Gateway* riguarderanno
-prevalentemente azioni di mantenimento, monitoraggio e miglioramento della
-qualità e dell'accesso ai servizi digitali offerti dallo Sportello per l'Italia,
-in particolare:
+Dopo che le pubbliche amministrazioni competenti per i procedimenti 
+amministrativi relativi alle procedure (di cui all'Allegato II del 
+Regolamento UE 2018/1724) hanno stipulato con AgID gli Accordi di 
+collaborazione e hanno reso disponibili *online* i servizi relativi 
+delle procedure previste dal *Single Digital Gateway*, le successive 
+attività hanno riguardato prevalentemente azioni di mantenimento, 
+monitoraggio e miglioramento della qualità e dell'accesso ai servizi 
+digitali offerti dallo Sportello per l'Italia, in particolare:
 
 1. monitoraggio delle componenti nazionali e dei servizi delle PA
    competenti per garantire l'operatività di tutta la filiera coinvolta
    nell'attuazione dei processi nazionali e trans-frontalieri del
    *Single Digital Gateway (SDG)*, attraverso la progettazione e sviluppo
    di un *Operation Center*, capace di mettere a sistema tutti gli
-   *stakeholder* coinvolti che dovranno lavorare in maniera sinergica e
+   *stakeholder* coinvolti che lavorano in maniera sinergica e
    standardizzata nella gestione dei processi di *operation*. Il sistema
    prevede la predisposizione di un servizio di supporto continuativo di
    gestione del portafoglio delle applicazioni realizzate e rilasciate,
    che comprende la presa in carico e la risoluzione delle richieste
-   utente pervenute ad AGID da cittadini e pubbliche amministrazioni
+   utente pervenute ad AgID da cittadini e pubbliche amministrazioni
    (*help desk*);
 
 2. supporto alla diffusione dello sportello e del suo utilizzo presso i
@@ -97,28 +91,34 @@ Obiettivo 3.4 - SDG (Single Digital Gateway) - Monitorare e migliorare la qualit
 RA3.4.1 - Piena operatività dell'Operation Center
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  **Target 2024** - Metodologia di monitoraggio definita e condivisa
-   con le PA interessate
+-  **Monitoraggio 2024** - Metodologia di monitoraggio definita, condivisa
+   con le PA interessate e pubblicata
 
 -  **Target 2025** - 100% delle richieste di supporto di cittadini e
    imprese prese in carico dall'*help desk* dell'*Operation Center*
 
--  **Target 2026** - n.a.
+-  **Target 2026** - 100% delle richieste di supporto di cittadini e 
+   imprese nei primi sei mesi dell'anno 2026 sono prese in carico 
+   dall'help desk dell'Operation Center
 
 RA3.4.2 - Diffusione e pieno utilizzo dello Sportello
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  **Target 2024** - 5 PA italiane aderenti agli Accordi sono coinvolte in
-   attività di sensibilizzazione per migliorare l'usabilità e l'esperienza
-   utente dei servizi digitali realizzati in ambito SDG e forniscono i dati
-   relativi agli utenti che hanno utilizzato le procedure SDG
+-  **Monitoraggio 2024** - 29  PA italiane aderenti agli Accordi sono state 
+   coinvolte nel 2024 in attività di sensibilizzazione per migliorare 
+   l'usabilità e l'esperienza utente dei servizi digitali realizzati in 
+   ambito SDG e forniscono i dati relativi agli utenti che hanno utilizzato 
+   le procedure SDG hanno fornito dati relativi agli utenti che hanno 
+   utilizzato le procedure SDG
 
--  **Target 2025** - Almeno 10 PA italiane aderenti agli Accordi sono coinvolte
-   in attività di sensibilizzazione per migliorare l'usabilità e l'esperienza
-   utente dei servizi digitali realizzati in ambito SDG e forniscono i dati
-   relativi agli utenti che hanno utilizzato le procedure SDG
+-  **Target 2025** - 20 PA italiane aderenti agli Accordi sono coinvolte 
+   in attività di sensibilizzazione nel corso del 2025 per migliorare 
+   l'usabilità e l'esperienza utente dei servizi digitali realizzati in 
+   ambito SDG e forniscono i dati relativi agli utenti che hanno utilizzato 
+   le procedure SDG
 
--  **Target 2026** - n.a.
+-  **Target 2026** - Almeno 5.000 utenti europei hanno visitato il Catalogo 
+   dei Servizi per accedere ai servizi digitali dello Sportello SDG
 
 Linee di azione istituzionali
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -126,19 +126,23 @@ Linee di azione istituzionali
 RA3.4.1
 ^^^^^^^
 
--  **Dicembre 2024** - Completamento realizzazione piattaforma di
-   monitoraggio (*Operation Center*) - (AGID) - CAP3.33
+-  **Giugno 2026** - Monitoraggio sui portali delle PA coinvolte in SDG al 
+   fine di verificare l'allineamento con i requisiti del Regolamento UE 
+   1724/2018 - (AgID) - CAP3.41
 
 RA3.4.2
 ^^^^^^^
 
--  **Dicembre 2024** - I ciclo di azioni di sensibilizzazione sull'usabilità e
-   l'esperienza utente dei servizi digitali SDG presso le PA italiane aderenti
-   agli Accordi - (AGID) - CAP3.35
-
 -  **Dicembre 2025** - II ciclo di azioni di sensibilizzazione sull'usabilità e
    l'esperienza utente dei servizi digitali SDG presso le PA italiane aderenti
-   agli Accordi - (AGID) - CAP3.36
+   agli Accordi - (AgID) - CAP3.36
+
+-  **Gennaio 2026** - Raccolta dei dati di accesso ai procedimenti amministrativi 
+   ai fini della verifica della diffusione del catalogo dei servizi - (AgID) - 
+   CAP3.42
+
+-  **Giugno 2026** - Raccolta e analisi dei dati di utilizzo dei procedimenti 
+   utilizzati delle PA - (AgID) - CAP3.43
 
 Linee di azione per le PA
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -156,12 +160,12 @@ RA3.4.2
 
 -  **Dicembre 2024** - Le PA italiane aderenti agli Accordi in base alle
    proprie esigenze partecipano alle azioni di sensibilizzazione
-   effettuate da AGID - CAP3.PA.20
+   effettuate da AgID - CAP3.PA.20
 
 -  **Dicembre 2025** - Le PA italiane aderenti agli Accordi in base alle
    proprie esigenze partecipano alle azioni di sensibilizzazione
-   effettuate da AGID - CAP3.PA.21
+   effettuate da AgID - CAP3.PA.21
 
 -  **Dicembre 2026** - Le PA italiane aderenti agli Accordi in base alle
    proprie esigenze partecipano alle azioni di sensibilizzazione
-   effettuate da AGID - CAP3.PA.22
+   effettuate da AgID - CAP3.PA.22

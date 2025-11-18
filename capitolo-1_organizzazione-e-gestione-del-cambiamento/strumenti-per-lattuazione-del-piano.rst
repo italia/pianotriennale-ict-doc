@@ -4,10 +4,15 @@ Strumenti per l'attuazione del Piano
 OB1.1
 -----
 
--  `Piattaforma AGID Rete digitale <https://www.retedigitale.gov.it/>`__
+-  `Piattaforma AgID Rete digitale <https://www.retedigitale.gov.it/>`__
 
--  `Community e Laboratori AGID di supporto ai
+-  `Community e Laboratori AgID di supporto ai
    RTD <https://www.agid.gov.it/it/agenzia/responsabile-transizione-digitale/laboratori-rtd>`__
+
+OB1.2
+-----
+
+-  Piattaforma Facilita
 
 OB1.3
 -----

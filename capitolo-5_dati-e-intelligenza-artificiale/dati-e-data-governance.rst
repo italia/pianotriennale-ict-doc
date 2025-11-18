@@ -1,4 +1,4 @@
-Open data e data governance
+Dati e data governance
 ===========================
 
 Scenario
@@ -23,10 +23,13 @@ regolazione avviate ormai dal 2020. La citata Strategia europea dei dati
 ha introdotto la creazione di spazi di dati (*data spaces*) comuni e
 interoperabili al fine di superare le barriere legali e tecniche alla
 condivisione dei dati e, di conseguenza, sfruttare l'enorme potenziale
-dell'innovazione guidata dai dati.
+dell'innovazione guidata dai dati. Il primo degli spazi comuni su cui 
+si è avviata una regolamentazione specifica è quello dei dati sanitari, 
+per il quale è stato adottato recentemente il Regolamento (UE) 2025/327 
+che sarà applicabile dal 26 marzo 2027.
 
 Con l'adozione dell'atto sulla *governance* dei dati (*Data Governance
-Act*), inoltre, sono stati definiti e rafforzati i meccanismi per
+Act - DGA*), inoltre, sono stati definiti e rafforzati i meccanismi per
 aumentare la disponibilità dei dati e superare gli ostacoli tecnici al
 riutilizzo di alcune particolari tipologie di dati altrimenti non
 disponibili.
@@ -36,9 +39,11 @@ In Italia, con il recepimento della Direttiva Europea (UE) 2019/1024
 riutilizzo dell'informazione del settore pubblico, attuato con il
 Decreto lgs. n. 200/2021, che ha modificato il Decreto lgs. n. 36/2006,
 l'obiettivo strategico sopra delineato può essere perseguito attraverso
-l'implementazione delle nuove regole tecniche definite con le Linee
-guida sui dati aperti. Tale documento, adottato con la Determinazione
-AGID n. 183/2023 ai sensi dell'art. 71 del CAD in applicazione dell'art.
+l'implementazione delle nuove regole tecniche definite con le "Linee
+guida recanti regole tecniche per l'apertura dei dati e il riutilizzo 
+del'informazione del settore pubblico” (Linee guida Open Data, d'ora in 
+avanti). Tale documento, adottato con la Determinazione
+AgID n. 183/2023 ai sensi dell'art. 71 del CAD in applicazione dell'art.
 12 del citato Decreto Lgs. N. 36/2006 e s.m.i., è finalizzato a
 supportare le pubbliche amministrazioni e gli altri soggetti interessati
 nel processo di apertura dei dati e, quindi, favorire l'aumento
@@ -50,11 +55,18 @@ delle sei categorie tematiche (dati geospaziali, dati relativi
 all'osservazione della Terra e all'ambiente, dati meteorologici, dati
 statistici, dati relativi alle imprese e alla proprietà delle imprese,
 dati relativi alla mobilità) stabilite con la Direttiva *Open Data*. Con
-riferimento a tale Regolamento, il 22 dicembre 2023 è stata adottata da
-AGID una specifica
+riferimento a tale Regolamento, è stata adottata da
+AgID una specifica
 `Guida operativa sulle serie di dati di elevato valore <https://www.agid.gov.it/sites/default/files/repository_files/guida_operativa_hvd_-_ver._1.0.pdf>`__
 come documento di orientamento per le pubbliche amministrazioni per una
 più efficace implementazione delle disposizioni europee.
+
+Con il D. Lgs. n. 144/2024, l'Agenzia per l'Italia Digitale (AgID) è 
+stata designata, con riferimento al DGA, organismo competente per 
+assistere gli enti pubblici che concedono o rifiutano l'accesso al 
+riutilizzo di specifiche categorie di dati, ente per lo sportello unico, 
+Autorità nazionale competente per i servizi di intermediazione dei dati 
+e per la registrazione di organizzazioni per l'altruismo dei dati.
 
 Per garantire la creazione di servizi digitali sempre più efficienti, i
 dati scambiati reciprocamente tra gli enti erogatori di servizi dovranno
@@ -141,36 +153,34 @@ provincia, le Unioni dei Comuni, le Città metropolitane e le Province,
 anche tramite i relativi uffici associati tra quelli esistenti).
 
 A tal proposito, si richiamano le funzioni di raccolta ed elaborazione
-dati attribuite dalla Legge n. 56 del 2014 alle Province e alle Città
+dati attribuite dalla Legge n. 56/2014 alle Province e alle Città
 metropolitane, a servizio degli enti locali del territorio.
 
-Le "Linee guida recanti regole tecniche per l'apertura dei dati e il
-riutilizzo dell'informazione del settore pubblico" (Linee guida *Open
-Data*, d'ora in avanti) forniscono elementi utili di *data governance*
-in relazione ad aspetti organizzativi che possano abilitare un processo
-di apertura ed interoperabilità dei dati efficiente ed efficace. Anche
-l'interoperabilità, garantita dalla adozione di una semantica unica,
-come descritto nelle Linee guida sull'interoperabilità tecnica delle
-pubbliche amministrazioni, deve essere tenuta in conto nella
+Le Linee guida *Open Data* forniscono anche elementi utili di *data 
+governance* in relazione ad aspetti organizzativi che possano abilitare 
+un processo di apertura ed interoperabilità dei dati efficiente ed 
+efficace. Anche l'interoperabilità, garantita dalla adozione di una 
+semantica unica, come descritto nelle Linee guida sull'interoperabilità 
+tecnica delle pubbliche amministrazioni, deve essere tenuta in conto nella
 *governance* dei dati.
 
 Il processo di formazione e pubblicazione dei dati può seguire lo schema
 proposto nelle suddette Linee guida che si compone delle seguenti fasi:
 
 1. identificazione (ricognizione, analisi dei vincoli, priorità e
-   percorso di apertura dei dati)
+   percorso di apertura dei dati);
 
-2. analisi (analisi della qualità, bonifica, analisi di processo)
+2. analisi (analisi della qualità, bonifica, analisi di processo);
 
 3. arricchimento (vocabolari controllati, ontologie, *mashup e linking*
-   nei *linked open data - LOD*)
+   nei *linked open data - LOD*);
 
 4. modellazione e documentazione (schemi dei dati, modelli dati,
-   conservazione e storicizzazione)
+   conservazione e storicizzazione);
 
-5. validazione (qualità dei dati)
+5. validazione (qualità dei dati);
 
-6. pubblicazione (meta datazione, politiche di accesso e licenza,
+6. pubblicazione (metadatazione, politiche di accesso e licenza,
    modalità di pubblicazione).
 
 Per attuare tale processo, ferma restando l'autonomia organizzativa
@@ -192,6 +202,25 @@ il responsabile per la prevenzione della corruzione e la trasparenza, il
 responsabile della protezione dei dati, il responsabile per la
 sicurezza.
 
+La *data governance* e la razionalizzazione delle banche dati esistenti 
+interne alla PA, a garanzia dell'univocità e della qualità del dato, e 
+la promozione della condivisione del patrimonio informativo detenuto dalle 
+PA sono anche gli obiettivi richiamati nella Direttiva del Sottosegretario 
+di Stato alla Presidenza del Consiglio dei ministri con delega di funzioni 
+in materia di innovazione tecnologica e transizione digitale, concernente 
+“Misure per l'attuazione dell'articolo 50-ter del decreto legislativo 7 
+marzo 2005, n. 82”  e che la stessa Direttiva indica di inserire tra i 
+compiti da affidare ad apposite strutture di coordinamento o gruppi di 
+lavoro esistenti o da istituire, anche all'interno dell'ufficio del RTD.
+
+Con l'obiettivo di evitare la proliferazione di strutture organizzative 
+dedicate ai dati, è auspicabile che la governance dei dati nelle PA, 
+anche in relazione ai dati per l'IA, sia ricondotta ad un'unica struttura 
+di coordinamento che sovrintenda alla loro gestione complessiva (e che 
+quindi copra tutti gli aspetti indicati: *open data*, attuazione art. 50-ter, 
+dati per IA, ...).  
+
+
 L'attività di apertura e di pubblicazione dei dati, infine, può essere tracciata
 oltre che nel Piano triennale ICT anche come obiettivo del PIAO di ciascuna
 amministrazione, sulla base di una eventuale scala di priorità basata, per
@@ -209,13 +238,7 @@ relativi ai dati, ecc.).
 
 Sono necessari, infine, momenti di confronto su esperienze, buone pratiche,
 nuove soluzioni tecnologiche, procedure organizzative, servizi innovativi
-intorno al tema degli *open data*. Uno di questi momenti potrebbe essere una
-Conferenza nazionale a cadenza annuale in cui coinvolgere PA, imprese pubbliche
-e private, accademia, utenti, comunità, sviluppatori per fare sintesi sul
-livello di maturità dei dati in Italia. Inoltre, per migliorare l'esperienza
-dell'utente nella ricerca e nell'utilizzo di dati disponibili su Catalogo
-Nazionale dei Dati Aperti è in previsione la realizzazione - entro fine 2025 -
-di un assistente virtuale (*chatbot*) che sfrutti l'Intelligenza Artificiale.
+intorno al tema degli *open data*. 
 
 Contesto normativo e strategico
 -------------------------------
@@ -224,29 +247,29 @@ Riferimenti normativi italiani:
 
 -  `Decreto legislativo 30 giugno 2003, n. 196 "Codice in materia di protezione
    dei dati personali"
-   <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196!vig=>`__
+   <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196!vig=>`__;
 
 -  `Decreto legislativo 7 marzo 2005, n. 82 "Codice dell'amministrazione
    digitale" (in breve
    CAD) artt. 50, 50-ter., 51, 52, 59, 60
-   <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig=>`__
+   <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig=>`__;
 
 -  `Decreto legislativo 24 gennaio 2006, n. 36 "Attuazione della
    direttiva (UE) 2019/1024 relativa all'apertura dei dati e al
    riutilizzo dell'informazione del settore pubblico che ha abrogato la
    direttiva
-   2003/98/CE)" <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-01-24;36!vig=>`__
+   2003/98/CE)" <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-01-24;36!vig=>`__;
 
 -  `Decreto legislativo 27 gennaio 2010, n. 32 "Attuazione della
    direttiva 2007/2/CE, che istituisce un'infrastruttura per
    l'informazione territoriale nella Comunità europea
-   (INSPIRE)" <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;32>`__
+   (INSPIRE)" <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;32>`__;
 
 -  `Decreto legislativo 14 marzo 2013, n. 33 "Riordino della disciplina
    riguardante il diritto di accesso civico e gli obblighi di
    pubblicità, trasparenza e diffusione di informazioni da parte delle
    pubbliche amministrazioni" (Decreto
-   trasparenza) <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-03-14;33!vig=>`__
+   trasparenza) <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-03-14;33!vig=>`__;
 
 -  `Decreto legislativo 10 agosto 2018, n. 101 "Disposizioni per
    l'adeguamento della normativa nazionale alle disposizioni del
@@ -255,142 +278,131 @@ Riferimenti normativi italiani:
    riguardo al trattamento dei dati personali, nonché alla libera
    circolazione di tali dati e che abroga la direttiva 95/46/CE"
    (regolamento generale sulla protezione dei
-   dati) <https://www.normattiva.it/atto/caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=2018-09-04&atto.codiceRedazionale=18G00129&tipoDettaglio=multivigenza&qId=&tabID=0.14190610653217517&title=Atto%20multivigente&bloccoAggiornamentoBreadCrumb=true>`__
+   dati) <https://www.normattiva.it/atto/caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=2018-09-04&atto.codiceRedazionale=18G00129&tipoDettaglio=multivigenza&qId=&tabID=0.14190610653217517&title=Atto%20multivigente&bloccoAggiornamentoBreadCrumb=true>`__;
 
 -  `Decreto-legge 16 luglio 2020, n. 76, convertito con modificazioni
    dalla Legge 11 settembre 2020, n. 120 "Misure urgenti per la
    semplificazione e l'innovazione
-   digitale" <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-07-16;76>`__
+   digitale" <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-07-16;76>`__;
 
 -  `Decreto-legge 31 maggio 2021, n. 77, convertito con modificazioni
    dalla Legge 29 luglio 2021, n. 108 "Governance del Piano nazionale di
    ripresa e resilienza e prime misure di rafforzamento delle strutture
    amministrative e di accelerazione e snellimento delle
-   procedure" <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-05-31;77!vig=2021-06-01>`__
+   procedure" <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-05-31;77!vig=2021-06-01>`__;
 
--  `Linee Guida AGID per i cataloghi dati
-   (2017) <https://docs.italia.it/italia/daf/linee-guida-cataloghi-dati-dcat-ap-it/it/stabile/index.html>`__
+-  `Linee Guida AgID per i cataloghi dati
+   (2017) <https://docs.italia.it/italia/daf/linee-guida-cataloghi-dati-dcat-ap-it/it/stabile/index.html>`__;
 
--  `Linee Guida AGID per l'implementazione della specifica GeoDCAT-AP
-   (2017) <https://geodati.gov.it/geoportale/images/struttura/documenti/GeoDCAT-AP_IT-v1.0.pdf>`__
+-  `Linee Guida AgID per l'implementazione della specifica GeoDCAT-AP
+   (2017) <https://geodati.gov.it/geoportale/images/struttura/documenti/GeoDCAT-AP_IT-v1.0.pdf>`__;
 
--  `Linee Guida AGID recanti regole tecniche per la definizione e
+-  `Linee Guida AgID recanti regole tecniche per la definizione e
    l'aggiornamento del contenuto del Repertorio Nazionale dei Dati
    Territoriali
-   (2022) <https://trasparenza.agid.gov.it/archivio28_provvedimenti-amministrativi_0_123123_725_1.html>`__
+   (2022) <https://trasparenza.agid.gov.it/archivio28_provvedimenti-amministrativi_0_123123_725_1.html>`__;
 
--  `Linee Guida AGID recanti regole tecniche per l'attuazione del
+-  `Linee Guida AgID recanti regole tecniche per l'attuazione del
    decreto legislativo 24 gennaio 2006, n. 36 e s.m.i. relativo
    all'apertura dei dati e al riutilizzo dell'informazione del settore
-   pubblico adottate con Determinazione AGID n. 183/2023 del 3 agosto
-   2023 <https://www.agid.gov.it/sites/default/files/repository_files/lg-open-data_v.1.0_1.pdf>`__
+   pubblico adottate con Determinazione AgID n. 183/2023 del 3 agosto
+   2023 <https://www.agid.gov.it/sites/default/files/repository_files/lg-open-data_v.1.0_1.pdf>`__;
 
 -  `Manuale RNDT - Guide operative per la compilazione dei metadati
-   RNDT <https://geodati.gov.it/geoportale/manuale-rndt>`__
+   RNDT <https://geodati.gov.it/geoportale/manuale-rndt>`__;
+
+-  Guida operativa sulle serie di dati di elevato valore;
 
 -  Piano Nazionale di Ripresa e Resilienza - `Investimento 1.3: "Dati e
-   interoperabilità" <https://italiadomani.gov.it/it/Interventi/investimenti/dati-e-interoperabilita.html>`__
+   interoperabilità" <https://italiadomani.gov.it/it/Interventi/investimenti/dati-e-interoperabilita.html>`__.
 
 Riferimenti normativi europei:
 
 -  `Direttiva 2007/2/CE del Parlamento europeo e del Consiglio, del 14
    marzo 2007, che istituisce un'Infrastruttura per l'informazione
    territoriale nella Comunità europea
-   (Inspire) <https://eur-lex.europa.eu/legal-content/IT/ALL/?uri=celex%3A32007L0002>`__
+   (Inspire) <https://eur-lex.europa.eu/legal-content/IT/ALL/?uri=celex%3A32007L0002>`__;
 
 -  `Regolamento (CE) n. 1205/2008 del 3 dicembre 2008 recante attuazione
    della direttiva 2007/2/CE del Parlamento europeo e del Consiglio per
    quanto riguarda i
-   metadati <https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A32008R1205>`__
+   metadati <https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A32008R1205>`__;
 
 -  `Regolamento (CE) n. 976/2009 della Commissione, del 19 ottobre 2009,
    recante attuazione della direttiva 2007/2/CE del Parlamento europeo e
    del Consiglio per quanto riguarda i servizi di
-   rete <https://eur-lex.europa.eu/legal-content/IT/ALL/?uri=CELEX%3A32009R0976>`__
+   rete <https://eur-lex.europa.eu/legal-content/IT/ALL/?uri=CELEX%3A32009R0976>`__;
 
 -  `Regolamento (UE) 2010/1089 del 23 novembre 2010 recante attuazione
    della direttiva 2007/2/CE del Parlamento europeo e del Consiglio per
    quanto riguarda l'interoperabilità dei set di dati territoriali e dei
    servizi di dati
-   territoriali <https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:323:0011:0102:IT:PDF>`__
+   territoriali <https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:323:0011:0102:IT:PDF>`__;
 
 -  `Regolamento (UE) 2016/679 del 27 aprile 2016 relativo alla
    protezione delle persone fisiche con riguardo al trattamento dei dati
    personali (in breve
-   GDPR) <https://eur-lex.europa.eu/legal-content/IT/TXT/?qid=1584088833794&uri=CELEX:32016R0679>`__
+   GDPR) <https://eur-lex.europa.eu/legal-content/IT/TXT/?qid=1584088833794&uri=CELEX:32016R0679>`__;
 
 -  `Direttiva (UE) 2019/1024 del 20 giugno 2019 relativa all'apertura
    dei dati e al riutilizzo dell'informazione del settore
-   pubblico <https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32019L1024>`__
+   pubblico <https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32019L1024>`__;
 
 -  `Decisione (UE) 2019/1372 del 19 agosto 2019 recante attuazione della
    direttiva 2007/2/CE del Parlamento europeo e del Consiglio per quanto
    riguarda il monitoraggio e la
-   comunicazione <https://eur-lex.europa.eu/eli/dec_impl/2019/1372/oj>`__
+   comunicazione <https://eur-lex.europa.eu/eli/dec_impl/2019/1372/oj>`__;
 
 -  `Regolamento (UE) 2022/868 del Parlamento europeo e del Consiglio del
    30 maggio 2022 relativo alla governance europea dei dati e che
    modifica il regolamento (UE) 2018/1724 (Regolamento sulla governance
    dei
-   dati) <https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32022R0868>`__
+   dati) <https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32022R0868>`__;
 
 -  `Regolamento di esecuzione (UE) 2023/138 della Commissione del 21
    dicembre 2022 che stabilisce un elenco di specifiche serie di dati di
    elevato valore e le relative modalità di pubblicazione e
-   riutilizzo <https://eur-lex.europa.eu/legal-content/IT/TXT/HTML/?uri=CELEX:32023R0138>`__
+   riutilizzo <https://eur-lex.europa.eu/legal-content/IT/TXT/HTML/?uri=CELEX:32023R0138>`__;
+
+-  Regolamento (UE) 2025/327 del Parlamento europeo e del Consiglio dell'11 
+   febbraio 2025 sullo spazio europeo dei dati sanitari e che modifica la 
+   direttiva 2011/24/UE e il regolamento (UE) 2024/2847;
 
 -  `Comunicazione della Commissione 2014/C 240/01 del 24 luglio 2014 -
    Orientamenti sulle licenze standard raccomandate, i dataset e la
    tariffazione del riutilizzo dei
-   documenti <https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52014XC0724(01)>`__
+   documenti <https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52014XC0724(01)>`__;
 
 -  `Comunicazione della Commissione al Parlamento europeo, al Consiglio,
    al Comitato economico e sociale europeo e al Comitato delle regioni
    COM (2020) del 19 febbraio 2020 - Una strategia europea per i
-   dati <https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52020DC0066>`__
+   dati <https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52020DC0066>`__.
 
 Di seguito, con il termine amministrazione ci si riferisce ai soggetti
 destinatari, individuati nel par. 1.3, delle Linee guida *Open Data*.
 
-Obiettivo 5.1 - Favorire la condivisione e il riutilizzo dei dati tra le PA e il riutilizzo da parte di cittadini e imprese
----------------------------------------------------------------------------------------------------------------------------
+Obiettivo 5.1 - Favorire la condivisione dei dati tra le PA e il riutilizzo da parte di cittadini e imprese
+-----------------------------------------------------------------------------------------------------------
 
 RA5.1.1 - Aumento del numero di dataset aperti di tipo dinamico in coerenza con quanto previsto dalle Linee guida Open Data
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  **Target 2024** - Documentazione nel Catalogo nazionale dei dati
-   aperti di almeno 400 *dataset* dinamici
+-  **Monitoraggio 2024** - 2.050 *dataset* dinamici documentati nel Catalogo 
+   nazionale dei dati aperti
 
--  **Target 2025** - Aumento di *dataset* aperti di tipo dinamico
-   documentati nel Catalogo nazionale dei dati aperti per ogni
-   amministrazione titolare:
+-  **Target 2025** - Aumento del 25%, rispetto al 2024, del numero di *dataset* 
+   aperti di tipo dinamico documentati nel Catalogo nazionale dei dati aperti
 
-   -  Se l'amministrazione ha già pubblicato un numero di *dataset* <10,
-      deve arrivare a un minimo di 10 *dataset* aperti di tipo dinamico
-      pubblicati e documentati nel Catalogo
-
-   -  Se l'amministrazione ha già pubblicato un numero di *dataset* ≥ 10
-      deve aumentare del 25% rispetto al 2024 il numero di *dataset*
-      aperti di tipo dinamico pubblicati e documentati nel Catalogo
-
--  **Target 2026** - Aumento di *dataset* aperti di tipo dinamico
-   pubblicati e documentati nel Catalogo nazionale dei dati aperti per
-   ogni amministrazione titolare:
-
-   -  se l'amministrazione ha già pubblicato un numero di *dataset* <20,
-      deve arrivare a un minimo di 20 *dataset* aperti di tipo dinamico
-      pubblicati e documentati nel Catalogo;
-
-   -  se l'amministrazione ha già pubblicato un numero di *dataset* ≥ 20
-      deve aumentare del 50%, rispetto al 2024, il numero di *dataset*
-      aperti di tipo dinamico pubblicati e documentati nel Catalogo
+-  **Target 2026** - Aumento del 35% rispetto al 2024 del numero di *dataset*
+   aperti di tipo dinamico pubblicati e documentati nel Catalogo nazionale 
+   dei dati aperti
 
 RA5.1.2 - Aumento del numero di dataset resi disponibili attraverso i servizi di rete di cui al framework creato con la Direttiva 2007/2/EC (INSPIRE) e relativi Regolamenti attuativi, con particolare riferimento ai dati di elevato valore di cui al Regolamento di esecuzione (UE) 2023/138
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  **Target** **2024** - Documentazione nel Repertorio nazionale dei
-   dati territoriali (RNDT) e conseguente esposizione nel geoportale
-   INSPIRE di almeno 2.500 dataset
+-  **Monitoraggio** **2024** - 4.660 dataset documentati nel Repertorio 
+   nazionale dei dati territoriali (RNDT) ed esposti nel geoportale
+   INSPIRE
 
 -  **Target 2025** - Aumento di *dataset* territoriali documentati su
    RNDT per ogni amministrazione titolare:
@@ -415,20 +427,43 @@ RA5.1.2 - Aumento del numero di dataset resi disponibili attraverso i servizi di
       deve aumentare del 25% rispetto al 2024 il numero di *dataset*
       territoriali documentati su RNDT
 
+RA5.1.3 - Disponibilità delle categorie di dati protetti di cui all'art. 3 del Regolamento (UE) 2022/868 (DGA)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-  **Target 2025** - n.d.
+
+-  **Target 2026** - Documentazione di almeno 100 dataset nello sportello 
+   unico reso disponibile da AgID
+
+
 Linee di azione istituzionali
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 RA5.1.1
 ^^^^^^^
 
--  **Dicembre 2024** - Aggiornamento del Catalogo nazionale dei dati
-   aperti - (AGID) - CAP5.01
-
 -  **Dicembre 2025** - Conclusione di 4 cicli di formazione e sulle
-   politiche *open data* per il biennio 24-25 - (AGID) - CAP5.02
+   politiche *open data* per il biennio 24-25 - (AgID) - CAP5.02
 
--  **Dicembre 2025** - Realizzazione versione beta dell'assistente virtuale
-   (*chatbot*) sul Catalogo Nazionale dei Dati Aperti - (AGID) - CAP5.21
+-  **Dicembre 2026 \*** - Realizzazione versione beta dell'assistente virtuale
+   (*chatbot*) sul Catalogo Nazionale dei Dati Aperti - (AgID) - CAP5.21
+
+RA5.1.1
+^^^^^^^
+
+-  **Dicembre 2025** - Implementazione dello sportello unico di cui all'art. 8 
+   del DGA per favorire il riutilizzo di categorie di dati protetti detenuti 
+   da enti pubblici- (AgID) - CAP5.22
+
+-  **Dicembre 2025** - Regolamentazione della fornitura dei servizi di 
+   intermediazione dei dati - (AgID) - CAP5.23
+
+-  **Dicembre 2025** - Regolamentazione con disposizioni tecniche e 
+   organizzative per facilitare l'altruismo dei dati ai sensi dell'art. 2, 
+   comma 3, del D. Lgs. n. 144/2024 - (AgID) - CAP5.24
+
+-  **Dicembre 2026** - Primo monitoraggio sull'applicazione del DGA 
+   (AgID) - CAP5.25
 
 Linee di azione per le PA
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -458,15 +493,22 @@ RA5.1.2
    Linee guida *Open Data* nonché nella specifica guida operativa -
    CAP5.PA.04
 
+RA5.1.3
+^^^^^^^
+
+-  **Da gennaio 2026** - Le PA documentano i propri dati rientranti nelle 
+   categorie di cui all'art. 3 del Regolamento (UE) 2022/868 (DGA) nello 
+   sportello unico reso disponibile da AgID - CAP5.PA.26
+
 Obiettivo 5.2 - Aumentare la qualità dei dati e dei metadati
 ------------------------------------------------------------
 
 RA5.2.1 - Aumento del numero di dataset con metadati di qualità conformi agli standard di riferimento europei e nazionali
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  **Target 2024** - Documentazione di 22.000 *dataset* e servizi nel
-   catalogo geodati.gov.it e di 55.000 *dataset* nel catalogo
-   dati.gov.it
+-  **Monitoraggio 2024** - Documentazione di 24.446 *dataset* e servizi 
+   documentati nel catalogo geodati.gov.it e di 62.391 *dataset documentati* 
+   nel catalogo dati.gov.it
 
 -  **Target 2025** - Aumento del 15% del numero dei *dataset*
    documentati per ogni amministrazione rispetto al 2024
@@ -477,8 +519,8 @@ RA5.2.1 - Aumento del numero di dataset con metadati di qualità conformi agli s
 RA5.2.2 - Aumento del numero di dataset di tipo aperto resi disponibili dalle pubbliche amministrazioni e documentati nel portale dati.gov.it
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  **Target 2024** - Documentazione di almeno 70.000 *dataset* nel
-   catalogo dati.gov.it
+-  **Monitoraggio 2024** - 62.399 *dataset* documentati nel catalogo 
+   dati.gov.it
 
 -  **Target 2025** - Aumento di *dataset* di tipo aperto documentati per
    ogni amministrazione titolare:
@@ -503,19 +545,21 @@ RA5.2.2 - Aumento del numero di dataset di tipo aperto resi disponibili dalle pu
 RA5.2.3 - Aumento del numero di amministrazioni non ancora presenti nel catalogo dati.gov.it che rendono disponibili dataset di tipo aperto
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  **Target 2024** - Tutte le PA hanno pubblicato il numero minimo di
+-  **Monitoraggio 2024** - 264 PA hanno pubblicato il numero minimo di
    *dataset* riportato nelle linee d'azione per l'anno 2024
 
--  **Target 2025** - Tutte le PA hanno pubblicato il numero minimo di
-   *dataset* riportato nelle linee d'azione per l'anno 2025
+-  **Target 2025** - Aumento del 50% delle PA rispetto al 2024 che pubblicano 
+   il numero minimo di *dataset* riportato nelle linee d'azione per l'anno 2025
 
--  **Target 2026** - Tutte le PA hanno pubblicato il numero minimo di
-   *dataset* riportato nelle linee d'azione per l'anno 2026
+-  **Target 2026** - Aumento del 100% delle PA rispetto al 2024 che pubblicano 
+   il numero minimo di *dataset* riportato nelle linee d'azione per l'anno 2026
 
 RA5.2.4 - Aumento del numero di dataset documentati sul portale dati.gov.it che rispettano la caratteristica di qualità "attualità" (o tempestività di aggiornamento) di cui allo Standard ISO/IEC 25012
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  **Target 2024** - Definizione baseline
+-  **Monitoraggio 2024** - 4.877 dataset documentati sul portale dati.gov.it 
+   che rispettano la caratteristica di qualità “attualità” (o tempestività di 
+   aggiornamento) di cui allo Standard ISO/IEC 25012
 
 -  **Target 2025** - Almeno il 30% dei dati documentati nel portale per
    ciascuna PA
@@ -529,55 +573,45 @@ Linee di azione istituzionali
 RA5.2.1
 ^^^^^^^
 
--  **Dicembre 2024 \*** - Aggiornamento dei profili metadati per adeguamento
-   alle indicazioni del Regolamento di esecuzione (UE) sui dati di
-   elevato valore, alle Linee guida sui dati aperti e alle indicazioni
-   derivanti da iniziative europee di allineamento - (AGID) - CAP5.04
+-  **Dicembre 2025 \*** - Aggiornamento dei profili metadati - 
+   (AgID) - CAP5.04
 
--  **Dicembre 2024** - Completamento del IV ciclo di formazione e
-   sensibilizzazione alle PA titolari di dati aperti e/o di dati
-   territoriali per le attività relative alla implementazione delle
-   Linee guida sui dati aperti e il riutilizzo dell'informazione del
-   settore pubblico e del Regolamento di esecuzione (UE) sui dati di
-   elevato valore - (AGID) - CAP5.05
+-  **Dicembre 2026** - Aggiornamento della specifica nazionale 
+   GeoDCAT-AP_IT, alla base delle comunicazioni tra i due portali 
+   dei dati dati.gov.it e geodati.gov.it - (AgID) - CAP5.26
 
 RA5.2.2
 ^^^^^^^
 
--  **Dicembre 2024 \*** - Predisposizione di un documento che raccolga in
+-  **Ottobre 2025 \*** - Predisposizione di un documento che raccolga in
    modo coerente le cornici normative, il posizionamento delle
    piattaforme locali, nazionali e sovranazionali e i punti di contatto
-   che riguardano i dati - (AGID, Dipartimento per la Trasformazione
+   che riguardano i dati - (AgID, Dipartimento per la Trasformazione
    Digitale) - CAP5.06
-
--  **Dicembre 2024** - Conclusione primo rilevamento dei dati di elevato
-   valore documentati nei cataloghi nazionali come da indicazioni sulla
-   reportistica del Regolamento di esecuzione (UE) e pubblicazione
-   report - (AGID) - CAP5.07
 
 -  **Dicembre 2025** - Completamento del V ciclo di formazione e
    sensibilizzazione alle PA titolari di dati aperti e/o di dati
    territoriali per le attività relative alla implementazione delle
    Linee guida sui dati aperti e il riutilizzo dell'informazione del
    settore pubblico e del Regolamento di esecuzione (UE) sui dati di
-   elevato valore - (AGID) - CAP5.08
+   elevato valore - (AgID) - CAP5.08
 
 -  **Dicembre 2025** - Rilevamento annuale dei dati di elevato valore
    documentati nei cataloghi nazionali come da indicazioni sulla
    reportistica del Regolamento di esecuzione (UE) e pubblicazione
-   report - (AGID) - CAP5.09
+   report - (AgID) - CAP5.09
 
 -  **Dicembre 2026** - Completamento del VI ciclo di formazione e
    sensibilizzazione alle PA titolari di dati aperti e/o di dati
    territoriali per le attività relative alla implementazione delle
    Linee guida sui dati aperti e il riutilizzo dell'informazione del
    settore pubblico e del Regolamento di esecuzione (UE) sui dati di
-   elevato valore - (AGID) - CAP5.10
+   elevato valore - (AgID) - CAP5.10
 
 -  **Dicembre 2026** - Rilevamento annuale dei dati di elevato valore
    documentati nei cataloghi nazionali come da indicazioni sulla
    reportistica del Regolamento di esecuzione (UE) e pubblicazione
-   report - (AGID) - CAP5.11
+   report - (AgID) - CAP5.11
 
 Linee di azione per le PA
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -671,16 +705,16 @@ Obiettivo 5.3 - Aumentare la consapevolezza sulle politiche di valorizzazione de
 RA5.3.1 - Aumento del numero di dataset di tipo aperto documentati nel portale dati.gov.it che adottano le licenze previste dalle Linee guida Open Data
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  **Target 2024** - Almeno 35.000 *dataset* documentati con licenze
+-  **Monitoraggio 2024** - 56.841 dataset documentati con licenze
    previste dalle Linee guida *Open Data*
 
 -  **Target 2025** - Aumento del 30% dei *dataset* documentati con
    licenze previste dalle Linee guida *Open Data* rispetto al target
-   2024 per ciascuna amministrazione
+   2024
 
 -  **Target 2026** - Aumento del 50% dei *dataset* documentati con
    licenze previste dalle Linee guida *Open Data* rispetto al target
-   2024 per ciascuna amministrazione
+   2024
 
 Linee di azione istituzionali
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -688,14 +722,11 @@ Linee di azione istituzionali
 RA5.3.1
 ^^^^^^^
 
--  **Dicembre 2024** - Ciclo di formazione e sensibilizzazione alle PA
-   titolari di dati aperti e/o di dati territoriali dedicato alle
-   licenze e condizioni d'uso applicabili ai dati, sulla base delle
-   relative indicazioni presenti nelle Linee guida e nel Regolamento di
-   esecuzione (UE) sui dati di elevato valore - (AGID) - CAP5.12
-
 -  **Dicembre 2025** - Produzione di Linee guida e guide operative sulla
-   governance dei dati - (AGID, ISTAT) - CAP5.13
+   governance dei dati - (AgID, ISTAT) - CAP5.13
+
+-  **Dicembre 2026** - Indagine sulla governance dei dati nelle PA 
+   italiane - (AgID) - CAP5.27
 
 Linee di azione per le PA
 ~~~~~~~~~~~~~~~~~~~~~~~~~

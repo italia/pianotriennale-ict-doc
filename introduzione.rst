@@ -1,7 +1,7 @@
 Premessa
 ========
 
-Il presente documento rappresenta l'aggiornamento 2025 del Piano triennale per
+Il presente documento rappresenta l'aggiornamento 2026 del Piano triennale per
 l'informatica nella Pubblica Amministrazione 2024-2026, di competenza
 dell'Agenzia per l'Italia digitale che - così come previsto dall'art. 14 bis del
 CAD - è approvato dal Presidente del Consiglio dei ministri o dal Ministro
@@ -12,7 +12,7 @@ prime destinatarie del Piano, di rendere coerenti e quanto più possibile
 aderenti e allineati gli adempimenti e le tempistiche di pianificazione delle
 attività delle stesse PA, in modo da agevolarne la realizzazione.
 
-Come già evidenziato nell'edizione 2024-2026, l'aggiornamento 2025 è necessario
+Come già evidenziato nell'edizione 2024-2026, l'aggiornamento 2026 è necessario
 per fornire elementi nuovi e allineare scenari e normativa in costante
 cambiamento, così come per rendere disponibili dati e informazioni aggiornate
 relativamente ai cambiamenti di contesto e, di conseguenza, per adeguare le

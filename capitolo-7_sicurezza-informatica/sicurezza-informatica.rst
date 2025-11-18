@@ -54,10 +54,16 @@ riferimento è alla necessità di:
 -  promuovere attività legate al miglioramento della cultura *cyber*
    delle amministrazioni (obiettivo 7.5).
 
-All'interno di questo contesto, anche AGID collaborerà mettendo a disposizione
+All'interno di questo contesto, anche AgID collaborerà mettendo a disposizione
 della Pubblica Amministrazione una serie di piattaforme e di servizi, che
 verranno erogati tramite il proprio CERT, finalizzati alla conoscenza e al
-contrasto dei rischi *cyber* legati al patrimonio ICT della PA (obiettivo 7.6)
+contrasto dei rischi *cyber* legati al patrimonio ICT della PA (obiettivo 7.6).
+
+Con il decreto legislativo 4 settembre 2024 n. 138, l'Italia ha recepito 
+nell'ordinamento nazionale la direttiva (UE) 2022/2555 (cd. Direttiva NIS - 
+Network and Information Security), relativa a misure per un livello comune 
+elevato di sicurezza informatica nell'Unione. Ai sensi della predetta disciplina 
+l'ACN è l'Autorità competente NIS e punto di contatto unico.
 
 Contesto normativo e strategico
 -------------------------------
@@ -66,31 +72,31 @@ Riferimenti normativi italiani:
 
 -  `Decreto legislativo 7 marzo 2005, n. 82, "Codice
    dell'amministrazione digitale", articolo
-   51 <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82>`__
+   51 <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82>`__;
 
 -  `Decreto del Presidente del Consiglio dei ministri 17 febbraio 2017,
    "Direttiva recante indirizzi per la protezione cibernetica e la
    sicurezza informatica
-   nazionali <https://www.gazzettaufficiale.it/eli/id/2017/04/13/17A02655/sg>`__"
+   nazionali <https://www.gazzettaufficiale.it/eli/id/2017/04/13/17A02655/sg>`__";
 
 -  `Decreto Legislativo 18 maggio 2018, n. 65, "Attuazione della
    direttiva (UE) 2016/1148 del Parlamento europeo e del Consiglio, del
    6 luglio 2016, recante misure per un livello comune elevato di
    sicurezza delle reti e dei sistemi informativi
-   nell'Unione <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-05-18;65!vig=>`__"
+   nell'Unione <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-05-18;65!vig=>`__";
 
 -  `Decreto del Presidente del Consiglio dei ministri 8 agosto 2019,
    "Disposizioni sull'organizzazione e il funzionamento del computer
    security incident response team - CSIRT
-   italiano" <https://www.gazzettaufficiale.it/eli/id/2019/11/08/19A06940/sg>`__
+   italiano" <https://www.gazzettaufficiale.it/eli/id/2019/11/08/19A06940/sg>`__;
 
 -  `Decreto-legge 21 settembre 2019, n. 105, "Disposizioni urgenti in
    materia di perimetro di sicurezza nazionale
-   cibernetica" <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2019-09-21;105!vig=>`__
+   cibernetica" <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2019-09-21;105!vig=>`__;
 
 -  `Decreto-legge 19 luglio 2020, n. 76, "Misure urgenti per la
    semplificazione e l'innovazione
-   digitale" <https://www.gazzettaufficiale.it/eli/id/2020/07/16/20G00096/sg>`__
+   digitale" <https://www.gazzettaufficiale.it/eli/id/2020/07/16/20G00096/sg>`__;
 
 -  `Decreto del Presidente del Consiglio dei ministri 14 aprile 2021, n.
    81, "Regolamento in materia di notifiche degli incidenti aventi
@@ -98,7 +104,7 @@ Riferimenti normativi italiani:
    all'articolo 1, comma 2, lettera b), del decreto-legge 21 settembre
    2019, n. 105, convertito, con modificazioni, dalla legge 18 novembre
    2019, n. 133, e di misura volte a garantire elevati livelli di
-   sicurezza"; <https://www.gazzettaufficiale.it/eli/id/2021/06/11/21G00089/sg>`__
+   sicurezza"; <https://www.gazzettaufficiale.it/eli/id/2021/06/11/21G00089/sg>`__;
 
 -  `Decreto-legge 14 giugno 2021 n. 82, "Disposizioni urgenti in materia
    di cybersicurezza, definizione dell'architettura nazionale di
@@ -114,12 +120,18 @@ Riferimenti normativi italiani:
 -  `Decreto-legge 21 marzo 2022 n. 21, "Misure urgenti per contrastare
    gli effetti economici e umanitari della crisi Ucraina", articoli 27,
    28 e
-   29; <https://www.gazzettaufficiale.it/eli/id/2022/03/21/22G00032/SG>`__
+   29; <https://www.gazzettaufficiale.it/eli/id/2022/03/21/22G00032/SG>`__;
 
 -  `Decreto del Presidente del Consiglio dei ministri 17 maggio 2022,
    Adozione della Strategia nazionale di cybersicurezza 2022-2026 e del
    relativo Piano di implementazione
    2022-2026 <https://www.gazzettaufficiale.it/eli/id/2022/06/01/22A03288/sg>`__;
+
+-  Decreto Legislativo 4 settembre 2024, n. 138, “Recepimento della direttiva 
+   (UE) 2022/2555, relativa a misure per un livello comune elevato di 
+   cibersicurezza nell'Unione, recante modifica del regolamento (UE) n. 910/2014 
+   e della direttiva (UE) 2018/1972 e che abroga la direttiva (UE) 2016/1148. 
+   (24G00155)”;
 
 -  `Misure minime di sicurezza ICT per le pubbliche amministrazioni, 18
    marzo
@@ -129,30 +141,30 @@ Riferimenti normativi italiani:
    2020 <https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/201391021420O__OLG_Sicurezza_Procurement_ICT_versione_finale_pub.pdf>`__;
 
 -  `Strategia Cloud Italia, adottata a settembre
-   2021 <https://innovazione.gov.it/dipartimento/focus/strategia-cloud-italia/>`__
+   2021 <https://innovazione.gov.it/dipartimento/focus/strategia-cloud-italia/>`__;
 
 -  Piano Nazionale di Ripresa e Resilienza - `Investimento 1.5:
-   "Cybersecurity" <https://italiadomani.gov.it/it/Interventi/investimenti/cybersecurity-sicurezza-informatica.html>`__;
+   "Cybersecurity" <https://italiadomani.gov.it/it/Interventi/investimenti/cybersecurity-sicurezza-informatica.html>`__.
 
 Riferimenti normativi europei:
 
 -  `Direttiva 6 luglio 2016 n. 2016/1148 recante misure per un livello
    comune elevato di sicurezza delle reti e dei sistemi informativi
-   nell'Unione. <https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=celex%3A32016L1148>`__
+   nell'Unione. <https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=celex%3A32016L1148>`__;
 
 -  `Regolamento (UE) 2019/881 del Parlamento europeo e del Consiglio,
    del 17 aprile 2019, relativo all'ENISA, l'Agenzia dell'Unione europea
    per la cybersicurezza, e alla certificazione della cybersicurezza per
    le tecnologie dell'informazione e della comunicazione, e che abroga
    il regolamento (UE) n. 526/2013 («regolamento sulla
-   cybersicurezza») <https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:32019R0881&from=PT>`__
+   cybersicurezza») <https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:32019R0881&from=PT>`__;
 
 -  `Direttiva 14 dicembre 2022 n. 2022/2555/UE relativa a misure per un
    livello comune elevato di cybersicurezza nell'Unione, recante
    modifica del regolamento (UE) n. 910/2014 e della direttiva (UE)
    2018/1972 e che abroga la direttiva (UE) 2016/1148 (direttiva NIS 2)
    (Testo rilevante ai fini del
-   SEE) <https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A32022L2555>`__
+   SEE) <https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A32022L2555>`__.
 
 Obiettivo 7.1 - Adottare una governance della cybersicurezza diffusa nella PA
 -----------------------------------------------------------------------------
@@ -160,24 +172,24 @@ Obiettivo 7.1 - Adottare una governance della cybersicurezza diffusa nella PA
 RA7.1.1 - Identificazione di un modello, con ruoli e responsabilità, di gestione della cybersicurezza
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  **Target 2024** - Identificare e approvare un modello unitario e
+-  **Target 2024** - Identificato e approvato un modello unitario e 
    centralizzato di *governance* della cybersicurezza, comprensivo delle
    linee di implementazione da parte delle PA.
 
 -  **Target 2025** - Approvare e rendere noti ruoli e responsabilità
    relativi alla gestione della cybersicurezza
 
--  **Target 2026** - n.a.
+-  **Target 2026** - n.d.
 
 RA7.1.2 - Definizione del framework documentale a supporto della gestione cyber
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  **Target 2024** - n.a.
+-  **Target 2024** - n.d.
 
 -  **Target 2025** - Approvare e rendere noti i processi e le procedure
    inerenti alla gestione interna della cybersicurezza
 
--  **Target 2026** - n.a.
+-  **Target 2026** - n.d.
 
 Linee di azione per le PA
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -208,12 +220,15 @@ Obiettivo 7.2 - Gestire i processi di approvvigionamento IT coerentemente con i 
 RA7.2.1 - Definizione del framework documentale a supporto del processo di approvvigionamento IT
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  **Target 2024** - Definire ed approvare i requisiti di sicurezza nei
-   processi di approvvigionamento IT
+-  **Target 2024** - n.d.
+ 
+-  **Target 2025**: 
 
--  **Target 2025** - Definire ed approvare processi e modalità di
-   approvvigionamento e governo del rischio nella gestione delle terze
-   parti
+   - Definire ed approvare i requisiti di sicurezza nei processi di 
+     approvvigionamento IT
+
+   - Definire ed approvare processi e modalità di approvvigionamento e 
+     governo del rischio nella gestione delle terze parti
 
 -  **Target 2025** - Definire contratti e accordi con fornitori e terze
    parti IT per rispettare gli obiettivi di sicurezza definiti nel
@@ -222,7 +237,7 @@ RA7.2.1 - Definizione del framework documentale a supporto del processo di appro
 RA7.2.2 - Definizione delle modalità di monitoraggio del processo di approvvigionamento IT
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  **Target 2024** - n.a.
+-  **Target 2024** - n.d.
 
 -  **Target 2025** - Definire e formalizzare le modalità e il piano di
    *audit* e verifiche per la valutazione dei fornitori e delle terze
@@ -239,14 +254,14 @@ Linee di azione istituzionali
 RA7.2.1
 ^^^^^^^
 
--  **Dicembre 2024** - L'Agenzia fornisce le Linee guida per la
+-  **Novembre 2025 \*** - L'Agenzia fornisce le Linee guida per la
    definizione dei requisiti di sicurezza nel processo di
    approvvigionamento IT - (ACN) - CAP7.03
 
 RA7.2.2
 ^^^^^^^
 
--  **Giugno 2025** - L'Agenzia fornisce le Linee guida per la
+-  **Dicembre 2025 \***- L'Agenzia fornisce le Linee guida per la
    realizzazione degli *audit* e delle verifiche di sicurezza sulle
    terze parti - (ACN) - CAP7.04
 
@@ -277,21 +292,25 @@ Obiettivo 7.3 - Gestione e mitigazione del rischio cyber
 RA7.3.1 - Definizione del framework per la gestione del rischio cyber
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  **Target 2024** - Adottare i processi e gli strumenti per le attività
-   di *cyber risk management* e *security by design*
+-  **Target 2024** - n.d.
 
--  **Target 2025** - Promuovere attività di classificazione dati e
-   servizi, identificando Piani e strumenti per garantirne la continuità
-   operativa dei servizi offerti
+-  **Target 2025** - 
 
--  **Target 2026** - n.a.
+   - Adottare i processi e gli strumenti per le attività di *cyber 
+     risk management* e *security by design*
+
+   - Promuovere attività di classificazione dati e servizi, identificando 
+     Piani e strumenti per garantirne la continuità operativa dei servizi 
+     offerti
+
+-  **Target 2026** - n.d.
 
 RA7.3.2 - Definizione delle modalità di monitoraggio del rischio cyber
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  **Target 2024** - n.a.
+-  **Target 2024** - n.d.
 
--  **Target 2025** - n.a.
+-  **Target 2025** - n.d.
 
 -  **Target 2026** - Integrare attività di monitoraggio e mitigazione
    del rischio *cyber* nei normali processi di progettazione e gestione
@@ -303,7 +322,7 @@ Linee di azione istituzionali
 RA7.3.1
 ^^^^^^^
 
--  **Dicembre 2024** - L'Agenzia fornisce le Linee guida per la
+-  **Ottobre 2025 \*** - L'Agenzia fornisce le Linee guida per la
    definizione dei processi di *cyber risk management* e *security by
    design* - (ACN) - CAP7.05
 
@@ -345,21 +364,17 @@ Obiettivo 7.4 - Potenziare le modalità di prevenzione e gestione degli incident
 RA7.4.1 - Definizione del framework documentale relativo alla gestione degli incidenti
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  **Target 2024**
+-  **Target 2024** -  Definire i presidi per la gestione degli eventi di sicurezza
 
-   -  Definire i presidi per la gestione degli eventi di sicurezza
+-  **Target 2024** - Formalizzare i processi e le procedure relative alla gestione 
+   degli incidenti
 
-   -  Formalizzare i processi e le procedure relative alla gestione
-      degli incidenti
-
--  **Target 2025** - n.a.
-
--  **Target 2026** - n.a.
+-  **Target 2026** - n.d.
 
 RA7.4.2 - Definizione delle modalità di verifica e aggiornamento dei piani di risposta agli incidenti
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  **Target 2024** - n.a.
+-  **Target 2024** - n.d.
 
 -  **Target 2025** - Definire le modalità di verifica dei piani di
    risposta e ripristino a seguito di incidenti informatici
@@ -373,7 +388,7 @@ Linee d'azione istituzionali
 RA7.4.1
 ^^^^^^^
 
--  **Dicembre 2024** - L'Agenzia fornisce le Linee guida per la
+-  **Settembre 2025 \***- L'Agenzia fornisce le Linee guida per la
    definizione dei processi e delle procedure per la gestione degli
    incidenti di sicurezza - (ACN) - CAP7.06
 
@@ -407,20 +422,20 @@ Obiettivo 7.5 - Implementare attività strutturate di sensibilizzazione *cyber* 
 RA7.5.1 - Definizione dei piani di formazione in ambito cyber
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  **Target 2024** - Definire processi e procedure per la realizzazione
+-  **Target 2024** - Definiti processi e procedure per la realizzazione
    di attività di sensibilizzazione *cyber*
 
 -  **Target 2025** - Definire piani di formazione diversificati per
    ruoli e posizioni organizzative
 
--  **Target 2026** - n.a.
+-  **Target 2026** - n.d.
 
 RA7.5.2 - Adozione di strumenti atti alla formazione in ambito cyber
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  **Target 2024** - n.a.
+-  **Target 2024** - n.d.
 
--  **Target 2025** - n.a.
+-  **Target 2025** - n.d.
 
 -  **Target 2026** - Acquisire strumenti informatici a supporto dei
    programmi formativi
@@ -452,36 +467,37 @@ Obiettivo 7.6 - Contrastare il rischio cyber attraverso attività di supporto pr
 RA7.6.1 - Distribuzione di Indicatori di Compromissione alle PA
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  **Target 2024** - Ammissione all'accreditamento ed avvio del flusso di
-   distribuzione degli IoC al 30% delle PA richiedenti
+-  **Monitoraggio 2024** - Ammissione all'accreditamento ed avvio del flusso di
+   distribuzione degli IoC del 100% delle PA richiedenti
 
 -  **Target 2025** - Ammissione all'accreditamento ed avvio del flusso di
-   distribuzione degli IoC al 60% delle PA richiedenti
+   distribuzione degli IoC al 60% delle nuove PA richiedenti
 
 -  **Target 2026** - Ammissione all'accreditamento ed avvio del flusso di
-   distribuzione degli IoC al 100% delle PA richiedenti
+   distribuzione degli IoC al 100% delle nuove PA richiedenti e di quelle 
+   eventuali residue del 2025
 
 RA7.6.2 - Fornitura di strumenti funzionali all'esecuzione dei piani di autovalutazione dei sistemi esposti
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  **Target 2024** - Almeno il 20% delle PA fruiscono degli strumenti o
-   servizi per l'autovalutazione messi a disposizione sul Portale del
-   CERT-AGID.
+-  **Monitoraggio 2024** - Almeno il 20% delle PA richiedenti fruiscono 
+   degli strumenti o servizi per l'autovalutazione messi a disposizione 
+   sul Portale del CERT-AgID
 
--  **Target 2025** - Almeno il 60% delle PA fruiscono degli strumenti o
-   servizi per l'autovalutazione messi a disposizione sul Portale del
-   CERT-AGID.
+-  **Target 2025** - Almeno il 60% delle PA richiedenti fruiscono degli 
+   strumenti o servizi per l'autovalutazione messi a disposizione sul 
+   Portale del CERT-AgID
 
--  **Target 2026** - Il 100% delle PA fruiscono degli strumenti o
+-  **Target 2026** - Il 100% delle PA richiedenti fruiscono degli strumenti o
    servizi per l'autovalutazione messi a disposizione sul Portale del
-   CERT-AGID.
+   CERT-AgID.
 
 RA7.6.3 - Supporto formativo e informativo rivolto alle PA e in particolare agli RTD per l'aumento del livello di consapevolezza delle minacce cyber
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  **Target 2024** - Pubblicazione della versione aggiornata del portale
-   CERT-AGID con contenuti informativi relativi alle campagne malevole
-   veicolate verso le PA
+-  **Monitoraggio 2024** - Pubblicazione della versione aggiornata del portale
+   CERT-AgID con nuovi strumenti e informazioni (n.97) relative alle 
+   campagne malevole 
 
 -  **Target 2025** - Erogazione di due corsi di formazione, base ed
    avanzato, sulla sicurezza nella PA
@@ -496,22 +512,27 @@ Linee di azione istituzionali
 RA7.6.2
 ^^^^^^^
 
--  **Dicembre  2024 \*** - Messa a disposizione dei RTD di strumenti e
+-  **Dicembre  2025 \*** - Messa a disposizione dei RTD di strumenti e
    supporto per le autovalutazioni dei sistemi esposti e per
-   l'individuazione, l'analisi e la gestione dei rischi *cyber* - (AGID)
-   - CAP7.09
+   l'individuazione, l'analisi e la gestione dei rischi *cyber* - (AgID)
+   - CAP7.14
+  
+- **Dicembre 2026** - Rilascio e/o aggiornamenti di nuovi di strumenti 
+  a disposizione dei RTD di supporto per le autovalutazioni dei sistemi 
+  esposti e per l'individuazione, l'analisi e la gestione dei rischi 
+  cyber - (AgID) - CAP7.15
 
 RA7.6.3
 ^^^^^^^
 
--  **Marzo 2025** - Erogazione di un corso di formazione base sulla
-   sicurezza nella PA - (AGID) - CAP7.11
+-  **Settembre 2025 \*** - Erogazione di un corso di formazione base sulla
+   sicurezza nella PA - (AgID) - CAP7.11
 
--  **Settembre 2025** - Erogazione di un corso di formazione avanzato
-   sulla sicurezza nella PA - (AGID) - CAP7.12
+-  **Novembre 2025 \*** - Erogazione di un corso di formazione avanzato
+   sulla sicurezza nella PA - (AgID) - CAP7.12
 
 -  **Giugno 2026** - Consegna documentazione di supporto ai RTD per la
-   parte riguardante i temi legati alla *cybersecurity* - (AGID) -
+   parte riguardante i temi legati alla *cybersecurity* - (AgID) -
    CAP7.13
 
 Linee di azione per le PA
@@ -521,15 +542,15 @@ RA7.6.1
 ^^^^^^^
 
 -  **Da dicembre 2024 \*** - Le PA, di cui all'all'art. 2 comma 2 del CAD,
-   dovranno accreditarsi al CERT-AGID ed aderire al flusso di Indicatori di
-   compromissione (Feed IoC) del CERT-AGID per la protezione della propria
+   dovranno accreditarsi al CERT-AgID ed aderire al flusso di Indicatori di
+   compromissione (Feed IoC) del CERT-AgID per la protezione della propria
    Amministrazione da minacce Malware e Phishing - CAP7.PA.20
 
 RA7.6.2
 ^^^^^^^
 
 -  **Da dicembre 2024 \*** - Le PA dovranno usufruire degli strumenti per la
-   gestione dei rischi *cyber* messi a disposizione dal CERT-AGID -
+   gestione dei rischi *cyber* messi a disposizione dal CERT-AgID -
    CAP7.PA.21
 
 RA7.6.3
@@ -537,4 +558,4 @@ RA7.6.3
 
 -  **Dicembre 2025** - Le PA, sulla base delle proprie esigenze,
    partecipano ai corsi di formazione base ed avanzato erogati dal
-   CERT-AGID - CAP7.PA.22
+   CERT-AgID - CAP7.PA.22

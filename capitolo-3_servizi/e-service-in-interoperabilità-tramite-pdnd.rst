@@ -33,8 +33,10 @@ Interface*) REST o SOAP (per retrocompatibilità) cui vengono associati
 degli attributi minimi necessari alla fruizione. Le API esposte vengono
 registrate e popolano il Catalogo pubblico degli *e-service*.
 
-La Piattaforma dovrà evolvere recependo le indicazioni pervenute dalle
-varie amministrazioni e nel triennio a venire dovrà anche:
+Ad aprile 2025 risultavano registrati oltre 8.100 enti alla PDND, con 
+11.700 API rese disponibili. La Piattaforma dovrà evolvere recependo 
+le indicazioni pervenute dalle varie amministrazioni e nel triennio a 
+venire dovrà anche:
 
 1. consentire la condivisione di dati di grandi dimensioni (*bulk*)
    prodotti dalle amministrazioni e l'elaborazione di politiche
@@ -99,10 +101,10 @@ Riferimenti normativi italiani:
 
 -  `Decreto legislativo 30 giugno 2003, n. 196 "Codice in materia di
    protezione dei dati
-   personali" <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196!vig=>`__
+   personali" <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196!vig=>`__;
 
 -  `Decreto legislativo 7 marzo 2005, n. 82 "Codice dell'amministrazione
-   digitale" <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig=>`__
+   digitale" <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig=>`__;
    *(in breve CAD), artt. 12, 15, 50, 50-ter, 73, 75*
 
 -  `Decreto del Presidente della Repubblica 7 settembre 2010, n. 160
@@ -110,41 +112,25 @@ Riferimenti normativi italiani:
    sullo sportello unico per le attività produttive, ai sensi
    dell'articolo 38, comma 3, del decreto-legge 25 giugno 2008, n. 112,
    convertito, con modificazioni, dalla legge 6 agosto 2008, n.
-   133" <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2010-09-07;160!vig=>`__
+   133" <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2010-09-07;160!vig=>`__;
 
 -  `Decreto-legge 14 dicembre 2018, n. 135, convertito con modificazioni
    dalla Legge 11 febbraio 2019, n. 12 "Disposizioni urgenti in materia
    di sostegno e semplificazione per le imprese e per la Pubblica
    Amministrazione", art. 8, comma
-   3 <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-12-14;135!vig=>`__
+   3 <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-12-14;135!vig=>`__;
 
 -  `Decreto-legge 16 luglio 2020, n. 76, convertito con modificazioni
    dalla Legge 11 settembre 2020, n. 120 "Misure urgenti per la
    semplificazione e l'innovazione digitale", art.
-   34 <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-07-16;76>`__
+   34 <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-07-16;76>`__;
 
 -  `Decreto-legge 31 maggio 2021, n. 77, convertito con modificazioni
    dalla Legge 29 luglio 2021, n. 108 "Governance del Piano nazionale di
    ripresa e resilienza e prime misure di rafforzamento delle strutture
    amministrative e di accelerazione e snellimento delle procedure",
    art.
-   39 <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-05-31;77!vig=2021-06-01>`__
-
--  `Linee Guida AGID per transitare al nuovo modello di interoperabilità
-   (2017) <https://www.agid.gov.it/sites/default/files/repository_files/upload_avvisi/linee_guida_passaggio_nuovo_modello_interoperabilita.pdf>`__
-
--  `Linee Guida AGID sull'interoperabilità tecnica delle Pubbliche
-   Amministrazioni
-   (2021) <https://www.agid.gov.it/sites/default/files/repository_files/linee_guida_interoperabilit_tecnica_pa.pdf>`__
-
--  `Linee Guida AGID sull'infrastruttura tecnologica della Piattaforma
-   Digitale Nazionale Dati per l'interoperabilità dei sistemi
-   informativi e delle basi di dati
-   (2021) <https://www.agid.gov.it/sites/default/files/repository_files/lg_infrastruttura_interoperabilita_pdnd.pdf>`__
-
--  `Linee Guida Tecnologie e standard per la sicurezza
-   dell'interoperabilità tramite API dei sistemi
-   informatici <https://www.agid.gov.it/sites/default/files/repository_files/linee_guida_tecnologie_e_standard_sicurezza_interoperabilit_api_sistemi_informatici.pdf>`__
+   39 <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-05-31;77!vig=2021-06-01>`__;
 
 -  `Decreto 12 novembre 2021 del Ministero dello sviluppo economico di
    modifica dell'allegato tecnico del decreto del Presidente della
@@ -153,6 +139,27 @@ Riferimenti normativi italiani:
 
 -  `DECRETO 22 settembre 2022 della Presidenza Del Consiglio Dei
    Ministri <https://www.gazzettaufficiale.it/eli/id/2022/11/22/22A06623/sg>`__
+
+-  `Linee Guida AGID per transitare al nuovo modello di interoperabilità
+   (2017) <https://www.agid.gov.it/sites/default/files/repository_files/upload_avvisi/linee_guida_passaggio_nuovo_modello_interoperabilita.pdf>`__;
+
+-  `Linee Guida AGID sull'interoperabilità tecnica delle Pubbliche
+   Amministrazioni
+   (2021) <https://www.agid.gov.it/sites/default/files/repository_files/linee_guida_interoperabilit_tecnica_pa.pdf>`__;
+
+-  `Linee Guida AGID sull'infrastruttura tecnologica della Piattaforma
+   Digitale Nazionale Dati per l'interoperabilità dei sistemi
+   informativi e delle basi di dati
+   (2021) <https://www.agid.gov.it/sites/default/files/repository_files/lg_infrastruttura_interoperabilita_pdnd.pdf>`__;
+
+-  `Linee Guida Tecnologie e standard per la sicurezza
+   dell'interoperabilità tramite API dei sistemi
+   informatici <https://www.agid.gov.it/sites/default/files/repository_files/linee_guida_tecnologie_e_standard_sicurezza_interoperabilit_api_sistemi_informatici.pdf>`__;
+
+-  `Direttiva concernente “Misure per l'attuazione dell'articolo 50-ter 
+   del decreto legislativo 7 marzo 2005, n. 82” del 28 febbraio 
+   2024 <https://innovazione.gov.it/notizie/articoli/gli-indirizzi-operativi-per-la-piattaforma-digitale-nazionale-dati/>`__;
+
 
 -  *Piano Nazionale di Ripresa e Resilienza:*
 
@@ -178,8 +185,10 @@ Riferimenti normativi italiani:
 3. `European Interoperability Framework -Implementation Strategy
    (2017) <https://eur-lex.europa.eu/legal-content/IT/TXT/?qid=1584086617794&uri=CELEX:52017DC0134>`__
 
-4. `Interoperability solutions for public administrations, businesses
-   and citizens (2017) <https://ec.europa.eu/isa2/eif_en>`__
+4. `Regolamento (UE) 2024/903 del Parlamento europeo e del Consiglio, 
+   del 13 marzo 2024, che stabilisce misure per un livello elevato di 
+   interoperabilità del settore pubblico nell'Unione (regolamento su 
+   un'Europa interoperabile) <https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32024R0903>`__
 
 Obiettivo 3.1 - Migliorare la capacità di erogare *e-service*
 -------------------------------------------------------------
@@ -187,38 +196,37 @@ Obiettivo 3.1 - Migliorare la capacità di erogare *e-service*
 RA3.1.1 - Incremento del numero di "e-service" registrati sul Catalogo Pubblico PDND
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  Target 2024 - 400 API totali registrate sul Catalogo API della
+-  Monitoraggio 2024 - 3.000 API totali registrate sul Catalogo API della
    Piattaforma Digitale Nazionale Dati (Target PNRR, M1C1-18, Q4
    2024)
 
--  Target 2025 - 850 API totali registrate sul Catalogo API della
+-  Target 2025 - 5.000 API totali registrate sul Catalogo API della
    Piattaforma Digitale Nazionale Dati (Target ITA, M1C1-27-ITA-1 -
    T/IT, Q4 2025)
 
--  Target 2026 - 2000 API totali registrate sul Catalogo API della
+-  Target 2026 - 7.000 API totali registrate sul Catalogo API della
    Piattaforma Digitale Nazionale Dati (Target PNRR, M1C1-27, Q2
    2026)
 
 RA3.1.2 - Aumento del numero di Richieste di Fruizione Autorizzate su PDND
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  Target 2024 - 2.000 Richieste di Fruizione Autorizzate su PDND
+-  Monitoraggio 2024 - 11.515 richieste di fruizione autorizzate su PDND
 
--  Target 2025 - 3.500 Richieste di Fruizione Autorizzate su PDND
+-  Target 2025 - 17.000 Richieste di Fruizione Autorizzate su PDND
 
--  Target 2026 - 7.000 A Richieste di Fruizione Autorizzate su PDND
+-  Target 2026 - 23.000 A Richieste di Fruizione Autorizzate su PDND
 
 RA3.1.3 - Ampliamento del numero delle amministrazioni coinvolte nell'evoluzione delle Linee guida sull'interoperabilità tecnica delle Pubbliche Amministrazioni
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  **Target 2024** - Costruzione *baseline* con identificazione del
-   numero delle PA che evidenziano nuove esigenze applicative e
+-  **Monitoraggio 2024** - 3 PA hanno evidenziato nuove esigenze applicative e
    partecipano alla definizione di *pattern* e/o profili di
    interoperabilità
 
--  **Target 2025** - Incremento del 10% rispetto alla *baseline*
+-  **Target 2025** - Incremento del 33% rispetto alla *baseline*
 
--  **Target 2026** - Incremento del 25% rispetto alla *baseline*
+-  **Target 2026** - Incremento del 66% rispetto alla *baseline*
 
 Linee di azione istituzionali
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -226,23 +234,14 @@ Linee di azione istituzionali
 RA3.1.1
 ^^^^^^^
 
--  **Dicembre 2024 \*** - Aggiornamento delle Linee guida PDND per includere
-   funzionalità di gestione di variazione del dato, scambi asincroni,
-   erogazione inversa e intermediari - (AGID, Dipartimento per la
-   Trasformazione Digitale) - CAP3.02
-
--  **Dicembre 2024 \*** - Attivazione della PDND per la gestione dei
-   processi di notifica di variazione del dato - (PagoPA S.p.A,
-   Dipartimento per la Trasformazione Digitale) - CAP3.03
-
--  **Marzo 2025** - Razionalizzazione degli *use case* significativi e
+-  **Dicembre 2025 \*** - Razionalizzazione degli *use case* significativi e
    identificazione degli *e-service* Pattern ricorrenti, con l'obiettivo
    di supportare gli enti nell'individuazione degli *e-service* e dei
    dati più rilevanti da esporre - (Dipartimento per la Trasformazione
    Digitale) - CAP3.04
 
--  **Marzo 2025** - Attivazione della PDND per la gestione delle
-   funzionalità di intermediazione - (PagoPA S.p.A, Dipartimento per la
+-  **Luglio 2025 \*** - Attivazione della PDND per la gestione delle
+   funzionalità di delega - (PagoPA S.p.A, Dipartimento per la
    Trasformazione Digitale) - CAP3.05
 
 RA3.1.2
@@ -255,16 +254,16 @@ RA3.1.2
 RA3.1.3
 ^^^^^^^
 
--  **Maggio 2025** - Aggiornamento delle "Linee guida
-   sull'interoperabilità tecnica delle Pubbliche Amministrazioni"
-   aggiungendo nuovi *pattern* e/o profili ai relativi documenti
-   operativi sulla base delle esigenze espresse dalle PA - (AGID) -
-   CAP3.10
-
 -  **Novembre 2025** - Aggiornamento delle "Linee guida
    sull'interoperabilità tecnica delle Pubbliche Amministrazioni"
    aggiungendo nuovi *pattern* e/o profili ai relativi documenti
-   operativi sulla base delle esigenze espresse dalle PA - (AGID) -
+   operativi sulla base delle eventuali esigenze espresse dalle PA - (AgID) -
+   CAP3.10
+
+-  **Maggio 2026** - Aggiornamento delle "Linee guida
+   sull'interoperabilità tecnica delle Pubbliche Amministrazioni"
+   aggiungendo nuovi *pattern* e/o profili ai relativi documenti
+   operativi sulla base delle esigenze espresse dalle PA - (AgID) -
    CAP3.11
 
 Linee di azione per le PA
@@ -297,7 +296,7 @@ RA3.1.2
 -  **Da gennaio 2024** - Le PA utilizzano le API presenti sul Catalogo -
    CAP3.PA.06
 
--  **Da gennaio 2025** - Le PA effettuano richieste di fruizione di
+-  **Da luglio 2025** - Le PA effettuano richieste di fruizione di
    servizi erogati da privati - CAP3.PA.07
 
 RA3.1.3

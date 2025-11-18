@@ -12,8 +12,8 @@ che esse offrono a cittadini, a imprese e ad altre amministrazioni, in
 continuità con quanto descritto nel capitolo precedente "Servizi".
 
 Nella prima parte di questo capitolo, quindi, si illustrano le piattaforme
-nazionali che erogano servizi a cittadini e imprese o ad altre PA: PagoPA,
-AppIo, Send, Spid e Cie, NoiPA, Fascicolo sanitario elettronico, SUAP/SUE,
+nazionali che erogano servizi a cittadini e imprese o ad altre PA: pagoPA,
+AppIo, Send, SPID e Cie, NoiPA, Fascicolo sanitario elettronico, SUAP/SUE,
 SIOPE+ e IT-Wallet.
 
 L'obiettivo comune a tutte queste piattaforme è migliorare i servizi già erogati
